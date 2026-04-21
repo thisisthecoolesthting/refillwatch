@@ -1,0 +1,43 @@
+---
+// Compact product card for listing pages and "related picks" sections.
+import type { CollectionEntry } from 'astro:content';
+export interface Props {
+  product: CollectionEntry<'products'>;
+}
+const { product } = Astro.props;
+const { data } = product;
+// product.slug is Astro's auto-derived slug from the filename — the schema
+// can't declare a `slug` field because Astro reserves it.
+const url = `/products/${product.slug}`;
+---
+<a
+  href={url}
+  class="group block rounded-3xl border border-cream-200/70 bg-white shadow-soft
+         hover:shadow-soft-lg hover:-translate-y-1
+         transition-all duration-300 ease-out no-underline overflow-hidden"
+>
+  <div class="aspect-square bg-cream-100 flex items-center justify-center overflow-hidden">
+    {data.imageUrl ? (
+      <img
+        src={data.imageUrl}
+        alt={data.title}
+        loading="lazy"
+        class="w-full h-full object-contain p-5 group-hover:scale-[1.04] transition-transform duration-500 ease-out"
+      />
+    ) : (
+      <div class="text-ink-500 text-sm">No image</div>
+    )}
+  </div>
+  <div class="p-5 space-y-2">
+    <h3 class="text-base font-semibold text-ink-900 leading-snug !mt-0 group-hover:text-terracotta-600 transition-colors duration-200">
+      {data.title}
+    </h3>
+    <div class="flex items-center justify-between text-sm text-ink-700">
+      <span>{data.price ? `$${data.price.toFixed(2)}` : '—'}</span>
+      <span>{data.rating ? `★ ${data.rating.toFixed(1)}` : ''}</span>
+    </div>
+    {data.reviewCount && (
+      <div class="text-xs text-ink-500">{data.reviewCount.toLocaleString()} reviews</div>
+    )}
+  </div>
+</a>

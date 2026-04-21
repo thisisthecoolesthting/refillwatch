@@ -1,0 +1,192 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import ProductCard from '@/components/ProductCard.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+
+const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
+const featured = allProducts
+  .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+  .slice(0, 6);
+
+const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
+const featuredPillars = allPillars
+  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
+  .slice(0, 3);
+
+const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
+const recentArticles = allArticles
+  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
+  .slice(0, 3);
+
+const heroImage = "https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&w=2400&q=85";
+---
+
+<BaseLayout
+  title="RefillWatch"
+  description="Consumer-advocacy watchdog for the things you buy on repeat — water, detergent, ink, pet food, subscriptions. We track retailer price hikes hoping you won't notice, and point you to reusable alternatives, bulk refills, and better options before you overpay."
+>
+  <section class="relative pt-6 md:pt-10">
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="relative overflow-hidden rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft">
+        <div class="absolute inset-0">
+          <img
+            src={heroImage}
+            alt=""
+            class="w-full h-full object-cover object-center"
+            loading="eager"
+          />
+        </div>
+        <div
+          class="absolute inset-0 bg-gradient-to-b from-cream-50/75 via-cream-50/90 to-cream-50"
+          aria-hidden="true"
+        ></div>
+
+        <div class="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
+          <p class="text-terracotta-600 font-semibold uppercase tracking-[0.2em] text-xs md:text-sm mb-5">
+            Welcome to your second spring
+          </p>
+          <h1 class="font-display text-5xl md:text-7xl text-ink-900 mb-6 leading-[1.05] tracking-tight">
+            Honest picks for the years no one prepared you for.
+          </h1>
+          <p class="text-lg md:text-xl text-ink-700 max-w-[52ch] mx-auto leading-relaxed">
+            Cooling sheets, supplements, books, exercise gear — researched and reviewed
+            for women in perimenopause, menopause, and beyond. We test before we recommend.
+          </p>
+          <div class="mt-10 flex flex-wrap justify-center gap-3">
+            <a href="/pillars" class="btn-primary no-underline">Read the guides</a>
+            <a href="/products" class="btn-secondary no-underline">See top picks</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-10 md:py-14">
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="bg-white rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-12 md:py-14
+                  grid md:grid-cols-3 gap-10 md:gap-6 text-center">
+        <div class="px-4">
+          <div class="text-terracotta-500 text-3xl md:text-4xl font-display mb-3 leading-none">Honest</div>
+          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
+            No sponsored reviews. We say skip it when we mean it.
+          </p>
+        </div>
+        <div class="px-4 md:border-x border-cream-200/70">
+          <div class="text-sage-500 text-3xl md:text-4xl font-display mb-3 leading-none">Researched</div>
+          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
+            Peer-reviewed sources. Real drug interactions with your meds.
+          </p>
+        </div>
+        <div class="px-4">
+          <div class="text-rose-deep text-3xl md:text-4xl font-display mb-3 leading-none">Specific</div>
+          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
+            Every recommendation tied to a specific problem at a specific price.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {featuredPillars.length > 0 && (
+    <section class="max-w-6xl mx-auto px-6 py-20">
+      <div class="flex items-end justify-between mb-10">
+        <div>
+          <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Start here</p>
+          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">In-depth guides</h2>
+        </div>
+        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides →</a>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
+        {featuredPillars.map((p) => (
+          <a href={`/pillars/${p.slug}`} class="group no-underline block">
+            {p.data.heroImage ? (
+              <div class="rounded-xl overflow-hidden mb-5 bg-cream-200 aspect-[16/10] shadow-sm group-hover:shadow-lg transition-shadow duration-300">
+                <img src={p.data.heroImage} alt={p.data.title} loading="lazy"
+                     class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
+              </div>
+            ) : (
+              <div class="rounded-xl bg-cream-200 aspect-[16/10] mb-5"></div>
+            )}
+            <h3 class="font-display text-xl text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
+              {p.data.title}
+            </h3>
+            <p class="text-sm text-ink-700 mt-3 leading-relaxed">{p.data.excerpt}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {featured.length > 0 && (
+    <section class="py-10 md:py-14">
+      <div class="max-w-6xl mx-auto px-5">
+        <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
+          <div class="flex items-end justify-between mb-10">
+            <div>
+              <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Product reviews</p>
+              <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0">Top picks this month</h2>
+            </div>
+            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews →</a>
+          </div>
+          <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
+            {featured.map((p) => <ProductCard product={p} />)}
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {recentArticles.length > 0 && (
+    <section class="max-w-6xl mx-auto px-6 py-20">
+      <div class="flex items-end justify-between mb-10">
+        <div>
+          <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Articles</p>
+          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">Latest reads</h2>
+        </div>
+        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles →</a>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
+        {recentArticles.map((a) => (
+          <a href={`/articles/${a.slug}`} class="group no-underline block">
+            {a.data.heroImage ? (
+              <div class="rounded-xl overflow-hidden mb-4 bg-cream-200 aspect-[16/10] shadow-sm group-hover:shadow-lg transition-shadow duration-300">
+                <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
+                     class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
+              </div>
+            ) : (
+              <div class="rounded-xl bg-cream-200 aspect-[16/10] mb-4"></div>
+            )}
+            <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
+              {a.data.title}
+            </h3>
+            <p class="text-sm text-ink-700 mt-2 leading-relaxed">{a.data.excerpt}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="py-10 md:py-14">
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-16 md:py-20 text-center">
+        <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-4">About us</p>
+        <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-6 leading-tight !mt-0 max-w-2xl mx-auto">
+          RefillWatch is the Traditional Chinese Medicine term for menopause.
+        </h2>
+        <p class="text-ink-700 text-lg leading-relaxed mb-8 max-w-prose mx-auto">
+          It reframes what you're going through not as an ending, but as a season of renewal.
+          We built this site because we wish we'd had it when we started feeling the shift —
+          somewhere honest, specific, and respectful of your intelligence.
+        </p>
+        <a href="/about" class="inline-flex items-center gap-2 text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors">
+          Read the origin story →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="max-w-3xl mx-auto px-6 py-20">
+    <NewsletterForm variant="hero" />
+  </section>
+</BaseLayout>

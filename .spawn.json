@@ -1,0 +1,48 @@
+{
+  "spec": {
+    "slug": "refillwatch",
+    "brand_name": "RefillWatch",
+    "brand_tagline_short": "When retailers creep prices, we're watching.",
+    "brand_tagline_long": "Consumer-advocacy watchdog for the things you buy on repeat \u2014 water, detergent, ink, pet food, subscriptions. We track retailer price hikes hoping you won't notice, and point you to reusable alternatives, bulk refills, and better options before you overpay.",
+    "domain": "refillwatch.org",
+    "associate_tag": "refillwatch-20",
+    "color_primary_400": "#F87171",
+    "color_primary_500": "#DC2626",
+    "color_primary_600": "#991B1B",
+    "color_accent_400": "#60A5FA",
+    "color_accent_500": "#2563EB",
+    "color_accent_600": "#1E40AF",
+    "color_deep": "#0F172A",
+    "color_neutral_50": "#FAFAF9",
+    "color_neutral_100": "#F5F5F4",
+    "color_neutral_200": "#E7E5E4",
+    "audience_description": "cost-conscious consumers, budget-minded households, and anyone tired of watching routine purchases creep up in price without explanation \u2014 the Costco-spreadsheet crowd, the r/frugal crowd, single parents doing household math, and anyone who noticed their subscriptions quietly doubled over three years",
+    "mission_statement": "We track retailer price hikes on the consumables people buy every month, name the increase specifically, and point readers to alternatives before they overpay. We do not take sponsorships from the retailers or brands we cover. Revenue comes from affiliate commissions on the refillable and reusable alternatives we recommend, and from bank/credit accounts readers open to stop getting gouged by the financial side of the same problem.",
+    "categories": [
+      "water",
+      "cleaning-supplies",
+      "laundry",
+      "personal-care",
+      "pet-supplies",
+      "subscriptions",
+      "printer-ink",
+      "food-staples",
+      "razors-blades",
+      "reusables"
+    ],
+    "keywords": [
+      "retailer price hike",
+      "walmart water price increase",
+      "amazon subscription creep",
+      "reusable alternatives",
+      "bulk refill savings",
+      "stop overpaying consumables",
+      "cheaper than brand name",
+      "subscription doubled in price",
+      "refillable vs disposable",
+      "price tracking consumer goods"
+    ],
+    "theme_pack": ""
+  },
+  "spawn_version": 1
+}

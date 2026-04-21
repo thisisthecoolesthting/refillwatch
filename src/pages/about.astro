@@ -1,0 +1,77 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+---
+
+<BaseLayout
+  title="About"
+  description="What RefillWatch is, why it exists, and how we choose what to recommend."
+>
+  <section class="pt-8 md:pt-14">
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft px-6 md:px-14 py-14 md:py-20 text-center">
+        <p class="text-terracotta-600 text-xs md:text-sm uppercase tracking-[0.22em] font-semibold mb-4">
+          About RefillWatch
+        </p>
+        <h1 class="font-display text-4xl md:text-6xl text-ink-900 leading-[1.05] tracking-tight mb-6 !mt-0">
+          When retailers creep prices, we're watching.
+        </h1>
+        <p class="text-lg md:text-xl text-ink-700 max-w-2xl mx-auto leading-relaxed">
+          Consumer-advocacy watchdog for the things you buy on repeat — water, detergent, ink, pet food, subscriptions. We track retailer price hikes hoping you won't notice, and point you to reusable alternatives, bulk refills, and better options before you overpay.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-10 md:py-14">
+    <div class="max-w-3xl mx-auto px-6">
+      <article class="prose prose-lg prose-ink">
+        <h2>What we do here</h2>
+        <p>We track retailer price hikes on the consumables people buy every month, name the increase specifically, and point readers to alternatives before they overpay. We do not take sponsorships from the retailers or brands we cover. Revenue comes from affiliate commissions on the refillable and reusable alternatives we recommend, and from bank/credit accounts readers open to stop getting gouged by the financial side of the same problem.</p>
+
+        <h2>How we pick</h2>
+        <p>
+          Every product on this site clears four bars before we recommend it:
+          real-world evidence (rating, reviews, longevity), reasonable price
+          for what you get, no concerning safety or quality issues, and at
+          least one of us would buy it for someone we care about. We say no
+          to a lot of things, including paid placements.
+        </p>
+
+        <h2>How we make money</h2>
+        <p>
+          Most of our links are affiliate links — when you buy through them
+          we earn a small commission at no cost to you. That money keeps the
+          site free, keeps us editorially independent, and lets us spend the
+          time it takes to actually research what we recommend.
+          <a href="/disclosure">Read the full disclosure.</a>
+        </p>
+
+        <h2>Who this is for</h2>
+        <p>cost-conscious consumers, budget-minded households, and anyone tired of watching routine purchases creep up in price without explanation — the Costco-spreadsheet crowd, the r/frugal crowd, single parents doing household math, and anyone who noticed their subscriptions quietly doubled over three years</p>
+
+        <h2>What we&rsquo;re not</h2>
+        <p>
+          We&rsquo;re not doctors, lawyers, financial advisors, or licensed
+          practitioners of anything. Nothing here is professional advice. If
+          what we cover intersects with a decision that matters to your
+          health or finances, please talk to someone qualified.
+        </p>
+
+        <h2>Get in touch</h2>
+        <p>
+          Questions, requests, corrections, or product suggestions:
+          <a href="mailto:hello@refillwatch.org">hello@refillwatch.org</a>.
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="py-10 md:py-14">
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft px-6 md:px-12 py-14 md:py-16">
+        <NewsletterForm variant="hero" />
+      </div>
+    </div>
+  </section>
+</BaseLayout>

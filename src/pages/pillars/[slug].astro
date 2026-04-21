@@ -1,0 +1,98 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import FeaturedProductsBlock from '@/components/FeaturedProductsBlock.astro';
+import StickyProductBar from '@/components/StickyProductBar.astro';
+import { getCollection } from 'astro:content';
+import { getRelatedProductsFromBody } from '@/utils/related-products';
+
+export async function getStaticPaths() {
+  const pillars = await getCollection('pillars', ({ data }) => data.status !== 'draft');
+  return pillars.map((p) => ({
+    params: { slug: p.slug },
+    props: { entry: p },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+// Auto-resolve products mentioned via /products/<slug>/ links in the body.
+const relatedProducts = await getRelatedProductsFromBody(entry.body);
+const topProduct = relatedProducts[0];
+
+const publishedISO = new Date(entry.data.publishedAt).toISOString();
+const modifiedISO  = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: entry.data.title,
+  description: entry.data.metaDescription,
+  datePublished: publishedISO,
+  dateModified: modifiedISO ?? publishedISO,
+  author:   { '@type': 'Organization', name: 'Second Spring Club', url: 'https://secondspringclub.com' },
+  publisher:{ '@type': 'Organization', name: 'Second Spring Club', url: 'https://secondspringclub.com' },
+  keywords: entry.data.targetKeyword,
+  image: entry.data.heroImage ? [entry.data.heroImage] : undefined,
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': `https://secondspringclub.com/pillars/${entry.slug}/`,
+  },
+};
+---
+
+<BaseLayout
+  title={entry.data.title}
+  description={entry.data.metaDescription}
+  image={entry.data.heroImage}
+  ogType="article"
+  articlePublishedTime={publishedISO}
+  articleModifiedTime={modifiedISO}
+  articleAuthor="Second Spring Club"
+  articleSection={entry.data.targetKeyword}
+  articleTags={entry.data.tags}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+
+  <article class="container-prose py-12 md:py-16 pb-28 md:pb-20">
+    <header class="mb-8">
+      <h1 class="font-display text-4xl md:text-5xl text-ink-900 mb-3 !mt-0">{entry.data.title}</h1>
+      <p class="text-ink-500 text-sm">
+        Published {new Date(entry.data.publishedAt).toLocaleDateString()}
+        {entry.data.updatedAt && (
+          <> &middot; Updated {new Date(entry.data.updatedAt).toLocaleDateString()}</>
+        )}
+      </p>
+    </header>
+
+    {entry.data.heroImage && (
+      <figure class="mb-10 -mx-4 md:mx-0">
+        <img
+          src={entry.data.heroImage}
+          alt={entry.data.title}
+          loading="eager"
+          class="w-full h-auto rounded-3xl object-cover aspect-[16/9] max-h-[540px] shadow-soft"
+        />
+      </figure>
+    )}
+
+    <div class="prose prose-lg prose-ink max-w-none">
+      <Content />
+    </div>
+
+    {/* Auto-generated affiliate block: every product the pillar linked to, */}
+    {/* each with a direct "Check price on Amazon →" button. */}
+    <FeaturedProductsBlock products={relatedProducts} />
+
+    {/* Inline email capture at end of pillar */}
+    <NewsletterForm
+      variant="inline"
+      title="Get the weekly Second Spring"
+      subtitle="One practical midlife pick and one honest read, once a week. Built for women in perimenopause and beyond."
+    />
+  </article>
+
+  {/* Mobile-only sticky CTA — shows the first product from this pillar. */}
+  {topProduct && <StickyProductBar product={topProduct} />}
+</BaseLayout>
