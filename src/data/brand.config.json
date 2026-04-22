@@ -1,0 +1,45 @@
+{
+  "brand": {
+    "shortName": "RefillWatch",
+    "fullName": "RefillWatch",
+    "taglineShort": "When retailers creep prices, we're watching.",
+    "identity": {
+      "palette": {
+        "primary": "#1E3A8A",
+        "accent": "#DC2626",
+        "cream": "#F8F5EE",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/refillwatch-mark.svg",
+        "svgPublicPath": "/brand/refillwatch-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "CONSUMER PRICING WATCHDOG",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Consumer price watchdog",
+    "h1": "Catch shrinkflation before it drains your wallet",
+    "subhead": "We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.",
+    "ctaPrimaryLabel": "See latest hikes",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we research",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent watchdog · No retailer sponsorships · We name the hike, we name the alternative",
+    "heroImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=2400&q=85"
+  }
+}
