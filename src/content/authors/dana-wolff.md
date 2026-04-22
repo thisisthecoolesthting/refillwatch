@@ -2,7 +2,7 @@
 name: "Dana Wolff"
 role: "Editor, RefillWatch"
 credentials: "A decade covering retail pricing and private-label strategy"
-photoUrl: "/authors/dana-wolff.svg"
+photoUrl: "/authors/dana-wolff.jpg"
 shortBio: "Watches the dollar amounts behind shrinkflation, creeping subscriptions, and private-label price walls. Names the brands. Finds the cheaper alternative."
 joinedAt: 2026-01-01
 location: ""
