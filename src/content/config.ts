@@ -17,6 +17,11 @@ const products = defineCollection({
     title: z.string(),
     seoTitle: z.string().optional().default(''),
     metaDescription: z.string().optional().default(''),
+    // Card-level display (Pinterest-friendly short variants).
+    // cardTitle overrides the long SEO title on listing grids.
+    // cardPick is a one-line "why we picked it" shown under the card title.
+    cardTitle: z.string().optional().default(''),
+    cardPick: z.string().optional().default(''),
     category: z.string(),
     price: z.number().nullable().optional(),
     rating: z.number().nullable().optional(),

@@ -1,14 +1,42 @@
 ---
 // Compact product card for listing pages and "related picks" sections.
+// Uses the card-level display contract: short human title (data.cardTitle or
+// trimmed fallback), one-line "why we picked it" (data.cardPick), consistent
+// square aspect on cream bg, always-show rating + review count when present.
+// Broken image URLs fall back to a neutral placeholder (onerror handler).
+
 import type { CollectionEntry } from 'astro:content';
+
 export interface Props {
   product: CollectionEntry<'products'>;
 }
+
 const { product } = Astro.props;
-const { data } = product;
-// product.slug is Astro's auto-derived slug from the filename — the schema
-// can't declare a `slug` field because Astro reserves it.
+const { data } = product as any;
 const url = `/products/${product.slug}`;
+
+// Prefer hand-curated short title; fall back to first 48 chars of raw title.
+const rawTitle = data.title || '';
+const shortTitle = (data.cardTitle && data.cardTitle.trim())
+  ? data.cardTitle.trim()
+  : (rawTitle.length > 52 ? rawTitle.slice(0, 52).replace(/[,-\s]+$/, '') + '…' : rawTitle);
+
+// One-line "Why we picked it" — optional, hand-curated per product.
+const pickLine = (data.cardPick && data.cardPick.trim()) ? data.cardPick.trim() : '';
+
+// Inline SVG placeholder — shown when imageUrl is missing or fails to load.
+// Neutral cream background, subtle icon — no raw alt text ever renders.
+const FALLBACK_SVG =
+  "data:image/svg+xml;utf8," +
+  encodeURIComponent(
+    `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'>` +
+    `<rect width='120' height='120' fill='#F5EFE6'/>` +
+    `<g fill='none' stroke='#C8B6A0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'>` +
+    `<rect x='28' y='34' width='64' height='52' rx='6'/>` +
+    `<circle cx='46' cy='52' r='5'/>` +
+    `<path d='m34 78 16-16 14 12 10-8 12 14'/>` +
+    `</g></svg>`
+  );
 ---
 <a
   href={url}
@@ -17,27 +45,30 @@ const url = `/products/${product.slug}`;
          transition-all duration-300 ease-out no-underline overflow-hidden"
 >
   <div class="aspect-square bg-cream-100 flex items-center justify-center overflow-hidden">
-    {data.imageUrl ? (
-      <img
-        src={data.imageUrl}
-        alt={data.title}
-        loading="lazy"
-        class="w-full h-full object-contain p-5 group-hover:scale-[1.04] transition-transform duration-500 ease-out"
-      />
-    ) : (
-      <div class="text-ink-500 text-sm">No image</div>
-    )}
+    <img
+      src={data.imageUrl || FALLBACK_SVG}
+      alt=""
+      aria-hidden="true"
+      loading="lazy"
+      onerror={`this.onerror=null;this.src='${FALLBACK_SVG}';this.classList.add('p-8');`}
+      class="w-full h-full object-contain p-5 group-hover:scale-[1.04] transition-transform duration-500 ease-out"
+    />
   </div>
-  <div class="p-5 space-y-2">
+  <div class="p-5 space-y-1.5">
     <h3 class="text-base font-semibold text-ink-900 leading-snug !mt-0 group-hover:text-terracotta-600 transition-colors duration-200">
-      {data.title}
+      {shortTitle}
     </h3>
-    <div class="flex items-center justify-between text-sm text-ink-700">
-      <span>{data.price ? `$${data.price.toFixed(2)}` : '—'}</span>
-      <span>{data.rating ? `★ ${data.rating.toFixed(1)}` : ''}</span>
-    </div>
-    {data.reviewCount && (
-      <div class="text-xs text-ink-500">{data.reviewCount.toLocaleString()} reviews</div>
+    {pickLine && (
+      <p class="text-xs text-ink-500 leading-snug italic">
+        {pickLine}
+      </p>
     )}
+    <div class="flex items-center justify-between text-sm text-ink-700 pt-1">
+      <span class="font-semibold">{data.price ? `$${data.price.toFixed(2)}` : '—'}</span>
+      <span class="text-ink-500">
+        {data.rating ? `★ ${data.rating.toFixed(1)}` : '★ —'}
+        {data.reviewCount ? ` · ${data.reviewCount.toLocaleString()}` : ''}
+      </span>
+    </div>
   </div>
 </a>

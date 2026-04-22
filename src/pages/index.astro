@@ -19,7 +19,7 @@ const recentArticles = allArticles
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
   .slice(0, 3);
 
-const heroImage = "https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&w=2400&q=85";
+const heroImage = "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=2400&q=85";
 ---
 
 <BaseLayout
@@ -44,19 +44,23 @@ const heroImage = "https://images.unsplash.com/photo-1540518614846-7eded433c457?
 
         <div class="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
           <p class="text-terracotta-600 font-semibold uppercase tracking-[0.2em] text-xs md:text-sm mb-5">
-            Welcome to your second spring
+            Consumer pricing watchdog
           </p>
           <h1 class="font-display text-5xl md:text-7xl text-ink-900 mb-6 leading-[1.05] tracking-tight">
-            Honest picks for the years no one prepared you for.
+            When retailers creep prices, we're watching.
           </h1>
-          <p class="text-lg md:text-xl text-ink-700 max-w-[52ch] mx-auto leading-relaxed">
-            Cooling sheets, supplements, books, exercise gear — researched and reviewed
-            for women in perimenopause, menopause, and beyond. We test before we recommend.
+          <p class="text-lg md:text-xl text-ink-700 max-w-[56ch] mx-auto leading-relaxed">
+            Water, detergent, ink, pet food, subscriptions — the things you buy on repeat.
+            We track the retailer price hikes hoping you won't notice and point you to
+            reusable alternatives, bulk refills, and better options before you overpay.
           </p>
           <div class="mt-10 flex flex-wrap justify-center gap-3">
-            <a href="/pillars" class="btn-primary no-underline">Read the guides</a>
-            <a href="/products" class="btn-secondary no-underline">See top picks</a>
+            <a href="/articles" class="btn-primary no-underline">Latest price alerts</a>
+            <a href="/pillars" class="btn-secondary no-underline">Read the guides</a>
           </div>
+          <p class="mt-5 text-xs text-ink-500 uppercase tracking-[0.1em]">
+            Independent watchdog &middot; No retailer sponsorships &middot; We name the hike, we name the alternative
+          </p>
         </div>
       </div>
     </div>
@@ -67,21 +71,21 @@ const heroImage = "https://images.unsplash.com/photo-1540518614846-7eded433c457?
       <div class="bg-white rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-12 md:py-14
                   grid md:grid-cols-3 gap-10 md:gap-6 text-center">
         <div class="px-4">
-          <div class="text-terracotta-500 text-3xl md:text-4xl font-display mb-3 leading-none">Honest</div>
+          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Watchful</div>
           <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            No sponsored reviews. We say skip it when we mean it.
+            We track prices so you don't have to. Named hikes, named retailers, named dates.
           </p>
         </div>
         <div class="px-4 md:border-x border-cream-200/70">
-          <div class="text-sage-500 text-3xl md:text-4xl font-display mb-3 leading-none">Researched</div>
+          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Independent</div>
           <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            Peer-reviewed sources. Real drug interactions with your meds.
+            No sponsorships from the retailers or brands we cover. We answer to readers, not advertisers.
           </p>
         </div>
         <div class="px-4">
-          <div class="text-rose-deep text-3xl md:text-4xl font-display mb-3 leading-none">Specific</div>
+          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Actionable</div>
           <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            Every recommendation tied to a specific problem at a specific price.
+            Every price hike story ends with a cheaper, reusable, or bulk-refill alternative.
           </p>
         </div>
       </div>
@@ -172,15 +176,16 @@ const heroImage = "https://images.unsplash.com/photo-1540518614846-7eded433c457?
       <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-16 md:py-20 text-center">
         <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-4">About us</p>
         <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-6 leading-tight !mt-0 max-w-2xl mx-auto">
-          RefillWatch is the Traditional Chinese Medicine term for menopause.
+          The prices you pay for routine purchases are quietly climbing.
         </h2>
         <p class="text-ink-700 text-lg leading-relaxed mb-8 max-w-prose mx-auto">
-          It reframes what you're going through not as an ending, but as a season of renewal.
-          We built this site because we wish we'd had it when we started feeling the shift —
-          somewhere honest, specific, and respectful of your intelligence.
+          Retailers raise prices on water, detergent, ink, pet food, and subscriptions in ways
+          that rarely make the news. We built RefillWatch because nobody was naming the hikes
+          specifically — and pointing to the cheaper, reusable, or bulk-refill alternative
+          before readers quietly overpaid for another year.
         </p>
         <a href="/about" class="inline-flex items-center gap-2 text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors">
-          Read the origin story →
+          Read our mission →
         </a>
       </div>
     </div>
