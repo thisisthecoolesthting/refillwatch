@@ -1,7 +1,8 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AffiliateCTA from '@/components/AffiliateCTA.astro';
-import { getCollection } from 'astro:content';
+import AuthorByline from '@/components/AuthorByline.astro';
+import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const products = await getCollection('products', ({ data }) => data.status !== 'draft');
@@ -16,14 +17,19 @@ const { product } = Astro.props;
 const { data } = product;
 const { Content } = await product.render();
 
-const seoTitle = data.seoTitle || `${data.title} Review`;
-const seoDesc = data.metaDescription || `Honest review of ${data.title} for perimenopause and menopause.`;
+const authorSlug = (data as any).author ?? 'dana-wolff';
+const author = await getEntry('authors', authorSlug);
 
-// JSON-LD Product schema for rich snippets. Google requires at least one
-// of review, aggregateRating, or offers with valid fields. We provide
-// offers always (when price exists), aggregateRating when Amazon data
-// has it, and our own editorial review nested inside the product so
-// every page qualifies.
+const publishedForByline = (data as any).firstSeen
+  ? new Date((data as any).firstSeen)
+  : new Date();
+const reviewedForByline = (data as any).reviewedAt
+  ? new Date((data as any).reviewedAt)
+  : ((data as any).lastSeen ? new Date((data as any).lastSeen) : undefined);
+
+const seoTitle = data.seoTitle || `${data.title} Review`;
+const seoDesc = data.metaDescription || `RefillWatch review of ${data.title} — pricing history, refill alternatives, and whether it&rsquo;s worth the current price.`;
+
 const firstSeenDate = (data.firstSeen && data.firstSeen.length >= 10)
   ? data.firstSeen.substring(0, 10)
   : new Date().toISOString().substring(0, 10);
@@ -39,7 +45,7 @@ const productSchema: Record<string, any> = {
     '@type': 'Brand',
     name: 'Amazon',
   },
-  url: `https://secondspringclub.com/products/${product.slug}`,
+  url: `https://refillwatch.org/products/${product.slug}`,
 };
 if (data.imageUrl) productSchema.image = [data.imageUrl];
 if (data.price) {
@@ -57,13 +63,22 @@ if (data.price) {
   };
 }
 
-// Nested editorial review — satisfies Google's "review or aggregateRating
-// required" rule for every product page, even those without Amazon rating.
 productSchema.review = {
   '@type': 'Review',
-  author: {
+  author: author ? {
+    '@type': 'Person',
+    '@id': `https://refillwatch.org/authors/${author.slug}/#person`,
+    name: author.data.name,
+    url: `https://refillwatch.org/authors/${author.slug}/`,
+    jobTitle: author.data.role,
+  } : {
     '@type': 'Organization',
-    name: 'Second Spring Club',
+    name: 'RefillWatch',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'RefillWatch',
+    url: 'https://refillwatch.org',
   },
   datePublished: firstSeenDate,
   reviewBody: seoDesc,
@@ -94,15 +109,21 @@ if (data.rating && data.reviewCount) {
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
 
   <article class="container-prose py-12">
-    <header class="mb-8">
+    <header class="mb-6">
       <p class="text-sm text-ink-500 uppercase tracking-wider mb-2">{data.category.replace(/-/g, ' ')}</p>
       <h1 class="font-display text-4xl mb-4 text-ink-900">{data.title}</h1>
       <div class="flex flex-wrap gap-4 text-sm text-ink-700">
         {data.price && <span><strong>${data.price.toFixed(2)}</strong></span>}
-        {data.rating && <span>★ {data.rating.toFixed(1)} {data.reviewCount && `(${data.reviewCount.toLocaleString()})`}</span>}
+        {data.rating && <span>&#9733; {data.rating.toFixed(1)} {data.reviewCount && `(${data.reviewCount.toLocaleString()})`}</span>}
         {data.isPrime && <span class="text-sage-600">Prime eligible</span>}
       </div>
     </header>
+
+    <AuthorByline
+      authorSlug={authorSlug}
+      publishedAt={publishedForByline}
+      reviewedAt={reviewedForByline}
+    />
 
     {data.imageUrl && (
       <figure class="bg-cream-100 rounded-lg p-8 mb-8 flex items-center justify-center">
@@ -120,8 +141,10 @@ if (data.rating && data.reviewCount) {
 
     <hr class="my-10 border-cream-200" />
     <p class="text-xs text-ink-500">
-      Last reviewed: {data.lastSeen ? new Date(data.lastSeen).toLocaleDateString() : '—'}.
+      Reviewed by <a href={`/authors/${authorSlug}/`} class="text-terracotta-600 hover:underline">{author?.data.name ?? 'the RefillWatch team'}</a>.
+      Last checked: {data.lastSeen ? new Date(data.lastSeen).toLocaleDateString() : '&mdash;'}.
       Prices and availability change. We earn a commission on qualifying purchases.
+      <a href="/methodology/" class="text-terracotta-600 hover:underline"> How we research &rarr;</a>
     </p>
   </article>
 </BaseLayout>
