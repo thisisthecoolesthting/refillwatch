@@ -6,6 +6,7 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
 
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
 const featured = allProducts
+  .filter((p) => !p.data.imageFlagged)
   .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
   .slice(0, 6);
 

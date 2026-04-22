@@ -36,6 +36,7 @@ const products = defineCollection({
     firstSeen: z.string().optional().default(''),
     lastSeen: z.string().optional().default(''),
     tags: z.array(z.string()).optional().default([]),
+    imageFlagged: z.boolean().optional().default(false),
   }),
 });
 

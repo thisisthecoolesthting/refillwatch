@@ -3,7 +3,9 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import ProductCard from '@/components/ProductCard.astro';
 import { getCollection } from 'astro:content';
 
-const products = await getCollection('products', ({ data }) => data.status === 'published');
+const products = (await getCollection('products', ({ data }) => data.status === 'published')).filter(
+  (p) => !p.data.imageFlagged
+);
 const sorted = products.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0));
 
 // Group by category for browsing.
