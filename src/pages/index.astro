@@ -3,9 +3,19 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
+import home from '@/data/brand.config.json';
+
+const h = home.homepage;
 
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
-const featured = allProducts
+const completeProducts = allProducts.filter((p) => {
+  const d = p.data;
+  const hasImage = d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:');
+  const hasPrice = typeof d.price === 'number' && d.price > 0;
+  const hasRating = typeof d.rating === 'number' && d.rating > 0;
+  return hasImage && hasPrice && hasRating;
+});
+const featured = completeProducts
   .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
   .slice(0, 6);
 
@@ -19,19 +29,15 @@ const recentArticles = allArticles
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
   .slice(0, 3);
 
-const heroImage = "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=2400&q=85";
 ---
 
-<BaseLayout
-  title="RefillWatch"
-  description="Consumer-advocacy watchdog for the things you buy on repeat — water, detergent, ink, pet food, subscriptions. We track retailer price hikes hoping you won't notice, and point you to reusable alternatives, bulk refills, and better options before you overpay."
->
+<BaseLayout title={home.brand.fullName} description={home.brand.taglineShort}>
   <section class="relative pt-6 md:pt-10">
     <div class="max-w-6xl mx-auto px-5">
       <div class="relative overflow-hidden rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft">
         <div class="absolute inset-0">
           <img
-            src={heroImage}
+            src={h.heroImageUrl}
             alt=""
             class="w-full h-full object-cover object-center"
             loading="eager"
@@ -44,22 +50,20 @@ const heroImage = "https://images.unsplash.com/photo-1578916171728-46686eac8d58?
 
         <div class="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
           <p class="text-terracotta-600 font-semibold uppercase tracking-[0.2em] text-xs md:text-sm mb-5">
-            Consumer pricing watchdog
+            {h.eyebrow}
           </p>
           <h1 class="font-display text-5xl md:text-7xl text-ink-900 mb-6 leading-[1.05] tracking-tight">
-            When retailers creep prices, we're watching.
+            {h.h1}
           </h1>
           <p class="text-lg md:text-xl text-ink-700 max-w-[56ch] mx-auto leading-relaxed">
-            Water, detergent, ink, pet food, subscriptions — the things you buy on repeat.
-            We track the retailer price hikes hoping you won't notice and point you to
-            reusable alternatives, bulk refills, and better options before you overpay.
+            {h.subhead}
           </p>
           <div class="mt-10 flex flex-wrap justify-center gap-3">
-            <a href="/articles" class="btn-primary no-underline">Latest price alerts</a>
-            <a href="/pillars" class="btn-secondary no-underline">Read the guides</a>
+            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">{h.ctaPrimaryLabel}</a>
+            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">{h.ctaSecondaryLabel}</a>
           </div>
           <p class="mt-5 text-xs text-ink-500 uppercase tracking-[0.1em]">
-            Independent watchdog &middot; No retailer sponsorships &middot; We name the hike, we name the alternative
+            {h.trustLine}
           </p>
         </div>
       </div>
@@ -173,20 +177,39 @@ const heroImage = "https://images.unsplash.com/photo-1578916171728-46686eac8d58?
 
   <section class="py-10 md:py-14">
     <div class="max-w-6xl mx-auto px-5">
-      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-16 md:py-20 text-center">
-        <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-4">About us</p>
-        <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-6 leading-tight !mt-0 max-w-2xl mx-auto">
-          The prices you pay for routine purchases are quietly climbing.
-        </h2>
-        <p class="text-ink-700 text-lg leading-relaxed mb-8 max-w-prose mx-auto">
-          Retailers raise prices on water, detergent, ink, pet food, and subscriptions in ways
-          that rarely make the news. We built RefillWatch because nobody was naming the hikes
-          specifically — and pointing to the cheaper, reusable, or bulk-refill alternative
-          before readers quietly overpaid for another year.
-        </p>
-        <a href="/about" class="inline-flex items-center gap-2 text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors">
-          Read our mission →
-        </a>
+      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
+        <div class="grid md:grid-cols-[auto,1fr] gap-8 md:gap-12 items-center max-w-3xl mx-auto">
+          <a href="/authors/dana-wolff/" class="block mx-auto md:mx-0 shrink-0 no-underline">
+            <img
+              src="/authors/dana-wolff.svg"
+              alt="Dana Wolff, editor of RefillWatch"
+              width="180"
+              height="180"
+              loading="lazy"
+              class="w-40 h-40 md:w-44 md:h-44 rounded-full object-cover shadow-soft ring-4 ring-white"
+            />
+          </a>
+          <div class="text-center md:text-left">
+            <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-3">Meet Dana</p>
+            <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-5 leading-tight !mt-0">
+              The prices you pay for routine purchases are quietly climbing.
+            </h2>
+            <p class="text-ink-700 text-lg leading-relaxed mb-6 max-w-prose">
+              Retailers raise prices on water, detergent, ink, pet food, and subscriptions in ways
+              that rarely make the news. Dana Wolff built RefillWatch after a decade on the retail-analyst
+              side &mdash; because nobody was naming the hikes by dollar amount and pointing to the
+              cheaper, reusable, or bulk-refill alternative before readers quietly overpaid for another year.
+            </p>
+            <div class="flex flex-wrap gap-5 text-sm">
+              <a href="/authors/dana-wolff/" class="text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors no-underline">
+                Read Dana&rsquo;s story &rarr;
+              </a>
+              <a href="/methodology/" class="text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors no-underline">
+                How we research &rarr;
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -195,3 +218,4 @@ const heroImage = "https://images.unsplash.com/photo-1578916171728-46686eac8d58?
     <NewsletterForm variant="hero" />
   </section>
 </BaseLayout>
+                                                                                                                                                                                                                                                                                     

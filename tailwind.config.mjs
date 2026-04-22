@@ -1,19 +1,20 @@
+import typography from '@tailwindcss/typography';
+
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
   theme: {
     extend: {
       colors: {
-        // RefillWatch palette: warm earth, terracotta, sage, cream.
         cream: {
-          50:  '#FAFAF9',
-          100: '#F5F5F4',
-          200: '#E7E5E4',
+          50: '#F8F5EE',
+          100: '#F3EFE8',
+          200: '#E7E0D6',
         },
         terracotta: {
           400: '#F87171',
           500: '#DC2626',
-          600: '#991B1B',
+          600: '#B91C1C',
         },
         sage: {
           400: '#60A5FA',
@@ -21,25 +22,22 @@ module.exports = {
           600: '#1E40AF',
         },
         rose: {
-          deep: '#0F172A',
+          deep: '#1E3A8A',
         },
         ink: {
-          900: '#2A2422',
-          700: '#4A4340',
-          500: '#6E6863',
+          900: '#0F172A',
+          700: '#334155',
+          500: '#64748B',
         },
       },
       fontFamily: {
-        // Headlines: serif with personality. Body: clean sans.
-        display: ['"Fraunces"', 'Georgia', 'serif'],
-        sans:    ['"Inter"', 'system-ui', 'sans-serif'],
+        display: ['"Playfair Display"', 'Georgia', 'serif'],
+        sans: ['"Inter"', 'system-ui', 'sans-serif'],
       },
       maxWidth: {
         prose: '68ch',
       },
     },
   },
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
+  plugins: [typography],
 };

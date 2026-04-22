@@ -1,4 +1,6 @@
 ---
+import BrandMark from '@/components/BrandMark.astro';
+
 const navItems = [
   { href: '/', label: 'Home' },
   { href: '/pillars', label: 'Guides' },
@@ -17,7 +19,7 @@ const navItems = [
       {/* Top bar: brand + hamburger (mobile) / inline nav (desktop) */}
       <div class="px-5 sm:px-6 py-3 md:py-4 flex items-center justify-between gap-3">
         <a href="/" class="no-underline flex items-baseline min-w-0 shrink">
-          <span class="font-display text-xl md:text-2xl font-semibold text-rose-deep whitespace-nowrap">RefillWatch</span>
+          <BrandMark />
         </a>
 
         {/* Desktop nav — hidden on mobile */}
