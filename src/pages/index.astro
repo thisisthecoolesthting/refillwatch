@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
@@ -31,7 +31,7 @@ const recentArticles = allArticles
 
 ---
 
-<BaseLayout title={home.brand.fullName} description={home.brand.taglineShort}>
+<CompliantLayout title={home.brand.fullName} description={home.brand.taglineShort}>
   <section class="relative pt-6 md:pt-10">
     <div class="max-w-6xl mx-auto px-5">
       <div class="relative overflow-hidden rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft">
@@ -103,7 +103,7 @@ const recentArticles = allArticles
           <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Start here</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">In-depth guides</h2>
         </div>
-        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides →</a>
+        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides -></a>
       </div>
       <div class="grid md:grid-cols-3 gap-6 md:gap-8">
         {featuredPillars.map((p) => (
@@ -135,7 +135,7 @@ const recentArticles = allArticles
               <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Product reviews</p>
               <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0">Top picks this month</h2>
             </div>
-            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews →</a>
+            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews -></a>
           </div>
           <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
             {featured.map((p) => <ProductCard product={p} />)}
@@ -152,7 +152,7 @@ const recentArticles = allArticles
           <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Articles</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">Latest reads</h2>
         </div>
-        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles →</a>
+        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles -></a>
       </div>
       <div class="grid md:grid-cols-3 gap-6 md:gap-8">
         {recentArticles.map((a) => (
@@ -217,5 +217,5 @@ const recentArticles = allArticles
   <section class="max-w-3xl mx-auto px-6 py-20">
     <NewsletterForm variant="hero" />
   </section>
-</BaseLayout>
+</CompliantLayout>
                                                                                                                                                                                                                                                                                      

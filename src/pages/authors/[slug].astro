@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -40,8 +40,8 @@ const personSchema = {
 };
 ---
 
-<BaseLayout
-  title={`${entry.data.name} — ${entry.data.role}`}
+<CompliantLayout
+  title={`${entry.data.name} -- ${entry.data.role}`}
   description={entry.data.shortBio}
   image={entry.data.photoUrl}
 >
@@ -106,4 +106,4 @@ const personSchema = {
       </section>
     )}
   </article>
-</BaseLayout>
+</CompliantLayout>

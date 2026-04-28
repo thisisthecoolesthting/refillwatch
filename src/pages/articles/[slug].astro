@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import FeaturedProductsBlock from '@/components/FeaturedProductsBlock.astro';
 import StickyProductBar from '@/components/StickyProductBar.astro';
@@ -51,18 +51,17 @@ const articleSchema = {
 };
 ---
 
-<BaseLayout
+<CompliantLayout
   title={entry.data.title}
   description={entry.data.metaDescription}
   image={entry.data.heroImage}
   ogType="article"
+  articleJsonLd={articleSchema}
   articlePublishedTime={publishedISO}
   articleModifiedTime={modifiedISO}
   articleAuthor={author?.data.name ?? 'RefillWatch'}
   articleTags={entry.data.tags}
 >
-  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
-
   <article class="container-prose py-12 md:py-16 pb-28 md:pb-20">
     <header class="mb-6">
       <h1 class="font-display text-3xl md:text-4xl text-ink-900 mb-3 !mt-0">{entry.data.title}</h1>
@@ -99,4 +98,4 @@ const articleSchema = {
   </article>
 
   {topProduct && <StickyProductBar product={topProduct} />}
-</BaseLayout>
+</CompliantLayout>

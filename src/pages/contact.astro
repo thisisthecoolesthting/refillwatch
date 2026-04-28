@@ -1,0 +1,27 @@
+---
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import home from '@/data/spawn-home.json';
+
+const b = home.brand;
+const supportEmail = (home as { supportEmail?: string }).supportEmail || 'hello@example.com';
+---
+
+<CompliantLayout
+  title={`Contact ${b.fullName}`}
+  description={`Contact the editorial team at ${b.fullName}.`}
+>
+  <section class="pt-8 md:pt-14 max-w-3xl mx-auto px-6 pb-16">
+    <h1 class="font-display text-4xl text-ink-900 mb-5 !mt-0">Contact</h1>
+    <p class="text-ink-700 leading-relaxed mb-4">
+      Questions, corrections, or product updates? Email us and we will review it for the next refresh cycle.
+    </p>
+    <p class="text-ink-900 font-medium mb-8">
+      <a class="text-terracotta-600 hover:underline" href={`mailto:${supportEmail}`}>{supportEmail}</a>
+    </p>
+    <p class="text-sm text-ink-600 leading-relaxed">
+      We do not accept paid placement in reviews. For editorial policy details, see
+      {' '}
+      <a class="text-terracotta-600 hover:underline" href="/editorial-standards/">Editorial Standards</a>.
+    </p>
+  </section>
+</CompliantLayout>

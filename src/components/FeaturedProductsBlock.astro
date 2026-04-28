@@ -1,7 +1,7 @@
 ---
 // Rendered at the bottom of articles + pillars. Takes a list of products
 // (resolved via getRelatedProductsFromBody) and shows a rounded card grid,
-// each with a prominent "Check price on Amazon →" affiliate button.
+// each with a prominent "Check price on Amazon ->" affiliate button.
 
 import type { CollectionEntry } from 'astro:content';
 import { amazonAffiliateUrl } from '@/utils/related-products';
@@ -18,7 +18,7 @@ const {
   kicker = 'Featured in this article',
 } = Astro.props;
 
-const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'secondspring-20';
+const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? '__ASSOCIATE_TAG__';
 ---
 
 {products && products.length > 0 && (
@@ -38,7 +38,10 @@ const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'secondspring-20';
 
       <div class="grid gap-4 md:gap-5 md:grid-cols-2">
         {products.map((p) => (
-          <article class="bg-white rounded-2xl border border-cream-200/60 p-4 md:p-5 flex gap-4 items-center shadow-soft hover:shadow-soft-lg transition-shadow duration-300">
+          <article
+            data-content-card
+            class="bg-white rounded-2xl border border-cream-200/60 p-4 md:p-5 flex gap-4 items-center shadow-soft hover:shadow-soft-lg transition-shadow duration-300"
+          >
             <a
               href={`/products/${p.slug}/`}
               class="block shrink-0 w-20 md:w-24 aspect-square rounded-xl overflow-hidden bg-cream-100 no-underline"
@@ -54,7 +57,7 @@ const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'secondspring-20';
                 <div class="w-full h-full bg-cream-200"></div>
               )}
             </a>
-            <div class="flex-1 min-w-0">
+            <div class="flex-1 min-w-0" data-card-content>
               <h3 class="font-display text-base md:text-lg text-ink-900 !mt-0 leading-snug line-clamp-2">
                 <a
                   href={`/products/${p.slug}/`}
@@ -65,7 +68,7 @@ const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'secondspring-20';
               </h3>
               <div class="flex items-center gap-3 text-xs text-ink-500 mt-1.5">
                 {p.data.price && <span class="font-medium">${p.data.price.toFixed(2)}</span>}
-                {p.data.rating && <span>★ {p.data.rating.toFixed(1)}</span>}
+                {p.data.rating && <span>Ã¢Ëœ... {p.data.rating.toFixed(1)}</span>}
               </div>
               <a
                 href={amazonAffiliateUrl(p, associateTag)}
@@ -73,7 +76,7 @@ const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'secondspring-20';
                 target="_blank"
                 class="btn-primary text-xs md:text-sm px-4 py-2 mt-3"
               >
-                Check price on Amazon →
+                Check price on Amazon ->
               </a>
             </div>
           </article>

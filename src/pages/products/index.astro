@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import ProductCard from '@/components/ProductCard.astro';
 import { getCollection } from 'astro:content';
 
@@ -14,7 +14,7 @@ const byCategory = sorted.reduce<Record<string, typeof sorted>>((acc, p) => {
 }, {});
 ---
 
-<BaseLayout
+<CompliantLayout
   title="Product reviews"
   description="Every product we&rsquo;ve reviewed for women in perimenopause, menopause, and beyond."
 >
@@ -35,4 +35,4 @@ const byCategory = sorted.reduce<Record<string, typeof sorted>>((acc, p) => {
       </section>
     ))}
   </section>
-</BaseLayout>
+</CompliantLayout>
