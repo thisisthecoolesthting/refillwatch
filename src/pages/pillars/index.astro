@@ -1,12 +1,12 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 
 const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
 ---
 
-<BaseLayout title="Guides" description="In-depth guides for navigating perimenopause and menopause.">
+<CompliantLayout title="Guides" description="In-depth guides for navigating perimenopause and menopause.">
   <section class="max-w-5xl mx-auto px-5 py-12">
     <h1 class="font-display text-4xl text-ink-900 mb-3">Guides</h1>
     <p class="text-ink-700 mb-10 max-w-prose">
@@ -44,4 +44,4 @@ const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(
       ))}
     </div>
   </section>
-</BaseLayout>
+</CompliantLayout>
