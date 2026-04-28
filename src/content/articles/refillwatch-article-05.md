@@ -10,7 +10,7 @@ excerpt: Printer ink costs more per ounce than champagne. We analyzed 18 months 
   cartridge sizes), plus refillable tank systems and bulk alternatives that can save
   households $200+/year without sacrificing quality.
 pillarSlug: refillwatch-pillar-2
-status: draft
+status: published
 tags:
 - printer ink
 - ink refills

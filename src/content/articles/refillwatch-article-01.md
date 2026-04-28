@@ -10,7 +10,7 @@ excerpt: 'Printer manufacturers perfected the razor-and-blades model: cheap hard
   compare refill systems head-to-head, and show you exactly how to cut costs by 80%
   using third-party alternatives we''ve tested.'
 pillarSlug: refillwatch-pillar-1
-status: draft
+status: published
 tags:
 - printer ink
 - ink refills

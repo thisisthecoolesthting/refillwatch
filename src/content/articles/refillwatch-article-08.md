@@ -9,7 +9,7 @@ excerpt: Printer ink is a $2.1 billion racket built on shrinkflation, chip locks
   and subscription traps. We analyzed 24 cartridges over 18 months, tested refill
   alternatives, and found how households overpay by 27% on average—and how to stop.
 pillarSlug: refillwatch-pillar-2
-status: draft
+status: published
 tags:
 - printer ink
 - ink cartridges

@@ -16,7 +16,7 @@ relatedProducts:
 - B07TEST3456
 - B07TEST7890
 - B07TEST2345
-status: draft
+status: published
 tags:
 - streaming price hike
 - subscription creep

@@ -10,7 +10,7 @@ excerpt: Printer ink costs up to $8,000 per gallon—and HP, Brother, and Canon 
   cartridges, tested yield accuracy across 15 households, and show you how switching
   to refillable systems cuts costs by 80% or more while avoiding DRM lockouts.
 pillarSlug: refillwatch-pillar-3
-status: draft
+status: published
 tags:
 - printer ink
 - ink cartridges

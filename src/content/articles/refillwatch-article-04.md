@@ -9,7 +9,7 @@ excerpt: Printer ink costs up to $8,000 per gallon—we analyzed 18 months of pr
   offenders, and show how refillable systems can cut household ink costs from $300/year
   to $54/year.
 pillarSlug: refillwatch-pillar-1
-status: draft
+status: published
 tags:
 - printer ink
 - price tracking

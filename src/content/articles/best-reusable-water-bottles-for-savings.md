@@ -14,7 +14,7 @@ relatedProducts:
 - B07TEST0004
 - B07TEST0005
 - B07TEST0006
-status: draft
+status: published
 tags:
 - reusable water bottles
 - cost savings

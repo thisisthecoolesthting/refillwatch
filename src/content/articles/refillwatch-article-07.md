@@ -18,7 +18,7 @@ relatedProducts:
 - B0DYNQ1WP7
 - B09W9MF63Y
 - B082Y7X9H5
-status: draft
+status: published
 tags:
 - printer ink
 - ink refills

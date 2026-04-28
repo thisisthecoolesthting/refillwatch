@@ -10,7 +10,7 @@ excerpt: Printer ink costs surged 27% since 2023—and retailers are counting on
   and identified which brands use shrinkflation tactics. Here's how to cut your ink
   costs by 70% and which alternatives actually work.
 pillarSlug: refillwatch-pillar-3
-status: draft
+status: published
 tags:
 - printer ink price hike
 - ink cartridge refill

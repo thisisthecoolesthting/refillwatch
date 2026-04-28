@@ -18,7 +18,7 @@ relatedProducts:
 - B07TEST0006
 - B07TEST0007
 - B07TEST0008
-status: draft
+status: published
 tags:
 - pet food price hike
 - bulk pet food savings
