@@ -17,7 +17,7 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B00063RWT8
-status: draft
+status: published
 tags:
 - laundry detergent
 - price hike

@@ -7,7 +7,7 @@ excerpt: Amazon Prime's cost has quietly doubled since 2018. We analyze the pric
   hikes, compare subscription alternatives, and reveal refill strategies to avoid
   overpaying for services you rarely use.
 pillarSlug: subscription-management
-status: draft
+status: published
 tags:
 - amazon prime
 - subscription creep

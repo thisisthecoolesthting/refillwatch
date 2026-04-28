@@ -8,7 +8,7 @@ excerpt: We analyzed 18 months of Amazon price history on pantry staples to iden
   which items saw the steepest hikes, where generics beat name brands, and how bulk
   buying can offset inflation's bite.
 pillarSlug: price-hike-alerts
-status: draft
+status: published
 tags:
 - grocery inflation
 - bulk buying

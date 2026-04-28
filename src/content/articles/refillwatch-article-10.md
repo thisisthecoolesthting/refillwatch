@@ -9,7 +9,7 @@ excerpt: Printer ink costs more per ounce than champagne. We analyzed pricing da
   are hiking prices, how much they've increased, and which refillable alternatives
   actually work without damaging your printer.
 pillarSlug: refillwatch-pillar-1
-status: draft
+status: published
 tags:
 - printer ink
 - ink refills

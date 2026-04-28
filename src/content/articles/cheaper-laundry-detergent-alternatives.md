@@ -8,7 +8,7 @@ excerpt: Retailers quietly hike laundry detergent prices year after year. Hereâ€
   to cut costs by 60% or more with refillable concentrates, bulk buys, and under-the-radar
   brands that clean just as well.
 pillarSlug: refill-and-reusable-guides
-status: draft
+status: published
 tags:
 - laundry detergent
 - refillable

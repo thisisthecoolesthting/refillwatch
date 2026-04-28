@@ -8,7 +8,7 @@ excerpt: Pet food prices have surged 18% in three years. We analyzed 14 brands t
   find which bulk options actually save money, where retailers are creeping prices,
   and how refill systems can cut costs by 37%.
 pillarSlug: refill-and-reusable-guides
-status: draft
+status: published
 tags:
 - pet food savings
 - bulk pet food

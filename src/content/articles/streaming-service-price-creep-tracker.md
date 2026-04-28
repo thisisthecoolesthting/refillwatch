@@ -14,7 +14,7 @@ relatedProducts:
 - B0GF25F12C
 - B0846GFNCQ
 - B0C7ZTV376
-status: draft
+status: published
 tags:
 - streaming price hike
 - subscription creep

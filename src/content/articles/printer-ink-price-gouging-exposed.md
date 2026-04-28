@@ -8,7 +8,7 @@ excerpt: Printer ink costs more per ounce than champagne. We tracked price hikes
   major brands, calculated true cost per page, and found reusable alternatives that
   can save households $200+/year.
 pillarSlug: price-hike-alerts
-status: draft
+status: published
 tags:
 - printer ink
 - price gouging

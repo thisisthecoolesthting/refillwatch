@@ -8,7 +8,7 @@ excerpt: Store-bought cleaners cost 3-5x more than DIY equivalents. Here's how t
   make effective alternatives for pennies per bottle, plus which reusable systems
   justify their upfront cost.
 pillarSlug: refill-and-reusable-guides
-status: draft
+status: published
 tags:
 - DIY cleaning
 - cost per use

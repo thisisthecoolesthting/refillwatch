@@ -8,7 +8,7 @@ excerpt: Printer manufacturers charge up to $8,000 per gallon for ink by locking
   into proprietary cartridges. We track the worst offenders and show how bulk ink
   systems can save households $327/year.
 pillarSlug: price-hikes-exposed
-status: draft
+status: published
 tags:
 - printer ink
 - price gouging

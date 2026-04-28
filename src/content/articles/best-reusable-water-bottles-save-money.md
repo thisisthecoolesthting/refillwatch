@@ -8,7 +8,7 @@ excerpt: Bottled water costs 2,000% more than tap. We tested 12 reusable bottles
   leaks, dishwasher wear, and price hikes to find which actually save money long-term
   — with breakeven calculations for each style.
 pillarSlug: refill-and-reusable-guides
-status: draft
+status: published
 tags:
 - reusable water bottles
 - bottle price comparison
