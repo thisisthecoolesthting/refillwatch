@@ -15,9 +15,9 @@ export interface Props {
   canonical?: string;
   noindex?: boolean;
   // Open Graph type controls Pinterest Rich Pin detection.
-  //   'website' — home, about, listings (default)
-  //   'article' — pillars, articles; unlocks Article Rich Pins
-  //   'product' — product reviews (Product Rich Pins detected via JSON-LD already)
+  //   'website' -- home, about, listings (default)
+  //   'article' -- pillars, articles; unlocks Article Rich Pins
+  //   'product' -- product reviews (Product Rich Pins detected via JSON-LD already)
   ogType?: 'website' | 'article' | 'product';
   // Required-by-Pinterest when ogType='article'
   articlePublishedTime?: string;    // ISO8601

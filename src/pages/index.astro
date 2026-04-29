@@ -1,4 +1,12 @@
 ---
+// SPINE template homepage — canary deploy of the spine architecture.
+// Pinterest-passable editorial layout with 2:3 hero, 4-pillar grid,
+// 3-product comparison row, 6-card latest articles, dark author trust block,
+// newsletter, methodology disclosure strip. All sections use existing
+// Tailwind palette classes — per-site palette differentiation lives in
+// tailwind.config.mjs. Defensive defaults handle missing data keys
+// (about / categories / defaultAuthorSlug / persona).
+
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
@@ -6,7 +14,21 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
 import home from '@/data/brand.config.json';
 
 const h = home.homepage;
+const b = home.brand;
 
+// ---------- Defensive helpers (refillwatch's brand.config has fewer keys than SSC's) ----------
+const homeX = home as Record<string, any>;
+const dmeta = homeX.defaultMetaDescription || (b as any).taglineShort || '';
+const authorSlug = homeX.defaultAuthorSlug || '_default';
+const siteYmyl = homeX.persona?.ymyl === true;
+const editorPseudonym = homeX.persona?.pseudonymHint || homeX.persona?.name || '';
+const aboutHeadline = homeX.about?.headline || `Why ${b.shortName || b.fullName} exists`;
+const aboutBody = homeX.about?.body
+  || (b as any).taglineShort
+  || `We translate confusing ${(homeX.categories?.[0] || 'category')} chatter into practical, evidence-based notes.`;
+const heroCategories: string[] = Array.isArray(homeX.categories) ? homeX.categories : [];
+
+// ---------- Content collection joins ----------
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
 const completeProducts = allProducts.filter((p) => {
   const d = p.data;
@@ -15,207 +37,366 @@ const completeProducts = allProducts.filter((p) => {
   const hasRating = typeof d.rating === 'number' && d.rating > 0;
   return hasImage && hasPrice && hasRating;
 });
-const featured = completeProducts
+const compareRow = completeProducts
   .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
-  .slice(0, 6);
+  .slice(0, 3);
 
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
-const featuredPillars = allPillars
+const pillarFour = allPillars
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
-  .slice(0, 3);
+  .slice(0, 4);
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
-const recentArticles = allArticles
+const latestSix = allArticles
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
-  .slice(0, 3);
+  .slice(0, 6);
 
+// ---------- Trust line ----------
+const computedTrust = `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products tracked`;
+const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || computedTrust;
+
+// ---------- Pinterest pin variants ----------
+const pinThumbVariants = [
+  'bg-gradient-to-b from-sage-400/40 to-sage-600/55',
+  'bg-gradient-to-b from-cream-200 to-terracotta-400/35',
+  'bg-gradient-to-b from-terracotta-400/35 to-rose-deep/55',
+  'bg-gradient-to-b from-cream-100 to-sage-400/35',
+  'bg-gradient-to-b from-ink-900/95 to-ink-700',
+  'bg-gradient-to-b from-cream-200 to-sage-500/45',
+];
+
+const heroStatCount = completeProducts.length;
+const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracked';
 ---
 
-<CompliantLayout title={home.brand.fullName} description={home.brand.taglineShort}>
-  <section class="relative pt-6 md:pt-10">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="relative overflow-hidden rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft">
-        <div class="absolute inset-0">
-          <img
-            src={h.heroImageUrl}
-            alt=""
-            class="w-full h-full object-cover object-center"
-            loading="eager"
-          />
-        </div>
-        <div
-          class="absolute inset-0 bg-gradient-to-b from-cream-50/75 via-cream-50/90 to-cream-50"
-          aria-hidden="true"
-        ></div>
+<CompliantLayout title={b.fullName} description={dmeta}>
 
-        <div class="relative max-w-4xl mx-auto px-6 py-24 md:py-32 text-center">
-          <p class="text-terracotta-600 font-semibold uppercase tracking-[0.2em] text-xs md:text-sm mb-5">
+  {/* ============ 1. HERO ============ */}
+  <section class="relative pt-10 md:pt-16 pb-20 md:pb-24 overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10
+                                   bg-[radial-gradient(60%_50%_at_92%_18%,rgba(220,38,38,.08),transparent_70%),radial-gradient(45%_40%_at_8%_90%,rgba(37,99,235,.06),transparent_70%)]"></div>
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="grid md:grid-cols-[1.1fr_1fr] gap-10 md:gap-14 items-center">
+        <div>
+          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium">
             {h.eyebrow}
           </p>
-          <h1 class="font-display text-5xl md:text-7xl text-ink-900 mb-6 leading-[1.05] tracking-tight">
+          <h1 class="font-display text-4xl md:text-6xl text-ink-900 mt-3 leading-[1.08] tracking-tight">
             {h.h1}
           </h1>
-          <p class="text-lg md:text-xl text-ink-700 max-w-[56ch] mx-auto leading-relaxed">
+          <p class="text-base md:text-lg text-ink-700 max-w-[32em] mt-5 leading-relaxed">
             {h.subhead}
           </p>
-          <div class="mt-10 flex flex-wrap justify-center gap-3">
-            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">{h.ctaPrimaryLabel}</a>
-            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">{h.ctaSecondaryLabel}</a>
+          <div class="flex flex-wrap gap-3 mt-7">
+            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">
+              {h.ctaPrimaryLabel} <span aria-hidden="true" class="ml-2">→</span>
+            </a>
+            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">
+              {h.ctaSecondaryLabel}
+            </a>
           </div>
-          <p class="mt-5 text-xs text-ink-500 uppercase tracking-[0.1em]">
-            {h.trustLine}
-          </p>
+          <ul class="flex flex-wrap gap-x-6 gap-y-2 mt-8 text-sm text-ink-700">
+            <li class="flex items-center gap-2">
+              <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold">✓</span>
+              {siteYmyl ? 'Clinician-reviewed' : 'Editorially reviewed'}
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold">✓</span>
+              No retailer sponsorships
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold">✓</span>
+              Affiliate disclosed
+            </li>
+          </ul>
+        </div>
+
+        <div class="relative">
+          <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3]">
+            {h.heroImageUrl ? (
+              <img src={h.heroImageUrl} alt="" loading="eager"
+                   class="absolute inset-0 w-full h-full object-cover" />
+            ) : (
+              <div class="absolute inset-0 bg-gradient-to-b from-cream-200 to-terracotta-400/40"></div>
+            )}
+            <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent to-ink-900/45"></div>
+            <span class="absolute top-4 left-4 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.18em] uppercase px-2.5 py-1.5 rounded">
+              {(heroCategories[0] || 'Pricing').toUpperCase()} · TRACKED
+            </span>
+            <span class="absolute bottom-4 left-4 right-4 text-cream-50/95 font-mono text-[10.5px] tracking-[0.1em]">
+              Independent watchdog · updated weekly
+            </span>
+          </div>
+          {heroStatCount > 0 && (
+            <a href="/products" class="no-underline absolute -left-4 -bottom-7 md:-left-8 bg-cream-50 border border-cream-200 rounded-xl shadow-soft px-5 py-4 w-56 hover:shadow-soft-lg transition-shadow">
+              <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">Watchlist</p>
+              <p class="font-display text-2xl text-ink-900 mt-1 leading-none">{heroStatCount} {heroStatLabel}</p>
+              <p class="text-xs text-ink-700 mt-1.5 leading-snug">Real prices · published methodology · history kept</p>
+            </a>
+          )}
         </div>
       </div>
     </div>
   </section>
 
-  <section class="py-10 md:py-14">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="bg-white rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-12 md:py-14
-                  grid md:grid-cols-3 gap-10 md:gap-6 text-center">
-        <div class="px-4">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Watchful</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            We track prices so you don't have to. Named hikes, named retailers, named dates.
-          </p>
-        </div>
-        <div class="px-4 md:border-x border-cream-200/70">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Independent</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            No sponsorships from the retailers or brands we cover. We answer to readers, not advertisers.
-          </p>
-        </div>
-        <div class="px-4">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Actionable</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            Every price hike story ends with a cheaper, reusable, or bulk-refill alternative.
-          </p>
-        </div>
-      </div>
+  {/* ============ 2. TRUST STRIP ============ */}
+  <section class="border-y border-cream-200 bg-cream-50">
+    <div class="max-w-6xl mx-auto px-5 py-6 md:py-7
+                grid md:grid-cols-[auto_1fr_auto] gap-5 md:gap-8 items-center">
+      <p class="font-mono text-[10.5px] tracking-[0.18em] uppercase text-terracotta-600">Editorial standards</p>
+      <p class="font-display italic text-base md:text-lg text-ink-700 leading-snug">
+        “{trustLineDisplay}”
+      </p>
+      <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 whitespace-nowrap no-underline hover:text-terracotta-600">
+        How we work →
+      </a>
     </div>
   </section>
 
-  {featuredPillars.length > 0 && (
-    <section class="max-w-6xl mx-auto px-6 py-20">
-      <div class="flex items-end justify-between mb-10">
+  {/* ============ 3. PILLAR GRID ============ */}
+  {(pillarFour.length > 0 || heroCategories.length > 0) && (
+    <section class="max-w-6xl mx-auto px-5 py-20">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
         <div>
-          <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Start here</p>
-          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">In-depth guides</h2>
+          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Start here</p>
+          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0 max-w-[18ch]">
+            Pillars we track every week.
+          </h2>
         </div>
-        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides -></a>
+        <p class="text-sm text-ink-700 max-w-[28ch]">
+          Each pillar is its own watchlist: explainer → tracked products → cheaper swap.
+          Three clicks to the answer.
+        </p>
       </div>
-      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
-        {featuredPillars.map((p) => (
-          <a href={`/pillars/${p.slug}`} class="group no-underline block">
-            {p.data.heroImage ? (
-              <div class="rounded-xl overflow-hidden mb-5 bg-cream-200 aspect-[16/10] shadow-sm group-hover:shadow-lg transition-shadow duration-300">
-                <img src={p.data.heroImage} alt={p.data.title} loading="lazy"
-                     class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
-              </div>
-            ) : (
-              <div class="rounded-xl bg-cream-200 aspect-[16/10] mb-5"></div>
-            )}
-            <h3 class="font-display text-xl text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
-              {p.data.title}
-            </h3>
-            <p class="text-sm text-ink-700 mt-3 leading-relaxed">{p.data.excerpt}</p>
-          </a>
-        ))}
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {(pillarFour.length >= 4 ? pillarFour : heroCategories.slice(0, 4)).map((entry: any, idx: number) => {
+          const isPillar = !!entry?.slug && !!entry?.data;
+          const tints = [
+            'bg-gradient-to-b from-cream-100 to-cream-50',
+            'bg-gradient-to-b from-sage-400/15 to-cream-50',
+            'bg-gradient-to-b from-terracotta-400/15 to-cream-50',
+            'bg-gradient-to-b from-cream-200 to-cream-50',
+          ];
+          const num = String(idx + 1).padStart(2, '0');
+          const title = isPillar ? entry.data.title : (entry as string).charAt(0).toUpperCase() + (entry as string).slice(1);
+          const excerpt = isPillar ? entry.data.excerpt : `Tracked products and price-history for ${entry}.`;
+          const href = isPillar ? `/pillars/${entry.slug}` : `/articles?cat=${entry}`;
+          const articleCount = isPillar
+            ? allArticles.filter((a) => (a.data.tags || []).some((t: string) => t.toLowerCase() === entry.data.title?.toLowerCase())).length
+            : allArticles.filter((a) => (a.data.tags || []).some((t: string) => t.toLowerCase() === String(entry).toLowerCase())).length;
+          const firstWord = String(entry?.data?.title || entry || '').split(' ')[0];
+          return (
+            <a href={href} class={`group no-underline relative overflow-hidden rounded-xl border border-cream-200 p-6 min-h-[240px] flex flex-col transition-all hover:-translate-y-1 hover:shadow-soft-lg hover:border-terracotta-400 ${tints[idx % tints.length]}`}>
+              <p class="font-display text-sm text-terracotta-600">{num} · {firstWord}</p>
+              <h3 class="font-display text-xl text-ink-900 !mt-2 leading-snug max-w-[14ch]">
+                {title}
+              </h3>
+              <p class="text-sm text-ink-700 mt-2.5 leading-relaxed">
+                {excerpt}
+              </p>
+              <span class="font-mono text-[11px] tracking-[0.1em] uppercase text-ink-900 mt-auto pt-4 group-hover:text-terracotta-600">
+                {articleCount > 0 ? `${articleCount} guides` : 'Explore the watchlist'}
+                <span class="text-terracotta-500"> →</span>
+              </span>
+            </a>
+          );
+        })}
       </div>
     </section>
   )}
 
-  {featured.length > 0 && (
-    <section class="py-10 md:py-14">
-      <div class="max-w-6xl mx-auto px-5">
-        <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
-          <div class="flex items-end justify-between mb-10">
-            <div>
-              <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Product reviews</p>
-              <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0">Top picks this month</h2>
-            </div>
-            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews -></a>
-          </div>
-          <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
-            {featured.map((p) => <ProductCard product={p} />)}
-          </div>
-        </div>
-      </div>
-    </section>
-  )}
-
-  {recentArticles.length > 0 && (
-    <section class="max-w-6xl mx-auto px-6 py-20">
-      <div class="flex items-end justify-between mb-10">
-        <div>
-          <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Articles</p>
-          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">Latest reads</h2>
-        </div>
-        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles -></a>
-      </div>
-      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
-        {recentArticles.map((a) => (
-          <a href={`/articles/${a.slug}`} class="group no-underline block">
-            {a.data.heroImage ? (
-              <div class="rounded-xl overflow-hidden mb-4 bg-cream-200 aspect-[16/10] shadow-sm group-hover:shadow-lg transition-shadow duration-300">
-                <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
-                     class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
-              </div>
-            ) : (
-              <div class="rounded-xl bg-cream-200 aspect-[16/10] mb-4"></div>
-            )}
-            <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
-              {a.data.title}
-            </h3>
-            <p class="text-sm text-ink-700 mt-2 leading-relaxed">{a.data.excerpt}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-  )}
-
-  <section class="py-10 md:py-14">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
-        <div class="grid md:grid-cols-[auto,1fr] gap-8 md:gap-12 items-center max-w-3xl mx-auto">
-          <a href="/authors/dana-wolff/" class="block mx-auto md:mx-0 shrink-0 no-underline">
-            <img
-              src="/authors/dana-wolff.svg"
-              alt="Dana Wolff, editor of RefillWatch"
-              width="180"
-              height="180"
-              loading="lazy"
-              class="w-40 h-40 md:w-44 md:h-44 rounded-full object-cover shadow-soft ring-4 ring-white"
-            />
-          </a>
-          <div class="text-center md:text-left">
-            <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-3">Meet Dana</p>
-            <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-5 leading-tight !mt-0">
-              The prices you pay for routine purchases are quietly climbing.
+  {/* ============ 4. COMPARISON ROW ============ */}
+  {compareRow.length >= 1 && (
+    <section class="bg-gradient-to-b from-cream-50 to-cream-100 border-y border-cream-200">
+      <div class="max-w-6xl mx-auto px-5 py-20">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
+          <div>
+            <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Tracked this week</p>
+            <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[24ch]">
+              Three products, three price tiers, one verdict.
             </h2>
-            <p class="text-ink-700 text-lg leading-relaxed mb-6 max-w-prose">
-              Retailers raise prices on water, detergent, ink, pet food, and subscriptions in ways
-              that rarely make the news. Dana Wolff built RefillWatch after a decade on the retail-analyst
-              side &mdash; because nobody was naming the hikes by dollar amount and pointing to the
-              cheaper, reusable, or bulk-refill alternative before readers quietly overpaid for another year.
-            </p>
-            <div class="flex flex-wrap gap-5 text-sm">
-              <a href="/authors/dana-wolff/" class="text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors no-underline">
-                Read Dana&rsquo;s story &rarr;
-              </a>
-              <a href="/methodology/" class="text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors no-underline">
-                How we research &rarr;
-              </a>
-            </div>
           </div>
+          <p class="text-sm text-ink-700 max-w-[34ch]">
+            We watch the price history. Below: the cheapest defensible answer, the smart-buy
+            middle, and the splurge at each price point.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+          {compareRow.map((p, i) => (
+            <div class="relative">
+              {i === 1 && (
+                <span class="absolute z-10 top-3 left-3 bg-terracotta-500 text-white font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">
+                  Editors' Choice
+                </span>
+              )}
+              {i === 0 && (
+                <span class="absolute z-10 top-3 left-3 bg-ink-900 text-cream-50 font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">
+                  Budget pick
+                </span>
+              )}
+              {i === 2 && (
+                <span class="absolute z-10 top-3 left-3 bg-sage-600 text-cream-50 font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">
+                  Premium
+                </span>
+              )}
+              <ProductCard product={p} />
+            </div>
+          ))}
+        </div>
+
+        <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-3 mt-8 pt-6 border-t border-dashed border-cream-200">
+          <p class="text-sm text-ink-700 max-w-[60ch]">
+            <strong class="text-ink-900">How we research:</strong> price-history checks via Keepa,
+            cross-retailer verification weekly, raw data on the methodology page.
+          </p>
+          <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
+            See the rig →
+          </a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {/* ============ 5. LATEST STRIP ============ */}
+  {latestSix.length > 0 && (
+    <section class="max-w-6xl mx-auto px-5 py-20">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
+        <div>
+          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Latest from the desk</p>
+          <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[20ch]">
+            Six things we published recently.
+          </h2>
+        </div>
+        <a href="/articles" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
+          All articles →
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {latestSix.map((a, i) => (
+          <a href={`/articles/${a.slug}`} class="group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all">
+            <div class={`relative aspect-[2/3] overflow-hidden ${a.data.heroImage ? '' : pinThumbVariants[i % pinThumbVariants.length]}`}>
+              {a.data.heroImage ? (
+                <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
+                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
+              ) : (
+                <div class={`absolute inset-0 p-6 flex flex-col justify-between ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
+                  <span class={`font-mono text-[10.5px] tracking-[0.16em] uppercase ${i === 4 ? 'text-terracotta-400' : 'text-terracotta-600'}`}>
+                    {(a.data.tags?.[0] || 'Article')} · {a.data.readingTime || '8'} min read
+                  </span>
+                  <h3 class={`font-display text-2xl leading-[1.08] max-w-[12ch] !mt-0 ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
+                    {a.data.title}
+                  </h3>
+                </div>
+              )}
+            </div>
+            <div class="p-5 flex flex-col gap-2.5">
+              <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">
+                {a.data.tags?.[0] || 'Editorial'}
+              </p>
+              <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
+                {a.data.title}
+              </h3>
+              <div class="flex items-center gap-2.5 mt-auto pt-3 border-t border-cream-200 text-xs text-ink-500">
+                <span class="inline-grid place-items-center w-6 h-6 rounded-full bg-sage-500 text-cream-50 font-display font-semibold text-[11px]">
+                  {(editorPseudonym?.[0] || b.fullName?.[0] || 'E').toUpperCase()}
+                </span>
+                <span>{editorPseudonym || 'Editorial'} · {new Date(a.data.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {/* ============ 6. AUTHOR TRUST BLOCK ============ */}
+  <section class="relative bg-ink-900 text-cream-50 py-24 overflow-hidden">
+    <div aria-hidden="true" class="absolute inset-0 pointer-events-none
+                                    bg-[radial-gradient(50%_60%_at_18%_50%,rgba(220,38,38,.18),transparent_70%)]"></div>
+    <div class="relative max-w-6xl mx-auto px-5 grid md:grid-cols-[280px_1fr] gap-10 md:gap-14 items-start">
+      <a href={`/authors/${authorSlug}/`} class="block no-underline">
+        <div class="aspect-[4/5] rounded-2xl overflow-hidden bg-gradient-to-br from-terracotta-400 to-terracotta-600 shadow-soft-lg relative">
+          <img
+            src={`/authors/${authorSlug}.svg`}
+            onerror="this.style.display='none'"
+            alt={editorPseudonym || b.fullName}
+            loading="lazy"
+            class="absolute inset-0 w-full h-full object-cover"
+          />
+          <div class="absolute inset-0 grid place-items-center">
+            <span class="font-display font-semibold text-7xl text-cream-50/85">
+              {(editorPseudonym?.[0] || b.fullName?.[0] || 'E').toUpperCase()}
+            </span>
+          </div>
+          <span class="absolute bottom-3.5 right-3.5 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.12em] uppercase px-2.5 py-1 rounded">
+            Editor-in-chief
+          </span>
+        </div>
+      </a>
+      <div>
+        <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-400 font-medium">About the desk</p>
+        <h2 class="font-display text-3xl md:text-4xl !mt-3 leading-tight text-cream-50">
+          {aboutHeadline}
+        </h2>
+        <p class="text-cream-50/80 text-base md:text-lg leading-relaxed mt-5 max-w-[56ch]">
+          {aboutBody}
+        </p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-5 md:gap-7 mt-8 pt-8 border-t border-cream-50/15">
+          <div>
+            <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">Articles published</p>
+            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{allArticles.length}</p>
+            <p class="text-sm text-cream-50/65 mt-1.5">All bylined, dated, reviewed quarterly.</p>
+          </div>
+          <div>
+            <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">Products tracked</p>
+            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{completeProducts.length}</p>
+            <p class="text-sm text-cream-50/65 mt-1.5">Independent watchlist — every price logged.</p>
+          </div>
+          <div>
+            <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">In-depth guides</p>
+            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{allPillars.length}</p>
+            <p class="text-sm text-cream-50/65 mt-1.5">Pillar topics, updated as the field changes.</p>
+          </div>
+        </div>
+
+        <div class="flex flex-wrap gap-3 mt-9">
+          <a href="/methodology/" class="btn-primary no-underline">
+            Read our methodology <span aria-hidden="true" class="ml-2">→</span>
+          </a>
+          <a href={`/authors/${authorSlug}/`} class="inline-flex items-center justify-center rounded-full px-7 py-3 font-semibold text-base border border-cream-50/40 text-cream-50 transition-all hover:bg-cream-50 hover:text-ink-900 no-underline">
+            More about the editor
+          </a>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="max-w-3xl mx-auto px-6 py-20">
+  {/* ============ 7. NEWSLETTER ============ */}
+  <section class="max-w-3xl mx-auto px-5 py-20">
     <NewsletterForm variant="hero" />
   </section>
+
+  {/* ============ 8. METHODOLOGY DISCLOSURE STRIP ============ */}
+  <section class="bg-sage-400/15 border-y border-cream-200 py-12">
+    <div class="max-w-6xl mx-auto px-5
+                grid md:grid-cols-[auto_1fr_auto] gap-6 md:gap-9 items-center">
+      <div class="grid place-items-center w-16 h-16 rounded-full bg-sage-500 text-cream-50 font-display text-2xl font-semibold">§</div>
+      <div>
+        <h3 class="font-display text-xl md:text-2xl text-ink-900 !mt-0 mb-1">
+          Standards, disclosures, and how we make money.
+        </h3>
+        <p class="text-sm md:text-[15px] text-ink-700 max-w-[60ch]">
+          Affiliate-link disclosure, research protocol, conflict-of-interest policy, and our
+          correction log. All on one page. Read before you trust the rest.
+        </p>
+      </div>
+      <a href="/methodology/" class="btn-primary no-underline whitespace-nowrap">
+        Read standards <span aria-hidden="true" class="ml-2">→</span>
+      </a>
+    </div>
+  </section>
+
 </CompliantLayout>
-                                                                                                                                                                                                                                                                                     
