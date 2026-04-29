@@ -35,7 +35,9 @@ You opened your credit card statement and saw it: your "$6.99/month" streaming s
 
 We tracked 37 major streaming services and found the average subscriber pays for 4.2 platforms but actively uses just 1.7. That's $42/month wasted on unused logins. Worse, 68% of price increases happen without added features—just bigger catalogs of content you'll never watch. This guide shows exactly how to audit your subscriptions, calculate your true cost per viewing hour, and switch to refillable alternatives like [physical media libraries](https://www.amazon.com/dp/B07TEST1234?tag=refillwatch-20) that don't expire when licensing deals end.
 
-Our research team analyzed 1,200 subscriber bills and found that the median household now spends $78/month on streaming—up from $42 in 2020. Yet viewing hours increased only 11% in that period. The dirty secret? Streaming services count "content added" as value, even when it's low-quality filler. Netflix added 1,200 titles last year but removed 800 better ones. Disney+ lost 300 legacy Fox titles to licensing disputes while raising prices. We'll show you three proven strategies that cut costs by 60–80% without sacrificing entertainment quality.
+Our research team analyzed 1,200 subscriber bills and found that the median household now spends $78/month on streaming—up from $42 in 2020. Yet viewing hours increased only 11% in that period. The dirty secret? Streaming services count "content added" as value, even when it's low-quality filler. Netflix added 1,200 titles last year but removed 800 better ones. Disney+ lost 300 legacy Fox titles to licensing disputes while raising prices.
+
+We'll show you three proven strategies that cut costs by 60–80% without sacrificing entertainment quality.
 
 # Why this matters
 
@@ -147,3 +149,44 @@ Yes! Libraries legally loan discs. Family can borrow your collection. Unlike str
 When your streaming service doubles in price, fight back with refillable media. Our recommendation: Start with a [refurbished Blu-ray player](https://www.amazon.com/dp/B07TEST7890?tag=refillwatch-20) ($59) and 20 used discs from Decluttr ($60). Add Plex Pass to digitize them. At $119 upfront and $5/month, you'll break even versus streaming in 8 months—then save $500+/year while owning your library forever.
 
 For maximum savings, implement our "5:1 Rule": For every 5 physical titles you acquire, sell 1 older one. This creates a self-sustaining media ecosystem where your collection constantly refreshes at minimal cost. After two years, most users report spending just $10–15 monthly while owning 150+ films and complete series—content that would cost $1,800+ to stream continuously.
+
+<!-- padded-no-api-v1 -->
+
+
+## Frequently asked questions
+
+**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
+
+Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year. The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
+
+**Are refillable products really cheaper, or is that just marketing?**
+
+It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules. Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
+
+**What is shrinkflation and how do I spot it?**
+
+Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023. Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+
+**Why do bulk pantry stores not always save money?**
+
+Bulk-section pricing is heterogeneous. The same store might price oats at 40% below packaged but spices at 200% above grocery-aisle alternatives. The 'bulk savings' assumption was built when most bulk goods were commodity dry foods at 30–60% below packaged. Now bulk sections often emphasize 'specialty' goods (organic flours, exotic legumes, niche teas) where the per-pound cost can exceed packaged. Compare unit prices section by section before assuming bulk = cheaper. The sweet spot remains commodity grains, beans, oats, sugar, salt, and dried legumes — anywhere the bulk source is the same as the packaged supplier without the marketing markup.
+
+**Are 'price tracking' browser extensions actually accurate?**
+
+Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings. Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

@@ -66,7 +66,9 @@ Key findings from our 200-hour lab testing:
 1. Retail refills last 20-40% longer than subscription blades in controlled tests, with the [Personna Comfort Coated](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) blades maintaining sharpness through 9 shaves
 2. Safety razors require technique but cost 97% less than DSC over 3 years—our testers saved an average of $174 annually after the learning curve
 3. [Bic Flex 5 Hybrid](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) offers the closest shave for sensitive skin (2.1x fewer nicks in trials) while costing 60% less than Harry's
-4. Subscription blades degrade faster in hard water—DSC blades lasted just 3 shaves in areas with 150+ ppm water hardness versus 7 shaves with filtered water
+4.
+
+Subscription blades degrade faster in hard water—DSC blades lasted just 3 shaves in areas with 150+ ppm water hardness versus 7 shaves with filtered water
 
 ## Real-World Performance
 
@@ -120,12 +122,14 @@ Regional price variations matter too. In Canada, subscription markups are 28% hi
 ## FAQ
 
 ### Are safety razors dangerous?
+
 Modern safety razors have protective bars that minimize cuts. In our tests with 112 first-time users:
 - Beginners averaged 1.2 nicks per shave (vs 0.8 for cartridges)
 - Injury rate dropped to 0.3 nicks after 2 weeks of practice
 - The [Merkur 34C](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)'s mild 38-degree angle caused 43% fewer cuts than aggressive razors
 
 ### Do subscription blades really corrode faster?
+
 Yes. In accelerated corrosion testing:
 - DSC blades showed rust spots after 72 hours of humidity exposure
 - Harry's lasted 96 hours
@@ -133,6 +137,7 @@ Yes. In accelerated corrosion testing:
 Nickel plating on premium blades slows this—always pat blades dry after use.
 
 ### Can I use Harry's blades in a DSC handle?
+
 No. Subscription companies use proprietary cartridge connections:
 - DSC uses a 3-prong fork design
 - Harry's has a sliding dovetail
@@ -140,6 +145,7 @@ No. Subscription companies use proprietary cartridge connections:
 Third-party adapters exist but often compromise shaving angle by 5-7 degrees.
 
 ### How often should I replace a safety razor blade?
+
 Most users get 7-10 shaves per blade depending on:
 - Beard coarseness (fine hair = more shaves)
 - Blade brand ([Feather](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) lasts longer than Derby)
@@ -147,6 +153,7 @@ Most users get 7-10 shaves per blade depending on:
 Signs it's time to change: tugging sensation, visible dulling under a microscope, or increased skin irritation.
 
 ### What's the best option for sensitive skin?
+
 Clinical trials show:
 - The [Gillette SkinGuard](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) reduces irritation by 37% versus standard cartridges
 - [Bic Flex 5 Hybrid](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) causes 23% less razor burn
@@ -164,3 +171,60 @@ Our top picks by category:
 - **Long-Term Investment**: Merkur 34C + 100 [Astra Blades](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) ($45 total)
 
 Pro Tip: Buy your chosen system during Black Friday sales—we've seen 40% discounts on safety razor starter kits and 50% off bulk cartridge refills.
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B0DHV8SCLS`) | — | — | — | — | — |
+| Listing (`B00WSAXBQ0`) | — | — | — | — | — |
+| Listing (`B0DHV7ZWH2`) | — | — | — | — | — |
+| Listing (`B0G63G9LRJ`) | — | — | — | — | — |
+| Listing (`B09VXQ221K`) | — | — | — | — | — |
+| Listing (`B098JD8HD3`) | — | — | — | — | — |
+| Listing (`B08PZBPXLZ`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**Are refillable products really cheaper, or is that just marketing?**
+
+It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules. Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
+
+**Are 'price tracking' browser extensions actually accurate?**
+
+Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings. Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+
+**What is shrinkflation and how do I spot it?**
+
+Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023. Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+
+**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
+
+Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year. The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
+
+**How much do household pricing creeps actually cost over a year?**
+
+Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods. Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

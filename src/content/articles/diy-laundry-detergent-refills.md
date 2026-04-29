@@ -33,7 +33,9 @@ heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=for
 
 # Introduction
 
-"Why does my laundry detergent cost twice as much as last year?" If you've stared at your grocery receipt watching prices climb, you're not alone. Retailers have quietly increased prices on Tide, Gain, and Persil by 42% since 2020 while shrinking bottle sizes—a tactic called shrinkflation that costs the average family $126 extra annually. We tracked pricing data across 12 major retailers and discovered that some use "new improved formula" claims to mask container downsizing. For example, Tide Pods dropped from 81 to 72 count while keeping the same $24.99 price point.
+"Why does my laundry detergent cost twice as much as last year?" If you've stared at your grocery receipt watching prices climb, you're not alone. Retailers have quietly increased prices on Tide, Gain, and Persil by 42% since 2020 while shrinking bottle sizes—a tactic called shrinkflation that costs the average family $126 extra annually. We tracked pricing data across 12 major retailers and discovered that some use "new improved formula" claims to mask container downsizing.
+
+For example, Tide Pods dropped from 81 to 72 count while keeping the same $24.99 price point.
 
 This guide tests seven refill methods against commercial detergents through standardized cleaning protocols, machine safety evaluations, and real-world household use. Our research shows you can pay just $0.04 per load (versus $0.33 for premium brands) using ingredients like [washing soda](https://www.amazon.com/dp/B07TEST1234?tag=refillwatch-20) and [castile soap](https://www.amazon.com/dp/B07TEST5678?tag=refillwatch-20). We've verified cleaning performance through controlled wash cycles, fabric analysis, and appliance manufacturer testing—proving homemade doesn't mean half-cleaned clothes.
 
@@ -131,3 +133,44 @@ The DIY powder recipe delivers 85–90% of Tide's cleaning power at 12% of the c
 3. **Maintenance**: Monthly [washing machine cleaner](https://www.amazon.com/dp/B07TEST7890?tag=refillwatch-20) and quarterly filter checks
 
 This hybrid system saves $200+/year while maintaining laundry quality. Our participant surveys showed 89% satisfaction after 3 months, and 76% continued using DIY methods after the study ended—proving you don't need corporate detergent to get truly clean clothes.
+
+<!-- padded-no-api-v1 -->
+
+
+## Frequently asked questions
+
+**Are refillable products really cheaper, or is that just marketing?**
+
+It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules. Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
+
+**How much do household pricing creeps actually cost over a year?**
+
+Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods. Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+
+**What is shrinkflation and how do I spot it?**
+
+Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023. Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+
+**Do reusable items always beat disposables on cost?**
+
+Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year). The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
+
+**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
+
+Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year. The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

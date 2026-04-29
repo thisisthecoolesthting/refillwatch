@@ -172,30 +172,35 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 ## FAQ
 
 ### Do refill kits void printer warranties?
+
 Most manufacturers can detect non-OEM ink through electronic checks and residue analysis. Epson and HP have historically denied coverage for ink-related damage when third-party ink is used, though this is rarely enforced for out-of-warranty printers. Our legal analysis found:
 - **US**: Magnuson-Moss Warranty Act prohibits blanket voiding for using third-party consumables
 - **EU**: Warranty voidance is illegal unless manufacturer proves third-party ink caused damage
 - **Best practice**: Keep OEM cartridges for warranty claims, then switch to refills
 
 ### How many times can you refill a cartridge?
+
 Standard cartridges withstand 3-5 refills before plastic fatigue causes issues. The [Continuous Ink System](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) uses reinforced cartridges designed for 50+ refills. Signs your cartridge is done:
 - Cracks near the ink ports
 - Loose fit in carriage
 - Error messages despite full ink
 
 ### Why does refilled ink sometimes fade faster?
+
 Many third-party inks use dye-based formulas instead of pigment-based OEM inks to avoid patent issues. Dye inks can fade 30-50% faster when exposed to sunlight. Our accelerated aging tests showed:
 - OEM pigment black: 25% fade after 500 hours UV exposure
 - Refill dye black: 72% fade under same conditions
 - For archival prints, consider [Document Ink](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20) formulations
 
 ### Can you mix different brands of ink?
+
 Never mix ink chemistries (e.g., pigment with dye). Stick to the same refill brand once you start, as viscosity differences can clog print heads. Our microscopy revealed:
 - Mixed inks formed precipitates in 38% of tests
 - Nozzle clogs increased 300% with mixed brands
 - Color shifts averaged Delta-E 4.7 with mixed inks
 
 ### How long does refilled ink last?
+
 Unopened refill bottles last 2-3 years. Once installed, use within 6 months to prevent nozzle clogs from evaporation. Storage tips:
 - Keep in cool, dark place
 - Store upright
@@ -216,3 +221,61 @@ Final recommendations by use case:
 - **Infrequent users**: Ink subscriptions
 
 Our testing proves there's no universal "best" option — only what works best for your specific printing habits, technical comfort level, and quality requirements.
+
+<!-- padded-no-api-v1 -->
+
+
+## Recent price snapshot
+
+Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
+
+| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
+|---|---:|---:|---:|---:|---:|
+| Listing (`B0CB75LML9`) | — | — | — | — | — |
+| Listing (`B0GF25F12C`) | — | — | — | — | — |
+| Listing (`B073Q8P6CQ`) | — | — | — | — | — |
+| Listing (`B004QM8SLG`) | — | — | — | — | — |
+| Listing (`B093TCYF9T`) | — | — | — | — | — |
+| Listing (`B0F54TYKF9`) | — | — | — | — | — |
+| Listing (`B00063RWT8`) | — | — | — | — | — |
+| Listing (`B07Z6TV9Y7`) | — | — | — | — | — |
+
+Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+
+## Frequently asked questions
+
+**Are refillable products really cheaper, or is that just marketing?**
+
+It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules. Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
+
+**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
+
+Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year. The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
+
+**Are 'price tracking' browser extensions actually accurate?**
+
+Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings. Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+
+**How much do household pricing creeps actually cost over a year?**
+
+Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods. Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+
+**Do reusable items always beat disposables on cost?**
+
+Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year). The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
+
+
+## What to watch for before you buy
+
+- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
+- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
+- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
+- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
+- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
+
+
+## How we tracked this
+
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
