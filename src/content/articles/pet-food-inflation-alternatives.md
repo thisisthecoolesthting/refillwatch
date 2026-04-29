@@ -1,8 +1,12 @@
 ---
 title: 'Pet Food Inflation: Affordable & Healthy Alternatives'
-metaDescription: We tracked pet food price hikes and found budget-friendly alternatives that don't sacrifice nutrition. See which brands increased costs the most and how to save.
+metaDescription: We tracked pet food price hikes and found budget-friendly alternatives
+  that don't sacrifice nutrition. See which brands increased costs the most and how
+  to save.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Dog food prices jumped 18% in 2025 while cat food saw 22% increases. We analyze 14 brands' pricing trends and recommend affordable, high-quality alternatives with bulk buying strategies.
+excerpt: Dog food prices jumped 18% in 2025 while cat food saw 22% increases. We analyze
+  14 brands' pricing trends and recommend affordable, high-quality alternatives with
+  bulk buying strategies.
 pillarSlug: price-hikes-exposed
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B0C7ZTV376
 - B0F54TYKF9
 - B0CGW2TFSV
-heroImage: /images/hero/pet-food-inflation-alternatives.jpg---
+heroImage: /images/hero/pet-food-inflation-alternatives.jpg
+---
 
 ## Introduction
 

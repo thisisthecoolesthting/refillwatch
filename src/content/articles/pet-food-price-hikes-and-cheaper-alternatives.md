@@ -1,8 +1,11 @@
 ---
 title: 'Pet Food Price Hikes: Finding Affordable and Healthy Alternatives'
-metaDescription: Tracking recent pet food price increases at major retailers and uncovering budget-friendly alternatives without compromising your pet's nutrition.
+metaDescription: Tracking recent pet food price increases at major retailers and uncovering
+  budget-friendly alternatives without compromising your pet's nutrition.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Pet food prices have surged up to 30% at major retailers. We analyze the hikes, compare popular brands, and reveal cost-effective alternatives that keep tails wagging without breaking the bank.
+excerpt: Pet food prices have surged up to 30% at major retailers. We analyze the
+  hikes, compare popular brands, and reveal cost-effective alternatives that keep
+  tails wagging without breaking the bank.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -21,7 +24,8 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-heroImage: /images/hero/pet-food-price-hikes-and-cheaper-alternatives.jpg---
+heroImage: /images/hero/pet-food-price-hikes-and-cheaper-alternatives.jpg
+---
 
 ## Introduction
 

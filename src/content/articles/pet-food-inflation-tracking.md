@@ -1,8 +1,13 @@
 ---
 title: 'Pet Food Price Hikes: Track the Increases, Find Cheaper Alternatives'
-metaDescription: Pet food prices jumped 18% in one year. We tracked which brands raised prices most, why quality dropped simultaneously, and how to save $230+ annually without cutting corners.
+metaDescription: Pet food prices jumped 18% in one year. We tracked which brands raised
+  prices most, why quality dropped simultaneously, and how to save $230+ annually
+  without cutting corners.
 publishedAt: '2026-04-28'
-excerpt: Pet food prices are rising faster than general inflation—and most brands are quietly shrinking portions at the same time. We tracked price hikes across 12 retailers, identified which brands hiked hardest, and found tested alternatives that save real money.
+excerpt: Pet food prices are rising faster than general inflation—and most brands
+  are quietly shrinking portions at the same time. We tracked price hikes across 12
+  retailers, identified which brands hiked hardest, and found tested alternatives
+  that save real money.
 pillarSlug: price-hike-alerts
 relatedProducts:
 - B07TEST0001
@@ -25,7 +30,9 @@ tags:
 - price tracking pet goods
 heroImage: /images/hero/pet-food-inflation-tracking.jpg
 cardTitle: 'Stop Overpaying for Filtered Water: Budget-Friendly Pitcher Alternative'
-cardPick: Large capacity pitcher eliminates recurring bottled water costs while filtering at home for pennies per gallon versus store prices.---
+cardPick: Large capacity pitcher eliminates recurring bottled water costs while filtering
+  at home for pennies per gallon versus store prices.
+---
 
 # Introduction
 

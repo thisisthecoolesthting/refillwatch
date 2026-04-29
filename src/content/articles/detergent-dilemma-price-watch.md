@@ -1,8 +1,12 @@
 ---
 title: 'Laundry Detergent: Tracking the Price Creep on Your Clean Clothes'
-metaDescription: We tracked 18 months of laundry detergent price hikes at major retailers — here's which brands quietly increased costs, plus refillable alternatives to stop overpaying.
+metaDescription: We tracked 18 months of laundry detergent price hikes at major retailers
+  — here's which brands quietly increased costs, plus refillable alternatives to stop
+  overpaying.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Retailers have raised laundry detergent prices 12-27% since 2025 while shrinking bottle sizes. We analyze the worst offenders, calculate true cost per load, and recommend refill systems that cut costs by 40%.
+excerpt: Retailers have raised laundry detergent prices 12-27% since 2025 while shrinking
+  bottle sizes. We analyze the worst offenders, calculate true cost per load, and
+  recommend refill systems that cut costs by 40%.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/detergent-dilemma-price-watch.jpg---
+heroImage: /images/hero/detergent-dilemma-price-watch.jpg
+---
 
 ## Introduction
 

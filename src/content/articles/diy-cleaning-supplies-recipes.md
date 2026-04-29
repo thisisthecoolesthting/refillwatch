@@ -1,8 +1,12 @@
 ---
 title: 'DIY Cleaning Supplies: Save Money & Reduce Waste'
-metaDescription: Stop overpaying for brand-name cleaners. We compare DIY recipes to commercial products, calculate exact savings, and reveal which staples outperform store-bought solutions.
+metaDescription: Stop overpaying for brand-name cleaners. We compare DIY recipes to
+  commercial products, calculate exact savings, and reveal which staples outperform
+  store-bought solutions.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Commercial cleaning products have seen 18-34% price hikes since 2020. Our tests prove homemade alternatives using vinegar, baking soda, and castile soap deliver equal cleaning power at 90% lower cost per use.
+excerpt: Commercial cleaning products have seen 18-34% price hikes since 2020. Our
+  tests prove homemade alternatives using vinegar, baking soda, and castile soap deliver
+  equal cleaning power at 90% lower cost per use.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -20,7 +24,8 @@ relatedProducts:
 - B0GF25F12C
 - B0F54TYKF9
 - B0CGW2TFSV
-heroImage: /images/hero/diy-cleaning-supplies-recipes.jpg---
+heroImage: /images/hero/diy-cleaning-supplies-recipes.jpg
+---
 
 ## Introduction
 

@@ -1,8 +1,11 @@
 ---
 title: The Best Reusable Water Bottles for Long-Term Savings
-metaDescription: We compared 15 reusable water bottles on durability, cost per use, and real-world performance to find which actually save money over disposable bottles.
+metaDescription: We compared 15 reusable water bottles on durability, cost per use,
+  and real-world performance to find which actually save money over disposable bottles.
 publishedAt: '2026-04-28T10:00:00Z'
-excerpt: Disposable water bottles cost 300% more than reusable options over three years. We analyzed 15 models to find which stainless steel and glass bottles withstand daily use while saving you the most.
+excerpt: Disposable water bottles cost 300% more than reusable options over three
+  years. We analyzed 15 models to find which stainless steel and glass bottles withstand
+  daily use while saving you the most.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -23,7 +26,8 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: /images/hero/reusable-water-bottles-best-value.jpg---
+heroImage: /images/hero/reusable-water-bottles-best-value.jpg
+---
 
 ## Introduction
 

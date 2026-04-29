@@ -1,8 +1,12 @@
 ---
 title: Are Eco-Friendly Laundry Refills Worth the Switch?
-metaDescription: We compare eco-friendly laundry refills against traditional detergents in cost, performance, and environmental impact to help you decide if switching makes sense for your household.
+metaDescription: We compare eco-friendly laundry refills against traditional detergents
+  in cost, performance, and environmental impact to help you decide if switching makes
+  sense for your household.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Breaking down the real costs and performance of eco-friendly laundry refills versus traditional detergents—with price tracking data and longevity tests to show if these sustainable alternatives actually save you money.
+excerpt: Breaking down the real costs and performance of eco-friendly laundry refills
+  versus traditional detergents—with price tracking data and longevity tests to show
+  if these sustainable alternatives actually save you money.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -22,7 +26,8 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: /images/hero/eco-friendly-laundry-refills-worth-it.jpg---
+heroImage: /images/hero/eco-friendly-laundry-refills-worth-it.jpg
+---
 
 ## Introduction
 

@@ -1,8 +1,12 @@
 ---
 title: 'Ditch Disposables: The Best Reusable Water Bottles for Long-Term Savings'
-metaDescription: We compare 12 reusable water bottles on durability, cost per use, and real-world performance to show how switching from disposable plastic saves $1,200+ over 5 years.
+metaDescription: We compare 12 reusable water bottles on durability, cost per use,
+  and real-world performance to show how switching from disposable plastic saves $1,200+
+  over 5 years.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Disposable water bottles cost 300x more than tap water. We tested 12 reusable options to find which actually last, calculating exact breakeven points and hidden costs most reviews ignore.
+excerpt: Disposable water bottles cost 300x more than tap water. We tested 12 reusable
+  options to find which actually last, calculating exact breakeven points and hidden
+  costs most reviews ignore.
 pillarSlug: refill-and-reusable-guides
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/reusable-water-bottles-savings.jpg---
+heroImage: /images/hero/reusable-water-bottles-savings.jpg
+---
 
 ## Introduction
 

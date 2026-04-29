@@ -1,8 +1,12 @@
 ---
 title: 'Don''t Get Gouged: A Guide to Canceling Unwanted Subscriptions'
-metaDescription: Stop paying for subscriptions you don't use. We track price hikes and show you how to cancel services that no longer provide value, with real cost comparisons and alternatives.
+metaDescription: Stop paying for subscriptions you don't use. We track price hikes
+  and show you how to cancel services that no longer provide value, with real cost
+  comparisons and alternatives.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Learn how to identify and cancel subscriptions that are draining your budget. We compare popular services, calculate true costs, and recommend practical alternatives to save you money.
+excerpt: Learn how to identify and cancel subscriptions that are draining your budget.
+  We compare popular services, calculate true costs, and recommend practical alternatives
+  to save you money.
 pillarSlug: subscription-savings
 relatedProducts:
 - B004QM8SLG
@@ -23,7 +27,8 @@ tags:
 - subscription audit
 - cost savings
 - financial wellness
-heroImage: /images/hero/cancel-unwanted-subscriptions-guide.jpg---
+heroImage: /images/hero/cancel-unwanted-subscriptions-guide.jpg
+---
 
 # Introduction
 

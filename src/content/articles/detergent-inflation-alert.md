@@ -1,8 +1,10 @@
 ---
 title: 'Laundry Detergent Prices Up 8–15%: Track the Hike, Switch to Refills'
-metaDescription: Tide, Gain, and Persil prices jumped 8–15% in a year. We track the increases and show you cheaper refillable alternatives.
+metaDescription: Tide, Gain, and Persil prices jumped 8–15% in a year. We track the
+  increases and show you cheaper refillable alternatives.
 publishedAt: '2026-04-21T00:00:00Z'
-excerpt: Major detergent brands hiked prices 8–15% in the past year. We've mapped the increases and found refillable alternatives that cost half as much per load.
+excerpt: Major detergent brands hiked prices 8–15% in the past year. We've mapped
+  the increases and found refillable alternatives that cost half as much per load.
 pillarSlug: price-hike-alerts
 relatedProducts:
 - B0G1R37VJC
@@ -16,7 +18,8 @@ tags:
 - price hike
 - consumer goods
 - refillable
-heroImage: /images/hero/detergent-inflation-alert.jpg---
+heroImage: /images/hero/detergent-inflation-alert.jpg
+---
 
 Laundry detergent prices are climbing, and retailers are counting on you not to notice. Our tracking shows:
 

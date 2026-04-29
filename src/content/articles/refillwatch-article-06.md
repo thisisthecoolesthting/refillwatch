@@ -1,8 +1,14 @@
 ---
-title: 'Printer Ink Price Hikes Exposed: How Retailers Gouge You and Which Refill Systems Actually Save Money'
-metaDescription: We tracked printer ink prices across 18 months and 37 models to expose retailer markups, calculate your true cost per page, and recommend refill systems that save households $200+/year without voiding warranties.
+title: 'Printer Ink Price Hikes Exposed: How Retailers Gouge You and Which Refill
+  Systems Actually Save Money'
+metaDescription: We tracked printer ink prices across 18 months and 37 models to expose
+  retailer markups, calculate your true cost per page, and recommend refill systems
+  that save households $200+/year without voiding warranties.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Printer ink costs surged 27% since 2023—and retailers are counting on you not to notice. We analyzed 18 months of pricing data, tested six refill systems, and identified which brands use shrinkflation tactics. Here's how to cut your ink costs by 70% and which alternatives actually work.
+excerpt: Printer ink costs surged 27% since 2023—and retailers are counting on you
+  not to notice. We analyzed 18 months of pricing data, tested six refill systems,
+  and identified which brands use shrinkflation tactics. Here's how to cut your ink
+  costs by 70% and which alternatives actually work.
 pillarSlug: refillwatch-pillar-3
 status: published
 tags:
@@ -23,7 +29,9 @@ relatedProducts:
 - B0DYNQ1WP7
 heroImage: /images/hero/refillwatch-article-06.jpg
 cardTitle: 'Stop Overpaying for Printer Ink: Real Savings Breakdown'
-cardPick: Refill systems slash ink costs by 70% versus cartridge replacement, delivering legitimate savings for budget-conscious households.---
+cardPick: Refill systems slash ink costs by 70% versus cartridge replacement, delivering
+  legitimate savings for budget-conscious households.
+---
 
 # Introduction
 

@@ -1,8 +1,13 @@
 ---
-title: 'Printer Ink Prices Skyrocket: We Tracked 18 Months of Hikes and Found the Refill Alternatives That Actually Work'
-metaDescription: Printer ink costs more per gallon than champagne. We tracked 18 months of price hikes across 24 cartridges, decoded shrinkflation tactics, and tested refill systems that cut costs by 60–70%.
+title: 'Printer Ink Prices Skyrocket: We Tracked 18 Months of Hikes and Found the
+  Refill Alternatives That Actually Work'
+metaDescription: Printer ink costs more per gallon than champagne. We tracked 18 months
+  of price hikes across 24 cartridges, decoded shrinkflation tactics, and tested refill
+  systems that cut costs by 60–70%.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer ink is a $2.1 billion racket built on shrinkflation, chip locks, and subscription traps. We analyzed 24 cartridges over 18 months, tested refill alternatives, and found how households overpay by 27% on average—and how to stop.
+excerpt: Printer ink is a $2.1 billion racket built on shrinkflation, chip locks,
+  and subscription traps. We analyzed 24 cartridges over 18 months, tested refill
+  alternatives, and found how households overpay by 27% on average—and how to stop.
 pillarSlug: refillwatch-pillar-2
 status: published
 tags:
@@ -23,7 +28,9 @@ relatedProducts:
 - B0DYNQ1WP7
 heroImage: /images/hero/refillwatch-article-08.jpg
 cardTitle: Printer Ink Costs Up 40%? Here's What Actually Saves Money
-cardPick: Third-party refill solutions cut ink expenses by half without sacrificing print quality or voiding warranties.---
+cardPick: Third-party refill solutions cut ink expenses by half without sacrificing
+  print quality or voiding warranties.
+---
 
 ## Introduction
 

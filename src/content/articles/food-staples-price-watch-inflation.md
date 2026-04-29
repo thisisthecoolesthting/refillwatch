@@ -1,8 +1,12 @@
 ---
 title: 'Food Staples Price Watch: Navigating Inflation at the Grocery Store'
-metaDescription: Tracking how food staples like rice, beans, and cooking oils have increased in price—and where to find bulk alternatives before your grocery bill creeps up another 10%.
+metaDescription: Tracking how food staples like rice, beans, and cooking oils have
+  increased in price—and where to find bulk alternatives before your grocery bill
+  creeps up another 10%.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: We analyzed 18 months of Amazon price history on pantry staples to identify which items saw the steepest hikes, where generics beat name brands, and how bulk buying can offset inflation's bite.
+excerpt: We analyzed 18 months of Amazon price history on pantry staples to identify
+  which items saw the steepest hikes, where generics beat name brands, and how bulk
+  buying can offset inflation's bite.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -20,7 +24,8 @@ relatedProducts:
 - B0F4X2YBP1
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: /images/hero/food-staples-price-watch-inflation.jpg---
+heroImage: /images/hero/food-staples-price-watch-inflation.jpg
+---
 
 ## Introduction
 

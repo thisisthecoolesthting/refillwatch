@@ -1,8 +1,12 @@
 ---
 title: 'Detergent Price Creep: How to Fight Back Against Rising Costs'
-metaDescription: Laundry detergent prices are rising faster than inflation. We compare 12 brands, calculate true cost per load, and reveal refillable alternatives that can save households $200+/year.
+metaDescription: Laundry detergent prices are rising faster than inflation. We compare
+  12 brands, calculate true cost per load, and reveal refillable alternatives that
+  can save households $200+/year.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Major detergent brands have increased prices 18-34% since 2022 while shrinking package sizes. Learn which formulas deliver real cleaning power without the markup, plus bulk refill options that cut costs by 60%.
+excerpt: Major detergent brands have increased prices 18-34% since 2022 while shrinking
+  package sizes. Learn which formulas deliver real cleaning power without the markup,
+  plus bulk refill options that cut costs by 60%.
 pillarSlug: price-hikes-exposed
 relatedProducts:
 - B004QM8SLG
@@ -22,7 +26,8 @@ tags:
 - consumer advocacy
 - bulk buying
 - household savings
-heroImage: /images/hero/detergent-price-creep-how-to-fight-back.jpg---
+heroImage: /images/hero/detergent-price-creep-how-to-fight-back.jpg
+---
 
 # Introduction
 

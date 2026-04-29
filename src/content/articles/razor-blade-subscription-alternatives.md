@@ -1,8 +1,12 @@
 ---
 title: 'Beyond the Blade: Cheaper Alternatives to Razor Subscriptions'
-metaDescription: Stop overpaying for razor subscriptions. We compare costs, durability, and refill options for Dollar Shave Club, Harry's, and reusable alternatives to save you money.
+metaDescription: Stop overpaying for razor subscriptions. We compare costs, durability,
+  and refill options for Dollar Shave Club, Harry's, and reusable alternatives to
+  save you money.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Razor subscription services have quietly doubled prices in recent years. We analyze 12 alternatives—from bulk refills to safety razors—with cost-per-shave math and durability tests to help you cut expenses without cutting quality.
+excerpt: Razor subscription services have quietly doubled prices in recent years.
+  We analyze 12 alternatives—from bulk refills to safety razors—with cost-per-shave
+  math and durability tests to help you cut expenses without cutting quality.
 pillarSlug: subscription-savings
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/razor-blade-subscription-alternatives.jpg---
+heroImage: /images/hero/razor-blade-subscription-alternatives.jpg
+---
 
 ## Introduction
 

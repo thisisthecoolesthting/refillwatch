@@ -1,8 +1,11 @@
 ---
 title: 'Streaming Subscription Hikes: How to Avoid Overpaying'
-metaDescription: Learn how to track and avoid creeping price hikes on streaming services, with side-by-side comparisons of top platforms and practical cost-cutting alternatives.
+metaDescription: Learn how to track and avoid creeping price hikes on streaming services,
+  with side-by-side comparisons of top platforms and practical cost-cutting alternatives.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Streaming services keep raising prices hoping you won't notice. We analyze 12 months of price data across major platforms, reveal the worst offenders, and show how to lock in better rates with refill strategies and alternative services.
+excerpt: Streaming services keep raising prices hoping you won't notice. We analyze
+  12 months of price data across major platforms, reveal the worst offenders, and
+  show how to lock in better rates with refill strategies and alternative services.
 pillarSlug: subscription-savings
 relatedProducts:
 - B004QM8SLG
@@ -20,7 +23,8 @@ tags:
 - entertainment budget
 - streaming deals
 - price tracking
-heroImage: /images/hero/streaming-subscription-hikes-avoid.jpg---
+heroImage: /images/hero/streaming-subscription-hikes-avoid.jpg
+---
 
 ## Introduction
 

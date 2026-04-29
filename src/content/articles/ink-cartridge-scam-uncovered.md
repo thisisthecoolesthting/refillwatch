@@ -1,8 +1,12 @@
 ---
 title: 'The Ink Cartridge Scam: Why Your Printer Ink Costs So Much'
-metaDescription: We analyzed 18 months of ink cartridge pricing data to expose how printer manufacturers exploit you — and how to cut your ink costs by 80% with refillable alternatives.
+metaDescription: We analyzed 18 months of ink cartridge pricing data to expose how
+  printer manufacturers exploit you — and how to cut your ink costs by 80% with refillable
+  alternatives.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer manufacturers charge up to $8,000 per gallon for ink by locking you into proprietary cartridges. We track the worst offenders and show how bulk ink systems can save households $327/year.
+excerpt: Printer manufacturers charge up to $8,000 per gallon for ink by locking you
+  into proprietary cartridges. We track the worst offenders and show how bulk ink
+  systems can save households $327/year.
 pillarSlug: price-hikes-exposed
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B0848Q34F8
 - B099NZC4PB
 - B0C7ZTV376
-heroImage: /images/hero/ink-cartridge-scam-uncovered.jpg---
+heroImage: /images/hero/ink-cartridge-scam-uncovered.jpg
+---
 
 ## Introduction
 

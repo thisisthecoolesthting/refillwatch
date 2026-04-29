@@ -1,8 +1,13 @@
 ---
 title: 'DIY Laundry Detergent Refills: How to Save 88% vs. Tide (Lab-Tested)'
-metaDescription: We tested 7 DIY detergent recipes against Tide in 1,248 controlled wash cycles. The winning powder formula costs $0.04/load vs. $0.33 for name brands, with 92% stain removal and verified machine safety.
+metaDescription: We tested 7 DIY detergent recipes against Tide in 1,248 controlled
+  wash cycles. The winning powder formula costs $0.04/load vs. $0.33 for name brands,
+  with 92% stain removal and verified machine safety.
 publishedAt: '2026-04-28'
-excerpt: Commercial laundry detergent prices jumped 42% since 2020. We lab-tested DIY refill recipes against Tide, measured stain removal and fabric safety, and calculated exact household savings. The best DIY powder costs 88% less and cleans nearly as well.
+excerpt: Commercial laundry detergent prices jumped 42% since 2020. We lab-tested
+  DIY refill recipes against Tide, measured stain removal and fabric safety, and calculated
+  exact household savings. The best DIY powder costs 88% less and cleans nearly as
+  well.
 pillarSlug: refill-reuse-save
 relatedProducts:
 - B07TEST1234
@@ -23,7 +28,8 @@ tags:
 - washing soda powder
 - laundry savings calculator
 - shrinkflation detergent
-heroImage: /images/hero/diy-laundry-detergent-refills.jpg---
+heroImage: /images/hero/diy-laundry-detergent-refills.jpg
+---
 
 # Introduction
 

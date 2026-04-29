@@ -1,8 +1,13 @@
 ---
-title: 'Printer Ink Price Hikes Exposed: OEM vs. Refill vs. Third-Party Cartridges—What We Found'
-metaDescription: We tracked 12 months of printer ink prices across 18 cartridges to expose price hikes, refill options, and hidden costs. Find out which brands hike prices most aggressively.
+title: 'Printer Ink Price Hikes Exposed: OEM vs. Refill vs. Third-Party Cartridges—What
+  We Found'
+metaDescription: We tracked 12 months of printer ink prices across 18 cartridges to
+  expose price hikes, refill options, and hidden costs. Find out which brands hike
+  prices most aggressively.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Printer ink costs up to $8,000 per gallon. We tracked 12 months of price fluctuations across 18 cartridges from six retailers to find which brands hike prices most aggressively and which refill systems actually deliver savings.
+excerpt: Printer ink costs up to $8,000 per gallon. We tracked 12 months of price
+  fluctuations across 18 cartridges from six retailers to find which brands hike prices
+  most aggressively and which refill systems actually deliver savings.
 pillarSlug: refillwatch-pillar-1
 relatedProducts:
 - B0FT32PL8L
@@ -25,7 +30,9 @@ tags:
 - cost per page
 heroImage: /images/hero/refillwatch-article-07.jpg
 cardTitle: 'Printer Ink Costs Skyrocket: Here''s How to Save Big'
-cardPick: Third-party cartridges cut costs 60-70% versus OEM brands while maintaining quality and reliability for everyday printing.---
+cardPick: Third-party cartridges cut costs 60-70% versus OEM brands while maintaining
+  quality and reliability for everyday printing.
+---
 
 ## Introduction
 

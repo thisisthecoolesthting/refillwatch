@@ -1,8 +1,12 @@
 ---
 title: 'Walmart''s 2024 Water Price Hike: We Tracked the Increases and Found 55% Savings'
-metaDescription: Walmart raised bottled water prices up to 37% in 2024. We tracked exact increases across 1,200 stores, tested refillable alternatives, and show how to save $300+/year.
+metaDescription: Walmart raised bottled water prices up to 37% in 2024. We tracked
+  exact increases across 1,200 stores, tested refillable alternatives, and show how
+  to save $300+/year.
 publishedAt: '2026-04-28'
-excerpt: Walmart's Great Value water jumped 37% in early 2024—the largest single-year increase since their brand launched. We tracked 1,200 stores, tested three refillable systems against bottled options, and found breakeven timelines as short as 10 weeks.
+excerpt: Walmart's Great Value water jumped 37% in early 2024—the largest single-year
+  increase since their brand launched. We tracked 1,200 stores, tested three refillable
+  systems against bottled options, and found breakeven timelines as short as 10 weeks.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B07TEST7890
 - B07TEST2345
 - B07TEST6789
-heroImage: /images/hero/walmart-water-price-hike-2024.jpg---
+heroImage: /images/hero/walmart-water-price-hike-2024.jpg
+---
 
 # Introduction
 

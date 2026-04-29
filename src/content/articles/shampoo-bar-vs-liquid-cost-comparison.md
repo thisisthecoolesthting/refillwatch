@@ -1,8 +1,12 @@
 ---
 title: 'Shampoo Bars vs. Liquid: A Cost-Saving Comparison'
-metaDescription: We crunched the numbers on shampoo bars versus liquid shampoos to reveal which saves more money long-term, including hidden costs like shipping weight and replacement frequency.
+metaDescription: We crunched the numbers on shampoo bars versus liquid shampoos to
+  reveal which saves more money long-term, including hidden costs like shipping weight
+  and replacement frequency.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Shampoo bars promise eco-friendly savings, but do they actually cost less than liquid shampoos? We tracked 18 months of price data, calculated cost per wash, and tested real-world longevity to find the true breakeven point.
+excerpt: Shampoo bars promise eco-friendly savings, but do they actually cost less
+  than liquid shampoos? We tracked 18 months of price data, calculated cost per wash,
+  and tested real-world longevity to find the true breakeven point.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -23,7 +27,8 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0G3BYYZN2
-heroImage: /images/hero/shampoo-bar-vs-liquid-cost-comparison.jpg---
+heroImage: /images/hero/shampoo-bar-vs-liquid-cost-comparison.jpg
+---
 
 ## Introduction
 

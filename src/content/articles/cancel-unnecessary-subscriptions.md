@@ -1,8 +1,11 @@
 ---
 title: 'Audit Your Subscriptions: Find Hidden Charges and Cancel What You Don''t Use'
-metaDescription: Discover forgotten subscriptions draining your account. Step-by-step guide to audit recurring charges, identify what to cancel, and negotiate cheaper plans before auto-renewal.
+metaDescription: Discover forgotten subscriptions draining your account. Step-by-step
+  guide to audit recurring charges, identify what to cancel, and negotiate cheaper
+  plans before auto-renewal.
 publishedAt: '2026-04-21T00:00:00Z'
-excerpt: The average household wastes $100–$200 monthly on subscriptions they've forgotten about. Here's how to find them and cancel—or downgrade—before the next charge.
+excerpt: The average household wastes $100–$200 monthly on subscriptions they've forgotten
+  about. Here's how to find them and cancel—or downgrade—before the next charge.
 pillarSlug: subscription-savings
 status: published
 tags:
@@ -14,7 +17,8 @@ relatedProducts:
 - B07VVK39F7
 - B07F97MPYT
 - B07D5DN269
-heroImage: /images/hero/cancel-unnecessary-subscriptions.jpg---
+heroImage: /images/hero/cancel-unnecessary-subscriptions.jpg
+---
 
 ## The Silent Budget Drain
 

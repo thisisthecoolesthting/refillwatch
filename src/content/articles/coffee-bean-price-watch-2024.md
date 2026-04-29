@@ -1,8 +1,13 @@
 ---
 title: 'Coffee Bean Price Watch 2024: Track Retailer Hikes & Beat Them With Bulk Refills'
-metaDescription: Coffee prices jumped 12–28% at Walmart, Amazon, and grocery chains in 2024. We tracked shrinkflation tactics, compare cost-per-ounce, and show bulk refills and home roasting that cut your annual spend by $100+.
+metaDescription: Coffee prices jumped 12–28% at Walmart, Amazon, and grocery chains
+  in 2024. We tracked shrinkflation tactics, compare cost-per-ounce, and show bulk
+  refills and home roasting that cut your annual spend by $100+.
 publishedAt: '2024-04-28'
-excerpt: Major retailers quietly raised coffee prices 12–28% in early 2024 while shrinking bag sizes. We tracked 37 brands across 12 chains, expose the math behind price hikes, and reveal bulk refills, local roasters, and home roasting that beat grocery store pricing by 25–40%.
+excerpt: Major retailers quietly raised coffee prices 12–28% in early 2024 while shrinking
+  bag sizes. We tracked 37 brands across 12 chains, expose the math behind price hikes,
+  and reveal bulk refills, local roasters, and home roasting that beat grocery store
+  pricing by 25–40%.
 pillarSlug: price-hike-alerts
 relatedProducts:
 - B07TEST1234
@@ -23,7 +28,8 @@ tags:
 - refillable coffee
 - amazon price hike
 - walmart grocery inflation
-heroImage: /images/hero/coffee-bean-price-watch-2024.jpg---
+heroImage: /images/hero/coffee-bean-price-watch-2024.jpg
+---
 
 # Introduction
 

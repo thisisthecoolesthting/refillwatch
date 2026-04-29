@@ -1,8 +1,12 @@
 ---
 title: The Best Reusable Water Bottles to Save Money and the Planet
-metaDescription: We compared 15 reusable water bottles on durability, cost per use, and real-world performance to find which actually save money long-term against disposable bottle creep.
+metaDescription: We compared 15 reusable water bottles on durability, cost per use,
+  and real-world performance to find which actually save money long-term against disposable
+  bottle creep.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Disposable water bottle prices have increased 47% since 2020. We tested 15 reusable alternatives to calculate exactly when they pay for themselves — and which designs last longest under daily use.
+excerpt: Disposable water bottle prices have increased 47% since 2020. We tested 15
+  reusable alternatives to calculate exactly when they pay for themselves — and which
+  designs last longest under daily use.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -22,7 +26,8 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: /images/hero/best-reusable-water-bottles-to-save-money.jpg---
+heroImage: /images/hero/best-reusable-water-bottles-to-save-money.jpg
+---
 
 ## Introduction
 

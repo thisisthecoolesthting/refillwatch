@@ -1,8 +1,12 @@
 ---
 title: 'Streaming Wars: Tracking Price Hikes Across Your Favorite Services'
-metaDescription: We analyzed price increases across 15+ streaming services to show where your subscription dollars are really going—and how to fight back with smarter alternatives.
+metaDescription: We analyzed price increases across 15+ streaming services to show
+  where your subscription dollars are really going—and how to fight back with smarter
+  alternatives.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Netflix, Disney+, and other streaming services have quietly raised prices by 25-100% since launch. We track the hikes, compare value, and reveal refill-style alternatives to stop overpaying.
+excerpt: Netflix, Disney+, and other streaming services have quietly raised prices
+  by 25-100% since launch. We track the hikes, compare value, and reveal refill-style
+  alternatives to stop overpaying.
 pillarSlug: subscription-savings
 relatedProducts:
 - B0DHV8SCLS
@@ -22,7 +26,8 @@ tags:
 - ad-free streaming
 - bundling services
 - password sharing crackdown
-heroImage: /images/hero/streaming-service-price-hikes.jpg---
+heroImage: /images/hero/streaming-service-price-hikes.jpg
+---
 
 ## Introduction
 

@@ -1,8 +1,13 @@
 ---
 title: Your Streaming Service Just Doubled in Price—Here's How to Stop Overpaying
-metaDescription: Netflix, Disney+, and HBO Max have raised prices 80-120% since launch. We show you how to audit your subscriptions, calculate true cost-per-hour, and switch to refillable media alternatives that cost 60-80% less.
+metaDescription: Netflix, Disney+, and HBO Max have raised prices 80-120% since launch.
+  We show you how to audit your subscriptions, calculate true cost-per-hour, and switch
+  to refillable media alternatives that cost 60-80% less.
 publishedAt: '2026-04-28'
-excerpt: Netflix, Hulu, and Disney+ have raised prices 80–120% since launch. We calculate your true cost per viewing hour, compare streaming versus refillable media alternatives, and show you how to cut entertainment costs by 60–80% without sacrificing content access.
+excerpt: Netflix, Hulu, and Disney+ have raised prices 80–120% since launch. We calculate
+  your true cost per viewing hour, compare streaming versus refillable media alternatives,
+  and show you how to cut entertainment costs by 60–80% without sacrificing content
+  access.
 pillarSlug: subscription-creep-busters
 relatedProducts:
 - B07TEST1234
@@ -21,7 +26,8 @@ tags:
 - disney plus price increase
 - netflix alternatives
 - streaming cost comparison
-heroImage: /images/hero/streaming-service-price-doubling.jpg---
+heroImage: /images/hero/streaming-service-price-doubling.jpg
+---
 
 # Introduction
 

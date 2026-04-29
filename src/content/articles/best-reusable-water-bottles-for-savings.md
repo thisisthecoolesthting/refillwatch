@@ -1,8 +1,11 @@
 ---
 title: 'Best Reusable Water Bottles: The Math on Ditching Disposables'
-metaDescription: Compare top reusable water bottles, calculate your savings vs. disposables, and find refill alternatives. Save $1,700+ over 5 years.
+metaDescription: Compare top reusable water bottles, calculate your savings vs. disposables,
+  and find refill alternatives. Save $1,700+ over 5 years.
 publishedAt: '2026-04-28'
-excerpt: Disposable water bottles cost $365/year. We compare Hydro Flask, CamelBak, Klean Kanteen, and Nalgene—break down the 5-year savings math, and show you refill alternatives that cut costs even further.
+excerpt: Disposable water bottles cost $365/year. We compare Hydro Flask, CamelBak,
+  Klean Kanteen, and Nalgene—break down the 5-year savings math, and show you refill
+  alternatives that cut costs even further.
 pillarSlug: refill-reuse-save
 relatedProducts:
 - B07TEST0001
@@ -20,7 +23,9 @@ tags:
 - budget-friendly
 heroImage: /images/hero/best-reusable-water-bottles-for-savings.jpg
 cardTitle: 'Stop Buying Bottled Water: The Math Behind Reusable Pitchers'
-cardPick: Filtered pitcher pays for itself in weeks versus endless bottled water spending that quietly drains hundreds yearly.---
+cardPick: Filtered pitcher pays for itself in weeks versus endless bottled water spending
+  that quietly drains hundreds yearly.
+---
 
 # Introduction
 
