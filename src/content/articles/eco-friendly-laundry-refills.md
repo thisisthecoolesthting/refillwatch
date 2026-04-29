@@ -68,4 +68,4 @@ Refillable detergent saves money *and* cuts plastic waste. But watch for price h
 
 ---
 
-*We track retailer pricing using Keepa data across 14 major retailers, Jan 2025–Mar 2026. RefillWatch earns affiliate commissions when you purchase reusable containers and refill products through our links, but we do not accept sponsorships from brands or retailers we review. See our disclosures for details.*
+*We track retailer pricing using Keepa data across 14 major retailers, Jan 2025–Mar 2026. RefillWatch earns retailer commissions when you purchase reusable containers and refill products through our links, but we do not accept sponsorships from brands or retailers we review. See our disclosures for details.*
