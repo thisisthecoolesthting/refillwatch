@@ -1,7 +1,7 @@
 ---
 // Mobile-only sticky bar anchored to the viewport bottom. Shows the first
 // product mentioned in an article + a direct Amazon affiliate CTA.
-// Dismissible by the reader via the × button.
+// Dismissible by the reader via the Ã— button.
 
 import type { CollectionEntry } from 'astro:content';
 import { amazonAffiliateUrl } from '@/utils/related-products';
@@ -46,7 +46,7 @@ const href = amazonAffiliateUrl(product, associateTag);
              text-white text-xs font-semibold px-3.5 py-2 shadow-soft whitespace-nowrap shrink-0
              transition-all duration-200 no-underline"
     >
-      Shop →
+      Shop ->
     </a>
     <button
       type="button"

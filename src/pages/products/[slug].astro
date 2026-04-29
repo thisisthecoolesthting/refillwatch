@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import AffiliateCTA from '@/components/AffiliateCTA.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import { getCollection, getEntry } from 'astro:content';
@@ -28,7 +28,7 @@ const reviewedForByline = (data as any).reviewedAt
   : ((data as any).lastSeen ? new Date((data as any).lastSeen) : undefined);
 
 const seoTitle = data.seoTitle || `${data.title} Review`;
-const seoDesc = data.metaDescription || `RefillWatch review of ${data.title} — pricing history, refill alternatives, and whether it&rsquo;s worth the current price.`;
+const seoDesc = data.metaDescription || `RefillWatch review of ${data.title} -- pricing history, refill alternatives, and whether it&rsquo;s worth the current price.`;
 
 const firstSeenDate = (data.firstSeen && data.firstSeen.length >= 10)
   ? data.firstSeen.substring(0, 10)
@@ -101,7 +101,7 @@ if (data.rating && data.reviewCount) {
 }
 ---
 
-<BaseLayout
+<CompliantLayout
   title={seoTitle}
   description={seoDesc}
   image={data.imageUrl}
@@ -147,4 +147,4 @@ if (data.rating && data.reviewCount) {
       <a href="/methodology/" class="text-terracotta-600 hover:underline"> How we research &rarr;</a>
     </p>
   </article>
-</BaseLayout>
+</CompliantLayout>

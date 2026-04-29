@@ -1,10 +1,10 @@
 // Astro Content Collections schema for RefillWatch.
 //
 // Four collections:
-//   authors   — named humans who write or edit (E-E-A-T layer)
-//   products  — amazon products reviewed for the watchdog angle
-//   pillars   — long-form authority investigations
-//   articles  — pricing alerts + supporting Q&A
+//   authors   -- named humans who write or edit (E-E-A-T layer)
+//   products  -- amazon products reviewed for the watchdog angle
+//   pillars   -- long-form authority investigations
+//   articles  -- pricing alerts + supporting Q&A
 //
 // All pieces default to Dana Wolff as editor; override with a specific
 // author slug in frontmatter when adding a guest contributor.

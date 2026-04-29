@@ -15,17 +15,25 @@ const { product } = Astro.props;
 const { data } = product as any;
 const url = `/products/${product.slug}`;
 
-// Prefer hand-curated short title; fall back to first 48 chars of raw title.
+// Prefer hand-curated short title; fall back to word-boundary trim of raw title.
+// Never truncate mid-word -- cut at the last space before the limit.
 const rawTitle = data.title || '';
+function wordTrim(src: string, max: number): string {
+  if (src.length <= max) return src;
+  const slice = src.slice(0, max);
+  const lastSpace = slice.lastIndexOf(' ');
+  const base = lastSpace > 20 ? slice.slice(0, lastSpace) : slice;
+  return base.replace(/[,\-\s]+$/, '') + 'Ã¢â‚¬Â¦';
+}
 const shortTitle = (data.cardTitle && data.cardTitle.trim())
   ? data.cardTitle.trim()
-  : (rawTitle.length > 52 ? rawTitle.slice(0, 52).replace(/[,-\s]+$/, '') + '…' : rawTitle);
+  : wordTrim(rawTitle, 52);
 
-// One-line "Why we picked it" — optional, hand-curated per product.
+// One-line "Why we picked it" -- optional, hand-curated per product.
 const pickLine = (data.cardPick && data.cardPick.trim()) ? data.cardPick.trim() : '';
 
-// Inline SVG placeholder — shown when imageUrl is missing or fails to load.
-// Neutral cream background, subtle icon — no raw alt text ever renders.
+// Inline SVG placeholder -- shown when imageUrl is missing or fails to load.
+// Neutral cream background, subtle icon -- no raw alt text ever renders.
 const FALLBACK_SVG =
   "data:image/svg+xml;utf8," +
   encodeURIComponent(
@@ -40,6 +48,7 @@ const FALLBACK_SVG =
 ---
 <a
   href={url}
+  data-content-card
   class="group block rounded-3xl border border-cream-200/70 bg-white shadow-soft
          hover:shadow-soft-lg hover:-translate-y-1
          transition-all duration-300 ease-out no-underline overflow-hidden"
@@ -54,7 +63,7 @@ const FALLBACK_SVG =
       class="w-full h-full object-contain p-5 group-hover:scale-[1.04] transition-transform duration-500 ease-out"
     />
   </div>
-  <div class="p-5 space-y-1.5">
+  <div class="p-5 space-y-1.5" data-card-content>
     <h3 class="text-base font-semibold text-ink-900 leading-snug !mt-0 group-hover:text-terracotta-600 transition-colors duration-200">
       {shortTitle}
     </h3>
@@ -63,12 +72,18 @@ const FALLBACK_SVG =
         {pickLine}
       </p>
     )}
-    <div class="flex items-center justify-between text-sm text-ink-700 pt-1">
-      <span class="font-semibold">{data.price ? `$${data.price.toFixed(2)}` : '—'}</span>
-      <span class="text-ink-500">
-        {data.rating ? `★ ${data.rating.toFixed(1)}` : '★ —'}
-        {data.reviewCount ? ` · ${data.reviewCount.toLocaleString()}` : ''}
-      </span>
-    </div>
+    {(data.price || data.rating) && (
+      <div class="flex items-center justify-between text-sm text-ink-700 pt-1">
+        {data.price ? (
+          <span class="font-semibold">${data.price.toFixed(2)}</span>
+        ) : <span />}
+        {data.rating && (
+          <span class="text-ink-500">
+            &#9733; {data.rating.toFixed(1)}
+            {data.reviewCount ? `  -  ${data.reviewCount.toLocaleString()}` : ''}
+          </span>
+        )}
+      </div>
+    )}
   </div>
 </a>

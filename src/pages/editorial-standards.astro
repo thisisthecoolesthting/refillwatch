@@ -1,0 +1,43 @@
+---
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import { getEntry } from 'astro:content';
+import home from '@/data/spawn-home.json';
+
+const b = home.brand;
+const editorial = (home as { editorial?: { author_slug?: string; methodology?: string[] } }).editorial;
+const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
+const leadAuthorSlug = editorial?.author_slug || defaultAuthorSlug;
+const leadAuthor = await getEntry('authors', leadAuthorSlug);
+const methodology = (editorial?.methodology || []).filter(Boolean);
+const standards = methodology.length > 0
+  ? methodology
+  : [
+      'We prioritize practical recommendations tied to a clear use case.',
+      'We label affiliate links and keep editorial decisions independent from commissions.',
+      'We correct material mistakes and update pricing context when market data shifts.',
+    ];
+---
+
+<CompliantLayout
+  title={`Editorial Standards -- ${b.fullName}`}
+  description={`How ${b.fullName} handles sourcing, recommendations, and affiliate disclosures.`}
+>
+  <section class="pt-8 md:pt-14 max-w-3xl mx-auto px-6 pb-16">
+    <h1 class="font-display text-4xl text-ink-900 mb-5 !mt-0">Editorial Standards</h1>
+    <p class="text-ink-700 leading-relaxed mb-6">
+      {b.fullName} publishes independent reviews and guides. We may earn affiliate commissions, but
+      that never changes ranking criteria or what we recommend.
+    </p>
+    {leadAuthor && (
+      <p class="text-sm text-ink-600 mb-6">
+        Editorial lead:{' '}
+        <a class="text-terracotta-600 hover:underline" href={`/authors/${leadAuthor.slug}/`}>
+          {leadAuthor.data.name}
+        </a>
+      </p>
+    )}
+    <ul class="space-y-3 text-ink-700 leading-relaxed list-disc pl-5">
+      {standards.map((item) => <li>{item}</li>)}
+    </ul>
+  </section>
+</CompliantLayout>

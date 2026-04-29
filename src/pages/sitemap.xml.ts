@@ -1,11 +1,11 @@
-// Custom sitemap generator — replaces @astrojs/sitemap which has an
+// Custom sitemap generator -- replaces @astrojs/sitemap which has an
 // upstream bug with our content collection setup. Rebuilds on every
 // Astro build, includes only published entries.
 
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 
-const SITE = 'https://secondspringclub.com';
+const SITE = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || 'https://example.com';
 
 export const GET: APIRoute = async () => {
   const products = await getCollection('products', ({ data }) => data.status === 'published');
@@ -17,7 +17,10 @@ export const GET: APIRoute = async () => {
   // Static high-value pages
   urls.push({ loc: `${SITE}/`,          changefreq: 'weekly',  priority: '1.0' });
   urls.push({ loc: `${SITE}/about`,     changefreq: 'monthly', priority: '0.6' });
+  urls.push({ loc: `${SITE}/contact`,   changefreq: 'monthly', priority: '0.5' });
+  urls.push({ loc: `${SITE}/editorial-standards`, changefreq: 'monthly', priority: '0.5' });
   urls.push({ loc: `${SITE}/disclosure`,changefreq: 'yearly',  priority: '0.3' });
+  urls.push({ loc: `${SITE}/methodology`, changefreq: 'yearly', priority: '0.4' });
   urls.push({ loc: `${SITE}/products`,  changefreq: 'daily',   priority: '0.9' });
   urls.push({ loc: `${SITE}/pillars`,   changefreq: 'weekly',  priority: '0.8' });
   urls.push({ loc: `${SITE}/articles`,  changefreq: 'weekly',  priority: '0.7' });
