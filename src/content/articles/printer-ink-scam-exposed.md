@@ -224,30 +224,45 @@ After testing 14 systems and analyzing 5,200 pages of printouts, our recommendat
 
 The printer ink industry counts on consumer inertia. By switching to refillable systems or lasers, the average household can save $200+ annually—enough to make the printer pay for itself within two years. Don't let manufacturers trick you into paying champagne prices for what is essentially colored water.
 
-<!-- padded-no-api-v1 -->
+<!-- padded-no-api-v2 -->
 
 
 ## Frequently asked questions
 
 **Are refillable products really cheaper, or is that just marketing?**
 
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules. Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
+It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
+
+Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
+
 
 **How much do household pricing creeps actually cost over a year?**
 
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods. Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
+
+Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+
 
 **Are 'price tracking' browser extensions actually accurate?**
 
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings. Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
+
+Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+
 
 **What is shrinkflation and how do I spot it?**
 
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023. Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
+
+Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year). The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
+Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+
+The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
+
 
 
 ## What to watch for before you buy
@@ -263,4 +278,4 @@ Almost always on cost; not always on convenience. The math: a Hydro Flask water 
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.

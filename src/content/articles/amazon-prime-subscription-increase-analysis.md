@@ -248,30 +248,45 @@ If you don't check all four boxes, you're overpaying. Try one of the alternative
 
 **Pro tip:** Do a 30-day Prime detox. Cancel, use Walmart+ instead, and log every purchase you make. When Prime's free trial period ends, you'll know whether to resubscribe—based on data, not guilt.
 
-<!-- padded-no-api-v1 -->
+<!-- padded-no-api-v2 -->
 
 
 ## Frequently asked questions
 
 **Are subscription services like Walmart+ or Amazon Prime worth keeping?**
 
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year. The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
+Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
+
+The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
+
 
 **Are 'price tracking' browser extensions actually accurate?**
 
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings. Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
+
+Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
+
 
 **What is shrinkflation and how do I spot it?**
 
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023. Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
+
+Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
+
 
 **How much do household pricing creeps actually cost over a year?**
 
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods. Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
+
+Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
+
 
 **Why do bulk pantry stores not always save money?**
 
-Bulk-section pricing is heterogeneous. The same store might price oats at 40% below packaged but spices at 200% above grocery-aisle alternatives. The 'bulk savings' assumption was built when most bulk goods were commodity dry foods at 30–60% below packaged. Now bulk sections often emphasize 'specialty' goods (organic flours, exotic legumes, niche teas) where the per-pound cost can exceed packaged. Compare unit prices section by section before assuming bulk = cheaper. The sweet spot remains commodity grains, beans, oats, sugar, salt, and dried legumes — anywhere the bulk source is the same as the packaged supplier without the marketing markup.
+Bulk-section pricing is heterogeneous. The same store might price oats at 40% below packaged but spices at 200% above grocery-aisle alternatives. The 'bulk savings' assumption was built when most bulk goods were commodity dry foods at 30–60% below packaged. Now bulk sections often emphasize 'specialty' goods (organic flours, exotic legumes, niche teas) where the per-pound cost can exceed packaged.
+
+Compare unit prices section by section before assuming bulk = cheaper. The sweet spot remains commodity grains, beans, oats, sugar, salt, and dried legumes — anywhere the bulk source is the same as the packaged supplier without the marketing markup.
+
 
 
 ## What to watch for before you buy
@@ -287,4 +302,4 @@ Bulk-section pricing is heterogeneous. The same store might price oats at 40% be
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
