@@ -2,7 +2,6 @@
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import FeaturedProductsBlock from '@/components/FeaturedProductsBlock.astro';
-import StickyProductBar from '@/components/StickyProductBar.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { getRelatedProductsFromBody } from '@/utils/related-products';
@@ -22,7 +21,6 @@ const authorSlug = entry.data.author ?? 'dana-wolff';
 const author = await getEntry('authors', authorSlug);
 
 const relatedProducts = await getRelatedProductsFromBody(entry.body);
-const topProduct = relatedProducts[0];
 
 const publishedISO = new Date(entry.data.publishedAt).toISOString();
 const modifiedISO  = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
@@ -97,5 +95,4 @@ const articleSchema = {
     />
   </article>
 
-  {topProduct && <StickyProductBar product={topProduct} />}
 </CompliantLayout>

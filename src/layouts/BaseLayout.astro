@@ -6,6 +6,10 @@ import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import home from '@/data/brand.config.json';
 
 const id = home.brand.identity;
+
+// Analytics auto-injection -- reads brand.config.json analytics.ga_measurement_id at build time.
+const gaAnalytics = (home as { analytics?: { ga_measurement_id?: string } }).analytics;
+const gaMeasurementId = (gaAnalytics?.ga_measurement_id || '').trim();
 const siteBrandName = home.brand.fullName;
 
 export interface Props {
@@ -93,6 +97,14 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString(
       }
       return null;
     })()}
+  
+    {/* Google Analytics 4 -- auto-injected when brand.config.json analytics.ga_measurement_id is set */}
+    {gaMeasurementId && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}></script>
+        <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });`}></script>
+      </>
+    )}
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
