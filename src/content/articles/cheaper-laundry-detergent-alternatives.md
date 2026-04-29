@@ -1,12 +1,8 @@
 ---
 title: 'Stop Overpaying: Cheaper Laundry Detergent Alternatives That Work'
-metaDescription: Laundry detergent prices keep climbing. We compare refillable, bulk,
-  and unconventional options to name the real savings—with cost-per-load math and
-  durability tests.
+metaDescription: Laundry detergent prices keep climbing. We compare refillable, bulk, and unconventional options to name the real savings—with cost-per-load math and durability tests.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Retailers quietly hike laundry detergent prices year after year. Here’s how
-  to cut costs by 60% or more with refillable concentrates, bulk buys, and under-the-radar
-  brands that clean just as well.
+excerpt: Retailers quietly hike laundry detergent prices year after year. Here’s how to cut costs by 60% or more with refillable concentrates, bulk buys, and under-the-radar brands that clean just as well.
 pillarSlug: refill-and-reusable-guides
 status: published
 tags:
@@ -27,11 +23,9 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B074ND5RDT
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/cheaper-laundry-detergent-alternatives.jpg
 cardTitle: 'Stop Overpaying: Bulk Cleaner Concentrate Saves Hundreds Yearly'
-cardPick: One concentrate bottle yields 10+ refills, slashing per-use costs to pennies
-  compared to pre-made bottles.
----
+cardPick: One concentrate bottle yields 10+ refills, slashing per-use costs to pennies compared to pre-made bottles.---
 
 ## Introduction
 

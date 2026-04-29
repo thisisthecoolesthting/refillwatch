@@ -1,11 +1,8 @@
 ---
 title: 'Laundry Detergent: Tracking the Hidden Price Increases'
-metaDescription: We analyzed price hikes on major laundry detergent brands and found
-  how much more you're paying per load—plus refillable alternatives to stop the bleed.
+metaDescription: We analyzed price hikes on major laundry detergent brands and found how much more you're paying per load—plus refillable alternatives to stop the bleed.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Detergent prices have crept up 18% in three years. We name the worst offenders,
-  calculate your actual cost per load, and reveal bulk refill options that can cut
-  your laundry bill by 60%.
+excerpt: Detergent prices have crept up 18% in three years. We name the worst offenders, calculate your actual cost per load, and reveal bulk refill options that can cut your laundry bill by 60%.
 pillarSlug: price-hike-alerts
 relatedProducts:
 - B0DHV8SCLS
@@ -26,8 +23,7 @@ tags:
 - eco-friendly detergent
 - subscription laundry
 - store brand vs name brand
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/detergent-dollar-drain.jpg---
 
 ## Introduction
 

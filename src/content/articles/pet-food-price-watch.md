@@ -1,12 +1,8 @@
 ---
 title: 'Pet Food Price Watch: How to Spot Price Hikes Before Your Budget Does'
-metaDescription: We track pet food price increases across retailers. Find bulk alternatives,
-  refillable options, and smarter buying strategies to stop overpaying for your pet's
-  food.
+metaDescription: We track pet food price increases across retailers. Find bulk alternatives, refillable options, and smarter buying strategies to stop overpaying for your pet's food.
 publishedAt: '2026-04-21T00:00:00.000Z'
-excerpt: Pet food prices creep up quietly. We tracked popular products, found the
-  hikes, and mapped out bulk-buying and alternative strategies that actually save
-  money without skimping on nutrition.
+excerpt: Pet food prices creep up quietly. We tracked popular products, found the hikes, and mapped out bulk-buying and alternative strategies that actually save money without skimping on nutrition.
 pillarSlug: price-hike-alerts
 relatedProducts:
 - B0G1R37VJC
@@ -19,8 +15,7 @@ tags:
 - pet-supplies
 - price tracking consumer goods
 - retailer price hike
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/pet-food-price-watch.jpg---
 
 Pet owners watch their spending closely—and pet food is one category where prices move without announcement. We tracked 12 popular pet food products over 90 days and found price movement patterns worth knowing:
 

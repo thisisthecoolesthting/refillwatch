@@ -1,12 +1,8 @@
 ---
 title: The Best Reusable Water Bottles to Save Money and the Planet
-metaDescription: Stop overpaying for bottled water. We compare 12 reusable bottles
-  by cost, durability, and real-world performance — with exact breakeven math on when
-  they pay for themselves.
+metaDescription: Stop overpaying for bottled water. We compare 12 reusable bottles by cost, durability, and real-world performance — with exact breakeven math on when they pay for themselves.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Bottled water costs 2,000% more than tap. We tested 12 reusable bottles against
-  leaks, dishwasher wear, and price hikes to find which actually save money long-term
-  — with breakeven calculations for each style.
+excerpt: Bottled water costs 2,000% more than tap. We tested 12 reusable bottles against leaks, dishwasher wear, and price hikes to find which actually save money long-term — with breakeven calculations for each style.
 pillarSlug: refill-and-reusable-guides
 status: published
 tags:
@@ -26,11 +22,9 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/best-reusable-water-bottles-save-money.jpg
 cardTitle: Stop Spending $100+ Yearly on Bottled Water
-cardPick: One large reusable bottle pays for itself in weeks while eliminating recurring
-  beverage expenses forever.
----
+cardPick: One large reusable bottle pays for itself in weeks while eliminating recurring beverage expenses forever.---
 
 ## Introduction
 

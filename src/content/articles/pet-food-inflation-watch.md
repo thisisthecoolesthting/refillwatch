@@ -1,12 +1,8 @@
 ---
 title: 'Pet Food Prices: Don''t Let Retailers Gouge Your Furry Friends'
-metaDescription: We tracked 18 months of pet food price hikes at Amazon, Walmart,
-  and Chewy. Here's how to avoid overpaying + reusable alternatives that cut costs
-  by 40%.
+metaDescription: We tracked 18 months of pet food price hikes at Amazon, Walmart, and Chewy. Here's how to avoid overpaying + reusable alternatives that cut costs by 40%.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Retailers are quietly raising pet food prices 5-15% annually. We analyzed
-  14 brands to expose the worst offenders and found bulk refill options that protect
-  your budget without compromising quality.
+excerpt: Retailers are quietly raising pet food prices 5-15% annually. We analyzed 14 brands to expose the worst offenders and found bulk refill options that protect your budget without compromising quality.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/pet-food-inflation-watch.jpg---
 
 ## Introduction
 

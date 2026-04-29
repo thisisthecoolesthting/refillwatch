@@ -1,14 +1,8 @@
 ---
-title: 'Printer Ink Price Hikes Exposed: How HP, Brother, and Epson Are Quietly Gouging
-  You—and How to Cut Costs by 80%'
-metaDescription: We tracked 18 months of ink cartridge prices across 24 bestsellers.
-  HP raised prices 17–23% since 2024 with shrinking yields. Here's which brands hike
-  fastest and how refillable systems slash your costs.
+title: 'Printer Ink Price Hikes Exposed: How HP, Brother, and Epson Are Quietly Gouging You—and How to Cut Costs by 80%'
+metaDescription: We tracked 18 months of ink cartridge prices across 24 bestsellers. HP raised prices 17–23% since 2024 with shrinking yields. Here's which brands hike fastest and how refillable systems slash your costs.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer ink costs up to $8,000 per gallon—and HP, Brother, and Canon are
-  raising prices without warning. We analyzed 18 months of pricing data on 24 top
-  cartridges, tested yield accuracy across 15 households, and show you how switching
-  to refillable systems cuts costs by 80% or more while avoiding DRM lockouts.
+excerpt: Printer ink costs up to $8,000 per gallon—and HP, Brother, and Canon are raising prices without warning. We analyzed 18 months of pricing data on 24 top cartridges, tested yield accuracy across 15 households, and show you how switching to refillable systems cuts costs by 80% or more while avoiding DRM lockouts.
 pillarSlug: refillwatch-pillar-3
 status: published
 tags:
@@ -27,11 +21,9 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/refillwatch-article-09.jpg
 cardTitle: 'Printer Ink Costs Skyrocketing: Save 80% With Smart Refill Strategies'
-cardPick: Refillable cartridges eliminate vendor lock-in, delivering genuine savings
-  while bypassing manufacturer price manipulation schemes.
----
+cardPick: Refillable cartridges eliminate vendor lock-in, delivering genuine savings while bypassing manufacturer price manipulation schemes.---
 
 ## Introduction
 

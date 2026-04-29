@@ -1,12 +1,8 @@
 ---
 title: 'Bulk Buying Pet Food: A Guide to Significant Savings'
-metaDescription: Stop overpaying for pet food. We compare bulk buying options, calculate
-  long-term savings, and expose retailer price hikes on popular brands so you can
-  feed your pet without breaking the bank.
+metaDescription: Stop overpaying for pet food. We compare bulk buying options, calculate long-term savings, and expose retailer price hikes on popular brands so you can feed your pet without breaking the bank.
 publishedAt: '2026-04-28'
-excerpt: Pet food prices have surged 18% in three years. We analyzed 14 brands to
-  find which bulk options actually save money, where retailers are creeping prices,
-  and how refill systems can cut costs by 37%.
+excerpt: Pet food prices have surged 18% in three years. We analyzed 14 brands to find which bulk options actually save money, where retailers are creeping prices, and how refill systems can cut costs by 37%.
 pillarSlug: refill-and-reusable-guides
 status: published
 tags:
@@ -26,11 +22,9 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B0F4X2YBP1
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/bulk-pet-food-savings-guide.jpg
 cardTitle: 'Skip Pet Store Markups: Buy Bulk Pet Food Like a Savvy Shopper'
-cardPick: Bulk purchasing eliminates recurring markup costs, stretching pet budgets
-  30-40% further annually than routine retail purchases.
----
+cardPick: Bulk purchasing eliminates recurring markup costs, stretching pet budgets 30-40% further annually than routine retail purchases.---
 
 ## Introduction
 

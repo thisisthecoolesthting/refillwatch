@@ -1,12 +1,8 @@
 ---
 title: 'Printer Ink Price Hikes: We Tracked 15–30% Increases This Year'
-metaDescription: Printer brands quietly raised ink cartridge prices 15–30% while shrinking
-  volumes. We name the models and show you refillable alternatives that cost a fraction
-  of the price.
+metaDescription: Printer brands quietly raised ink cartridge prices 15–30% while shrinking volumes. We name the models and show you refillable alternatives that cost a fraction of the price.
 publishedAt: '2026-04-21T00:00:00Z'
-excerpt: Printer ink is engineered to be expensive. We caught HP, Brother, and Epson
-  hiking prices while cutting volume—and mapped cheaper refillable and laser alternatives
-  that actually work.
+excerpt: Printer ink is engineered to be expensive. We caught HP, Brother, and Epson hiking prices while cutting volume—and mapped cheaper refillable and laser alternatives that actually work.
 pillarSlug: price-hike-alerts
 relatedProducts:
 - B0G1R37VJC
@@ -20,8 +16,7 @@ tags:
 - price-hike
 - refillable-alternatives
 - consumables
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/ink-cartridge-rip-off.jpg---
 
 ## Printer Ink Price Hikes: What We Found
 

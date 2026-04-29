@@ -1,11 +1,8 @@
 ---
 title: 'Streaming Service Price Creep: How Much More You''re Paying Since 2023'
-metaDescription: Streaming services have raised prices 17–22% annually since 2023.
-  We track the hikes, name the increases, and show you cheaper alternatives.
+metaDescription: Streaming services have raised prices 17–22% annually since 2023. We track the hikes, name the increases, and show you cheaper alternatives.
 publishedAt: '2026-04-21T00:00:00Z'
-excerpt: Your streaming bill has quietly grown every year. We tracked the price hikes
-  on major services, named the increases, and found ways to cut your subscription
-  costs without cutting the shows.
+excerpt: Your streaming bill has quietly grown every year. We tracked the price hikes on major services, named the increases, and found ways to cut your subscription costs without cutting the shows.
 pillarSlug: subscription-savings
 relatedProducts:
 - B07VVK39F7
@@ -19,8 +16,7 @@ tags:
 - Amazon Prime hike
 - entertainment budget
 - price tracking
-heroImage: https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/streaming-service-price-creep.jpg---
 
 ## How Streaming Services Quietly Raise Your Bill
 

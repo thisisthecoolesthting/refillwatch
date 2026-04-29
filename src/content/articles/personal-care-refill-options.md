@@ -1,12 +1,8 @@
 ---
 title: 'Refill Your Routine: Smart Swaps for Cheaper Personal Care Products'
-metaDescription: Stop overpaying for razors, soap, and shampoo. We compare disposable
-  vs. refillable personal care products with cost breakdowns and real-world performance
-  tests to help you save.
+metaDescription: Stop overpaying for razors, soap, and shampoo. We compare disposable vs. refillable personal care products with cost breakdowns and real-world performance tests to help you save.
 publishedAt: '2026-04-29'
-excerpt: Disposable personal care products add up fast. This guide compares refillable
-  alternatives for razors, soap, shampoo, and more with cost-per-use math and longevity
-  tests to cut your routine's costs by 30-70%.
+excerpt: Disposable personal care products add up fast. This guide compares refillable alternatives for razors, soap, shampoo, and more with cost-per-use math and longevity tests to cut your routine's costs by 30-70%.
 pillarSlug: refill-and-reusable-guides
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/personal-care-refill-options.jpg---
 
 ## Introduction
 

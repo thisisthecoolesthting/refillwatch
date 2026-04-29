@@ -1,14 +1,8 @@
 ---
-title: 'Bulk Cleaning Supplies: The Real Math on Savings (And Which ''Bulk'' Deals
-  Are Traps)'
-metaDescription: Retailers hike cleaning product prices 18.7% while shrinking bottles.
-  We expose the exact savings from bulk buying vs. single-use, name products where
-  you save 60%+, and show where to find refill stations.
+title: 'Bulk Cleaning Supplies: The Real Math on Savings (And Which ''Bulk'' Deals Are Traps)'
+metaDescription: Retailers hike cleaning product prices 18.7% while shrinking bottles. We expose the exact savings from bulk buying vs. single-use, name products where you save 60%+, and show where to find refill stations.
 publishedAt: '2026-04-28'
-excerpt: Your dish soap costs 20% more for the same bottle. We tracked 27 cleaning
-  products over three years, calculated exact savings, and found bulk buying saves
-  the average household $234 annually—plus which 'bulk' options are actually terrible
-  deals.
+excerpt: Your dish soap costs 20% more for the same bottle. We tracked 27 cleaning products over three years, calculated exact savings, and found bulk buying saves the average household $234 annually—plus which 'bulk' options are actually terrible deals.
 pillarSlug: refill-reuse-save
 status: published
 tags:
@@ -28,8 +22,7 @@ relatedProducts:
 - B07TEST2345
 - B07TEST6789
 - B07TEST0123
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/bulk-cleaning-supplies-guide.jpg---
 
 # Introduction
 

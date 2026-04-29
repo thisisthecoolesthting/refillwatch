@@ -1,13 +1,8 @@
 ---
-title: 'Eco-Friendly Laundry Refills: Cut Plastic 80%, Cut Costs 30% — If You Avoid
-  the Price Hikes'
-metaDescription: Laundry detergent refills save money and plastic. We track which
-  brands raised prices quietly, compare cost-per-load, and name the reusable alternatives
-  that actually pay off.
+title: 'Eco-Friendly Laundry Refills: Cut Plastic 80%, Cut Costs 30% — If You Avoid the Price Hikes'
+metaDescription: Laundry detergent refills save money and plastic. We track which brands raised prices quietly, compare cost-per-load, and name the reusable alternatives that actually pay off.
 publishedAt: '2026-04-21T00:00:00Z'
-excerpt: Refillable laundry detergent cuts single-use plastic by 80% and costs 30%
-  less per load — but three major brands hiked prices this quarter without telling
-  you. Here's the math and how to avoid getting gouged.
+excerpt: Refillable laundry detergent cuts single-use plastic by 80% and costs 30% less per load — but three major brands hiked prices this quarter without telling you. Here's the math and how to avoid getting gouged.
 pillarSlug: refill-and-reuse
 relatedProducts:
 - B0DVT2JTRN
@@ -19,8 +14,7 @@ tags:
 - laundry
 - reusables
 - price-hike-alert
-heroImage: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/eco-friendly-laundry-refills.jpg---
 
 ## The Refill Math: What You'll Actually Pay Per Load
 

@@ -1,11 +1,8 @@
 ---
 title: Has Your Amazon Prime Subscription Doubled? Here's Why.
-metaDescription: Amazon Prime's price hikes hit hard. We break down the numbers, compare
-  alternatives, and show how to avoid overpaying for subscriptions you might not need.
+metaDescription: Amazon Prime's price hikes hit hard. We break down the numbers, compare alternatives, and show how to avoid overpaying for subscriptions you might not need.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Amazon Prime's cost has quietly doubled since 2018. We analyze the price
-  hikes, compare subscription alternatives, and reveal refill strategies to avoid
-  overpaying for services you rarely use.
+excerpt: Amazon Prime's cost has quietly doubled since 2018. We analyze the price hikes, compare subscription alternatives, and reveal refill strategies to avoid overpaying for services you rarely use.
 pillarSlug: subscription-management
 status: published
 tags:
@@ -23,11 +20,9 @@ relatedProducts:
 - B0GF25F12C
 - B0F4X2YBP1
 - B0CGW2TFSV
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/amazon-prime-subscription-cost-increase.jpg
 cardTitle: Why Your Amazon Prime Just Cost You Double
-cardPick: Bulk concentrate cleaners cut cleaning supply costs by 75%, eliminating
-  the subscription creep that inflates household budgets yearly.
----
+cardPick: Bulk concentrate cleaners cut cleaning supply costs by 75%, eliminating the subscription creep that inflates household budgets yearly.---
 
 ## Introduction
 

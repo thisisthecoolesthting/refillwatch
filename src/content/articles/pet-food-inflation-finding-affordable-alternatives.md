@@ -1,12 +1,8 @@
 ---
 title: 'Pet Food Inflation: Finding Affordable Alternatives for Your Furry Friends'
-metaDescription: Pet food prices are rising faster than ever. We compare name-brand
-  kibble costs, analyze cheaper alternatives, and show how to cut your pet food bill
-  by 30% without sacrificing quality.
+metaDescription: Pet food prices are rising faster than ever. We compare name-brand kibble costs, analyze cheaper alternatives, and show how to cut your pet food bill by 30% without sacrificing quality.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: With pet food prices up 18% in three years, we analyzed 14 brands to find
-  budget-friendly alternatives that don't compromise nutrition. Discover which premium
-  kibbles have the worst shrinkflation and how bulk buying can save $127/year.
+excerpt: With pet food prices up 18% in three years, we analyzed 14 brands to find budget-friendly alternatives that don't compromise nutrition. Discover which premium kibbles have the worst shrinkflation and how bulk buying can save $127/year.
 pillarSlug: price-hikes-exposed
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/pet-food-inflation-finding-affordable-alternatives.jpg---
 
 ## Introduction
 

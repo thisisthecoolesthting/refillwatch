@@ -1,13 +1,8 @@
 ---
 title: 'Subscription Service Audit: How to Stop the Quiet Price Creep'
-metaDescription: We tracked 18 subscription services for 2 years to expose how retailers
-  quietly raise prices—and how to fight back with bulk refills, price tracking tools,
-  and better alternatives.
+metaDescription: We tracked 18 subscription services for 2 years to expose how retailers quietly raise prices—and how to fight back with bulk refills, price tracking tools, and better alternatives.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Your monthly subscriptions are getting more expensive—you just haven't noticed
-  yet. We analyzed price histories for 18 services to show where costs spiked, how
-  to calculate your true cost per use, and which refillable alternatives actually
-  save money.
+excerpt: Your monthly subscriptions are getting more expensive—you just haven't noticed yet. We analyzed price histories for 18 services to show where costs spiked, how to calculate your true cost per use, and which refillable alternatives actually save money.
 pillarSlug: subscription-savings
 relatedProducts:
 - B0DHV8SCLS
@@ -28,8 +23,7 @@ tags:
 - bulk buying
 - consumer advocacy
 - subscription audit
-heroImage: https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/subscription-service-audit-stop-the-creep.jpg---
 
 ## Introduction
 

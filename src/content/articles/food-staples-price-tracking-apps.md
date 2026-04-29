@@ -1,12 +1,8 @@
 ---
 title: Top Price Tracking Apps for Your Monthly Food Staples
-metaDescription: Stop overpaying for pantry essentials. We compare 12 price tracking
-  apps that monitor grocery staples like flour, sugar, and coffee, with real data
-  on which retailers hike prices most often.
+metaDescription: Stop overpaying for pantry essentials. We compare 12 price tracking apps that monitor grocery staples like flour, sugar, and coffee, with real data on which retailers hike prices most often.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: When the price of your weekly groceries creeps up without warning, these
-  12 price tracking apps help you spot retailer price hikes on flour, sugar, coffee
-  and other staples before you overpay at checkout.
+excerpt: When the price of your weekly groceries creeps up without warning, these 12 price tracking apps help you spot retailer price hikes on flour, sugar, coffee and other staples before you overpay at checkout.
 pillarSlug: price-hikes-exposed
 status: published
 tags:
@@ -26,8 +22,7 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/food-staples-price-tracking-apps.jpg---
 
 ## Introduction
 

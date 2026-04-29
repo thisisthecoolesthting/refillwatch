@@ -1,11 +1,8 @@
 ---
 title: 'Stop the Bleed: How to Identify and Cancel Unwanted Subscriptions'
-metaDescription: Learn how to track and cancel sneaky subscription price hikes with
-  our watchdog guide to reclaiming $500+/year from forgotten recurring charges.
+metaDescription: Learn how to track and cancel sneaky subscription price hikes with our watchdog guide to reclaiming $500+/year from forgotten recurring charges.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Subscriptions creep up on budgets like termites. We analyzed 18,000 price
-  hikes to show you where to find the worst offenders and how to replace them with
-  better options.
+excerpt: Subscriptions creep up on budgets like termites. We analyzed 18,000 price hikes to show you where to find the worst offenders and how to replace them with better options.
 pillarSlug: subscription-savings
 relatedProducts:
 - B004QM8SLG
@@ -24,8 +21,7 @@ tags:
 - price hike alerts
 - subscription audits
 - money saving tips
-heroImage: https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/cancel-unwanted-subscriptions-save-money.jpg---
 
 ## Introduction
 

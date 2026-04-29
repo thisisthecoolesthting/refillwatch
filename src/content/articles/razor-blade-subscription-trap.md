@@ -1,14 +1,8 @@
 ---
-title: 'The Razor Blade Subscription Trap: Why You''re Paying 5–10x More Than You
-  Should'
-metaDescription: Razor subscriptions cost $0.32–$1.25 per shave. Safety razors cost
-  $0.02. We tracked 18 months of price hikes and tested real shave quality to show
-  you how to save $1,200+ over a decade.
+title: 'The Razor Blade Subscription Trap: Why You''re Paying 5–10x More Than You Should'
+metaDescription: Razor subscriptions cost $0.32–$1.25 per shave. Safety razors cost $0.02. We tracked 18 months of price hikes and tested real shave quality to show you how to save $1,200+ over a decade.
 publishedAt: '2026-04-28'
-excerpt: Razor blade subscriptions promise convenience but quietly raise prices while
-  locking you into plastic handles that fail in months. We tested subscription services
-  against safety razors, calculated true cost per shave, and found you're likely overpaying
-  by $100–$300 yearly—with a simple fix that cuts costs by 95%.
+excerpt: Razor blade subscriptions promise convenience but quietly raise prices while locking you into plastic handles that fail in months. We tested subscription services against safety razors, calculated true cost per shave, and found you're likely overpaying by $100–$300 yearly—with a simple fix that cuts costs by 95%.
 pillarSlug: subscription-creep-busters
 relatedProducts:
 - B07TEST1234
@@ -28,8 +22,7 @@ tags:
 - safety razor savings
 - blade cost per shave
 - dollar shave club alternative
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/razor-blade-subscription-trap.jpg---
 
 ## Introduction
 

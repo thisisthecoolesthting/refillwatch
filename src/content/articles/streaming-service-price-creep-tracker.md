@@ -1,11 +1,8 @@
 ---
 title: 'Tracking Streaming Service Price Creep: Don''t Get Caught Off Guard'
-metaDescription: We analyzed 18 months of price data across major streaming services
-  to expose hidden hikes—plus smarter alternatives to avoid subscription fatigue.
+metaDescription: We analyzed 18 months of price data across major streaming services to expose hidden hikes—plus smarter alternatives to avoid subscription fatigue.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Netflix isn't the only streamer raising prices. We tracked 14 services over
-  18 months to identify which platforms increased costs most aggressively—and found
-  three reusable alternatives that could save households $200+/year.
+excerpt: Netflix isn't the only streamer raising prices. We tracked 14 services over 18 months to identify which platforms increased costs most aggressively—and found three reusable alternatives that could save households $200+/year.
 pillarSlug: subscription-management
 relatedProducts:
 - B004QM8SLG
@@ -22,11 +19,9 @@ tags:
 - entertainment budget
 - price tracking
 - reusable alternatives
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/streaming-service-price-creep-tracker.jpg
 cardTitle: Stop Paying More for Cleaners Every Month Without Realizing It
-cardPick: Bulk concentrate cuts cleaning supply costs by 75% compared to pre-made
-  bottles, protecting your budget from silent price increases.
----
+cardPick: Bulk concentrate cuts cleaning supply costs by 75% compared to pre-made bottles, protecting your budget from silent price increases.---
 
 ## Introduction
 

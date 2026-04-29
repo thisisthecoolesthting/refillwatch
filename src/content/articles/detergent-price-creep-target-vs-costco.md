@@ -1,12 +1,8 @@
 ---
 title: 'Detergent Price Creep: Target vs. Costco – Are You Overpaying?'
-metaDescription: We tracked 18 months of detergent price hikes at Target and Costco.
-  See which retailer increased prices faster, plus refillable alternatives that beat
-  both.
+metaDescription: We tracked 18 months of detergent price hikes at Target and Costco. See which retailer increased prices faster, plus refillable alternatives that beat both.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Target's detergent prices increased 23% faster than Costco's over 18 months.
-  We break down the real cost per load, bulk refill math, and how to avoid the shrinkflation
-  trap.
+excerpt: Target's detergent prices increased 23% faster than Costco's over 18 months. We break down the real cost per load, bulk refill math, and how to avoid the shrinkflation trap.
 pillarSlug: price-hikes-exposed
 relatedProducts:
 - B0DHV8SCLS
@@ -27,8 +23,7 @@ tags:
 - refillable
 - shrinkflation
 - consumer watchdog
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/detergent-price-creep-target-vs-costco.jpg---
 
 ## Introduction
 

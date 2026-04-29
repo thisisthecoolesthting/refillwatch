@@ -1,13 +1,8 @@
 ---
 title: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
-metaDescription: We crunch the numbers on printer ink refill kits versus OEM cartridges,
-  exposing hidden costs, longevity tradeoffs, and real-world performance to help you
-  stop overpaying for ink.
+metaDescription: We crunch the numbers on printer ink refill kits versus OEM cartridges, exposing hidden costs, longevity tradeoffs, and real-world performance to help you stop overpaying for ink.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Printer ink refill kits promise big savings over brand-name cartridges, but
-  the real cost includes time, mess, and reliability risks. We analyze 18 months of
-  price data and real-world testing to reveal when refilling makes sense — and when
-  it doesn’t.
+excerpt: Printer ink refill kits promise big savings over brand-name cartridges, but the real cost includes time, mess, and reliability risks. We analyze 18 months of price data and real-world testing to reveal when refilling makes sense — and when it doesn’t.
 pillarSlug: refill-and-reuse
 relatedProducts:
 - B0CB75LML9
@@ -25,8 +20,7 @@ tags:
 - printing savings
 - refillable ink
 - inkjet alternatives
-heroImage: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/printer-ink-refill-kits-worth-it.jpg---
 
 ## Introduction
 

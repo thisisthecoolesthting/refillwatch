@@ -1,12 +1,8 @@
 ---
 title: 'Bulk Laundry Detergent: Your Guide to Big Savings'
-metaDescription: Stop overpaying for laundry detergent. We compare bulk options, calculate
-  real cost per load, and expose retailer price hikes on name brands — plus reusable
-  and refill alternatives.
+metaDescription: Stop overpaying for laundry detergent. We compare bulk options, calculate real cost per load, and expose retailer price hikes on name brands — plus reusable and refill alternatives.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Laundry detergent prices have crept up 28% since 2020. We analyze 12 bulk
-  options to find the true cost-per-load winners, track hidden price hikes on major
-  brands, and test refill systems that cut waste and costs.
+excerpt: Laundry detergent prices have crept up 28% since 2020. We analyze 12 bulk options to find the true cost-per-load winners, track hidden price hikes on major brands, and test refill systems that cut waste and costs.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-heroImage: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/bulk-laundry-detergent-guide.jpg---
 
 ## Introduction
 

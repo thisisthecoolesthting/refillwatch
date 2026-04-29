@@ -1,13 +1,8 @@
 ---
 title: 'Printer Ink Price Hikes Exposed: How We Cut Costs 82% With Refillable Systems'
-metaDescription: We tracked 18 months of ink cartridge price hikes across 16 models.
-  Discover which brands exploit subscription fatigue, how to calculate true cost-per-page,
-  and refill systems that slash spending by 82%.
+metaDescription: We tracked 18 months of ink cartridge price hikes across 16 models. Discover which brands exploit subscription fatigue, how to calculate true cost-per-page, and refill systems that slash spending by 82%.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer ink costs up to $8,000 per gallon—we analyzed 18 months of price
-  data across 16 cartridges to expose aggressive annual hikes of 9-14%, name the worst
-  offenders, and show how refillable systems can cut household ink costs from $300/year
-  to $54/year.
+excerpt: Printer ink costs up to $8,000 per gallon—we analyzed 18 months of price data across 16 cartridges to expose aggressive annual hikes of 9-14%, name the worst offenders, and show how refillable systems can cut household ink costs from $300/year to $54/year.
 pillarSlug: refillwatch-pillar-1
 status: published
 tags:
@@ -26,11 +21,9 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/refillwatch-article-04.jpg
 cardTitle: 'Stop Overpaying For Printer Ink: 82% Savings Hack Revealed'
-cardPick: Refillable systems slash ink costs dramatically versus name-brand cartridges,
-  protecting household budgets from sneaky price creep.
----
+cardPick: Refillable systems slash ink costs dramatically versus name-brand cartridges, protecting household budgets from sneaky price creep.---
 
 ## Introduction
 

@@ -1,12 +1,8 @@
 ---
 title: 'DIY Cleaning Supplies: Your Guide to Bulk Refills and Savings'
-metaDescription: Stop overpaying for cleaning products. We compare bulk refill options,
-  calculate real cost savings, and expose retailer price hikes on common household
-  cleaners.
+metaDescription: Stop overpaying for cleaning products. We compare bulk refill options, calculate real cost savings, and expose retailer price hikes on common household cleaners.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Cleaning supplies are one of the sneakiest household budget drains. This
-  guide tracks price hikes on popular products, compares bulk refill alternatives,
-  and shows exactly how much you can save by switching to reusable systems.
+excerpt: Cleaning supplies are one of the sneakiest household budget drains. This guide tracks price hikes on popular products, compares bulk refill alternatives, and shows exactly how much you can save by switching to reusable systems.
 pillarSlug: refill-and-reuse
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B0GF25F12C
 - B085VZPR2Y
 - B0CGW2TFSV
-heroImage: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/diy-cleaning-supplies-bulk-refill-guide.jpg---
 
 ## Introduction
 

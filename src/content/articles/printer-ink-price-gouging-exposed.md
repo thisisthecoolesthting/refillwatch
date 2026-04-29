@@ -1,12 +1,8 @@
 ---
 title: 'Printer Ink Price Gouging: How Brands Keep You Paying More'
-metaDescription: We analyzed 15 printer ink cartridges to reveal how brands manipulate
-  prices and lock you into expensive refills — plus cheaper alternatives that work
-  just as well.
+metaDescription: We analyzed 15 printer ink cartridges to reveal how brands manipulate prices and lock you into expensive refills — plus cheaper alternatives that work just as well.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer ink costs more per ounce than champagne. We tracked price hikes across
-  major brands, calculated true cost per page, and found reusable alternatives that
-  can save households $200+/year.
+excerpt: Printer ink costs more per ounce than champagne. We tracked price hikes across major brands, calculated true cost per page, and found reusable alternatives that can save households $200+/year.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -27,11 +23,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B00063RWT8
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/printer-ink-price-gouging-exposed.jpg
 cardTitle: 'Stop Overpaying for Ink: Refill Hacks Save Hundreds Yearly'
-cardPick: Bulk concentrate refills cut cleaning supply costs by 70% versus brand-name
-  cartridges and pre-filled bottles.
----
+cardPick: Bulk concentrate refills cut cleaning supply costs by 70% versus brand-name cartridges and pre-filled bottles.---
 
 ## Introduction
 

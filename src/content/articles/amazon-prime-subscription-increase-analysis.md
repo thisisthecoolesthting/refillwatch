@@ -1,12 +1,8 @@
 ---
 title: 'Amazon Prime at $139/Year: We Did the Math—Here''s When It''s Worth It'
-metaDescription: Amazon Prime jumped 76% since 2005. We tracked real delivery times,
-  streaming value, and hidden costs to show you the exact break-even point—and better
-  alternatives.
+metaDescription: Amazon Prime jumped 76% since 2005. We tracked real delivery times, streaming value, and hidden costs to show you the exact break-even point—and better alternatives.
 publishedAt: '2026-04-28'
-excerpt: Amazon Prime costs $139/year now—up from $79 in 2005. We analyzed 90 days
-  of real-world data on shipping speeds, streaming bloat, and impulse-buy costs to
-  show which households actually save money and which are overpaying.
+excerpt: Amazon Prime costs $139/year now—up from $79 in 2005. We analyzed 90 days of real-world data on shipping speeds, streaming bloat, and impulse-buy costs to show which households actually save money and which are overpaying.
 pillarSlug: subscription-creep-busters
 relatedProducts:
 - B07TEST0001
@@ -24,11 +20,9 @@ tags:
 - subscription alternatives
 - budgeting
 - consumer advocacy
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/amazon-prime-subscription-increase-analysis.jpg
 cardTitle: Is Amazon Prime Worth $139? The Real Math for Budget Households
-cardPick: Water filter pitchers save families $300+ yearly versus bottled water, eliminating
-  Prime's entire annual cost in pure savings.
----
+cardPick: Water filter pitchers save families $300+ yearly versus bottled water, eliminating Prime's entire annual cost in pure savings.---
 
 ## Introduction
 

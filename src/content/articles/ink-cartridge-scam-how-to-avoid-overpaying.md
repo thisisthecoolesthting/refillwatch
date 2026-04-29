@@ -1,12 +1,8 @@
 ---
 title: 'The Ink Cartridge Scam: How to Avoid Overpaying for Printer Ink'
-metaDescription: Printer ink costs more than champagne per ounce. We expose retailer
-  price hikes, compare cartridge alternatives, and show how to cut costs by 80% with
-  refillable options.
+metaDescription: Printer ink costs more than champagne per ounce. We expose retailer price hikes, compare cartridge alternatives, and show how to cut costs by 80% with refillable options.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Printer manufacturers lose money on hardware but make fortunes on ink. Learn
-  how to spot price hikes, calculate true cost per page, and switch to refillable
-  systems that slash your printing costs.
+excerpt: Printer manufacturers lose money on hardware but make fortunes on ink. Learn how to spot price hikes, calculate true cost per page, and switch to refillable systems that slash your printing costs.
 pillarSlug: price-hikes-exposed
 relatedProducts:
 - B0DHV8SCLS
@@ -26,8 +22,7 @@ tags:
 - printer price hikes
 - ink alternatives
 - printing costs
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/ink-cartridge-scam-how-to-avoid-overpaying.jpg---
 
 ## Introduction
 

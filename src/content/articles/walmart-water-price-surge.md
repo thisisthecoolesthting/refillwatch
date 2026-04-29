@@ -1,11 +1,8 @@
 ---
 title: 'Walmart Water: Is Your Hydration Bill Creeping Up?'
-metaDescription: We tracked Walmart's bottled water price hikes and found cheaper
-  alternatives. See the numbers and how to avoid overpaying for hydration.
+metaDescription: We tracked Walmart's bottled water price hikes and found cheaper alternatives. See the numbers and how to avoid overpaying for hydration.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Walmart's bottled water prices have increased 18% since 2023. We compare
-  current prices to refillable alternatives and calculate how much you could save
-  by switching to reusable options.
+excerpt: Walmart's bottled water prices have increased 18% since 2023. We compare current prices to refillable alternatives and calculate how much you could save by switching to reusable options.
 pillarSlug: price-hike-alerts
 status: published
 tags:
@@ -26,8 +23,7 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=80
----
+heroImage: /images/hero/walmart-water-price-surge.jpg---
 
 # Introduction
 

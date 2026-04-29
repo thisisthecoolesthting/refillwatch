@@ -1,13 +1,8 @@
 ---
 title: 'The Ultimate Printer Ink Showdown: OEM vs. Refillable Cartridges Compared'
-metaDescription: We analyzed 18 printer ink cartridges to expose hidden costs, refill
-  alternatives, and which systems actually save you money per page without sacrificing
-  print quality.
+metaDescription: We analyzed 18 printer ink cartridges to expose hidden costs, refill alternatives, and which systems actually save you money per page without sacrificing print quality.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer ink is one of the most notorious consumer goods for price creep.
-  We tracked 18 cartridges over 365 days to identify which systems offer real savings
-  through refills, third-party options, or bulk purchasing—without compromising print
-  reliability.
+excerpt: Printer ink is one of the most notorious consumer goods for price creep. We tracked 18 cartridges over 365 days to identify which systems offer real savings through refills, third-party options, or bulk purchasing—without compromising print reliability.
 pillarSlug: refillwatch-pillar-2
 status: published
 tags:
@@ -26,11 +21,9 @@ relatedProducts:
 - B0F54TYKF9
 - B0CGW2TFSV
 - B00063RWT8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/refillwatch-article-05.jpg
 cardTitle: 'Stop Overpaying for Printer Ink: Refillable Cartridges Save Thousands'
-cardPick: Refillable cartridges cut ink costs by 70% annually, making them the clear
-  winner for budget-conscious households managing tight budgets.
----
+cardPick: Refillable cartridges cut ink costs by 70% annually, making them the clear winner for budget-conscious households managing tight budgets.---
 
 ## Introduction
 

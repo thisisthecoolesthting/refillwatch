@@ -1,12 +1,8 @@
 ---
 title: 'DIY Cleaning Supplies: Effective and Cheaper Than Brand Names'
-metaDescription: Stop overpaying for cleaning products. We compare DIY solutions to
-  name brands, break down cost-per-use savings, and reveal which refillable systems
-  actually work.
+metaDescription: Stop overpaying for cleaning products. We compare DIY solutions to name brands, break down cost-per-use savings, and reveal which refillable systems actually work.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Store-bought cleaners cost 3-5x more than DIY equivalents. Here's how to
-  make effective alternatives for pennies per bottle, plus which reusable systems
-  justify their upfront cost.
+excerpt: Store-bought cleaners cost 3-5x more than DIY equivalents. Here's how to make effective alternatives for pennies per bottle, plus which reusable systems justify their upfront cost.
 pillarSlug: refill-and-reusable-guides
 status: published
 tags:
@@ -25,11 +21,9 @@ relatedProducts:
 - B0GF25F12C
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/diy-cleaning-supplies-save-money.jpg
 cardTitle: 'Stop Overpaying for Cleaners: Make Your Own for Pennies'
-cardPick: Bulk concentrate costs 80% less than brand names and makes 10x more product
-  with simple water mixing.
----
+cardPick: Bulk concentrate costs 80% less than brand names and makes 10x more product with simple water mixing.---
 
 ## Introduction
 
