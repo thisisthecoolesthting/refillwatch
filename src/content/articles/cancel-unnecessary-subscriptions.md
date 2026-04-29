@@ -32,7 +32,7 @@ Open 3–6 months of transaction history. Search for keywords like "membership,"
 
 ### 2. Use Automated Tracking Tools
 
-Apps like Rocket Money (B07VVK39F7) and Trim (B07F97MPYT) automatically scan your accounts and flag recurring charges. They often catch subscriptions you'd miss manually. Many also send alerts before renewal dates—helpful for catching charges you intended to cancel.
+Apps like Rocket Money and Trim automatically scan your accounts and flag recurring charges. They often catch subscriptions you'd miss manually. Many also send alerts before renewal dates—helpful for catching charges you intended to cancel.
 
 ### 3. Review Service-Specific Cancellation Steps
 

@@ -110,7 +110,7 @@ Bulk water systems aren't perfect. Through stress-testing 12 options, we found:
 - Need plumbing knowledge
 - [Aquasana systems](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) filter 99% of lead/chlorine
 
-The surprise winner? Office-style water coolers with reusable bottles. The [Arrow cooler](B004QM8SLG) paired with local refills ($0.25/gallon) delivers Walmart-quality water for 1/4 the cost.
+The surprise winner? Office-style water coolers with reusable bottles. The [Arrow cooler] paired with local refills ($0.25/gallon) delivers Walmart-quality water for 1/4 the cost.
 
 ### Apartment Solution
 For renters, the [Waterdrop Chubby](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) fits in small fridges and filters 200 gallons before replacement. At $0.15/gallon, it beats Walmart's new prices by 40%.
@@ -148,10 +148,10 @@ For those locked into bottled water, consider:
 2. **Subscription discounts**: [ReadyRefresh](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) delivers 5-gallons for $6.99 with auto-ship
 3. **Refill stations**: Whole Foods and some Walmarts offer $0.25/gallon fills (bring clean containers)
 
-Reusable bottle pro tip: The [Iron Flask gallon](B0CB75LML9) stays cold 24 hours and replaces 200 disposable bottles/year.
+Reusable bottle pro tip: The [Iron Flask gallon] stays cold 24 hours and replaces 200 disposable bottles/year.
 
 ### Emergency Preparedness
-For hurricane season, the [Aqua-Tainer 7-gallon](B004QM8SLG) provides 3 days' water for $15 - cheaper than 7 Walmart 1-gallon jugs ($9.66).
+For hurricane season, the [Aqua-Tainer 7-gallon] provides 3 days' water for $15 - cheaper than 7 Walmart 1-gallon jugs ($9.66).
 
 ## FAQ
 
@@ -168,14 +168,14 @@ Costco's Kirkland Signature remains the value leader at $0.18/bottle (40-pack fo
 Absolutely. A $30 pitcher replacing Walmart water pays for itself in 3 weeks and saves $1,200+/year for families. Even accounting for $40/year filter changes.
 
 ### How do I convince my family to switch from bottled?
-Start with a clear gallon bottle like [Iron Flask](B0CB75LML9) - it's more convenient than small bottles. Calculate your savings together ($200+ annually for most).
+Start with a clear gallon bottle like [Iron Flask] - it's more convenient than small bottles. Calculate your savings together ($200+ annually for most).
 
 ## Bottom line
 
 Walmart's 2024 water price hike forces households to spend $100-300 more annually for the same hydration. The smart alternatives:
 
 1. **Best budget bottled**: Costco Kirkland 40-pack ($7.19)
-2. **Best bulk system**: [Primal 5-gallon](B004QM8SLG) with local refills ($0.25/gallon)
-3. **Best filter**: [Waterdrop pitcher](B0GF25F12C) for tap water homes
+2. **Best bulk system**: [Primal 5-gallon] with local refills ($0.25/gallon)
+3. **Best filter**: [Waterdrop pitcher] for tap water homes
 
 Make the switch this month, and you'll have paid for your new system with savings before summer. We'll continue monitoring these prices and will alert you to any future changes.

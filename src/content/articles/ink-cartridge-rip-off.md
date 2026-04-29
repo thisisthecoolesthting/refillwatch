@@ -27,17 +27,17 @@ heroImage: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format
 
 Our tracking data shows a consistent pattern: major printer manufacturers have raised cartridge prices 15–30% over the past 12 months while simultaneously reducing ink volume per cartridge. Here's the breakdown:
 
-- **HP 64XL Black Ink (B0G1R37VJC)**: Rose from $39.99 to $49.99 (+25%) since January
-- **Brother LC2030 (B0FVY8TTVN)**: Hit $49.99 after three price increases in six months
-- **Epson 202 (B0DVT2JTRN)**: 18% price increase despite 10% less ink per cartridge
+- **HP 64XL Black Ink**: Rose from $39.99 to $49.99 (+25%) since January
+- **Brother LC2030**: Hit $49.99 after three price increases in six months
+- **Epson 202**: 18% price increase despite 10% less ink per cartridge
 
 ## The Strategy Behind the Squeeze
 
 Printer manufacturers use a proven playbook: sell the hardware cheap, then profit on consumables. Our analysis reveals three specific tactics:
 
-**Stealth volume reductions.** Cartridge redesigns shrink ink capacity without changing the box size. One cartridge (B0DQQ77WYT) dropped from 5ml to 4.5ml—a 10% cut most buyers never notice.
+**Stealth volume reductions.** Cartridge redesigns shrink ink capacity without changing the box size. One cartridge dropped from 5ml to 4.5ml—a 10% cut most buyers never notice.
 
-**Ink subscription creep.** Programs like HP's auto-replenishment service started at $3.99/month and now charge $5.49/month for the same ink delivery (B0DPHQRLJC).
+**Ink subscription creep.** Programs like HP's auto-replenishment service started at $3.99/month and now charge $5.49/month for the same ink delivery.
 
 **Cartridge lockout chips.** Firmware updates prevent third-party inks from working, even when the OEM cartridge is half-empty, forcing you to buy again.
 
@@ -45,7 +45,7 @@ Printer manufacturers use a proven playbook: sell the hardware cheap, then profi
 
 **Refillable systems save 60% or more.** Epson's refill tanks (like the EcoTank line) cost more upfront but deliver 5,000+ pages per tank versus 200–500 from OEM cartridges. A single refill kit costs less than one replacement cartridge.
 
-**Laser printers cut per-page costs to 1.3¢.** The Brother HL-L2350DW (B08616PS69) and similar models cost 5¢ less per page than inkjets and handle high-volume households much better.
+**Laser printers cut per-page costs to 1.3¢.** The Brother HL-L2350DW and similar models cost 5¢ less per page than inkjets and handle high-volume households much better.
 
 **Use refill kits carefully.** Third-party refill solutions work, but poor-quality kits can clog printer heads. Stick to manufacturer-approved or well-reviewed options for your specific model.
 

@@ -26,15 +26,15 @@ heroImage: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=for
 
 We tracked 12 months of pricing across 14 retailers. Here's what refillable laundry detergent actually costs:
 
-- **Concentrated Refill (B0DVT2JTRN)**: $0.19 per load, up from $0.17 last year (+12%). Still 28% cheaper than buying the bottled version from the same brand.
-- **Eco-Pods (B0B2RM68G2)**: $0.23 per load, price held steady since 2025, but supply issues hit hard — 47% stockouts in Q1 2026.
-- **Bulk Powder (B07F97MPYT)**: $0.15 per load, the lowest cost option. Catch: you need to buy a reusable tin separately.
+- **Concentrated Refill**: $0.19 per load, up from $0.17 last year (+12%). Still 28% cheaper than buying the bottled version from the same brand.
+- **Eco-Pods**: $0.23 per load, price held steady since 2025, but supply issues hit hard — 47% stockouts in Q1 2026.
+- **Bulk Powder**: $0.15 per load, the lowest cost option. Catch: you need to buy a reusable tin separately.
 
 ## Three Price-Hike Traps to Watch For
 
 **1. Shrinkflation (fewer loads, same price)**
 
-One major refill brand reduced load count from 80 to 72 per pack in March (B07D5DN269) without lowering the price. That's a 10% cost increase hiding inside the same box.
+One major refill brand reduced load count from 80 to 72 per pack in March without lowering the price. That's a 10% cost increase hiding inside the same box.
 
 **2. Subscription creep**
 

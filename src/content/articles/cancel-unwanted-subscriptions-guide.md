@@ -189,7 +189,7 @@ For every subscription, there's usually a pay-as-you-go or ownership-based alter
 
 1. **Bank Statement Audit**: Look for recurring charges with vague merchant names ("APL*APPLE.COM/BILL")
 2. **Email Search**: Check for "welcome", "subscription confirmed", or "payment received" messages
-3. **Password Manager Review**: Services like [B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) show saved logins
+3. **Password Manager Review**: Services like [this pick](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) show saved logins
 4. **Dedicated Trackers**: [B0GF25F12C subscription manager](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) links to bank accounts
 5. **Credit Report**: Some subscriptions appear under "recurring obligations"
 

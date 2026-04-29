@@ -41,49 +41,49 @@ Grocery inflation hits harder than other categories because it's non-negotiable.
 - **Canned Vegetables**: 27% for name brands, 19% for store brands as metal can shortages persist
 - **Dry Goods**: Rice (+22%, exacerbated by India's export restrictions), pasta (+18% on durum wheat shortages), beans (+15% as farmers shift to more profitable crops)
 
-Retailers exploit the fact that most shoppers don't track per-ounce costs. A classic tactic: shrink the package first (32oz → 28oz), then raise the price 6 months later. We found [B0GF25F12C](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) (a popular olive oil) used this exact playbook, resulting in a 29% effective price hike over 18 months. Even more insidious is the practice of 'quality dilution'—maintaining package sizes while using inferior ingredients that require more product per serving, as we discovered with budget pasta brands that now absorb 22% more water during cooking.
+Retailers exploit the fact that most shoppers don't track per-ounce costs. A classic tactic: shrink the package first (32oz → 28oz), then raise the price 6 months later. We found [this pick](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) (a popular olive oil) used this exact playbook, resulting in a 29% effective price hike over 18 months. Even more insidious is the practice of 'quality dilution'—maintaining package sizes while using inferior ingredients that require more product per serving, as we discovered with budget pasta brands that now absorb 22% more water during cooking.
 
 ## Head-to-Head Comparison
 
 | Product                | Size       | Jan 2025 | Apr 2026 | Increase | Cost Per Oz (Current) | Inflation-Adjusted 2025 Price |
 |------------------------|------------|----------|----------|----------|-----------------------|-------------------------------|
-| Jasmine Rice ([B004QM8SLG](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)) | 10 lbs     | $9.99    | $12.49   | 25%      | $0.078               | $10.98                        |
-| Black Beans ([B093TCYF9T](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)) | 12-pack    | $14.29   | $16.99   | 19%      | $0.118               | $15.71                        |
-| Vegetable Oil ([B0F4X2YBP1](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20)) | 1 gallon   | $8.49    | $11.29   | 33%      | $0.088               | $9.34                         |
-| Organic Flour ([B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)) | 5 lbs      | $6.99    | $8.25    | 18%      | $0.103               | $7.69                         |
-| Pasta ([B0CGW48C3G](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)) | 3 lbs      | $4.49    | $5.79    | 29%      | $0.121               | $4.94                         |
+| Jasmine Rice ([this pick](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)) | 10 lbs     | $9.99    | $12.49   | 25%      | $0.078               | $10.98                        |
+| Black Beans ([this pick](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)) | 12-pack    | $14.29   | $16.99   | 19%      | $0.118               | $15.71                        |
+| Vegetable Oil ([this pick](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20)) | 1 gallon   | $8.49    | $11.29   | 33%      | $0.088               | $9.34                         |
+| Organic Flour ([this pick](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)) | 5 lbs      | $6.99    | $8.25    | 18%      | $0.103               | $7.69                         |
+| Pasta ([this pick](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)) | 3 lbs      | $4.49    | $5.79    | 29%      | $0.121               | $4.94                         |
 
 Key findings from our expanded analysis:
-1. **Oils show worst inflation**: Every tracked oil product increased over 25%, with [B0F4X2YBP1](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20) (vegetable oil) having both the highest jump (33%) and most volatile pricing (12 price changes in 18 months). The volatility creates opportunities—we observed 72-hour price dips averaging 14% below trend every 47 days.
-2. **Rice has hidden bulk savings**: The 25-lb [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) bag costs $0.063/oz—19% cheaper per ounce than the 10-lb bag, despite the higher upfront cost. When stored properly in food-grade buckets with oxygen absorbers, the break-even point occurs at just 4.2 months of average household consumption.
-3. **Store brand trap**: While store brand pasta ([B0CGW48C3G](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)) appears cheaper, its 29% price increase outpaced name brands (22%) as retailers capitalize on consumers trading down. Quality tests showed 18% more broken noodles per box and longer cooking times that increase energy costs.
+1. **Oils show worst inflation**: Every tracked oil product increased over 25%, with [this pick](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20) (vegetable oil) having both the highest jump (33%) and most volatile pricing (12 price changes in 18 months). The volatility creates opportunities—we observed 72-hour price dips averaging 14% below trend every 47 days.
+2. **Rice has hidden bulk savings**: The 25-lb [this pick](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) bag costs $0.063/oz—19% cheaper per ounce than the 10-lb bag, despite the higher upfront cost. When stored properly in food-grade buckets with oxygen absorbers, the break-even point occurs at just 4.2 months of average household consumption.
+3. **Store brand trap**: While store brand pasta ([this pick](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)) appears cheaper, its 29% price increase outpaced name brands (22%) as retailers capitalize on consumers trading down. Quality tests showed 18% more broken noodles per box and longer cooking times that increase energy costs.
 
 ## Real-World Performance
 
 Pantry staples seem interchangeable until you cook with them. Through 126 blind taste tests and precise cooking yield measurements conducted in our test kitchen, we identified significant performance variations that impact true cost per serving:
 
-- **Rice quality varies dramatically**: Cheap long-grain rice ([B004QM8SLG](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)) absorbed 15% less water than premium brands, requiring 1.3 cups dry rice to yield the same cooked volume as 1 cup of higher-quality rice. This effectively negates the apparent price savings when measured by prepared servings.
-- **Oil smoke points matter**: Budget vegetable oil ([B0F4X2YBP1](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20)) burned at 25°F lower than claimed (actual smoke point 425°F vs labeled 450°F), forcing testers to reduce frying temperatures and extend cooking times by 18% for foods like fried chicken or tempura.
-- **Bean hydration is key**: Store-brand beans ([B093TCYF9T](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)) took 45 minutes longer to soften versus name brands in pressure cooker tests, increasing energy costs by an estimated $0.14 per batch. Older bean crops (common in budget options) develop harder seed coats that resist water penetration.
+- **Rice quality varies dramatically**: Cheap long-grain rice ([this pick](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)) absorbed 15% less water than premium brands, requiring 1.3 cups dry rice to yield the same cooked volume as 1 cup of higher-quality rice. This effectively negates the apparent price savings when measured by prepared servings.
+- **Oil smoke points matter**: Budget vegetable oil ([this pick](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20)) burned at 25°F lower than claimed (actual smoke point 425°F vs labeled 450°F), forcing testers to reduce frying temperatures and extend cooking times by 18% for foods like fried chicken or tempura.
+- **Bean hydration is key**: Store-brand beans ([this pick](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)) took 45 minutes longer to soften versus name brands in pressure cooker tests, increasing energy costs by an estimated $0.14 per batch. Older bean crops (common in budget options) develop harder seed coats that resist water penetration.
 
-Storage is another hidden cost often overlooked in bulk calculations. The 25-lb rice bag ([B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)) requires an airtight container (adding $12-18 for food-grade buckets with gamma seals), while smaller packages fit standard pantry shelves. However, our lifecycle analysis shows the container cost amortizes to just $0.004 per meal over five years of use, making it negligible for regular users.
+Storage is another hidden cost often overlooked in bulk calculations. The 25-lb rice bag ([this pick](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)) requires an airtight container (adding $12-18 for food-grade buckets with gamma seals), while smaller packages fit standard pantry shelves. However, our lifecycle analysis shows the container cost amortizes to just $0.004 per meal over five years of use, making it negligible for regular users.
 
 ## Cost Math
 
 Breaking down true costs per meal with updated 2026 pricing and accounting for preparation variables:
 
 **Rice (per 1/4 cup cooked serving)**
-- 10-lb bag ([B004QM8SLG](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)): $0.14 (adjusted for 15% lower yield)
-- 25-lb bulk ([B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)): $0.11 (21% savings, including container cost)
-- Restaurant supply 50-lb ([B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)): $0.09 (35% savings with proper storage)
+- 10-lb bag ([this pick](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)): $0.14 (adjusted for 15% lower yield)
+- 25-lb bulk ([this pick](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)): $0.11 (21% savings, including container cost)
+- Restaurant supply 50-lb ([this pick](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)): $0.09 (35% savings with proper storage)
 
 **Beans (per 1/2 cup cooked serving)**
-- Canned ([B093TCYF9T](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)): $0.38 (including liquid waste)
+- Canned ([this pick](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)): $0.38 (including liquid waste)
 - Dry bulk (per lb): $0.22 (42% savings, accounting for 15% higher energy use)
 - Co-op bulk bin: $0.19 (50% savings when buying exact quantities needed)
 
 **Oil (per tablespoon)**
-- Gallon jug ([B0F4X2YBP1](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20)): $0.07
+- Gallon jug ([this pick](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20)): $0.07
 - 33.8oz bottle: $0.09 (22% savings)
 - Restaurant pack 35-lb: $0.05 (29% savings but requires dark storage)
 
@@ -94,9 +94,9 @@ Breakeven analysis reveals surprising insights:
 
 ## Alternatives and Refills
 
-1. **Rice**: Restaurant supply stores sell 50-lb bags of [B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) (same grain as [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)) for $0.051/oz—35% cheaper than grocery stores. Many locations offer cash-and-carry sales without membership requirements. For urban dwellers, Asian or Hispanic markets often have 25-lb bags at prices 22% below mainstream retailers.
+1. **Rice**: Restaurant supply stores sell 50-lb bags of [this pick](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) (same grain as [this pick](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)) for $0.051/oz—35% cheaper than grocery stores. Many locations offer cash-and-carry sales without membership requirements. For urban dwellers, Asian or Hispanic markets often have 25-lb bags at prices 22% below mainstream retailers.
 
-2. **Oils**: Consider buying [B0CGW48C3G](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) (avocado oil) by the gallon—it has a 30% longer shelf life than vegetable oil and maintains quality through more frying cycles. Restaurant depot stores sell 35-lb containers of high-stability frying oils to the public in most states. For health-conscious buyers, Costco's 2-pack of organic olive oil ([B0GF25F12C](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20)) currently offers the best per-ounce price at $0.11/oz.
+2. **Oils**: Consider buying [this pick](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) (avocado oil) by the gallon—it has a 30% longer shelf life than vegetable oil and maintains quality through more frying cycles. Restaurant depot stores sell 35-lb containers of high-stability frying oils to the public in most states. For health-conscious buyers, Costco's 2-pack of organic olive oil ([this pick](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20)) currently offers the best per-ounce price at $0.11/oz.
 
 3. **Beans**: Local co-ops often have bulk bins where you can buy exact quantities; eliminates canned liquid waste and allows mixing varieties. Some natural food stores offer 10% discounts for bringing your own containers. For those with storage space, direct-from-farmer purchases of 25-lb bean sacks can save 40-60% compared to retail, especially for heirloom varieties.
 
@@ -105,7 +105,7 @@ Tradeoffs require careful consideration: Bulk oils need dark storage (like a bas
 ## FAQ
 
 ### How often do grocery staples actually change price?
-Amazon price histories show staples like rice and oil change every 47 days on average—but retailers mask this by rotating which products get hikes each month. Our tracking revealed that most shoppers only notice prices when they exceed personal thresholds (typically 15-20% above remembered prices), allowing for gradual increases across multiple products simultaneously. The most volatile category is cooking oils, with some products like [B0F4X2YBP1](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20) showing weekly fluctuations of up to 12% during supply chain disruptions.
+Amazon price histories show staples like rice and oil change every 47 days on average—but retailers mask this by rotating which products get hikes each month. Our tracking revealed that most shoppers only notice prices when they exceed personal thresholds (typically 15-20% above remembered prices), allowing for gradual increases across multiple products simultaneously. The most volatile category is cooking oils, with some products like [this pick](https://www.amazon.com/dp/B0F4X2YBP1?tag=refillwatch-20) showing weekly fluctuations of up to 12% during supply chain disruptions.
 
 ### Are warehouse club prices really better?
 Only for non-perishables: Costco's 25-lb rice is $0.02/oz cheaper than Amazon, but their produce often costs more than local grocers. Our analysis of 36 common items found that warehouse clubs only beat supermarket prices on 19 items when accounting for membership fees. The real savings come in categories like:
@@ -114,7 +114,7 @@ Only for non-perishables: Costco's 25-lb rice is $0.02/oz cheaper than Amazon, b
 - Baking staples (25-lb flour vs 5-lb bags)
 
 ### Does buying organic offset inflation?
-Counterintuitively, yes—organic dry goods increased just 12% vs 22% for conventional, as their buyers are more price-sensitive. The organic rice market ([B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)) actually saw price decreases in 2025 due to oversupply. However, organic perishables like milk and eggs followed opposite trends with higher inflation rates.
+Counterintuitively, yes—organic dry goods increased just 12% vs 22% for conventional, as their buyers are more price-sensitive. The organic rice market ([this pick](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)) actually saw price decreases in 2025 due to oversupply. However, organic perishables like milk and eggs followed opposite trends with higher inflation rates.
 
 ### How long can I store bulk dry goods?
 Properly sealed rice lasts 30 years, beans 10+ years. Oxygen absorbers ($0.10 each) extend this further by preventing insect eggs from hatching. Our accelerated aging tests showed:
@@ -127,4 +127,4 @@ Only if you'll use it within 2 years. The 5% savings from a sale gets erased if 
 
 ## Bottom Line
 
-For most households, prioritizing bulk purchases of [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) (25-lb rice) and [B0CGW48C3G](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) (gallon oil) delivers the strongest inflation protection, with per-meal costs 20-35% below standard packages. The math proves that even accounting for storage solutions and occasional waste, bulk buying essentials during price dips creates a natural hedge against food inflation. Avoid canned beans ([B093TCYF9T](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)) where the convenience premium now exceeds 40%—switch to bulk dry beans and a pressure cooker to cut costs in half. Set price alerts for these 7 staples; when you see a 15%+ drop (typically occurring every 3-4 months based on our data), buy 6 months' worth. That's the sweet spot between savings and waste that keeps your grocery budget predictable despite turbulent food prices.
+For most households, prioritizing bulk purchases of [this pick](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) (25-lb rice) and [this pick](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) (gallon oil) delivers the strongest inflation protection, with per-meal costs 20-35% below standard packages. The math proves that even accounting for storage solutions and occasional waste, bulk buying essentials during price dips creates a natural hedge against food inflation. Avoid canned beans ([this pick](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)) where the convenience premium now exceeds 40%—switch to bulk dry beans and a pressure cooker to cut costs in half. Set price alerts for these 7 staples; when you see a 15%+ drop (typically occurring every 3-4 months based on our data), buy 6 months' worth. That's the sweet spot between savings and waste that keeps your grocery budget predictable despite turbulent food prices.

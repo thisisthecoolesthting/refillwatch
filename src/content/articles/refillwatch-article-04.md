@@ -64,11 +64,11 @@ We tested seven common printing scenarios (school reports, photo printing, busin
 
 | Model | Current Price | Price Change (90d) | Pages/Yield | Cost Per Page | Refillable? |
 |-------|--------------|--------------------|------------|--------------|-------------|
-| [HP 63XL (B0FT32PL8L)](https://www.amazon.com/dp/B0FT32PL8L?tag=refillwatch-20) | $34.99 | +16.7% | 300 | $0.117 | No |
-| [Brother LC203XL (B08GX3K9YS)](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) | $35.88 | 0% | 600 | $0.060 | No |
-| [Epson 502 (B0BVYBVHK5)](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) | $22.50 | +18.7% | 400 | $0.056 | No |
-| [Canon PG-240XL (B07C11YW88)](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) | $18.99 | +5.6% | 400 | $0.047 | No |
-| [EcoTank ET-2800 (B083BFPGD8)](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) | $199.99 | -2.3% | 4,500 | $0.009 | Yes |
+| [HP 63XL](https://www.amazon.com/dp/B0FT32PL8L?tag=refillwatch-20) | $34.99 | +16.7% | 300 | $0.117 | No |
+| [Brother LC203XL](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) | $35.88 | 0% | 600 | $0.060 | No |
+| [Epson 502](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) | $22.50 | +18.7% | 400 | $0.056 | No |
+| [Canon PG-240XL](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) | $18.99 | +5.6% | 400 | $0.047 | No |
+| [EcoTank ET-2800](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) | $199.99 | -2.3% | 4,500 | $0.009 | Yes |
 
 **Key takeaways:**
 - Brother offers nearly double the yield of HP for similar upfront cost
@@ -87,9 +87,9 @@ Our stress tests revealed surprising durability differences:
 
 - **Brother cartridges** consistently delivered 5–12% more pages than rated when printing text documents
 - **HP Instant Ink subscribers** reported 27% more frequent cartridge replacements after firmware updates
-- Third-party [INKTEC Refill Kit (B0CYJV9X52)](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) worked flawlessly in Canon printers but caused clogging issues in 38% of Epson models tested
+- Third-party [INKTEC Refill Kit](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) worked flawlessly in Canon printers but caused clogging issues in 38% of Epson models tested
 
-One major gotcha: 'XL' cartridges don't always mean better value. The [HP 305XL (B0DYNQ1WP7)](https://www.amazon.com/dp/B0DYNQ1WP7?tag=refillwatch-20) costs 22% more than standard but only provides 15% additional ink. Always check the milliliter (ml) quantity rather than relying on marketing terms.
+One major gotcha: 'XL' cartridges don't always mean better value. The [HP 305XL](https://www.amazon.com/dp/B0DYNQ1WP7?tag=refillwatch-20) costs 22% more than standard but only provides 15% additional ink. Always check the milliliter (ml) quantity rather than relying on marketing terms.
 
 We conducted a 90-day real-world trial with five families tracking their actual ink usage:
 
@@ -128,7 +128,7 @@ We created a detailed cost calculator accounting for printer depreciation (most 
 
 Three proven ways to beat cartridge costs:
 
-1. **Bulk ink systems:** The [Epson 106 Bottled Ink (B0CYJV9X52)](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) provides 70 refills for $42.99—just $0.61 per fill
+1. **Bulk ink systems:** The [Epson 106 Bottled Ink](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) provides 70 refills for $42.99—just $0.61 per fill
 2. **Third-party cartridges:** Reliable brands offer HP 63XL alternatives at 30–50% discounts; always check compatibility with your firmware version
 3. **Ink subscription audits:** Cancel HP Instant Ink if your plan exceeds $0.08/page
 
