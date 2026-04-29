@@ -55,7 +55,7 @@ const latestSix = allArticles
 const computedTrust = `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products tracked`;
 const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || computedTrust;
 
-// ---------- Pinterest pin variants ----------
+// ---------- Pinterest pin variants (6 unique tints, no repeats) ----------
 const pinThumbVariants = [
   'bg-gradient-to-b from-sage-400/40 to-sage-600/55',
   'bg-gradient-to-b from-cream-200 to-terracotta-400/35',
@@ -67,6 +67,43 @@ const pinThumbVariants = [
 
 const heroStatCount = completeProducts.length;
 const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracked';
+
+// ---------- Image dedupe: never reuse an image URL on the same page ----------
+// Strips the size/quality query so /photo-X?w=1600 and /photo-X?w=2400 dedupe.
+const normalizeImageKey = (u: string | undefined | null): string => {
+  if (!u) return '';
+  const m = String(u).match(/photo-[^?]+/);
+  if (m) return m[0];
+  return String(u).split('?')[0];
+};
+
+// Count how many articles share each heroImage. If N>1, that's a tell that none
+// of these are real per-article art (it's just the niche default). Suppress
+// all instances and let the typographic-pin gradient render instead.
+const heroKey = normalizeImageKey(h.heroImageUrl);
+const articleKeyCounts = new Map<string, number>();
+for (const a of latestSix) {
+  const k = normalizeImageKey(a.data.heroImage);
+  if (k) articleKeyCounts.set(k, (articleKeyCounts.get(k) || 0) + 1);
+}
+
+const usedImageKeys = new Set<string>();
+if (heroKey) usedImageKeys.add(heroKey);
+
+// An article keeps its image only when:
+//   1. It has a heroImage
+//   2. No other article on this page shares that image
+//   3. It's not the page hero
+//   4. It hasn't already been claimed by a prior card
+const latestSixWithDedupe = latestSix.map((a) => {
+  const key = normalizeImageKey(a.data.heroImage);
+  const isShared = key && (articleKeyCounts.get(key) || 0) > 1;
+  if (key && !isShared && !usedImageKeys.has(key)) {
+    usedImageKeys.add(key);
+    return { entry: a, useImage: true };
+  }
+  return { entry: a, useImage: false };
+});
 ---
 
 <CompliantLayout title={b.fullName} description={dmeta}>
@@ -274,10 +311,10 @@ const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracke
       </div>
 
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {latestSix.map((a, i) => (
+        {latestSixWithDedupe.map(({ entry: a, useImage }, i) => (
           <a href={`/articles/${a.slug}`} class="group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all">
-            <div class={`relative aspect-[2/3] overflow-hidden ${a.data.heroImage ? '' : pinThumbVariants[i % pinThumbVariants.length]}`}>
-              {a.data.heroImage ? (
+            <div class={`relative aspect-[2/3] overflow-hidden ${useImage ? '' : pinThumbVariants[i % pinThumbVariants.length]}`}>
+              {useImage ? (
                 <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
                      class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
               ) : (
