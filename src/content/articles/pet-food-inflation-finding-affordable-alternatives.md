@@ -8,7 +8,7 @@ excerpt: With pet food prices up 18% in three years, we analyzed 14 brands to fi
   budget-friendly alternatives that don't compromise nutrition. Discover which premium
   kibbles have the worst shrinkflation and how bulk buying can save $127/year.
 pillarSlug: price-hikes-exposed
-status: draft
+status: published
 tags:
 - pet food inflation
 - dog food alternatives

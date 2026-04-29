@@ -17,7 +17,7 @@ relatedProducts:
 - B0F54TYKF9
 - B073Q8P6CQ
 - B00063RWT8
-status: draft
+status: published
 tags:
 - printer ink
 - ink refill

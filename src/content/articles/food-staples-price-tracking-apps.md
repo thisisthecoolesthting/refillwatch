@@ -8,7 +8,7 @@ excerpt: When the price of your weekly groceries creeps up without warning, thes
   12 price tracking apps help you spot retailer price hikes on flour, sugar, coffee
   and other staples before you overpay at checkout.
 pillarSlug: price-hikes-exposed
-status: draft
+status: published
 tags:
 - grocery price tracking
 - food inflation

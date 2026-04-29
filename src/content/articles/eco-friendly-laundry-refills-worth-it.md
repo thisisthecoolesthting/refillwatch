@@ -8,7 +8,7 @@ excerpt: Breaking down the real costs and performance of eco-friendly laundry re
   versus traditional detergents—with price tracking data and longevity tests to show
   if these sustainable alternatives actually save you money.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - laundry detergent
 - eco-friendly

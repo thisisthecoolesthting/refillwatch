@@ -8,7 +8,7 @@ excerpt: Shampoo bars promise eco-friendly savings, but do they actually cost le
   than liquid shampoos? We tracked 18 months of price data, calculated cost per wash,
   and tested real-world longevity to find the true breakeven point.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - shampoo bars
 - liquid shampoo

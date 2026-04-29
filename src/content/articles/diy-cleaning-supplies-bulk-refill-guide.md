@@ -8,7 +8,7 @@ excerpt: Cleaning supplies are one of the sneakiest household budget drains. Thi
   guide tracks price hikes on popular products, compares bulk refill alternatives,
   and shows exactly how much you can save by switching to reusable systems.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - cleaning supplies
 - bulk refill

@@ -17,7 +17,7 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-status: draft
+status: published
 tags:
 - printer ink
 - ink cartridge scam

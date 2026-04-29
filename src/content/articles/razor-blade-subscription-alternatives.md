@@ -8,7 +8,7 @@ excerpt: Razor subscription services have quietly doubled prices in recent years
   We analyze 12 alternatives—from bulk refills to safety razors—with cost-per-shave
   math and durability tests to help you cut expenses without cutting quality.
 pillarSlug: subscription-savings
-status: draft
+status: published
 tags:
 - razor blade subscription
 - cheaper than Dollar Shave Club

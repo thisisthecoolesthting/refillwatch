@@ -7,7 +7,7 @@ excerpt: Walmart's bottled water prices have increased 18% since 2023. We compar
   current prices to refillable alternatives and calculate how much you could save
   by switching to reusable options.
 pillarSlug: price-hike-alerts
-status: draft
+status: published
 tags:
 - bottled water
 - price hike

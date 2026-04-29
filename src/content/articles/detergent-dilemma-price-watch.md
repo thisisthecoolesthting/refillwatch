@@ -8,7 +8,7 @@ excerpt: Retailers have raised laundry detergent prices 12-27% since 2025 while 
   bottle sizes. We analyze the worst offenders, calculate true cost per load, and
   recommend refill systems that cut costs by 40%.
 pillarSlug: price-hike-alerts
-status: draft
+status: published
 tags:
 - laundry detergent
 - price tracking

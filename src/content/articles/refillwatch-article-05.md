@@ -9,7 +9,7 @@ excerpt: Printer ink is one of the most notorious consumer goods for price creep
   through refills, third-party options, or bulk purchasing—without compromising print
   reliability.
 pillarSlug: refillwatch-pillar-2
-status: draft
+status: published
 tags:
 - printer ink
 - ink refills

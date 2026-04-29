@@ -15,7 +15,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0DWD9NQ57
-status: draft
+status: published
 tags:
 - subscription creep
 - cancel subscriptions

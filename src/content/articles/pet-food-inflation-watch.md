@@ -8,7 +8,7 @@ excerpt: Retailers are quietly raising pet food prices 5-15% annually. We analyz
   14 brands to expose the worst offenders and found bulk refill options that protect
   your budget without compromising quality.
 pillarSlug: price-hike-alerts
-status: draft
+status: published
 tags:
 - pet food inflation
 - dog food price hike

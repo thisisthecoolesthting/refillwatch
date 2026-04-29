@@ -8,7 +8,7 @@ excerpt: Disposable personal care products add up fast. This guide compares refi
   alternatives for razors, soap, shampoo, and more with cost-per-use math and longevity
   tests to cut your routine's costs by 30-70%.
 pillarSlug: refill-and-reusable-guides
-status: draft
+status: published
 tags:
 - refillable personal care
 - razor blade savings

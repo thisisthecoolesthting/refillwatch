@@ -18,7 +18,7 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-status: draft
+status: published
 tags:
 - subscription creep
 - price tracking

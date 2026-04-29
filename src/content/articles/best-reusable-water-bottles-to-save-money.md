@@ -8,7 +8,7 @@ excerpt: Disposable water bottle prices have increased 47% since 2020. We tested
   reusable alternatives to calculate exactly when they pay for themselves — and which
   designs last longest under daily use.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - water bottle price hike
 - reusable vs disposable

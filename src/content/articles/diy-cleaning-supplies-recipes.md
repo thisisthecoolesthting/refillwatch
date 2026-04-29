@@ -8,7 +8,7 @@ excerpt: Commercial cleaning products have seen 18-34% price hikes since 2020. O
   tests prove homemade alternatives using vinegar, baking soda, and castile soap deliver
   equal cleaning power at 90% lower cost per use.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - homemade cleaners
 - cost comparison

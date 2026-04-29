@@ -8,7 +8,7 @@ excerpt: Dog food prices jumped 18% in 2025 while cat food saw 22% increases. We
   14 brands' pricing trends and recommend affordable, high-quality alternatives with
   bulk buying strategies.
 pillarSlug: price-hikes-exposed
-status: draft
+status: published
 tags:
 - pet food inflation
 - affordable dog food

@@ -8,7 +8,7 @@ excerpt: Disposable water bottles cost 300x more than tap water. We tested 12 re
   options to find which actually last, calculating exact breakeven points and hidden
   costs most reviews ignore.
 pillarSlug: refill-and-reusable-guides
-status: draft
+status: published
 tags:
 - reusable water bottles
 - cost comparison

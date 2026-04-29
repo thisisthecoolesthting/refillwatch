@@ -7,7 +7,7 @@ excerpt: Pet food prices have surged up to 30% at major retailers. We analyze th
   hikes, compare popular brands, and reveal cost-effective alternatives that keep
   tails wagging without breaking the bank.
 pillarSlug: price-hike-alerts
-status: draft
+status: published
 tags:
 - pet food price increase
 - affordable pet food

@@ -7,7 +7,7 @@ excerpt: Disposable water bottles cost 300% more than reusable options over thre
   years. We analyzed 15 models to find which stainless steel and glass bottles withstand
   daily use while saving you the most.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - water bottle savings
 - reusable vs disposable

@@ -8,7 +8,7 @@ excerpt: Laundry detergent prices have crept up 28% since 2020. We analyze 12 bu
   options to find the true cost-per-load winners, track hidden price hikes on major
   brands, and test refill systems that cut waste and costs.
 pillarSlug: refill-and-reuse
-status: draft
+status: published
 tags:
 - laundry detergent
 - bulk buying
