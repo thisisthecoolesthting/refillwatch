@@ -14,4 +14,4 @@ RefillWatch is her attempt to name them. Every pricing alert tracks the specific
 
 Dana reads the quarterly earnings calls, watches the SKU-level price changes, and talks to former category managers who know which hikes are designed to be unnoticeable. The writing is dry on purpose: consumer-pricing journalism works when it&rsquo;s specific, not when it&rsquo;s outraged.
 
-RefillWatch takes no sponsored placements from the retailers or brands it covers. Affiliate links go to neutral third parties or refill / bulk suppliers who aren&rsquo;t the same companies raising the prices. The full disclosure is on the <a href="/methodology/">methodology page</a>.
+RefillWatch takes no sponsored placements from the retailers or brands it covers. Partner links go to neutral third parties or refill / bulk suppliers who aren&rsquo;t the same companies raising the prices. The full disclosure is on the <a href="/methodology/">methodology page</a>.
