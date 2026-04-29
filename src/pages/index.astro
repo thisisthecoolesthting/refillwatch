@@ -47,29 +47,57 @@ const pillarFour = allPillars
   .slice(0, 4);
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
-const latestSix = allArticles
-  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
-  .slice(0, 6);
+
+// ---------- Article topic dedupe: 1 article per primary tag ----------
+// Stops two near-identical "Amazon Prime" cards from sitting next to each other.
+// Newest published per tag wins; untagged articles use slug as their bucket so
+// they don't collapse into one another.
+const articlesByDateDesc = [...allArticles]
+  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
+const seenTopicKeys = new Set<string>();
+const topicUniqueArticles: typeof articlesByDateDesc = [];
+const topicSpilloverArticles: typeof articlesByDateDesc = [];
+for (const a of articlesByDateDesc) {
+  const primaryTag = String((a.data.tags?.[0] || '')).toLowerCase().trim();
+  const key = primaryTag || `__untagged-${a.slug}`;
+  if (!seenTopicKeys.has(key)) {
+    seenTopicKeys.add(key);
+    topicUniqueArticles.push(a);
+  } else {
+    topicSpilloverArticles.push(a);
+  }
+}
+// Take topic-unique first; only fall back to spillover if we'd render
+// fewer than 3 cards (3-col grid would look broken with 1-2 cards).
+const latestSix = topicUniqueArticles.length >= 3
+  ? topicUniqueArticles.slice(0, 6)
+  : [...topicUniqueArticles, ...topicSpilloverArticles].slice(0, 6);
 
 // ---------- Trust line ----------
 const computedTrust = `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products tracked`;
 const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || computedTrust;
 
-// ---------- Pinterest pin variants (6 unique tints, no repeats) ----------
-const pinThumbVariants = [
-  'bg-gradient-to-b from-sage-400/40 to-sage-600/55',
-  'bg-gradient-to-b from-cream-200 to-terracotta-400/35',
-  'bg-gradient-to-b from-terracotta-400/35 to-rose-deep/55',
-  'bg-gradient-to-b from-cream-100 to-sage-400/35',
-  'bg-gradient-to-b from-ink-900/95 to-ink-700',
-  'bg-gradient-to-b from-cream-200 to-sage-500/45',
-];
-
 const heroStatCount = completeProducts.length;
 const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracked';
 
-// ---------- Image dedupe: never reuse an image URL on the same page ----------
-// Strips the size/quality query so /photo-X?w=1600 and /photo-X?w=2400 dedupe.
+// ---------- Niche-relevant image pool ----------
+// When an article's heroImage is shared/default/missing, we pick from this pool
+// instead of leaving the card image-less. All photos are on-niche for the
+// "consumer pricing watchdog / shrinkflation / staples" beat.
+const NICHE_IMAGE_POOL = [
+  'https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80', // shopping cart
+  'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80', // produce aisle
+  'https://images.unsplash.com/photo-1601598851547-4302969d0614?auto=format&fit=crop&w=1200&q=80', // supermarket shelves
+  'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=1200&q=80', // receipts + red pen
+  'https://images.unsplash.com/photo-1556742393-d75f468bfcb0?auto=format&fit=crop&w=1200&q=80',  // calculator + bills
+  'https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?auto=format&fit=crop&w=1200&q=80', // pile of receipts
+  'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80',  // coins / budget
+  'https://images.unsplash.com/photo-1607083681678-52d5ef83b9b5?auto=format&fit=crop&w=1200&q=80', // detergent on shelf
+  'https://images.unsplash.com/photo-1543168256-418811576931?auto=format&fit=crop&w=1200&q=80',  // bulk bins / jars
+  'https://images.unsplash.com/photo-1580913428023-02c695666d61?auto=format&fit=crop&w=1200&q=80', // water bottles row
+];
+
+// ---------- Image selection per card with per-page dedupe ----------
 const normalizeImageKey = (u: string | undefined | null): string => {
   if (!u) return '';
   const m = String(u).match(/photo-[^?]+/);
@@ -77,9 +105,8 @@ const normalizeImageKey = (u: string | undefined | null): string => {
   return String(u).split('?')[0];
 };
 
-// Count how many articles share each heroImage. If N>1, that's a tell that none
-// of these are real per-article art (it's just the niche default). Suppress
-// all instances and let the typographic-pin gradient render instead.
+// How many articles share each heroImage. If N>1, none of them have real
+// per-article art -- it's the niche default. We'll pick from the pool instead.
 const heroKey = normalizeImageKey(h.heroImageUrl);
 const articleKeyCounts = new Map<string, number>();
 for (const a of latestSix) {
@@ -87,22 +114,45 @@ for (const a of latestSix) {
   if (k) articleKeyCounts.set(k, (articleKeyCounts.get(k) || 0) + 1);
 }
 
+// Per-page "already used" set. Hero counts. Pool entries get added as they're claimed.
 const usedImageKeys = new Set<string>();
 if (heroKey) usedImageKeys.add(heroKey);
 
-// An article keeps its image only when:
-//   1. It has a heroImage
-//   2. No other article on this page shares that image
-//   3. It's not the page hero
-//   4. It hasn't already been claimed by a prior card
-const latestSixWithDedupe = latestSix.map((a) => {
-  const key = normalizeImageKey(a.data.heroImage);
-  const isShared = key && (articleKeyCounts.get(key) || 0) > 1;
-  if (key && !isShared && !usedImageKeys.has(key)) {
-    usedImageKeys.add(key);
-    return { entry: a, useImage: true };
+// Stable hash so the same article slug always gets the same pool photo
+// across rebuilds (no flicker in indexing/sitemap thumbnails).
+const hashSlug = (slug: string): number => {
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) {
+    h = ((h << 5) - h + slug.charCodeAt(i)) | 0;
   }
-  return { entry: a, useImage: false };
+  return Math.abs(h);
+};
+
+const pickPoolImage = (slug: string): string => {
+  const startIdx = hashSlug(slug) % NICHE_IMAGE_POOL.length;
+  // Walk the pool from the hash position, return the first unused photo.
+  for (let i = 0; i < NICHE_IMAGE_POOL.length; i++) {
+    const candidate = NICHE_IMAGE_POOL[(startIdx + i) % NICHE_IMAGE_POOL.length];
+    const k = normalizeImageKey(candidate);
+    if (!usedImageKeys.has(k)) {
+      usedImageKeys.add(k);
+      return candidate;
+    }
+  }
+  // Pool exhausted (only happens if we have more than 10 cards).
+  return NICHE_IMAGE_POOL[startIdx];
+};
+
+// For each article: keep its real heroImage if unique on this page; else pick
+// a stable, niche-relevant photo from the pool.
+const latestSixWithDedupe = latestSix.map((a) => {
+  const articleKey = normalizeImageKey(a.data.heroImage);
+  const isShared = articleKey && (articleKeyCounts.get(articleKey) || 0) > 1;
+  if (articleKey && !isShared && !usedImageKeys.has(articleKey)) {
+    usedImageKeys.add(articleKey);
+    return { entry: a, imageUrl: a.data.heroImage as string };
+  }
+  return { entry: a, imageUrl: pickPoolImage(a.slug) };
 });
 ---
 
@@ -311,36 +361,26 @@ const latestSixWithDedupe = latestSix.map((a) => {
       </div>
 
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {latestSixWithDedupe.map(({ entry: a, useImage }, i) => (
+        {latestSixWithDedupe.map(({ entry: a, imageUrl }) => (
           <a href={`/articles/${a.slug}`} class="group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all">
-            <div class={`relative aspect-[2/3] overflow-hidden ${useImage ? '' : pinThumbVariants[i % pinThumbVariants.length]}`}>
-              {useImage ? (
-                <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
-                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
-              ) : (
-                <div class={`absolute inset-0 p-6 flex flex-col justify-between ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
-                  <span class={`font-mono text-[10.5px] tracking-[0.16em] uppercase ${i === 4 ? 'text-terracotta-400' : 'text-terracotta-600'}`}>
-                    {(a.data.tags?.[0] || 'Article')} · {a.data.readingTime || '8'} min read
-                  </span>
-                  <h3 class={`font-display text-2xl leading-[1.08] max-w-[12ch] !mt-0 ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
-                    {a.data.title}
-                  </h3>
-                </div>
-              )}
-            </div>
-            <div class="p-5 flex flex-col gap-2.5">
-              <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">
-                {a.data.tags?.[0] || 'Editorial'}
-              </p>
-              <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
-                {a.data.title}
-              </h3>
-              <div class="flex items-center gap-2.5 mt-auto pt-3 border-t border-cream-200 text-xs text-ink-500">
-                <span class="inline-grid place-items-center w-6 h-6 rounded-full bg-sage-500 text-cream-50 font-display font-semibold text-[11px]">
-                  {(editorPseudonym?.[0] || b.fullName?.[0] || 'E').toUpperCase()}
+            <div class="relative aspect-[2/3] overflow-hidden bg-cream-100">
+              <img src={imageUrl} alt={a.data.title} loading="lazy"
+                   class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
+              <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent via-ink-900/0 to-ink-900/55"></div>
+              <div class="absolute inset-x-0 bottom-0 p-5 text-cream-50">
+                <span class="font-mono text-[10.5px] tracking-[0.16em] uppercase text-cream-50/85">
+                  {(a.data.tags?.[0] || 'Article')} · {a.data.readingTime || '8'} min read
                 </span>
-                <span>{editorPseudonym || 'Editorial'} · {new Date(a.data.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+                <h3 class="font-display text-xl leading-[1.12] !mt-1 text-cream-50 max-w-[14ch]">
+                  {a.data.title}
+                </h3>
               </div>
+            </div>
+            <div class="px-5 py-3 flex items-center gap-2.5 text-xs text-ink-500 border-t border-cream-200">
+              <span class="inline-grid place-items-center w-6 h-6 rounded-full bg-sage-500 text-cream-50 font-display font-semibold text-[11px]">
+                {(editorPseudonym?.[0] || b.fullName?.[0] || 'E').toUpperCase()}
+              </span>
+              <span>{editorPseudonym || 'Editorial'} · {new Date(a.data.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
             </div>
           </a>
         ))}
