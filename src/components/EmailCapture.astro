@@ -1,0 +1,8 @@
+---
+// EmailCapture — lightweight inline subscribe form.
+// Delegates to NewsletterForm until a dedicated capture widget is built.
+import NewsletterForm from '@/components/NewsletterForm.astro';
+interface Props { title?: string; subtitle?: string; }
+const { title, subtitle } = Astro.props;
+---
+{title && <NewsletterForm variant="inline" title={title} subtitle={subtitle ?? ''} />}
