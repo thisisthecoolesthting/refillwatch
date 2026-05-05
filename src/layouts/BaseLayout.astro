@@ -2,15 +2,17 @@
 import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
-import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
-import home from '@/data/brand.config.json';
+import home from '@/data/spawn-home.json';
 
 const id = home.brand.identity;
+const b = home.brand;
+const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || '';
 
-// Analytics auto-injection -- reads brand.config.json analytics.ga_measurement_id at build time.
-const gaAnalytics = (home as { analytics?: { ga_measurement_id?: string } }).analytics;
-const gaMeasurementId = (gaAnalytics?.ga_measurement_id || '').trim();
-const siteBrandName = home.brand.fullName;
+// Analytics auto-injection — reads niche_spec.analytics.ga_measurement_id at
+// build time. When set, emits the gtag.js snippet so /analytics dashboard
+// can flip from not_connected to live without code changes.
+const ga = (home as { analytics?: { ga_measurement_id?: string; ga_property_id?: string; search_console_property?: string } }).analytics;
+const gaMeasurementId = (ga?.ga_measurement_id || '').trim();
 
 export interface Props {
   title: string;
@@ -18,36 +20,36 @@ export interface Props {
   image?: string;
   canonical?: string;
   noindex?: boolean;
-  // Open Graph type controls Pinterest Rich Pin detection.
-  //   'website' -- home, about, listings (default)
-  //   'article' -- pillars, articles; unlocks Article Rich Pins
-  //   'product' -- product reviews (Product Rich Pins detected via JSON-LD already)
   ogType?: 'website' | 'article' | 'product';
-  // Required-by-Pinterest when ogType='article'
-  articlePublishedTime?: string;    // ISO8601
-  articleModifiedTime?: string;     // ISO8601
-  articleAuthor?: string;           // free text
-  articleSection?: string;          // e.g. 'Hot Flashes', 'Sleep'
+  articlePublishedTime?: string;
+  articleModifiedTime?: string;
+  articleAuthor?: string;
+  articleSection?: string;
   articleTags?: string[];
 }
 
 const {
   title,
-  description = home.brand.taglineShort,
-  image = '/og-default.png',
+  description = dmeta,
+  image,
   canonical,
   noindex = false,
   ogType = 'website',
   articlePublishedTime,
   articleModifiedTime,
-  articleAuthor = siteBrandName,
+  articleAuthor = b.fullName,
   articleSection,
   articleTags = [],
 } = Astro.props;
 
-const siteUrl = 'https://refillwatch.org';
-const fullTitle = title.includes(siteBrandName) ? title : `${title} | ${siteBrandName}`;
-const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString();
+const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
+const hero = home.homepage.heroImageUrl;
+const defaultOg = (image && image.length) ? image : (hero && hero.length ? hero : '/og-default.png');
+const og = defaultOg;
+const isAbs = (u: string) => /^https?:\/\//i.test(u);
+const fullTitle = title.includes(b.fullName) ? title : `${title} | ${b.fullName}`;
+const canonicalUrl = canonical ?? (siteUrl ? new URL(Astro.url.pathname, siteUrl + '/').toString() : Astro.url.href);
+const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toString() : og;
 ---
 
 <!doctype html>
@@ -67,14 +69,14 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString(
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={new URL(image, siteUrl).toString()} />
+    <meta property="og:image" content={ogImageUrl} />
     <meta property="og:url" content={canonicalUrl} />
-    <meta property="og:site_name" content={siteBrandName} />
+    <meta property="og:site_name" content={b.fullName} />
 
     {ogType === 'article' && (
       <>
         {articlePublishedTime && <meta property="article:published_time" content={articlePublishedTime} />}
-        {articleModifiedTime  && <meta property="article:modified_time"  content={articleModifiedTime} />}
+        {articleModifiedTime && <meta property="article:modified_time" content={articleModifiedTime} />}
         <meta property="article:author" content={articleAuthor} />
         {articleSection && <meta property="article:section" content={articleSection} />}
         {articleTags.map((t) => <meta property="article:tag" content={t} />)}
@@ -84,12 +86,10 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString(
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={new URL(image, siteUrl).toString()} />
+    <meta name="twitter:image" content={ogImageUrl} />
 
-    <link rel="alternate" type="application/rss+xml" title={siteBrandName} href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title={b.fullName} href="/rss.xml" />
 
-    {/* Beehiiv embed auto-resize script. Loads once per page regardless of how
-        many NewsletterForm instances are embedded. No-op if env var isn't set. */}
     {(() => {
       const url = import.meta.env.PUBLIC_NEWSLETTER_EMBED_URL;
       if (typeof url === 'string' && url.includes('subscribe-forms.beehiiv.com')) {
@@ -97,8 +97,8 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString(
       }
       return null;
     })()}
-  
-    {/* Google Analytics 4 -- auto-injected when brand.config.json analytics.ga_measurement_id is set */}
+
+    {/* Google Analytics 4 — auto-injected when niche_spec.analytics.ga_measurement_id is set */}
     {gaMeasurementId && (
       <>
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}></script>
@@ -108,11 +108,9 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString(
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
-    <AffiliateDisclosure />
     <main class="flex-1">
       <slot />
     </main>
     <Footer />
   </body>
 </html>
-  

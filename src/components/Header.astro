@@ -4,8 +4,7 @@ import BrandMark from '@/components/BrandMark.astro';
 const navItems = [
   { href: '/', label: 'Home' },
   { href: '/pillars', label: 'Guides' },
-  { href: '/products', label: 'Reviews' },
-  { href: '/articles', label: 'Articles' },
+  { href: '/products', label: 'Picks' },
   { href: '/about', label: 'About' },
 ];
 ---
@@ -19,10 +18,10 @@ const navItems = [
       {/* Top bar: brand + hamburger (mobile) / inline nav (desktop) */}
       <div class="px-5 sm:px-6 py-3 md:py-4 flex items-center justify-between gap-3">
         <a href="/" class="no-underline flex items-baseline min-w-0 shrink">
-          <BrandMark />
+          <BrandMark splitWordmark />
         </a>
 
-        {/* Desktop nav -- hidden on mobile */}
+        {/* Desktop nav — hidden on mobile */}
         <nav class="hidden md:block">
           <ul class="flex gap-5 md:gap-7 text-sm font-medium">
             {navItems.map((item) => (
@@ -38,7 +37,7 @@ const navItems = [
           </ul>
         </nav>
 
-        {/* Mobile hamburger toggle -- hidden on md+ */}
+        {/* Mobile hamburger toggle — hidden on md+ */}
         <button
           id="site-nav-toggle"
           type="button"
@@ -60,7 +59,7 @@ const navItems = [
         </button>
       </div>
 
-      {/* Mobile expandable panel -- collapsed by default */}
+      {/* Mobile expandable panel — collapsed by default */}
       <nav
         id="site-nav-mobile"
         class="md:hidden overflow-hidden max-h-0 transition-[max-height] duration-300 ease-out"
