@@ -3,15 +3,12 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
-import FeaturedProductsBlock from '@/components/FeaturedProductsBlock.astro';
-import StickyProductBar from '@/components/StickyProductBar.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import AuthorCard from '@/components/AuthorCard.astro';
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import TopPicksBlock from '@/components/TopPicksBlock.astro';
 import ArticleToC from '@/components/ArticleToC.astro';
-import ComparisonTable from '@/components/ComparisonTable.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
@@ -124,16 +121,6 @@ const articleSchema = {
         </figure>
       )}
 
-      {relatedProducts.length >= 1 && (
-        <div id="top-picks">
-          <TopPicksBlock products={relatedProducts} />
-        </div>
-      )}
-
-      {relatedProducts.length >= 3 && (
-        <ComparisonTable products={relatedProducts} caption="Products compared in this guide" />
-      )}
-
       <AdSlot position="mid_content" label="pre-body" />
 
       <div class="prose prose-lg prose-ink max-w-none">
@@ -142,9 +129,36 @@ const articleSchema = {
 
       <AdSlot position="end" label="post-body" />
 
-      <FeaturedProductsBlock products={relatedProducts} />
-
       {needsMedicalDisclaimer && <MedicalDisclaimer />}
+
+      {author && (
+        <aside class="not-prose my-10 flex gap-5 items-start p-6 bg-cream-100 rounded-2xl border border-cream-200/60">
+          <a href={`/authors/${author.slug}/`} class="shrink-0">
+            <img
+              src={author.data.photoUrl}
+              alt={author.data.name}
+              width="72"
+              height="72"
+              class="w-[72px] h-[72px] rounded-full object-cover ring-2 ring-terracotta-200"
+              loading="lazy"
+            />
+          </a>
+          <div>
+            <p class="font-semibold text-ink-900 text-sm mb-1">
+              Written by <a href={`/authors/${author.slug}/`} class="hover:text-terracotta-600 transition-colors">{author.data.name}</a>
+            </p>
+            <p class="text-sm text-ink-700 leading-relaxed">
+              {author.data.bio ?? "Independent researcher and tester. Everything on this site reflects hands-on evaluation, community feedback, and primary source research."}
+              {' '}<a href="/methodology/" class="text-terracotta-600 hover:underline">How we research →</a>
+            </p>
+          </div>
+        </aside>
+      )}
+      {relatedProducts.length >= 1 && (
+        <div id="top-picks">
+          <TopPicksBlock products={relatedProducts} />
+        </div>
+      )}
     </article>
   </div>
 
@@ -152,6 +166,4 @@ const articleSchema = {
     <EmailCapture title={nl.title} subtitle={nl.subtitle} />
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />
   </div>
-
-  {topProduct && <StickyProductBar product={topProduct} />}
 </BaseLayout>
