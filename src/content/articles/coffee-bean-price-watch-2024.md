@@ -18,7 +18,7 @@ relatedProducts:
 - B07TEST2345
 - B07TEST6789
 - B07TEST0123
-status: published
+status: draft
 tags:
 - coffee price increase
 - bulk coffee beans

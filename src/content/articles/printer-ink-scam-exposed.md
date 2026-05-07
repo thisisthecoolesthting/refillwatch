@@ -9,7 +9,7 @@ excerpt: Printer manufacturers lose money on hardware to lock you into overprice
   refillable systems that deliver the same quality for pennies—plus the hidden ink
   still in 'empty' cartridges manufacturers won't let you access.
 pillarSlug: price-hike-alerts
-status: published
+status: draft
 tags:
 - printer ink scam
 - inkjet vs laser

@@ -10,7 +10,7 @@ excerpt: Your dish soap costs 20% more for the same bottle. We tracked 27 cleani
   the average household $234 annually—plus which 'bulk' options are actually terrible
   deals.
 pillarSlug: refill-reuse-save
-status: published
+status: draft
 tags:
 - bulk cleaning supplies
 - refill stations

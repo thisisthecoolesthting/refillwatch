@@ -15,7 +15,7 @@ relatedProducts:
 - B07TEST0004
 - B07TEST0005
 - B07TEST0006
-status: published
+status: draft
 tags:
 - Amazon Prime
 - subscription creep
@@ -130,7 +130,7 @@ This comparison table shows real-world performance:
 
 ### Alternative 1: The Budget Bundle (Save $41/year)
 
-**[Walmart+](https://www.amazon.com/dp/B07TEST0001?tag=refillwatch-20) ($98/year) + [Tubi](https://www.amazon.com/dp/B07TEST0003?tag=refillwatch-20) (free, ad-supported)**
+**[Walmart+](https://www.amazon.com/dp/B07TEST0001?tag=refillwatch-20) ($98/year) + Tubi (free, ad-supported)**
 
 Walmart+ includes:
 - 2-day shipping on most items (competitive with Prime)

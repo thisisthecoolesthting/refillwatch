@@ -52,10 +52,10 @@ Case Study: The [Netflix Basic plan](https://www.amazon.com/dp/B0DHV8SCLS?tag=re
 | Service         | 2020 Price | Current Price | Increase | Content Hours Added | Avg. Watch Time (hrs/month) | Cost Per Active Hour |
 |-----------------|------------|---------------|----------|----------------------|-----------------------------|-----------------------|
 | Netflix Standard | $12.99     | $15.49        | +19%     | -8% (net loss)       | 23                          | $0.67                |
-| [Disney+ Premium](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) | $6.99      | $13.99        | +100%    | +214%                | 19                          | $0.74                |
+| Disney+ Premium | $6.99      | $13.99        | +100%    | +214%                | 19                          | $0.74                |
 | Hulu (No Ads)   | $11.99     | $17.99        | +50%     | +32%                 | 28                          | $0.64                |
 | Max (4K)        | $14.99     | $19.99        | +33%     | +18%                 | 21                          | $0.95                |
-| [Apple TV+](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) | $4.99      | $9.99         | +100%    | +412%                | 14                          | $0.71                |
+| Apple TV+ | $4.99      | $9.99         | +100%    | +412%                | 14                          | $0.71                |
 
 Key findings:
 - Disney+'s 100% hike is the steepest but comes with Marvel/Star Wars series
@@ -89,7 +89,7 @@ Breaking down true value:
 - **Hulu**: $0.29 per hour (was $0.21)
 - **Max**: $0.34 per hour (was $0.28)
 
-Surprise winner: [Apple TV+](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) at $0.17/hour thanks to fewer price hikes and tighter content curation. Their $9.99/month fee hasn't changed since 2019 while adding 412% more content hours.
+Surprise winner: Apple TV+ at $0.17/hour thanks to fewer price hikes and tighter content curation. Their $9.99/month fee hasn't changed since 2019 while adding 412% more content hours.
 
 Hidden Costs Exposed:
 1. **Device taxes**: Many 4K plans require specific hardware (e.g., only Apple TV 4K supports full Disney+ Dolby Vision)
@@ -113,7 +113,7 @@ Streaming services are transitioning from growth mode to profitability, with inv
 
 ### Are annual plans better?
 
-Only if you'll definitely use the service 12 months. Our data shows most subscribers lapse after 7 months. Exceptions: [Disney+](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)'s annual plan saves $16 over monthly—but only if you watch year-round.
+Only if you'll definitely use the service 12 months. Our data shows most subscribers lapse after 7 months. Exceptions: Disney+'s annual plan saves $16 over monthly—but only if you watch year-round.
 
 ### How does password sharing affect this?
 
