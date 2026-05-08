@@ -20,7 +20,7 @@ tags:
 - third-party ink
 relatedProducts:
 - B00CBBJ5KY
-heroImage: /images/hero/printer-ink-scam-exposed.jpg
+heroImage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

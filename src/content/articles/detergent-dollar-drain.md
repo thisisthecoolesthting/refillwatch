@@ -28,7 +28,7 @@ tags:
 - eco-friendly detergent
 - subscription laundry
 - store brand vs name brand
-heroImage: /images/hero/detergent-dollar-drain.jpg
+heroImage: "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

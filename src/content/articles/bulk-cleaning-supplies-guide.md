@@ -23,7 +23,7 @@ relatedProducts:
 - B00B5JOC5C
 - B00CBBJ5KY
 - B098JD8HD3
-heroImage: /images/hero/bulk-cleaning-supplies-guide.jpg
+heroImage: "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

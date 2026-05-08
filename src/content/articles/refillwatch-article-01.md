@@ -27,7 +27,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/refillwatch-article-01.jpg
+heroImage: "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Printer Ink: Save $200 Yearly'
 cardPick: Refill cartridges cost 70% less than OEM originals while delivering identical
   print quality for budget-conscious households.

@@ -26,7 +26,7 @@ tags:
 - ad-free streaming
 - bundling services
 - password sharing crackdown
-heroImage: /images/hero/streaming-service-price-hikes.jpg
+heroImage: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

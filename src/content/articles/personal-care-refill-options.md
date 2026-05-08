@@ -40,7 +40,7 @@ relatedProducts:
 - B0G63G9LRJ
 - B0G63H5J2M
 - B0GCMVP12Q
-heroImage: /images/hero/personal-care-refill-options.jpg
+heroImage: "https://images.unsplash.com/photo-1607083681678-52d5ef83b9b5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

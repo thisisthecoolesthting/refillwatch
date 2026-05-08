@@ -27,7 +27,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/refillwatch-article-06.jpg
+heroImage: "https://images.unsplash.com/photo-1601598851547-4302969d0614?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Printer Ink: Real Savings Breakdown'
 cardPick: Refill systems slash ink costs by 70% versus cartridge replacement, delivering
   legitimate savings for budget-conscious households.

@@ -33,7 +33,7 @@ tags:
 - printing savings
 - refillable ink
 - inkjet alternatives
-heroImage: /images/hero/printer-ink-refill-kits-worth-it.jpg
+heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

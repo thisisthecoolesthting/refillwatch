@@ -26,7 +26,7 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: /images/hero/pet-food-price-hikes-and-cheaper-alternatives.jpg
+heroImage: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

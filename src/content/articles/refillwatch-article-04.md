@@ -26,7 +26,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/refillwatch-article-04.jpg
+heroImage: "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying For Printer Ink: 82% Savings Hack Revealed'
 cardPick: Refillable systems slash ink costs dramatically versus name-brand cartridges,
   protecting household budgets from sneaky price creep.

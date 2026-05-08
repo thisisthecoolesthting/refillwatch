@@ -26,7 +26,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/refillwatch-article-08.jpg
+heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=1600&q=80"
 cardTitle: Printer Ink Costs Up 40%? Here's What Actually Saves Money
 cardPick: Third-party refill solutions cut ink expenses by half without sacrificing
   print quality or voiding warranties.

@@ -26,7 +26,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/ink-cartridge-scam-uncovered.jpg
+heroImage: "https://images.unsplash.com/photo-1586374579358-9d19d632b6df?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

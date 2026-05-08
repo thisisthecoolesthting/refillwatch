@@ -23,7 +23,7 @@ tags:
 - cost comparison
 - reusable water
 - bulk water
-heroImage: /images/hero/walmart-water-price-increase-2024.jpg
+heroImage: "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Walmart Water Prices Rising Fast: Switch to Reusable Bottles Now'
 cardPick: Reusable bottles eliminate recurring water markups, saving budget-conscious
   households hundreds annually on bottled water alone.

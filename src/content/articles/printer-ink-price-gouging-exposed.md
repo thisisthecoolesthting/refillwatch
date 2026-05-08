@@ -27,7 +27,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B00063RWT8
-heroImage: /images/hero/printer-ink-price-gouging-exposed.jpg
+heroImage: "https://images.unsplash.com/photo-1543168256-418811576931?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Ink: Refill Hacks Save Hundreds Yearly'
 cardPick: Bulk concentrate refills cut cleaning supply costs by 70% versus brand-name
   cartridges and pre-filled bottles.

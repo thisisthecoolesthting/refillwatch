@@ -17,7 +17,7 @@ relatedProducts:
 - B07VVK39F7
 - B07F97MPYT
 - B07D5DN269
-heroImage: /images/hero/cancel-unnecessary-subscriptions.jpg
+heroImage: "https://images.unsplash.com/photo-1586899028174-e7098604235b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## The Silent Budget Drain

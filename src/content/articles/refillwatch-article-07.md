@@ -27,7 +27,7 @@ tags:
 - refillable ink
 - printer supplies
 - cost per page
-heroImage: /images/hero/refillwatch-article-07.jpg
+heroImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Printer Ink Costs Skyrocket: Here''s How to Save Big'
 cardPick: Third-party cartridges cut costs 60-70% versus OEM brands while maintaining
   quality and reliability for everyday printing.

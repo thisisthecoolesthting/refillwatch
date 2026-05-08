@@ -27,7 +27,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/reusable-water-bottles-best-value.jpg
+heroImage: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

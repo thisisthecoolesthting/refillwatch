@@ -25,7 +25,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/pet-food-inflation-finding-affordable-alternatives.jpg
+heroImage: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

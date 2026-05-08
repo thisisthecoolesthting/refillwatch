@@ -22,7 +22,7 @@ tags:
 - printer maintenance
 - ink subscription services
 - printer warranty
-heroImage: /images/hero/refillwatch-article-03.jpg
+heroImage: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'OEM vs. Refillable Printer Ink: Real Cost Breakdown Test Results'
 cardPick: Refillable cartridges cut printing costs by 70% annually compared to OEM,
   delivering genuine savings verified through controlled testing.

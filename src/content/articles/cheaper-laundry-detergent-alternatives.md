@@ -32,7 +32,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F54TYKF9
-heroImage: /images/hero/cheaper-laundry-detergent-alternatives.jpg
+heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying: Bulk Cleaner Concentrate Saves Hundreds Yearly'
 cardPick: One concentrate bottle yields 10+ refills, slashing per-use costs to pennies
   compared to pre-made bottles.

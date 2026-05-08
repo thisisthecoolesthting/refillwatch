@@ -25,7 +25,7 @@ tags:
 - printing savings
 - cartridge alternatives
 - ink price tracking
-heroImage: /images/hero/refillwatch-article-02.jpg
+heroImage: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Printer Ink Costs Exploding: Refill Systems Save $800+ Yearly'
 cardPick: Refill systems cost 80% less than OEM cartridges while delivering identical
   print quality without subscription traps.

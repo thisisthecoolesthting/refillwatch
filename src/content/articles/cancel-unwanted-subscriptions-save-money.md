@@ -24,7 +24,7 @@ tags:
 - price hike alerts
 - subscription audits
 - money saving tips
-heroImage: /images/hero/cancel-unwanted-subscriptions-save-money.jpg
+heroImage: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

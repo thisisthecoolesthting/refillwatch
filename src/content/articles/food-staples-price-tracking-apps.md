@@ -26,7 +26,7 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: /images/hero/food-staples-price-tracking-apps.jpg
+heroImage: "https://images.unsplash.com/photo-1569172122301-bc5008bc09c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

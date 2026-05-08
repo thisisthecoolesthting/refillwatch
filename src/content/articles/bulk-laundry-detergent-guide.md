@@ -28,7 +28,7 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: /images/hero/bulk-laundry-detergent-guide.jpg
+heroImage: "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

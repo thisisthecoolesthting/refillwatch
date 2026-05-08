@@ -20,7 +20,7 @@ tags:
 - disney plus price increase
 - netflix alternatives
 - streaming cost comparison
-heroImage: /images/hero/streaming-service-price-doubling.jpg
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

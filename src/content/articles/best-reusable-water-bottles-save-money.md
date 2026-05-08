@@ -26,7 +26,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/best-reusable-water-bottles-save-money.jpg
+heroImage: "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?auto=format&fit=crop&w=1600&q=80"
 cardTitle: Stop Spending $100+ Yearly on Bottled Water
 cardPick: One large reusable bottle pays for itself in weeks while eliminating recurring
   beverage expenses forever.

@@ -28,7 +28,7 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: /images/hero/razor-blade-subscription-alternatives.jpg
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

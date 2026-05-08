@@ -20,7 +20,7 @@ tags:
 - refillable coffee
 - amazon price hike
 - walmart grocery inflation
-heroImage: /images/hero/coffee-bean-price-watch-2024.jpg
+heroImage: "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

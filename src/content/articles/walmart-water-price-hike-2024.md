@@ -18,7 +18,7 @@ tags:
 - household savings
 - bulk water refills
 relatedProducts:
-heroImage: /images/hero/walmart-water-price-hike-2024.jpg
+heroImage: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

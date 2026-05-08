@@ -46,7 +46,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: /images/hero/diy-cleaning-supplies-recipes.jpg
+heroImage: "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

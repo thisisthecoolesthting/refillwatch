@@ -20,7 +20,7 @@ tags:
 - pet food subscription creep
 - refillable pet food options
 - price tracking pet goods
-heroImage: /images/hero/pet-food-inflation-tracking.jpg
+heroImage: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Filtered Water: Budget-Friendly Pitcher Alternative'
 cardPick: Large capacity pitcher eliminates recurring bottled water costs while filtering
   at home for pennies per gallon versus store prices.

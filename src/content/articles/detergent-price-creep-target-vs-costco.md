@@ -36,7 +36,7 @@ tags:
 - refillable
 - shrinkflation
 - consumer watchdog
-heroImage: /images/hero/detergent-price-creep-target-vs-costco.jpg
+heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

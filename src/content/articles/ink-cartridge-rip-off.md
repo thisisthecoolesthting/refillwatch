@@ -20,7 +20,7 @@ tags:
 - price-hike
 - refillable-alternatives
 - consumables
-heroImage: /images/hero/ink-cartridge-rip-off.jpg
+heroImage: "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Printer Ink Price Hikes: What We Found

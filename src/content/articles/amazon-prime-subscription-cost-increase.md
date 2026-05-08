@@ -23,7 +23,7 @@ relatedProducts:
 - B0GF25F12C
 - B0F4X2YBP1
 - B0CGW2TFSV
-heroImage: /images/hero/amazon-prime-subscription-cost-increase.jpg
+heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
 cardTitle: Why Your Amazon Prime Just Cost You Double
 cardPick: Bulk concentrate cleaners cut cleaning supply costs by 75%, eliminating
   the subscription creep that inflates household budgets yearly.

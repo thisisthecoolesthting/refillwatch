@@ -27,7 +27,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/best-reusable-water-bottles-to-save-money.jpg
+heroImage: "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

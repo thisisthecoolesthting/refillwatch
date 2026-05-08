@@ -28,7 +28,7 @@ relatedProducts:
 - B0F54TYKF9
 - B0G3BYYZN2
 - B0GF25F12C
-heroImage: /images/hero/shampoo-bar-vs-liquid-cost-comparison.jpg
+heroImage: "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

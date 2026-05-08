@@ -28,7 +28,7 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B09W9MF63Y
-heroImage: /images/hero/refillwatch-article-10.jpg
+heroImage: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Ink: Refillable Systems Save 80% Yearly'
 cardPick: Refillable ink systems eliminate recurring price hikes by letting you buy
   bulk cartridges once, slashing annual printing costs dramatically.

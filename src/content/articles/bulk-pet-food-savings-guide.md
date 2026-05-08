@@ -29,7 +29,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F4X2YBP1
-heroImage: /images/hero/bulk-pet-food-savings-guide.jpg
+heroImage: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Skip Pet Store Markups: Buy Bulk Pet Food Like a Savvy Shopper'
 cardPick: Bulk purchasing eliminates recurring markup costs, stretching pet budgets
   30-40% further annually than routine retail purchases.

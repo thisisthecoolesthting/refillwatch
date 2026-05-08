@@ -26,7 +26,7 @@ tags:
 - printer price hikes
 - ink alternatives
 - printing costs
-heroImage: /images/hero/ink-cartridge-scam-how-to-avoid-overpaying.jpg
+heroImage: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

@@ -31,7 +31,7 @@ relatedProducts:
 - B0DHV8SCLS
 - B0G63G9LRJ
 - B0GCMVP12Q
-heroImage: /images/hero/pet-food-inflation-watch.jpg
+heroImage: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction
