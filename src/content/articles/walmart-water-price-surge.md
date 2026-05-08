@@ -235,18 +235,7 @@ Math them quarterly. Prime is $139/year and breaks even on shipping alone at rou
 
 The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
 
-
-
-## What to watch for before you buy
-
-- **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
-- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
-- **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
-- **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
-- **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
-- **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
-- **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
-
+<!-- boilerplate-stripped-v1 -->
 
 ## How we tracked this
 
