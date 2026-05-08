@@ -8,7 +8,7 @@ excerpt: Walmart's Great Value water jumped 37% in early 2024—the largest sing
   increase since their brand launched. We tracked 1,200 stores, tested three refillable
   systems against bottled options, and found breakeven timelines as short as 10 weeks.
 pillarSlug: price-hike-alerts
-status: draft
+status: "published"
 tags:
 - water price increase
 - bottled water alternatives
@@ -18,13 +18,6 @@ tags:
 - household savings
 - bulk water refills
 relatedProducts:
-- B07TEST1234
-- B07TEST5678
-- B07TEST9012
-- B07TEST3456
-- B07TEST7890
-- B07TEST2345
-- B07TEST6789
 heroImage: /images/hero/walmart-water-price-hike-2024.jpg
 ---
 

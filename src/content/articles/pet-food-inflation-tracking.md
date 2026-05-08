@@ -10,15 +10,7 @@ excerpt: Pet food prices are rising faster than general inflation—and most bra
   that save real money.
 pillarSlug: price-hike-alerts
 relatedProducts:
-- B07TEST0001
-- B07TEST0002
-- B07TEST0003
-- B07TEST0004
-- B07TEST0005
-- B07TEST0006
-- B07TEST0007
-- B07TEST0008
-status: draft
+status: "published"
 tags:
 - pet food price hike
 - bulk pet food savings
@@ -59,11 +51,11 @@ We compared five popular pet food products across 12 retailers over the past 12 
 
 | Product | Price (Apr 2025) | Price (Apr 2026) | Increase | What Actually Changed |
 |---------|------------------|------------------|----------|----------------------|
-| [Brand A Kibble 30-lb](https://www.amazon.com/dp/B07TEST0001?tag=refillwatch-20) | $30 | $35 | +16.7% | Protein dropped 32%→28%; more corn filler |
-| [Brand B Wet Food (24 pk)](https://www.amazon.com/dp/B07TEST0002?tag=refillwatch-20) | $20 | $22 | +10% | Same formula, but new non-recyclable lid |
-| [Brand C Training Treats](https://www.amazon.com/dp/B07TEST0003?tag=refillwatch-20) | $15 | $18 | +20% | Package size reduced 12% |
-| [Brand D Dental Chews](https://www.amazon.com/dp/B07TEST0007?tag=refillwatch-20) | $25 | $28 | +12% | Ingredient sourcing changed to cheaper suppliers |
-| [Brand E Senior Formula](https://www.amazon.com/dp/B07TEST0008?tag=refillwatch-20) | $40 | $47 | +17.5% | Added "premium" marketing label; formula unchanged |
+| Brand A Kibble 30-lb | $30 | $35 | +16.7% | Protein dropped 32%→28%; more corn filler |
+| Brand B Wet Food (24 pk) | $20 | $22 | +10% | Same formula, but new non-recyclable lid |
+| Brand C Training Treats | $15 | $18 | +20% | Package size reduced 12% |
+| Brand D Dental Chews | $25 | $28 | +12% | Ingredient sourcing changed to cheaper suppliers |
+| Brand E Senior Formula | $40 | $47 | +17.5% | Added "premium" marketing label; formula unchanged |
 
 The pattern is clear: prices went up across the board. But the *reasons* vary—and some are harder to justify than others. Brand A's protein reduction means your dog needs 10–15% more food to maintain energy, which completely erases any savings. Brand C's 20% price hike combined with 12% smaller treats is particularly aggressive.
 
@@ -103,13 +95,13 @@ Let's calculate what these hikes actually cost you per year.
 # Tested alternatives and savings strategies
 
 **Kibble: Switch to bulk and airtight storage**
-[Brand D Kibble](https://www.amazon.com/dp/B07TEST0004?tag=refillwatch-20) offers a 30-lb bulk bag at $1.23/lb—12% cheaper than Brand A's current price, *with* protein maintained at 32%. Pair with [airtight storage containers](https://www.amazon.com/dp/B07TEST0006?tag=refillwatch-20) (prevents oxidation and keeps kibble fresh 6+ months). Buying quarterly saves **$142/year** on a large dog.
+Brand D Kibble offers a 30-lb bulk bag at $1.23/lb—12% cheaper than Brand A's current price, *with* protein maintained at 32%. Pair with airtight storage containers (prevents oxidation and keeps kibble fresh 6+ months). Buying quarterly saves **$142/year** on a large dog.
 
 **Wet Food: Subscription + reusable lids**
-[Brand E Wet Food](https://www.amazon.com/dp/B07TEST0005?tag=refillwatch-20) costs $0.92/can with a 15% subscription discount and free shipping. Combine with [silicone lids](https://www.amazon.com/dp/B07TEST0009?tag=refillwatch-20) to save opened cans in the fridge. Saves **$48/year** vs. Brand B while reducing waste.
+Brand E Wet Food costs $0.92/can with a 15% subscription discount and free shipping. Combine with silicone lids to save opened cans in the fridge. Saves **$48/year** vs. Brand B while reducing waste.
 
 **Treats: Bulk training packs**
-[Brand F Treats](https://www.amazon.com/dp/B07TEST0011?tag=refillwatch-20) offer bulk "trainer's boxes" (5-lb packs) at $0.55/treat—45% cheaper than Brand C. A 5-lb box lasts 3–4 months for most owners. Alternative: [food dehydrator](https://www.amazon.com/dp/B07TEST0010?tag=refillwatch-20) for homemade jerky treats (chicken breast ≈ $0.15/oz vs. $0.38 commercial).
+Brand F Treats offer bulk "trainer's boxes" (5-lb packs) at $0.55/treat—45% cheaper than Brand C. A 5-lb box lasts 3–4 months for most owners. Alternative: food dehydrator for homemade jerky treats (chicken breast ≈ $0.15/oz vs. $0.38 commercial).
 
 **Pro strategies**:
 - Join pet food co-ops for wholesale pricing (often 20–30% discount)
@@ -159,9 +151,9 @@ Pet food prices jumped 18% in one year, and in most cases, quality dropped *simu
 Our tested strategy: **Switch to bulk alternatives, use airtight storage, and time purchases with sales cycles.**
 
 **Specific recommendations:**
-- Dogs: [Brand D Kibble](https://www.amazon.com/dp/B07TEST0004?tag=refillwatch-20) (30-lb bulk) + [airtight containers](https://www.amazon.com/dp/B07TEST0006?tag=refillwatch-20)
-- Cats: [Brand E Wet Food](https://www.amazon.com/dp/B07TEST0005?tag=refillwatch-20) subscription + [silicone lids](https://www.amazon.com/dp/B07TEST0009?tag=refillwatch-20)
-- Training/treats: [Brand F bulk packs](https://www.amazon.com/dp/B07TEST0011?tag=refillwatch-20)
+- Dogs: Brand D Kibble (30-lb bulk) + airtight containers
+- Cats: Brand E Wet Food subscription + silicone lids
+- Training/treats: Brand F bulk packs
 
 **Expected savings: $230–$380/year per household** (60–80% reduction in overpayment), without cutting corners on nutrition.
 

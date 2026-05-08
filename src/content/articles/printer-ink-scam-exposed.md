@@ -9,7 +9,7 @@ excerpt: Printer manufacturers lose money on hardware to lock you into overprice
   refillable systems that deliver the same quality for pennies—plus the hidden ink
   still in 'empty' cartridges manufacturers won't let you access.
 pillarSlug: price-hike-alerts
-status: draft
+status: "published"
 tags:
 - printer ink scam
 - inkjet vs laser
@@ -19,14 +19,6 @@ tags:
 - Epson ecotank
 - third-party ink
 relatedProducts:
-- B07TEST1234
-- B07TEST5678
-- B07TEST9012
-- B07TEST3456
-- B07TEST7890
-- B07TEST2345
-- B07TEST6789
-- B07TEST0123
 heroImage: /images/hero/printer-ink-scam-exposed.jpg
 ---
 

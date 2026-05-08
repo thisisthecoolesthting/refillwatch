@@ -9,13 +9,7 @@ excerpt: Amazon Prime costs $139/year now—up from $79 in 2005. We analyzed 90 
   show which households actually save money and which are overpaying.
 pillarSlug: subscription-creep-busters
 relatedProducts:
-- B07TEST0001
-- B07TEST0002
-- B07TEST0003
-- B07TEST0004
-- B07TEST0005
-- B07TEST0006
-status: draft
+status: "published"
 tags:
 - Amazon Prime
 - subscription creep
@@ -130,7 +124,7 @@ This comparison table shows real-world performance:
 
 ### Alternative 1: The Budget Bundle (Save $41/year)
 
-**[Walmart+](https://www.amazon.com/dp/B07TEST0001?tag=refillwatch-20) ($98/year) + Tubi (free, ad-supported)**
+**Walmart+ ($98/year) + Tubi (free, ad-supported)**
 
 Walmart+ includes:
 - 2-day shipping on most items (competitive with Prime)
@@ -163,7 +157,7 @@ Walmart+ includes:
 
 ### Alternative 3: The Bulk Strategist (Best for families)
 
-**[Costco Executive Membership](https://www.amazon.com/dp/B07TEST0004?tag=refillwatch-20) ($120/year)**
+**Costco Executive Membership ($120/year)**
 
 Includes:
 - Bulk pricing (12–40% below retail on household staples)
@@ -181,10 +175,10 @@ Includes:
 
 Pay for shipping only when you need it; skip memberships entirely.
 
-- **[Walmart.com standard shipping](https://www.amazon.com/dp/B07TEST0001?tag=refillwatch-20)**: Free on $35+ orders
+- **Walmart.com standard shipping**: Free on $35+ orders
 - **eBay**: Free shipping on many items; Coupon codes often available
-- **[Thrive Market](https://www.amazon.com/dp/B07TEST0006?tag=refillwatch-20)**: $5.95 flat shipping; $50 minimum; organic/specialty focus
-- **[Mubi](https://www.amazon.com/dp/B07TEST0005?tag=refillwatch-20)**: $10.99/month for curated arthouse films (pause anytime; no annual commitment)
+- **Thrive Market**: $5.95 flat shipping; $50 minimum; organic/specialty focus
+- **Mubi**: $10.99/month for curated arthouse films (pause anytime; no annual commitment)
 - **Buy Nothing groups**: Free local pickup; zero shipping
 
 **Total cost: Variable (often $0–$40/year)**

@@ -8,13 +8,7 @@ excerpt: Disposable water bottles cost $365/year. We compare Hydro Flask, CamelB
   alternatives that cut costs even further.
 pillarSlug: refill-reuse-save
 relatedProducts:
-- B07TEST0001
-- B07TEST0002
-- B07TEST0003
-- B07TEST0004
-- B07TEST0005
-- B07TEST0006
-status: draft
+status: "published"
 tags:
 - reusable water bottles
 - cost savings
@@ -129,7 +123,7 @@ If even a $15 reusable bottle feels like an upfront cost, here are other ways to
 
 For households that consume significant volumes, bulk water delivery services are competitive:
 
-- **[Primo Water](https://www.amazon.com/dp/B07TEST0005?tag=refillwatch-20)** (and similar services) deliver large refillable jugs (~5 gallons each) to your home. Cost: typically $6–$8 per jug exchange. If a household drinks 10 gallons/week, that's ~$40/month vs. $100+ on individual bottles.
+- **Primo Water** (and similar services) deliver large refillable jugs (~5 gallons each) to your home. Cost: typically $6–$8 per jug exchange. If a household drinks 10 gallons/week, that's ~$40/month vs. $100+ on individual bottles.
 - You buy the initial jug once (~$15), then swap empties.
 
 ## DIY filtering
@@ -164,13 +158,13 @@ Soak it overnight in a mixture of equal parts white vinegar and water. Use a bot
 
 # Bottom line
 
-**For outdoor enthusiasts and commuters who need cold water for hours:** Buy the [Hydro Flask](https://www.amazon.com/dp/B07TEST0001?tag=refillwatch-20). Its insulation justifies the $40 cost, and the lifetime warranty makes it a long-term investment.
+**For outdoor enthusiasts and commuters who need cold water for hours:** Buy the Hydro Flask. Its insulation justifies the $40 cost, and the lifetime warranty makes it a long-term investment.
 
-**For gym-goers and everyday use:** The [CamelBak Chute](https://www.amazon.com/dp/B07TEST0002?tag=refillwatch-20) ($25) is lightweight, durable, and cleans easily.
+**For gym-goers and everyday use:** The CamelBak Chute ($25) is lightweight, durable, and cleans easily.
 
-**For balanced durability and eco-conscious buyers:** The [Klean Kanteen](https://www.amazon.com/dp/B07TEST0003?tag=refillwatch-20) ($30) splits the difference between cost and construction quality.
+**For balanced durability and eco-conscious buyers:** The Klean Kanteen ($30) splits the difference between cost and construction quality.
 
-**For strict budget:** The [Nalgene](https://www.amazon.com/dp/B07TEST0004?tag=refillwatch-20) ($15) pays for itself in two weeks and works for anyone who refills frequently.
+**For strict budget:** The Nalgene ($15) pays for itself in two weeks and works for anyone who refills frequently.
 
 **The real math is this:** One reusable bottle—regardless of which—eliminates roughly 200 disposable bottles from your yearly consumption and saves $300–$400 annually. Over a household's lifetime, that's thousands in savings and thousands of pounds of plastic diverted from landfills.
 

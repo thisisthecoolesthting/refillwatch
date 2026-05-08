@@ -14,7 +14,7 @@ relatedProducts:
 - B0B2RM68G2
 - B07F97MPYT
 - B07D5DN269
-status: draft
+status: "published"
 tags:
 - laundry
 - reusables
