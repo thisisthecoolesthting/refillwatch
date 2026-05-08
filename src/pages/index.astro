@@ -73,6 +73,22 @@ const latestSix = topicUniqueArticles.length >= 3
   ? topicUniqueArticles.slice(0, 6)
   : [...topicUniqueArticles, ...topicSpilloverArticles].slice(0, 6);
 
+// Top-18 for tag filter; extra = articles 7-18
+const top18Articles = articlesByDateDesc.slice(0, 18);
+
+// Top tags for filter strip
+const tagCountsRW = new Map<string, number>();
+for (const a of allArticles) {
+  for (const tag of (a.data.tags ?? [])) {
+    tagCountsRW.set(tag, (tagCountsRW.get(tag) || 0) + 1);
+  }
+}
+const topTagsRW = [...tagCountsRW.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .filter(([t]) => tagCountsRW.get(t)! < allArticles.length * 0.9)
+  .slice(0, 7)
+  .map(([tag]) => tag);
+
 // ---------- Trust line ----------
 const computedTrust = `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products tracked`;
 const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || computedTrust;
@@ -154,6 +170,12 @@ const latestSixWithDedupe = latestSix.map((a) => {
   }
   return { entry: a, imageUrl: pickPoolImage(a.slug) };
 });
+
+// Extra articles (7-18) for tag filter pool
+const extraArticlesRW = top18Articles.slice(6).map((a) => ({
+  entry: a,
+  imageUrl: pickPoolImage(a.slug),
+}));
 ---
 
 <CompliantLayout title={b.fullName} description={dmeta}>
@@ -345,14 +367,15 @@ const latestSixWithDedupe = latestSix.map((a) => {
     </section>
   )}
 
-  {/* ============ 5. LATEST STRIP ============ */}
+  {/* ============ 5. LATEST STRIP + TAG FILTER ============ */}
   {latestSix.length > 0 && (
     <section class="max-w-6xl mx-auto px-5 py-20">
-      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-6">
         <div>
           <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Latest from the desk</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[20ch]">
-            Six things we published recently.
+            Recently published.
+            <span class="ml-3 font-mono text-base font-normal text-ink-400 align-middle">{allArticles.length}</span>
           </h2>
         </div>
         <a href="/articles" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
@@ -360,9 +383,28 @@ const latestSixWithDedupe = latestSix.map((a) => {
         </a>
       </div>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {latestSixWithDedupe.map(({ entry: a, imageUrl }) => (
-          <a href={`/articles/${a.slug}`} class="group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all">
+      {/* — tag filter strip — */}
+      {topTagsRW.length > 0 && (
+        <div id="rw-tag-strip" class="flex flex-wrap gap-2 mb-8">
+          <button data-filter="all"
+            class="rw-pill rw-pill-active font-mono text-[10px] tracking-[0.12em] uppercase px-3.5 py-1.5 rounded-full border transition-all duration-200">
+            All
+          </button>
+          {topTagsRW.map((tag) => (
+            <button data-filter={tag}
+              class="rw-pill font-mono text-[10px] tracking-[0.12em] uppercase px-3.5 py-1.5 rounded-full border transition-all duration-200">
+              {tag}
+            </button>
+          ))}
+        </div>
+      )}
+
+      <div id="rw-article-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {[...latestSixWithDedupe, ...extraArticlesRW].map(({ entry: a, imageUrl }, i) => (
+          <a href={`/articles/${a.slug}`}
+             data-tags={(a.data.tags ?? []).join(',')}
+             data-latest={i < 6 ? 'true' : 'false'}
+             class={`rw-article-card group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all${i >= 6 ? ' hidden' : ''}`}>
             <div class="relative aspect-[2/3] overflow-hidden bg-cream-100">
               <img src={imageUrl} alt={a.data.title} loading="lazy"
                    class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
@@ -385,6 +427,42 @@ const latestSixWithDedupe = latestSix.map((a) => {
           </a>
         ))}
       </div>
+
+      {/* — browse all CTA — */}
+      <div class="mt-10 pt-8 border-t border-cream-200 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <p class="text-sm text-ink-500">{allArticles.length} articles published · updated weekly</p>
+        <a href="/articles" class="btn-primary no-underline">
+          Browse all {allArticles.length} articles →
+        </a>
+      </div>
+
+      <style>{`
+        .rw-pill { background: white; border-color: #e8e0d8; color: #5c4f45; }
+        .rw-pill:hover { border-color: #c5603a; color: #c5603a; }
+        .rw-pill-active { background: #c5603a; border-color: #c5603a; color: white; }
+      `}</style>
+      <script>{`
+        (function() {
+          const strip = document.getElementById('rw-tag-strip');
+          if (!strip) return;
+          const cards = document.querySelectorAll('.rw-article-card');
+          strip.addEventListener('click', function(e) {
+            const btn = e.target.closest('[data-filter]');
+            if (!btn) return;
+            const tag = btn.getAttribute('data-filter');
+            strip.querySelectorAll('.rw-pill').forEach(p => p.classList.remove('rw-pill-active'));
+            btn.classList.add('rw-pill-active');
+            let shown = 0;
+            cards.forEach(function(card) {
+              const tags = (card.getAttribute('data-tags') || '').split(',');
+              const isLatest = card.getAttribute('data-latest') === 'true';
+              const matches = tag === 'all' ? isLatest : tags.includes(tag);
+              if (matches && shown < 9) { card.classList.remove('hidden'); shown++; }
+              else { card.classList.add('hidden'); }
+            });
+          });
+        })();
+      `}</script>
     </section>
   )}
 
