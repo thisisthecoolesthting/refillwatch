@@ -18,13 +18,15 @@ tags:
 - long-term savings
 - BPA-free
 relatedProducts:
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0C7ZTV376
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
 heroImage: /images/hero/reusable-water-bottles-savings.jpg
 ---
 
@@ -50,10 +52,10 @@ We subjected 12 top-rated models to six categories of testing: thermal performan
 
 | Model               | Material   | Insulation | Avg. Lifespan | Cost/Use* | Key Strengths |
 |---------------------|------------|------------|---------------|-----------|---------------|
-| Hydro Flask Standard| 18/8 Steel | Double-wall| 7.2 years     | $0.03     | Best overall temp retention (24h cold) |
+| [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) Standard| 18/8 Steel | Double-wall| 7.2 years     | $0.03     | Best overall temp retention (24h cold) |
 | Nalgene Wide Mouth  | Tritan     | None       | 4.1 years     | $0.07     | Lightest weight (6.5oz), chemical resistant |
 | Yeti Rambler        | 18/8 Steel | Triple-wall| 8.5 years     | $0.04     | Most durable (37 drop-test survives) |
-| Klean Kanteen Classic| 18/8 Steel | Single-wall| 5.8 years     | $0.05     | Slimmest profile for bags |
+| [Klean Kanteen](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20) Classic| 18/8 Steel | Single-wall| 5.8 years     | $0.05     | Slimmest profile for bags |
 | Simple Modern Wave  | 18/8 Steel | Double-wall| 6.3 years     | $0.02     | Best value under $25 |
 | Takeya Actives      | 18/8 Steel | Double-wall| 6.9 years     | $0.02     | Most leak-proof spout design |
 

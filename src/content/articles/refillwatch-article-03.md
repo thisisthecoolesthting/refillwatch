@@ -12,14 +12,7 @@ excerpt: After analyzing 2,374 price fluctuations across 17 cartridge models, te
   voiding your warranty.
 pillarSlug: refillwatch-pillar-3
 relatedProducts:
-- B0FT32PL8L
-- B08GX3K9YS
-- B0BVYBVHK5
-- B07C11YW88
-- B083BFPGD8
-- B0CYJV9X52
-- B0DYNQ1WP7
-- B09W9MF63Y
+- B00CBBJ5KY
 status: published
 tags:
 - printer ink comparison
@@ -169,7 +162,7 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

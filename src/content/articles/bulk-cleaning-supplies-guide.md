@@ -20,6 +20,9 @@ tags:
 - reusable containers
 - laundry detergent bulk
 relatedProducts:
+- B00B5JOC5C
+- B00CBBJ5KY
+- B098JD8HD3
 heroImage: /images/hero/bulk-cleaning-supplies-guide.jpg
 ---
 
@@ -54,8 +57,8 @@ We conducted a 6-month real-world test of 12 top cleaning products, measuring bo
 | Product | Single-Use Size/Price | Bulk Size/Price | Cost Per Ounce | Savings | Performance Notes |
 |---------|----------------------|----------------|----------------|---------|-------------------|
 | Dawn Dish Soap | 24oz @ $4.97 | 128oz @ $18.47 | $0.21 vs $0.14 | 33% | Bulk version lasted 22% longer due to precise pouring |
-| Method All-Purpose Cleaner | 28oz @ $5.49 | 1gal @ $24.99 | $0.20 vs $0.19 | 5% | Not worth the bulk purchase—nearly identical cost |
-| Seventh Generation Laundry Detergent | 50oz @ $12.99 | 150oz @ $28.49 | $0.26 vs $0.19 | 27% | Bulk formula had better stain removal in tests |
+| [Method All-Purpose](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20) Cleaner | 28oz @ $5.49 | 1gal @ $24.99 | $0.20 vs $0.19 | 5% | Not worth the bulk purchase—nearly identical cost |
+| [Seventh Generation](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) Laundry Detergent | 50oz @ $12.99 | 150oz @ $28.49 | $0.26 vs $0.19 | 27% | Bulk formula had better stain removal in tests |
 | Biokleen Concentrate | 32oz @ $9.99 | 1gal @ $28.99 | $0.31 vs $0.11 | 65% | Top pick—outperformed name brands on grease |
 | Clorox Disinfecting Wipes | 75ct @ $3.97 | 420ct @ $19.97 | $0.053/wipe vs $0.048 | 9% | Bulk tubs dry out faster—not recommended |
 
@@ -208,7 +211,7 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

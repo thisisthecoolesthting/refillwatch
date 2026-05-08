@@ -18,14 +18,15 @@ tags:
 - sustainable alternatives
 - price tracking
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
+- B00CBBJ5KY
 - B0846GFNCQ
-- B0C7ZTV376
-- B099NZC4PB
 - B0848Q34F8
+- B093TCYF9T
+- B099NZC4PB
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 heroImage: /images/hero/best-reusable-water-bottles-to-save-money.jpg
 ---
 
@@ -53,7 +54,7 @@ These micro-transactions add up alarmingly. A commuter buying two airport waters
 - Transport emissions equal 0.25 lbs CO2 per bottle (12.5 lbs for a 24-pack)
 - Only 31% of "recycled" bottles actually become new containers (down from 50% in 2010)
 
-Premium reusable options like the [Hydro Flask](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) now offer lifetime warranties that effectively make them buy-it-for-life products. When we disassembled a 7-year-old Hydro Flask still in daily use, its vacuum insulation showed only 12% degradation — proving the initial $35 investment amortizes to $0.014 per day over a decade.
+Premium reusable options like the [Hydro Flask](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) now offer lifetime warranties that effectively make them buy-it-for-life products. When we disassembled a 7-year-old [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) still in daily use, its vacuum insulation showed only 12% degradation — proving the initial $35 investment amortizes to $0.014 per day over a decade.
 
 ## Head-to-head comparison
 
@@ -81,7 +82,7 @@ Using actuarial tables to project lifespan, we calculated:
 | Hydro Flask | 24 | $487 |
 | Takeya | 29 | $463 |
 | Simple Modern | 56 | $412 |
-| Iron Flask | 83 | $379 |
+| [Iron Flask](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20) | 83 | $379 |
 
 *Against convenience store purchases
 

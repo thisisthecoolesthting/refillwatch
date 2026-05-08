@@ -18,14 +18,14 @@ tags:
 - water bottle durability
 - refillable savings
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
+- B00CBBJ5KY
 - B0846GFNCQ
-- B0C7ZTV376
+- B093TCYF9T
 - B099NZC4PB
-- B0848Q34F8
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 heroImage: /images/hero/best-reusable-water-bottles-save-money.jpg
 cardTitle: Stop Spending $100+ Yearly on Bottled Water
 cardPick: One large reusable bottle pays for itself in weeks while eliminating recurring
@@ -67,7 +67,7 @@ We tested bottles across six price tiers, tracking 18 performance metrics. Here'
 
 | Model                | Material      | Price | Dishwasher Cycles Before Failure | Breakeven Time | 5-Year Cost |
 |----------------------|---------------|-------|----------------------------------|----------------|-------------|
-| Hydro Flask Wide Mouth | 18/8 Stainless | $42   | 200+                             | 5.5 months     | $0.23/day   |
+| [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) Wide Mouth | 18/8 Stainless | $42   | 200+                             | 5.5 months     | $0.23/day   |
 | Simple Modern Wave   | 304 Stainless | $25   | 175                              | 3.2 months     | $0.14/day   |
 | Nalgene Tritan       | BPA-Free Plastic | $12  | 75                               | 1.8 months     | $0.19/day*  |
 | Yeti Rambler         | 18/8 Stainless | $40   | 300+                             | 5.3 months     | $0.22/day   |

@@ -18,19 +18,21 @@ tags:
 - price tracking
 - consumer watchdog
 relatedProducts:
-- B093TCYF9T
+- B001VROVN0
 - B004QM8SLG
-- B0GF25F12C
+- B00JA3YPN4
 - B0846GFNCQ
+- B093TCYF9T
 - B0C7ZTV376
-- B0F54TYKF9
 - B0CGW2TFSV
+- B0F54TYKF9
+- B0GF25F12C
 heroImage: /images/hero/pet-food-inflation-alternatives.jpg
 ---
 
 ## Introduction
 
-"Why did my dog's food jump from $49 to $59 overnight?" This question from a frustrated Golden Retriever owner sparked our 6-month investigation into pet food inflation. Retailers are banking on pet parents not noticing 15-25% price hikes rolled out gradually across 2024-2025. Our tracking shows Purina Pro Plan increased costs 22% since January 2024, while Blue Buffalo Wilderness jumped 18% with smaller bag sizes.
+"Why did my dog's food jump from $49 to $59 overnight?" This question from a frustrated Golden Retriever owner sparked our 6-month investigation into pet food inflation. Retailers are banking on pet parents not noticing 15-25% price hikes rolled out gradually across 2024-2025. Our tracking shows [Purina Pro Plan](https://www.amazon.com/dp/B001VROVN0?tag=refillwatch-20) increased costs 22% since January 2024, while [Blue Buffalo](https://www.amazon.com/dp/B00JA3YPN4?tag=refillwatch-20) Wilderness jumped 18% with smaller bag sizes.
 
 This isn't just about dollars—when families stretch budgets by switching to lower-quality foods, pets suffer from digestive issues and nutrient deficiencies. We'll expose which brands hiked prices the most (spoiler: [Purina Pro Plan](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) leads the pack) and prove you can maintain quality while cutting costs 30-50% with bulk buys, refill systems, and lesser-known brands like [WholeHearted](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20).
 

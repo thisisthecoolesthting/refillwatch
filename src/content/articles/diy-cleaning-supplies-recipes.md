@@ -18,12 +18,34 @@ tags:
 - budget household
 - sustainable living
 relatedProducts:
+- B000N3BBW0
+- B000VKGRF0
+- B0014D3N0Q
+- B001E10B9I
+- B001EQ4G0O
+- B001ET73J2
+- B002BWQ6XK
 - B004QM8SLG
+- B00762AHTE
+- B00B5JOC5C
+- B00CAZAU62
+- B00CBBJ5KY
+- B00FFJ0R1Q
+- B00PB6F2V4
+- B00SAYAKPK
+- B01N4IWH2O
+- B01N4NLZJN
+- B01N7V39QJ
+- B07G82D89G
+- B07P5BNQJG
+- B07Q5J5XJL
+- B08PDT1Y3H
 - B093TCYF9T
+- B098JD8HD3
 - B0CB75LML9
-- B0GF25F12C
-- B0F54TYKF9
 - B0CGW2TFSV
+- B0F54TYKF9
+- B0GF25F12C
 heroImage: /images/hero/diy-cleaning-supplies-recipes.jpg
 ---
 
@@ -54,7 +76,7 @@ These changes add up to $512/year for the average family according to Consumer R
 
 Homemade alternatives solve both problems. A 32oz bottle of [Mrs. Meyer's Clean Day](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) costs $4.99 ($0.16/oz), while our vinegar-based glass cleaner recipe costs $0.03/oz. Over a year, that's $42 vs $3.84 for equivalent use. For allergy sufferers, removing synthetic fragrances (found in 89% of commercial cleaners) can reduce respiratory symptoms by 41% according to NIH studies.
 
-Our deep dive into ingredient labels revealed that "natural" brands often contain the same harsh surfactants as conventional cleaners. Seventh Generation's dish soap lists sodium lauryl sulfate as its second ingredient, while [Dr. Bronner's Sal Suds](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) ($14.99/16oz) offers a truly plant-based alternative that dilutes to make 16 gallons of cleaner.
+Our deep dive into ingredient labels revealed that "natural" brands often contain the same harsh surfactants as conventional cleaners. [Seventh Generation](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)'s dish soap lists sodium lauryl sulfate as its second ingredient, while [Dr. Bronner's Sal Suds](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) ($14.99/16oz) offers a truly plant-based alternative that dilutes to make 16 gallons of cleaner.
 
 For families with young children, DIY solutions eliminate exposure to quaternary ammonium compounds ("quats") found in 83% of disinfectant wipes - compounds linked to reproductive harm in animal studies. Our pediatrician-approved playroom cleaner combines:
 - 1 cup distilled water
@@ -107,7 +129,7 @@ Breakdown for a family using:
 
 **Commercial Products Annual Cost**: $312.48
 - $6.99 x 12 (Method concentrate)
-- $14.97 x 12 (Tide pods)
+- $14.97 x 12 ([Tide pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20))
 - $3.49 x 52 (Lysol toilet cleaner)
 
 **DIY Annual Cost**: $38.71
@@ -197,7 +219,7 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

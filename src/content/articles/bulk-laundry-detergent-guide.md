@@ -19,12 +19,15 @@ tags:
 - household savings
 relatedProducts:
 - B004QM8SLG
+- B00762AHTE
+- B00CBBJ5KY
+- B07Q5J5YXV
+- B085VZPR2Y
 - B093TCYF9T
-- B0GF25F12C
-- B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
+- B0F54TYKF9
+- B0GF25F12C
 heroImage: /images/hero/bulk-laundry-detergent-guide.jpg
 ---
 
@@ -57,7 +60,7 @@ Our analysis shows the financial impact:
 | Couple | 416 | $95.68-$172.64 | $37.44-$104.00 | $49.92-$116.48 |
 | Family of 4 | 624 | $143.52-$258.96 | $56.16-$156.00 | $74.88-$174.72 |
 
-Real-world case study: The Carter family of Minneapolis switched from Tide Pods to [Arm & Hammer 5lb Powder](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) and saved $217 in their first year, despite initial concerns about powder performance. Their key adaptation? Using warm water for heavily soiled loads and adding a vinegar rinse cycle to prevent residue.
+Real-world case study: The Carter family of Minneapolis switched from [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) to [Arm & Hammer 5lb Powder](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) and saved $217 in their first year, despite initial concerns about powder performance. Their key adaptation? Using warm water for heavily soiled loads and adding a vinegar rinse cycle to prevent residue.
 
 ## Head-to-Head Comparison
 
@@ -190,7 +193,7 @@ After 1,872 test washes and 142 household case studies, our recommendations:
 
 **Long-Term Investment**: Households washing 10+ loads/week should consider [Eco-Me's 5-gallon system](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20). The 14-month break-even period leads to $200+ annual savings thereafter.
 
-**Eco-Conscious Choice**: [Refill stations](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) using Grab Green formula eliminate plastic waste while maintaining $0.11/load costs. Check refillnearme.com for local options.
+**Eco-Conscious Choice**: [Refill stations](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) using [Grab Green](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20) formula eliminate plastic waste while maintaining $0.11/load costs. Check refillnearme.com for local options.
 
 Pro Tip: Set price alerts for your preferred brand ([Tide](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) typically dips below $22/170oz in January and July). Buy 3-6 months' supply during these lows to avoid subscription creep.
 
@@ -229,7 +232,7 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

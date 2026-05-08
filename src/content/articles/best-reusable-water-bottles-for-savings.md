@@ -8,6 +8,9 @@ excerpt: Disposable water bottles cost $365/year. We compare Hydro Flask, CamelB
   alternatives that cut costs even further.
 pillarSlug: refill-reuse-save
 relatedProducts:
+- B00002N68B
+- B00CBBJ5KY
+- B0C7ZTV376
 status: "published"
 tags:
 - reusable water bottles
@@ -43,7 +46,7 @@ For RefillWatch readers—folks who notice when subscriptions quietly double or 
 
 Here's how the four most popular options stack up:
 
-| Feature | Hydro Flask | CamelBak Chute | Klean Kanteen | Nalgene |
+| Feature | [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) | CamelBak Chute | [Klean Kanteen](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20) | Nalgene |
 |---------|-------------|----------------|---------------|---------|
 | Material | Stainless Steel | Tritan Plastic (BPA-free) | Stainless Steel | Tritan Plastic (BPA-free) |
 | Capacity | 32 oz | 32 oz | 27 oz | 32 oz |
@@ -128,7 +131,7 @@ For households that consume significant volumes, bulk water delivery services ar
 
 ## DIY filtering
 
-If tap water quality is a concern (or just tastes off), a Brita pitcher (~$25) or faucet-mounted filter (~$35) removes chlorine and improves taste. Cost per gallon drops to cents—far cheaper than bottled.
+If tap water quality is a concern (or just tastes off), a [Brita pitcher](https://www.amazon.com/dp/B00002N68B?tag=refillwatch-20) (~$25) or faucet-mounted filter (~$35) removes chlorine and improves taste. Cost per gallon drops to cents—far cheaper than bottled.
 
 # FAQ
 

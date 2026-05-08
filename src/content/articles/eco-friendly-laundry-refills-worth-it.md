@@ -18,14 +18,19 @@ tags:
 - consumer goods
 - price tracking
 relatedProducts:
+- B00762AHTE
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B07Z6TV9Y7
+- B07ZPSFVX5
+- B08PZBPXLZ
+- B08R3515SF
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 heroImage: /images/hero/eco-friendly-laundry-refills-worth-it.jpg
 ---
 
@@ -113,9 +118,9 @@ Let's analyze the 5-year financial impact for different household sizes using 20
 | Product | Upfront | Annual Cost | 5-Year Total | Plastic Saved |
 |---------|---------|-------------|--------------|---------------|
 | Tide Jug | $12.99 | $79.04 | $395.20 | 3.2 kg |
-| Tru Earth | $14.99 | $97.89 | $489.45 | 15.6 kg |
+| [Tru Earth](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20) | $14.99 | $97.89 | $489.45 | 15.6 kg |
 | Grove Refill | $24.99 | $74.88 | $374.40 | 14.1 kg |
-| Dropps Sub | $28.80 | $115.20 | $576.00 | 16.0 kg |
+| [Dropps](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20) Sub | $28.80 | $115.20 | $576.00 | 16.0 kg |
 
 **Single Person (3 loads/week)**
 | Product | Upfront | Annual Cost | 5-Year Total | Plastic Saved |
@@ -241,7 +246,7 @@ Most of that growth came from shrinkflation (smaller package sizes at the same s
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

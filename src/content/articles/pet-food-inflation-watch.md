@@ -18,13 +18,19 @@ tags:
 - reusable pet food containers
 - amazon price tracking
 relatedProducts:
+- B00JA3YPN4
+- B00WSAXBQ0
+- B07RVMZNYR
+- B08PZBPXLZ
+- B08R3515SF
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0D41ZMDPD
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
+- B0GCMVP12Q
 heroImage: /images/hero/pet-food-inflation-watch.jpg
 ---
 
@@ -60,7 +66,7 @@ Deep dive example: Chewy's algorithm now prioritizes showing 24-can cases of wet
 Key findings:
 
 - Purina's 'new protein blend' justification doesn't hold—ingredient costs rose just 3.2%
-- Blue Buffalo's smaller 28lb bag (vs old 30lb) hides a 14% effective price hike
+- [Blue Buffalo](https://www.amazon.com/dp/B00JA3YPN4?tag=refillwatch-20)'s smaller 28lb bag (vs old 30lb) hides a 14% effective price hike
 - Store brands like [Costco's Kirkland](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) maintained just 4-5% increases
 - Iams added probiotics but reduced meat content from 26% to 22%
 

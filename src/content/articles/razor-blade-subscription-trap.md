@@ -11,6 +11,10 @@ excerpt: Razor blade subscriptions promise convenience but quietly raise prices 
   by $100–$300 yearly—with a simple fix that cuts costs by 95%.
 pillarSlug: subscription-creep-busters
 relatedProducts:
+- B000NH7BPW
+- B001QY8QXM
+- B002R5AF1I
+- B002T4D0WU
 status: "published"
 tags:
 - razor blade subscription
@@ -58,13 +62,13 @@ We conducted a 6-month controlled study comparing four subscription services aga
 | Harry's (4-blade) | $22/2 months | 8 | $2.75 | $3.30 | 7 | 6 | $0.46 | 11 months |
 | Gillette Heated Razor | $25/month | 2 | $12.50 | $14.20 | 12 | 10 | $1.25 | 14 months |
 | Bic Flex 5 Hybrid (Amazon Subscribe) | $15/2 months | 4 | $3.75 | $4.15 | 6 | 5 | $0.75 | 7 months |
-| Merkur Safety Razor | N/A | N/A | N/A | $0.25 | N/A | 12 | $0.02 | 10+ years |
+| [Merkur Safety Razor](https://www.amazon.com/dp/B000NH7BPW?tag=refillwatch-20) | N/A | N/A | N/A | $0.25 | N/A | 12 | $0.02 | 10+ years |
 | Leaf Razor | N/A | N/A | N/A | $0.15 | N/A | 15 | $0.01 | 5+ years |
 | Rockwell 6S | N/A | N/A | N/A | $0.30 | N/A | 10 | $0.03 | Lifetime |
 
 **Key findings:**
 - Subscription services average $0.45–$1.25 per shave, with the Gillette Heated Razor being the worst offender at $1.25 per shave
-- Safety razors using Astra Platinum blades cost 95% less per shave at $0.02
+- Safety razors using [Astra Platinum](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) blades cost 95% less per shave at $0.02
 - The "blades per shave" claims from subscription services were exaggerated by 18–25% in our tests
 - Handle durability shows the starkest difference—plastic subscription handles averaged 9.2 months before failure versus decades for metal safety razors
 - The Feather AS-D2 provided the closest shave at the lowest long-term cost ($0.018 per shave)
@@ -76,7 +80,7 @@ Beyond cost, our team of 12 testers tracked shave quality, blade degradation, an
 **Blade degradation:** Subscriptions claim cartridges last "up to a month," but examination and shave testing showed:
 - Harry's blades showed visible edge deterioration after shave 5, becoming uncomfortable by shave 6
 - DSC blades developed rust spots by shave 8 despite proper storage (tested at 45–55% humidity)
-- Feather Safety Razor blades maintained optimal sharpness through 12+ shaves due to superior steel quality
+- [Feather Safety](https://www.amazon.com/dp/B002T4D0WU?tag=refillwatch-20) Razor blades maintained optimal sharpness through 12+ shaves due to superior steel quality
 - Gillette's heated function actually reduced blade life by 17% due to thermal stress on polymer components
 
 **Handle durability:** The $9 plastic handles from subscriptions revealed alarming failure points:
@@ -181,7 +185,7 @@ A: They require more attention than cartridge razors, but cuts are typically min
 
 **Q: What about women's razors?**
 
-The same math applies but with greater savings potential. Women's subscription services like Billie cost $9 per month for 4 blades—that's $0.45 per shave. A Parker Safety Razor cuts this to $0.03. Key differences:
+The same math applies but with greater savings potential. Women's subscription services like Billie cost $9 per month for 4 blades—that's $0.45 per shave. A [Parker Safety Razor](https://www.amazon.com/dp/B002R5AF1I?tag=refillwatch-20) cuts this to $0.03. Key differences:
 - Longer handles better for leg shaving (Merkur 23C)
 - Soap and lather matter more for larger surface areas
 - Leaf Twig designed specifically for women's contours

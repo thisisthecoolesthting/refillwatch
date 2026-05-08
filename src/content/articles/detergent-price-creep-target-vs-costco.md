@@ -9,14 +9,23 @@ excerpt: Target's detergent prices increased 23% faster than Costco's over 18 mo
   trap.
 pillarSlug: price-hikes-exposed
 relatedProducts:
+- B00762AHTE
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B07Q5J5YXV
+- B07RVMZNYR
+- B08PZBPXLZ
+- B08R3515SF
+- B098JD8HD3
+- B09DY7CCW5
+- B09TXP1KDV
+- B09VXQ221K
+- B0BX2N258S
+- B0D41ZMDPD
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
+- B0GCMVP12Q
 status: published
 tags:
 - laundry detergent
@@ -69,7 +78,7 @@ Kirkland Signature outperformed Target's Tide Original on oil-based stains by 19
 
 ## Real-World Performance
 
-Our 90-day test of 12 detergents revealed three dirty secrets: 1) "100 loads" claims assume half-cap measurements (real-world usage cuts yields by 18-27%), 2) Costco's Kirkland liquid outperformed Tide Pods on grass stains but failed on grease, and 3) [ECOS Hypoallergenic](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) delivered 142 loads from its 100-load bottle by optimizing dispenser design. High-efficiency (HE) washers showed the widest variance—Tide HE Triple Clean used 47% more detergent per load than recommended, accelerating price creep.
+Our 90-day test of 12 detergents revealed three dirty secrets: 1) "100 loads" claims assume half-cap measurements (real-world usage cuts yields by 18-27%), 2) Costco's Kirkland liquid outperformed [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) on grass stains but failed on grease, and 3) [ECOS Hypoallergenic](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) delivered 142 loads from its 100-load bottle by optimizing dispenser design. High-efficiency (HE) washers showed the widest variance—Tide HE Triple Clean used 47% more detergent per load than recommended, accelerating price creep.
 
 Surprisingly, [Seventh Generation](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) pods dissolved completely in cold water where others left residue, justifying their 11% higher cost per load.
 
@@ -171,7 +180,7 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

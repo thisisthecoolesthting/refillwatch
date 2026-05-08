@@ -8,14 +8,16 @@ excerpt: Detergent prices have crept up 18% in three years. We name the worst of
   your laundry bill by 60%.
 pillarSlug: price-hike-alerts
 relatedProducts:
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B073WG52T4
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - laundry detergent price increase
@@ -164,7 +166,7 @@ Switching from Tide to [Costco's detergent](https://www.amazon.com/dp/B0G63G9LRJ
 
 ### How often do detergent prices increase?
 
-Most major brands implement 5-8% annual increases through package reductions rather than direct price bumps. Our tracking shows spikes typically occur in February (post-holiday slump) and September (back-to-school demand). The most dramatic single increase was Arm & Hammer's 11.4% shrinkflation in March 2025.
+Most major brands implement 5-8% annual increases through package reductions rather than direct price bumps. Our tracking shows spikes typically occur in February (post-holiday slump) and September (back-to-school demand). The most dramatic single increase was [Arm & Hammer](https://www.amazon.com/dp/B073WG52T4?tag=refillwatch-20)'s 11.4% shrinkflation in March 2025.
 
 ### Are store brands really the same?
 
@@ -233,7 +235,7 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

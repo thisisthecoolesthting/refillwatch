@@ -18,14 +18,15 @@ tags:
 - consumer savings
 - bulk water
 relatedProducts:
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 heroImage: /images/hero/walmart-water-price-surge.jpg
 ---
 
@@ -138,7 +139,7 @@ Even accounting for $0.003/oz tap water costs, the pitcher saves $343 annually. 
    - Energy savings: Newer models use 40% less electricity than 2010-era coolers
 
 3. **On-the-go solutions**:
-   - Hydro Flask's [insulated bottle](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) keeps ice for 24hrs (tested in 90°F conditions)
+   - [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20)'s [insulated bottle](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) keeps ice for 24hrs (tested in 90°F conditions)
    - LifeStraw's [filtering cap](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) makes any fountain drinkable (removes 99.9999% of bacteria)
    - Collapsible silicone bottles that pack flat when empty
 

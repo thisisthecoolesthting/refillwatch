@@ -18,13 +18,16 @@ tags:
 - shaving cost comparison
 - reusable razor options
 relatedProducts:
+- B000NH7BPW
+- B001QY8QXM
+- B00WSAXBQ0
+- B01N4QAK9O
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
 heroImage: /images/hero/razor-blade-subscription-alternatives.jpg
 ---
 
@@ -168,7 +171,7 @@ Our top picks by category:
 - **Budget-Conscious**: Dorco Pace 6+ ($1.25/blade)
 - **Sensitive Skin**: Gillette SkinGuard ($2.10/blade)
 - **Travel-Friendly**: Bic Flex 5 Hybrid (2.1oz handle)
-- **Long-Term Investment**: Merkur 34C + 100 [Astra Blades](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) ($45 total)
+- **Long-Term Investment**: [Merkur 34C](https://www.amazon.com/dp/B000NH7BPW?tag=refillwatch-20) + 100 [Astra Blades](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) ($45 total)
 
 Pro Tip: Buy your chosen system during Black Friday sales—we've seen 40% discounts on safety razor starter kits and 50% off bulk cartridge refills.
 

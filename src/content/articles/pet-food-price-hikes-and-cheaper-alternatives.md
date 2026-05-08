@@ -17,13 +17,15 @@ tags:
 - subscription pet food
 - retail price tracking
 relatedProducts:
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
-- B0F54TYKF9
+- B00JA3YPN4
+- B07B4BHRN2
+- B085VZPR2Y
+- B093TCYF9T
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
+- B0F54TYKF9
+- B0GF25F12C
 heroImage: /images/hero/pet-food-price-hikes-and-cheaper-alternatives.jpg
 ---
 
@@ -70,9 +72,9 @@ Key findings:
 - **Premium plateau**: Hill's maintained the smallest increase but remains the costliest per meal
 - **Hidden winner**: [Purina ONE SmartBlend](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) offers 30% protein at $0.78/meal with only 12% inflation
 
-To provide a more comprehensive comparison, we also evaluated the cost per calorie for each brand. This metric is particularly important for pet owners who want to ensure their pets are getting the most nutritional value for their money. Our analysis found that [Purina ONE SmartBlend](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) offers the best value at $0.0035 per calorie, compared to $0.0042 per calorie for Hill's Science Diet.
+To provide a more comprehensive comparison, we also evaluated the cost per calorie for each brand. This metric is particularly important for pet owners who want to ensure their pets are getting the most nutritional value for their money. Our analysis found that [Purina ONE SmartBlend](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) offers the best value at $0.0035 per calorie, compared to $0.0042 per calorie for [Hill's Science Diet](https://www.amazon.com/dp/B07B4BHRN2?tag=refillwatch-20).
 
-Furthermore, we considered the ingredient quality of each brand. While Hill's Science Diet is often praised for its high-quality ingredients, our analysis revealed that [Blue Buffalo Wilderness](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) offers a comparable ingredient profile at a lower cost. This makes Blue Buffalo an attractive option for pet owners who prioritize ingredient quality but are also mindful of their budget.
+Furthermore, we considered the ingredient quality of each brand. While Hill's Science Diet is often praised for its high-quality ingredients, our analysis revealed that [Blue Buffalo Wilderness](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) offers a comparable ingredient profile at a lower cost. This makes [Blue Buffalo](https://www.amazon.com/dp/B00JA3YPN4?tag=refillwatch-20) an attractive option for pet owners who prioritize ingredient quality but are also mindful of their budget.
 
 ## Real-World Performance
 

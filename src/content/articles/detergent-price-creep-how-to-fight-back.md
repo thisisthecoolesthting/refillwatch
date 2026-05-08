@@ -9,14 +9,18 @@ excerpt: Major detergent brands have increased prices 18-34% since 2022 while sh
   plus bulk refill options that cut costs by 60%.
 pillarSlug: price-hikes-exposed
 relatedProducts:
+- B00063RWT8
 - B004QM8SLG
+- B073WG52T4
+- B085VZPR2Y
+- B08R3515SF
 - B093TCYF9T
+- B098JD8HD3
 - B0CB75LML9
-- B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
-- B00063RWT8
+- B0DHV7ZWH2
+- B0F54TYKF9
 status: published
 tags:
 - laundry detergent
@@ -57,9 +61,9 @@ We tracked 12 months of price history for top detergents, measuring true cost pe
 |-------|------|--------------|-------|-----------|------------|----------|-------------------|
 | Tide Original Liquid | Liquid | $18.99 | 64 | $0.30 | $14.99 | +26.6% | 92/100 |
 | Persil ProClean | Liquid | $19.97 | 50 | $0.40 | $16.47 | +21.2% | 95/100 |
-| Arm & Hammer Powder | Powder | $11.97 | 100 | $0.12 | $9.97 | +20.1% | 88/100 |
-| ECOS Laundry | Plant-based | $14.99 | 100 | $0.15 | $12.49 | +20.0% | 85/100 |
-| Seventh Generation | Liquid | $12.99 | 53 | $0.25 | $10.99 | +18.2% | 82/100 |
+| [Arm & Hammer](https://www.amazon.com/dp/B073WG52T4?tag=refillwatch-20) Powder | Powder | $11.97 | 100 | $0.12 | $9.97 | +20.1% | 88/100 |
+| [ECOS Laundry](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) | Plant-based | $14.99 | 100 | $0.15 | $12.49 | +20.0% | 85/100 |
+| [Seventh Generation](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) | Liquid | $12.99 | 53 | $0.25 | $10.99 | +18.2% | 82/100 |
 | All Free & Clear | Liquid | $15.49 | 72 | $0.22 | $12.99 | +19.2% | 87/100 |
 | Purex | Liquid | $10.97 | 75 | $0.15 | $8.99 | +22.0% | 80/100 |
 | Foca Powder | Powder | $6.97 | 120 | $0.06 | $5.99 | +16.4% | 78/100 |
@@ -127,7 +131,7 @@ Smart shoppers are turning to these cost-cutters that major brands don't want yo
    - Plant-based formulas ($0.10/load)
    - Specialty detergents (wool, silk) at 30% off retail
 
-3. **Subscription Models**: Dropps pods cost $0.20/load but eliminate over-pouring waste (saving 10-15%). Their auto-ship program locks in prices for 6 months, protecting against inflation.
+3. **Subscription Models**: [Dropps](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20) pods cost $0.20/load but eliminate over-pouring waste (saving 10-15%). Their auto-ship program locks in prices for 6 months, protecting against inflation.
 
 4. **DIY Options**: For the truly budget-conscious:
    - Baking soda + castile soap ($0.05/load)

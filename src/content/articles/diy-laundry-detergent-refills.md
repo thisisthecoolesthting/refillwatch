@@ -10,6 +10,8 @@ excerpt: Commercial laundry detergent prices jumped 42% since 2020. We lab-teste
   well.
 pillarSlug: refill-reuse-save
 relatedProducts:
+- B00762AHTE
+- B00CBBJ5KY
 status: "published"
 tags:
 - laundry detergent price hike
@@ -27,7 +29,7 @@ heroImage: /images/hero/diy-laundry-detergent-refills.jpg
 
 "Why does my laundry detergent cost twice as much as last year?" If you've stared at your grocery receipt watching prices climb, you're not alone. Retailers have quietly increased prices on Tide, Gain, and Persil by 42% since 2020 while shrinking bottle sizes—a tactic called shrinkflation that costs the average family $126 extra annually. We tracked pricing data across 12 major retailers and discovered that some use "new improved formula" claims to mask container downsizing.
 
-For example, Tide Pods dropped from 81 to 72 count while keeping the same $24.99 price point.
+For example, [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) dropped from 81 to 72 count while keeping the same $24.99 price point.
 
 This guide tests seven refill methods against commercial detergents through standardized cleaning protocols, machine safety evaluations, and real-world household use. Our research shows you can pay just $0.04 per load (versus $0.33 for premium brands) using ingredients like washing soda and castile soap. We've verified cleaning performance through controlled wash cycles, fabric analysis, and appliance manufacturer testing—proving homemade doesn't mean half-cleaned clothes.
 
@@ -154,7 +156,7 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

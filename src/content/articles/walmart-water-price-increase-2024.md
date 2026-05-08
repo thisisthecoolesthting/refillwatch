@@ -8,12 +8,13 @@ excerpt: Walmart's bottled water prices jumped 15-30% in early 2024. We track th
   households $200+/year.
 pillarSlug: price-hike-alerts
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
-- B0F54TYKF9
+- B00CBBJ5KY
+- B093TCYF9T
+- B0CB75LML9
 - B0CGW2TFSV
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - bottled water
@@ -220,7 +221,7 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

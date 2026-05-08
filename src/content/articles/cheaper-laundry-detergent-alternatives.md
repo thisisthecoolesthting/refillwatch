@@ -20,13 +20,18 @@ tags:
 - subscription alternatives
 relatedProducts:
 - B004QM8SLG
+- B00762AHTE
+- B00CBBJ5KY
+- B073WG52T4
+- B074ND5RDT
+- B07Z6TV9Y7
+- B085VZPR2Y
+- B08R3515SF
 - B093TCYF9T
 - B0CB75LML9
-- B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
-- B074ND5RDT
+- B0F54TYKF9
 heroImage: /images/hero/cheaper-laundry-detergent-alternatives.jpg
 cardTitle: 'Stop Overpaying: Bulk Cleaner Concentrate Saves Hundreds Yearly'
 cardPick: One concentrate bottle yields 10+ refills, slashing per-use costs to pennies
@@ -58,7 +63,7 @@ The environmental impact is equally staggering:
 - Shipping water-heavy detergents generates 400,000 metric tons of CO2 yearly
 - Concentrates reduce transportation weight by 80-90%
 
-Case study: A four-person household switching from Tide Pods to [Charlie's Soap Powder](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) would:
+Case study: A four-person household switching from [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) to [Charlie's Soap Powder](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) would:
 - Save $216/year
 - Eliminate 23 plastic containers from landfills
 - Reduce detergent-related carbon emissions by 68%
@@ -81,7 +86,7 @@ Key takeaway: Powder and concentrate formats deliver the lowest cost per load, w
 
 During 180 test washes with calibrated soil strips, we found bulk powders like [Country Save](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) matched Tide's cleaning power on all but oil stains—where it fell short by 12%. The surprise performer was [ECOS Concentrate](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20), which removed coffee and grass stains 15% faster than Gain despite costing half as much.
 
-Two caveats: 1) Cold water performance varies widely—Tru Earth strips dissolved completely in cold cycles, while some generic powders left residue. 2) Hard water (8+ grains) reduces sudsing; in these cases, [Charlie's Soap](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) outperformed with its phosphate-free formula. For HE washers, avoid over-sudsing options like Arm & Hammer—their fill sensors can mistake bubbles for water levels.
+Two caveats: 1) Cold water performance varies widely—Tru Earth strips dissolved completely in cold cycles, while some generic powders left residue. 2) Hard water (8+ grains) reduces sudsing; in these cases, [Charlie's Soap](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) outperformed with its phosphate-free formula. For HE washers, avoid over-sudsing options like [Arm & Hammer](https://www.amazon.com/dp/B073WG52T4?tag=refillwatch-20)—their fill sensors can mistake bubbles for water levels.
 
 Stain-specific findings:
 - **Blood**: [OxiClean Powder](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) removed 98% vs. Tide's 94%
@@ -121,7 +126,7 @@ Beyond powders, these options cut costs further:
 1. **Detergent sheets**: Brands like [Tru Earth](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20) ship lightweight strips that eliminate plastic jugs. At $0.41/load, they're pricier than powders but ideal for small spaces.
 2. **Soap nuts**: A $15 bag of [dried sapindus berries](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) lasts 100 loads ($0.15/load) but struggles with odors.
 3. **Industrial concentrates**: Products like [EcoloClean](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) require dilution (1oz per load) and cost just $0.09/load.
-4. **Subscription services**: Dropps and Blueland offer refillable containers with mailed tablets, averaging $0.18/load.
+4. **Subscription services**: [Dropps](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20) and Blueland offer refillable containers with mailed tablets, averaging $0.18/load.
 5. **Washing machine cleaners**: Monthly use of [Affresh](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20) ($0.33/use) maintains efficiency, reducing needed detergent by up to 20%.
 
 The tradeoff? Convenience. Bulk powders require measuring; concentrates need dilution. But for the typical household, spending 2 extra minutes per week saves $50+ annually. We found the sweet spot for most families is combining bulk powder for everyday loads with a small supply of [Tru Earth Sheets](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20) for travel and delicates.
@@ -201,7 +206,7 @@ Compare unit prices section by section before assuming bulk = cheaper. The sweet
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 

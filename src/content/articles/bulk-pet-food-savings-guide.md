@@ -18,13 +18,16 @@ tags:
 - retailer price hikes
 - refillable pet food
 relatedProducts:
-- B093TCYF9T
+- B000H0XFCS
+- B001VROVN0
 - B004QM8SLG
-- B0C7ZTV376
+- B00JA3YPN4
 - B0846GFNCQ
+- B085VZPR2Y
+- B093TCYF9T
+- B0C7ZTV376
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
 - B0F4X2YBP1
 heroImage: /images/hero/bulk-pet-food-savings-guide.jpg
 cardTitle: 'Skip Pet Store Markups: Buy Bulk Pet Food Like a Savvy Shopper'
@@ -48,7 +51,7 @@ We tracked 6,784 price points across Amazon, Chewy, and big-box stores to give y
 
 Pet food represents one of the most consistent household expenses, with the average dog owner spending $600+/year on quality kibble. Our research uncovered three concerning trends that make strategic bulk buying essential for cost-conscious pet owners:
 
-1. **Shrinkflation Tactics**: Beyond Purina Pro Plan's reduction from 34lb to 31lb bags, we found 9 of 14 major brands have reduced package sizes by 5-12% since 2022 while maintaining price points. The most egregious example: [Hill's Science Diet Adult Perfect Weight](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) decreased from 28.5lbs to 25lbs (a 12.3% reduction) while keeping the $54.99 MSRP.
+1. **Shrinkflation Tactics**: Beyond [Purina Pro Plan](https://www.amazon.com/dp/B001VROVN0?tag=refillwatch-20)'s reduction from 34lb to 31lb bags, we found 9 of 14 major brands have reduced package sizes by 5-12% since 2022 while maintaining price points. The most egregious example: [Hill's Science Diet Adult Perfect Weight](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) decreased from 28.5lbs to 25lbs (a 12.3% reduction) while keeping the $54.99 MSRP.
 
 2. **Subscription Model Devaluation**: Auto-delivery discounts have decreased from an industry average of 15% in 2021 to just 5% today. Worse, many programs now require minimum purchase thresholds ($100+ per order) to qualify for these reduced discounts. Our analysis shows this change costs the average subscriber $127/year in lost savings.
 
@@ -82,7 +85,7 @@ We conducted a 6-month longitudinal study comparing four top-selling dry foods a
 Key findings from our expanded research:
 - The 50lb Iams bag offers the absolute best per-pound value ($1.30/lb) but requires proper storage investment
 - Royal Canin's prescription formulas show the most stable pricing (critical for pets with medical needs)
-- Blue Buffalo's premium pricing doesn't correlate with better sales rank stability or freshness retention
+- [Blue Buffalo](https://www.amazon.com/dp/B00JA3YPN4?tag=refillwatch-20)'s premium pricing doesn't correlate with better sales rank stability or freshness retention
 - Purina's 47lb "bulk" option contains three individually packaged 15.7lb bags, reducing storage needs but adding packaging waste
 - All brands showed accelerated nutritional degradation when stored improperly in humid environments (Florida test homes saw 23% faster vitamin loss)
 

@@ -18,13 +18,15 @@ tags:
 - retailer price hikes
 - bulk buying
 relatedProducts:
+- B00762AHTE
+- B00WSAXBQ0
+- B073WG52T4
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
 heroImage: /images/hero/detergent-dilemma-price-watch.jpg
 ---
 
@@ -56,7 +58,7 @@ Our price tracking team compiled this comprehensive comparison of leading deterg
 |-----------|----------|------------|------------|------------|------------------|--------------|
 | Tide Original Liquid | 92 (was 100oz in 2023) | $12.97 | $15.89 | 22.5% | $0.27 | Most aggressive shrinkflation - lost 8oz while increasing price |
 | [Persil ProClean](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20) | 75 | $14.29 | $16.99 | 18.9% | $0.34 | Justified for heavy stains, but overkill for average loads |
-| Arm & Hammer Clean Burst | 100 | $8.47 | $9.32 | 10.0% | $0.14 | Best value - lowest price increase with proven cleaning power |
+| [Arm & Hammer](https://www.amazon.com/dp/B073WG52T4?tag=refillwatch-20) Clean Burst | 100 | $8.47 | $9.32 | 10.0% | $0.14 | Best value - lowest price increase with proven cleaning power |
 | [ECOS Laundry Detergent](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) | 100 (was 128oz) | $12.99 | $15.49 | 19.2% | $0.23 | Significant downsizing masked as 'new concentrated formula' |
 | Kirkland Signature (Costco) | 200 | $15.99 | $17.49 | 9.4% | $0.11 | Warehouse club advantage - price locked in longer |
 | [Tru Earth Eco Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) | 64 loads | $12.99 | $14.29 | 10.0% | $0.19 | Stable pricing with zero plastic waste |
@@ -83,7 +85,7 @@ The most shocking finding? Store brands like Kirkland Signature (Costco) and Mem
 
 Let's break down the true economics of detergent loyalty with concrete calculations that reveal how small per-load differences compound into significant annual expenses:
 
-1. **Pods vs. liquid**: The convenience tax has skyrocketed. Tide Pods now cost $0.34/load versus $0.27 for equivalent liquid detergent - that's $36.72 more annually for a household doing 8 loads/week. Our tests show no cleaning difference between pods and properly dosed liquids from the same brand - you're paying purely for single-use packaging.
+1. **Pods vs. liquid**: The convenience tax has skyrocketed. [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) now cost $0.34/load versus $0.27 for equivalent liquid detergent - that's $36.72 more annually for a household doing 8 loads/week. Our tests show no cleaning difference between pods and properly dosed liquids from the same brand - you're paying purely for single-use packaging.
 
 2. **Bulk breakpoints**: Smart bulk buying creates dramatic savings. Purchasing the [Arm & Hammer 300oz refill](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) reduces cost to $0.09/load, saving $142 annually compared to buying 50oz bottles monthly. Warehouse clubs offer even better economics - Costco's 200oz Kirkland Signature costs just $0.11/load with no subscription required.
 
