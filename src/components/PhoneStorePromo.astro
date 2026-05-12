@@ -1,0 +1,91 @@
+---
+/**
+ * PhoneStorePromo — weighted phone-case store cross-promo.
+ * Reads targeting.json for this site's shop weights.
+ * variant: "sidebar" (card, max-w-xs) | "end-of-article" (banner, full-width)
+ *
+ * ALWAYS renders "Proudly sponsored by:" label — belt + suspenders per AFFILIATE-200.
+ */
+export interface Props {
+  variant?: 'sidebar' | 'end-of-article';
+}
+
+import targetingRaw from '@/data/targeting.json';
+import manifestRaw  from '@/data/ads-manifest.json';
+import home from '@/data/spawn-home.json';
+
+const { variant = 'end-of-article' } = Astro.props;
+
+// Resolve this site's slug from spawn-home brand slug or domain
+const siteSlug: string = (home as any).siteSlug
+  ?? (home as any).brand?.slug
+  ?? (home as any).slug
+  ?? '';
+
+// Build weighted pool from targeting.json
+type ShopWeights = Record<string, number>;
+const targeting = targetingRaw as { affiliate_sites: Record<string, { shop_weights: ShopWeights }> };
+
+// Try exact match, then partial match (slugs differ slightly in targeting.json)
+const siteKey = Object.keys(targeting.affiliate_sites).find((k) =>
+  k === siteSlug || siteSlug.includes(k) || k.includes(siteSlug.replace(/-/g, ''))
+) ?? Object.keys(targeting.affiliate_sites)[0];
+
+const weights: ShopWeights = targeting.affiliate_sites[siteKey]?.shop_weights ?? {};
+
+// Weighted random pick (deterministic per request via sum)
+const manifest = manifestRaw as { shops: Record<string, { name: string; url: string; tagline: string; cta: string }> };
+const pool: Array<{ shop: string; weight: number }> = Object.entries(weights)
+  .filter(([shop]) => manifest.shops[shop])
+  .map(([shop, weight]) => ({ shop, weight: weight as number }));
+
+const totalWeight = pool.reduce((s, e) => s + e.weight, 0);
+// Use a hash of the current URL path for deterministic but varied picks
+const pathHash = Math.abs(
+  (Astro.url?.pathname ?? '/').split('').reduce((h, c) => (h * 31 + c.charCodeAt(0)) | 0, 0)
+);
+let pick = (pathHash % Math.round(totalWeight * 100)) / 100;
+let chosenShop = pool[pool.length - 1]?.shop ?? '';
+for (const entry of pool) {
+  pick -= entry.weight;
+  if (pick <= 0) { chosenShop = entry.shop; break; }
+}
+
+const shopData = manifest.shops[chosenShop];
+const clickUrl = shopData?.url
+  .replace('AFFSITE', siteSlug || 'affiliate')
+  .replace('SIZE', variant === 'sidebar' ? '300x250' : '728x90')
+  ?? '#';
+---
+
+{shopData && (
+  <aside
+    class:list={[
+      'phone-store-promo not-prose',
+      variant === 'sidebar'
+        ? 'max-w-xs rounded-2xl border border-cream-200 bg-cream-50 p-5 shadow-soft'
+        : 'my-10 rounded-2xl border border-cream-200 bg-cream-50 px-6 py-5 flex flex-col sm:flex-row items-start sm:items-center gap-4'
+    ]}
+    data-shop={chosenShop}
+    data-variant={variant}
+  >
+    <p class="text-[10px] font-semibold uppercase tracking-widest text-ink-400 mb-2 sm:mb-0 shrink-0">
+      Proudly sponsored by:
+    </p>
+    <div class:list={[variant === 'sidebar' ? '' : 'flex-1 min-w-0']}>
+      <p class="font-semibold text-ink-900 text-sm leading-snug">{shopData.name}</p>
+      <p class="text-xs text-ink-600 mt-0.5 line-clamp-1">{shopData.tagline}</p>
+    </div>
+    <a
+      href={clickUrl}
+      rel="sponsored noopener"
+      target="_blank"
+      class:list={[
+        'inline-flex items-center justify-center rounded-xl px-4 py-2 text-xs font-semibold no-underline transition-colors duration-200 shrink-0',
+        'bg-terracotta-500 text-white hover:bg-terracotta-600'
+      ]}
+    >
+      {shopData.cta} →
+    </a>
+  </aside>
+)}

@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-05-10",
+  "shops": {
+    "phonecasesforall": {
+      "name": "Phone Cases For All",
+      "domain": "phonecasesforall.com",
+      "url": "https://phonecasesforall.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Cases that match your energy",
+      "cta": "Shop the looks",
+      "palette_ref": "phonecasesforall",
+      "weight": 1.0
+    },
+    "galaxycaseco": {
+      "name": "Galaxy Case Co",
+      "domain": "galaxycaseco.com",
+      "url": "https://galaxycaseco.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Built for Galaxy. Ready for impact.",
+      "cta": "Shop Galaxy",
+      "palette_ref": "galaxycaseco",
+      "weight": 1.0
+    },
+    "phonecasegift": {
+      "name": "Phone Case Gift",
+      "domain": "phonecasegift.shop",
+      "url": "https://phonecasegift.shop/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Fun finds for every vibe.",
+      "cta": "Send a gift",
+      "palette_ref": "phonecasegift",
+      "weight": 1.0
+    },
+    "titancase": {
+      "name": "Titan Case",
+      "domain": "titancase.shop",
+      "url": "https://titancase.shop/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Engineered restraint for iPhone.",
+      "cta": "Shop iPhone",
+      "palette_ref": "titancase",
+      "weight": 1.0
+    },
+    "phonecasesforher": {
+      "name": "Phone Cases For Her",
+      "domain": "phonecasesforher.com",
+      "url": "https://phonecasesforher.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Cases with personal polish.",
+      "cta": "Shop the look",
+      "palette_ref": "phonecasesforher",
+      "weight": 1.0
+    }
+  },
+  "sizes": {
+    "300x250": { "format": "medium-rectangle", "width": 300, "height": 250 },
+    "728x90":  { "format": "leaderboard",      "width": 728, "height": 90  },
+    "320x50":  { "format": "mobile-banner",    "width": 320, "height": 50  },
+    "160x600": { "format": "wide-skyscraper",  "width": 160, "height": 600 }
+  },
+  "creatives": [
+    { "shop": "phonecasesforall", "size": "300x250", "file": "creatives/phonecasesforall/medium-rectangle-300x250.svg" },
+    { "shop": "phonecasesforall", "size": "728x90",  "file": "creatives/phonecasesforall/leaderboard-728x90.svg" },
+    { "shop": "phonecasesforall", "size": "320x50",  "file": "creatives/phonecasesforall/mobile-banner-320x50.svg" },
+    { "shop": "phonecasesforall", "size": "160x600", "file": "creatives/phonecasesforall/wide-skyscraper-160x600.svg" },
+    { "shop": "galaxycaseco",     "size": "300x250", "file": "creatives/galaxycaseco/medium-rectangle-300x250.svg" },
+    { "shop": "galaxycaseco",     "size": "728x90",  "file": "creatives/galaxycaseco/leaderboard-728x90.svg" },
+    { "shop": "galaxycaseco",     "size": "320x50",  "file": "creatives/galaxycaseco/mobile-banner-320x50.svg" },
+    { "shop": "galaxycaseco",     "size": "160x600", "file": "creatives/galaxycaseco/wide-skyscraper-160x600.svg" },
+    { "shop": "phonecasegift",    "size": "300x250", "file": "creatives/phonecasegift/medium-rectangle-300x250.svg" },
+    { "shop": "phonecasegift",    "size": "728x90",  "file": "creatives/phonecasegift/leaderboard-728x90.svg" },
+    { "shop": "phonecasegift",    "size": "320x50",  "file": "creatives/phonecasegift/mobile-banner-320x50.svg" },
+    { "shop": "phonecasegift",    "size": "160x600", "file": "creatives/phonecasegift/wide-skyscraper-160x600.svg" },
+    { "shop": "titancase",        "size": "300x250", "file": "creatives/titancase/medium-rectangle-300x250.svg" },
+    { "shop": "titancase",        "size": "728x90",  "file": "creatives/titancase/leaderboard-728x90.svg" },
+    { "shop": "titancase",        "size": "320x50",  "file": "creatives/titancase/mobile-banner-320x50.svg" },
+    { "shop": "titancase",        "size": "160x600", "file": "creatives/titancase/wide-skyscraper-160x600.svg" },
+    { "shop": "phonecasesforher", "size": "300x250", "file": "creatives/phonecasesforher/medium-rectangle-300x250.svg" },
+    { "shop": "phonecasesforher", "size": "728x90",  "file": "creatives/phonecasesforher/leaderboard-728x90.svg" },
+    { "shop": "phonecasesforher", "size": "320x50",  "file": "creatives/phonecasesforher/mobile-banner-320x50.svg" },
+    { "shop": "phonecasesforher", "size": "160x600", "file": "creatives/phonecasesforher/wide-skyscraper-160x600.svg" }
+  ]
+}

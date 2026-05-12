@@ -9,6 +9,10 @@ import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import TopPicksBlock from '@/components/TopPicksBlock.astro';
 import ArticleToC from '@/components/ArticleToC.astro';
+import ProductSidebar from '@/components/ProductSidebar.astro';
+import PhoneStorePromo from '@/components/PhoneStorePromo.astro';
+import InlineComparisonTable from '@/components/InlineComparisonTable.astro';
+import AffiliateButton from '@/components/AffiliateButton.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
@@ -23,7 +27,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await entry.render();
+const { Content } = await entry.render({ components: { InlineComparisonTable, AffiliateButton } });
 const b = home.brand;
 const nl = home.newsletter;
 const siteYmyl =
@@ -157,6 +161,15 @@ const articleSchema = {
       {relatedProducts.length >= 1 && (
         <div id="top-picks">
           <TopPicksBlock products={relatedProducts} />
+        </div>
+      )}
+
+      <PhoneStorePromo variant="sidebar" affiliateSlug="refillwatch" motif="light" />
+
+      <PhoneStorePromo variant="end-of-article" affiliateSlug="refillwatch" motif="light" />
+      {relatedProducts.length > 0 && (
+        <div class="hidden xl:block w-52 flex-shrink-0">
+          <ProductSidebar products={relatedProducts} associateTag="refillwatch-20" />
         </div>
       )}
     </article>

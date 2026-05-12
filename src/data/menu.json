@@ -1,0 +1,11 @@
+{
+  "main": "Refillables",
+  "subtopics": [
+    {"slug": "cleaning",     "label": "Cleaning Products",  "match": ["cleaner","all-purpose","dish soap","laundry","detergent","bathroom","floor","spray","concentrate","dilute","cleaning"]},
+    {"slug": "personal-care","label": "Personal Care",      "match": ["shampoo","conditioner","body wash","lotion","moisturizer","deodorant","toothpaste","soap bar","refillable","personal care"]},
+    {"slug": "packaging",    "label": "Packaging & Waste",  "match": ["plastic-free","packaging","waste","zero waste","reduce","single-use","refill station","glass","aluminum","compostable"]},
+    {"slug": "kitchen",      "label": "Kitchen & Food",     "match": ["dish soap","hand soap","kitchen","food storage","beeswax","reusable bag","wrap","produce bag","meal prep","refill kitchen"]},
+    {"slug": "brands",       "label": "Brand Comparisons",  "match": ["brand","review","comparison","vs","vs.","best","recommend","worth it","tru earth","blueland","grove","by humankind","meliora"]},
+    {"slug": "diy",          "label": "DIY & Concentrates", "match": ["diy","make your own","recipe","concentrate","dilute","ratio","castile soap","citric acid","washing soda","borax","essential oil"]}
+  ]
+}

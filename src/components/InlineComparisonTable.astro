@@ -1,0 +1,67 @@
+---
+export interface ProductRow {
+  name: string;
+  asin: string;
+  price: string;
+  pros: string[];
+  cons: string[];
+  tag: string;
+  badge?: string;
+}
+export interface Props {
+  products: ProductRow[];
+  caption?: string;
+}
+const { products, caption } = Astro.props;
+if (!products?.length) return;
+---
+
+<div class="my-8 not-prose overflow-x-auto rounded-xl border border-neutral-200 shadow-sm">
+  {caption && (
+    <p class="px-4 py-2 text-[11px] font-mono uppercase tracking-widest text-neutral-500 border-b border-neutral-200 bg-neutral-50 m-0">
+      {caption}
+    </p>
+  )}
+  <table class="w-full text-sm border-collapse min-w-[600px] hidden sm:table">
+    <thead>
+      <tr class="bg-neutral-100 text-left text-[11px] font-mono uppercase tracking-wide text-neutral-600">
+        <th class="px-4 py-3 w-[30%]">Product</th>
+        <th class="px-4 py-3 w-[10%]">Price</th>
+        <th class="px-4 py-3 w-[25%]">Pros</th>
+        <th class="px-4 py-3 w-[25%]">Cons</th>
+        <th class="px-4 py-3 w-[10%]"></th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-neutral-200">
+      {products.map((p, i) => (
+        <tr class={i % 2 === 0 ? 'bg-white' : 'bg-neutral-50'}>
+          <td class="px-4 py-3 align-top">
+            <div class="flex flex-col gap-1">
+              <a href={`https://www.amazon.com/dp/${p.asin}?tag=${p.tag}`} target="_blank" rel="sponsored nofollow noopener" class="font-semibold text-neutral-900 hover:underline leading-snug">{p.name}</a>
+              {p.badge && (<span class="inline-block text-[10px] font-mono uppercase tracking-wider px-2 py-0.5 rounded-full bg-accent/10 text-accent w-fit">{p.badge}</span>)}
+            </div>
+          </td>
+          <td class="px-4 py-3 align-top font-semibold text-neutral-900 whitespace-nowrap">{p.price}</td>
+          <td class="px-4 py-3 align-top"><ul class="list-none m-0 p-0 space-y-1">{p.pros.map((pro) => (<li class="text-xs text-neutral-700 before:content-['✓'] before:mr-1.5 before:text-green-600">{pro}</li>))}</ul></td>
+          <td class="px-4 py-3 align-top"><ul class="list-none m-0 p-0 space-y-1">{p.cons.map((con) => (<li class="text-xs text-neutral-700 before:content-['✗'] before:mr-1.5 before:text-red-500">{con}</li>))}</ul></td>
+          <td class="px-4 py-3 align-top"><a href={`https://www.amazon.com/dp/${p.asin}?tag=${p.tag}`} target="_blank" rel="sponsored nofollow noopener" class="inline-block w-full text-center bg-accent hover:opacity-90 text-white text-[11px] font-mono uppercase tracking-wider px-3 py-2 rounded-lg transition-opacity no-underline whitespace-nowrap">Check Price →</a></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <div class="sm:hidden divide-y divide-neutral-200">
+    {products.map((p) => (
+      <div class="p-4 bg-white">
+        <div class="flex justify-between items-start gap-3 mb-3">
+          <a href={`https://www.amazon.com/dp/${p.asin}?tag=${p.tag}`} target="_blank" rel="sponsored nofollow noopener" class="font-semibold text-neutral-900 text-sm leading-snug hover:underline">{p.name}</a>
+          <span class="font-semibold text-neutral-900 text-sm whitespace-nowrap">{p.price}</span>
+        </div>
+        <div class="grid grid-cols-2 gap-3 mb-4">
+          <div><p class="text-[10px] font-mono uppercase tracking-wider text-neutral-500 mb-1">Pros</p><ul class="list-none m-0 p-0 space-y-1">{p.pros.map((pro) => (<li class="text-xs text-neutral-700 before:content-['✓'] before:mr-1 before:text-green-600">{pro}</li>))}</ul></div>
+          <div><p class="text-[10px] font-mono uppercase tracking-wider text-neutral-500 mb-1">Cons</p><ul class="list-none m-0 p-0 space-y-1">{p.cons.map((con) => (<li class="text-xs text-neutral-700 before:content-['✗'] before:mr-1 before:text-red-500">{con}</li>))}</ul></div>
+        </div>
+        <a href={`https://www.amazon.com/dp/${p.asin}?tag=${p.tag}`} target="_blank" rel="sponsored nofollow noopener" class="block w-full text-center bg-accent hover:opacity-90 text-white text-[11px] font-mono uppercase tracking-wider px-4 py-2.5 rounded-lg transition-opacity no-underline">Check Price on Amazon →</a>
+      </div>
+    ))}
+  </div>
+</div>
