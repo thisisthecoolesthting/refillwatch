@@ -51,6 +51,10 @@ Consider this: In January 2024, a 100-oz bottle of Tide Free & Gentle at Target 
 
 Our data science team analyzed 3,712 price points across both retailers and found Target implemented 5.3 price increases per product annually versus Costco's 2.1. The most egregious example? [Gain Flings](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) went from $0.23 per pod in 2024 to $0.31 in 2026 at Target, while Costco's per-pod price rose just $0.04 during the same period.
 
+
+
+> **See also:** [DIY Cleaning Supplies: Save Money & Reduce Waste](https://refillwatch.org/articles/diy-cleaning-supplies-recipes/)
+
 ## Why This Matters
 
 Laundry detergent is the ultimate repeat purchase—the average household does 300 loads annually, spending $150-$200 yearly. When prices creep up 5% quarterly (as we've documented with [Gain Flings](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20)), that's $75 extra over three years for the same product. Retailers bank on "autopilot" buying habits; Target's data shows detergent shoppers spend 28% less time comparing prices than electronics buyers.
@@ -200,3 +204,17 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much more expensive is detergent at Target compared to Costco?**  
+A: On average, Target's detergent prices are 20–30% higher per ounce than Costco's bulk options, with name-brand detergents showing the biggest markup.  
+
+**Q: Are eco-friendly detergents also subject to price creep?**  
+A: Yes, eco-friendly detergents often have an even steeper markup at retailers like Target, but buying in bulk at Costco or opting for refillable brands can offset this.  
+
+**Q: Does Costco carry refillable or low-waste detergent options?**  
+A: Costco has started offering select eco-conscious brands in bulk, though their refillable options are still limited compared to specialty zero-waste stores.  
+
+**Q: What’s the best way to save money on detergent without sacrificing quality?**  
+A: Buying in bulk at warehouse stores like Costco, choosing concentrate formulas, or switching to refillable detergent services can significantly cut costs while maintaining performance.

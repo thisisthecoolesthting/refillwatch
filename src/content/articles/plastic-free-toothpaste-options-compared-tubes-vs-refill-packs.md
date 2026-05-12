@@ -14,6 +14,10 @@ subtopic: personal-care
 
 If you've started trying to cut down on single-use plastic in your bathroom, toothpaste packaging is an immediate challenge. Traditional toothpaste tubes are almost always made from mixed plastics and laminates, which are hard or impossible to recycle, leading many households to seek out plastic-free toothpaste alternatives. Two popular zero-plastic options are solid toothpaste tubes made from recyclable materials and refill packs designed to reduce waste by topping off an existing container. This article compares these two options to help you decide which is better for your household’s sustainability goals, budget, and convenience preferences.
 
+
+
+> **See also:** [Refillable Shaving Cream Options for Zero-Waste Grooming](https://refillwatch.org/articles/refillable-shaving-cream-options-for-zero-waste-grooming/)
+
 ## What Are Plastic-Free Toothpaste Tubes and Refill Packs?
 
 **Plastic-Free Toothpaste Tubes**: These tubes are typically made from materials like aluminum, glass, or fully recyclable paperboard composites. They replace typical plastic laminates with biodegradable or easily recyclable materials, aiming to eliminate the plastic footprint in toothpaste packaging altogether.

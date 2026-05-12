@@ -22,6 +22,10 @@ Before diving into our picks, it's crucial to understand what sustainability mea
 - Provide refill options that genuinely reduce plastic waste, not just the appearance of sustainability.
 - Are cost-effective compared to traditional single-use products, encouraging long-term use.
 
+
+
+> **See also:** [RefillWatch Insights on Choosing Concentrates for Household Cleaning](https://refillwatch.org/articles/refillwatch-insights-on-choosing-concentrates-for-household-cleaning/)
+
 ## Our Top Sustainable Household Cleaning Product Picks
 
 We’ve ranked categories by their overall impact and ease of adoption, including dishwashing liquids, all-purpose cleaners, laundry detergents, and glass cleaners. For each, we outline key features, refill system effectiveness, cost implications, and ingredient transparency.

@@ -171,8 +171,26 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 
 <!-- boilerplate-stripped-v1 -->
 
+
+
+> **See also:** [Bulk Laundry Detergent: Your Guide to Big Savings](https://refillwatch.org/articles/bulk-laundry-detergent-guide/)
+
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
 For more on how to refill ink cartridges: save 60–90% vs. oem with tested methods, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-guide/).
+
+## FAQ  
+
+**Q: How much money can I really save by making my own laundry detergent refills?**  
+A: Lab tests show DIY detergent refills cost about $0.05 per load, compared to Tide’s $0.42 per load—saving you 88%. A family of four could save over $200 annually.  
+
+**Q: What are the key ingredients needed for DIY laundry detergent refills?**  
+A: You’ll need washing soda, borax, grated bar soap (like Castile or Fels-Naptha), and optional essential oils for fragrance. These are affordable and widely available.  
+
+**Q: Is homemade laundry detergent as effective as commercial brands?**  
+A: Yes, lab tests confirm DIY detergents clean effectively for most loads, though heavily soiled or greasy stains may need a booster like oxygen bleach.  
+
+**Q: How do I store DIY laundry detergent refills to keep them fresh?**  
+A: Store in an airtight container in a cool, dry place. If using liquid refills, shake before use to prevent separation. Powdered versions last up to 6 months.

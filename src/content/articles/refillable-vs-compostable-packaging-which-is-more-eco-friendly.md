@@ -16,6 +16,10 @@ You want to reduce your household waste and cut down on single-use plastics, but
 
 ---
 
+
+
+> **See also:** [Best Refillable Shampoo Bars Compared to Liquid Refills](https://refillwatch.org/articles/best-refillable-shampoo-bars-compared-to-liquid-refills/)
+
 ## What Is Refillable Packaging?
 
 Refillable packaging is designed to be reused multiple times. Instead of throwing away the container after a single use, you refill it with product from a bulk or concentrated source. Common examples are glass or sturdy plastic bottles for soaps, cleaning products, or food items, which can be topped up with refills either from brand-specific refills or third-party concentrates.

@@ -41,6 +41,10 @@ This guide compares 12 solutions across three key metrics: cost per shave (with 
 
 We conducted a 6-month real-world test with 42 participants tracking shave quality, blade longevity, and skin irritation across all major systems. The results reveal surprising patterns—like how Dollar Shave Club's mid-tier blades actually outlast their premium "Executive" line despite costing 30% less. You'll also learn why certain retail blades like the [Bic Flex 5 Hybrid](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) perform better in hard water areas, and how to modify your shaving technique when switching to double-edge razors.
 
+
+
+> **See also:** [Streaming Subscription Hikes: How to Avoid Overpaying](https://refillwatch.org/articles/streaming-subscription-hikes-avoid/)
+
 ## Why This Matters
 
 Razor subscriptions employ two pricing tricks that hurt consumers. First, they use proprietary handles that lock you into their blade ecosystem—Harry's blades won't fit Dollar Shave Club handles, and neither work with Gillette systems. Second, they gradually increase prices while reducing blade counts per shipment. We tracked one DSC plan that went from $9/month for 5 blades in 2020 to $14/month for 4 blades today—a 56% price hike per blade.
@@ -223,3 +227,17 @@ Most of that growth came from shrinkflation (smaller package sizes at the same s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are the main drawbacks of traditional razor subscription services?**  
+A: Subscription services often lock you into recurring costs, generate excess plastic waste from disposable blades, and may not offer the best value compared to long-lasting alternatives like safety razors.  
+
+**Q: How do safety razors compare in cost to disposable razors over time?**  
+A: While safety razors have a higher upfront cost, they save money long-term because replacement blades are significantly cheaper (often pennies per blade) and last longer than disposable cartridges.  
+
+**Q: Are safety razors difficult to use for beginners?**  
+A: There’s a slight learning curve, but with proper technique (light pressure, correct angle), most users adapt quickly and enjoy a closer, more sustainable shave.  
+
+**Q: What other eco-friendly shaving alternatives exist besides safety razors?**  
+A: Straight razors, electric razors with replaceable heads, and bamboo-handled disposable razors are all greener options that reduce plastic waste and long-term costs.

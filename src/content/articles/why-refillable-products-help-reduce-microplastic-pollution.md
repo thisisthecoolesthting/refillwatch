@@ -18,6 +18,10 @@ Microplastics are tiny plastic particles created by the degradation of larger pl
 
 Single-use plastic packaging is a major source of microplastics. When these plastics break down, either through mechanical action (like agitation in water), UV exposure, or chemical wear, they shed microplastic fragments that enter ecosystems and the food chain.
 
+
+
+> **See also:** [Why Refillable Products Are Better for Reducing Carbon Footprint](https://refillwatch.org/articles/why-refillable-products-are-better-for-reducing-carbon-footprint/)
+
 ## How Refillable Products Help Reduce Microplastic Pollution
 
 Refillable products generally rely on durable containers designed to be reused many times along with smaller refill units or concentrates. This system reduces waste in several interconnected ways that impact microplastic pollution:

@@ -24,6 +24,10 @@ Refills come in different forms:
 
 The key differentiation is how much new plastic each refill adds versus how much it replaces. Not all refills are created equal—some generate almost as much plastic waste as a new bottle; others cut plastic volume dramatically.
 
+
+
+> **See also:** [Comparing Best Refillable Personal Care Brands for Plastic Reduction](https://refillwatch.org/articles/comparing-best-refillable-personal-care-brands-for-plastic-reduction/)
+
 ## How Plastic Reduction Refills Work 
 
 At the core of a plastic reduction refill is concentration. More concentrated formulas mean you use less product and less packaging to get the same effect. For example, a pouch may contain twice the product of a usual shampoo bottle but use just 20-30% of the plastic weight.

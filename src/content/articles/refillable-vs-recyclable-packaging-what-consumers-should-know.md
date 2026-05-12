@@ -145,3 +145,5 @@ Consider combining refillable options where possible—such as shampoo, soap, de
 
 **Q: Does recycling one plastic bottle save more energy than reusing a refillable container?**  
 **A:** Generally no. Reusing containers requires less total resource input and waste generation than recycling every single-use item.
+
+> **See also:** [Refillable vs Concentrated Cleaning Products: What’s Better?](https://refillwatch.org/articles/refillable-vs-concentrated-cleaning-products-what-s-better/)

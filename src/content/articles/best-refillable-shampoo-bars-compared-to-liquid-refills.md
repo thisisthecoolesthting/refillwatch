@@ -16,6 +16,10 @@ If you’re trying to reduce single-use plastic waste in your bathroom, you’ve
 
 ---
 
+
+
+> **See also:** [Refillable vs Compostable Packaging: Which Is More Eco-Friendly?](https://refillwatch.org/articles/refillable-vs-compostable-packaging-which-is-more-eco-friendly/)
+
 ## What Are Refillable Shampoo Bars and Liquid Refills?
 
 ### Refillable Shampoo Bars

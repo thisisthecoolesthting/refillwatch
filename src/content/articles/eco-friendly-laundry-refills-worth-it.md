@@ -47,6 +47,10 @@ Consider this: While [EcoNuts Laundry Soap Berries](https://www.amazon.com/dp/B0
 - Storage challenges you won't encounter with traditional jugs
 - The subscription trap: Why 42% of 'eco' laundry services increase prices after your third shipment
 
+
+
+> **See also:** [Eco-Friendly Laundry Refills: Cut Plastic 80%, Cut Costs 30% — If You Avoid](https://refillwatch.org/articles/eco-friendly-laundry-refills/)
+
 ## Why this matters
 
 Laundry care represents a $78 billion global industry where small changes create massive ripple effects. Our price tracking reveals that while conventional liquid detergents have increased 14.5% since 2021, the refill market shows wild fluctuations—[Blueland's Tablet System](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) dropped 8% due to competition, while [Seventh Generation Refill Packs](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) actually cost 3% more per load than their jug counterparts. But the financial aspect is just one dimension of this story.
@@ -273,3 +277,17 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How do eco-friendly laundry refills reduce plastic waste?**  
+A: Refills typically come in biodegradable, compostable, or recyclable packaging, significantly cutting down single-use plastic compared to traditional detergent bottles. Many brands also offer bulk refills, further minimizing waste.  
+
+**Q: Are eco-friendly laundry refills as effective as conventional detergents?**  
+A: Yes, many eco-friendly refills use plant-based or enzyme-powered formulas that clean just as well as synthetic detergents, though performance may vary by brand. Look for products with certifications like EPA Safer Choice for proven efficacy.  
+
+**Q: Do laundry refills save money in the long run?**  
+A: While upfront costs may be higher, refills often offer concentrated formulas that last longer, reducing cost per load. Buying in bulk or subscribing can also lead to additional savings over time.  
+
+**Q: Where can I buy eco-friendly laundry refills?**  
+A: They’re available at zero-waste stores, online retailers, and increasingly in mainstream supermarkets. Many brands also sell directly through their websites, often with subscription options for convenience.

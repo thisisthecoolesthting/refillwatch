@@ -18,6 +18,10 @@ Eco-friendly concentrates are liquid, powder, or gel household products designed
 
 Common eco-friendly concentrates include laundry detergents, dish soaps, all-purpose cleaners, and personal care items like shampoo or body wash. By purchasing concentrated formulas, consumers use less packaging and ship less water, significantly lowering environmental impact.
 
+
+
+> **See also:** [Top Refillable Household Products That Slash Single-Use Plastic Waste](https://refillwatch.org/articles/top-refillable-household-products-that-slash-single-use-plastic-waste/)
+
 ## How Eco-Friendly Concentrates Save Space and Reduce Plastic Packaging
 
 1. **Smaller Packaging Footprint**  

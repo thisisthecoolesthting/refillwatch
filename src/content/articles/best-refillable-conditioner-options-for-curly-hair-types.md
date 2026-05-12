@@ -22,6 +22,10 @@ Curly hair generally thrives on conditioners that provide deep hydration, reduce
 - **True Plastic Waste Reduction:** Some 'refillable' claims reuse mainly secondary packaging and still rely heavily on virgin plastic.
 - **Cost Efficiency:** Compare prices per ounce or per use rather than per bottle.
 
+
+
+> **See also:** [Best Refillable Fabric Softener Options Without Plastic Bottles](https://refillwatch.org/articles/best-refillable-fabric-softener-options-without-plastic-bottles/)
+
 ## Top Refillable Conditioner Options for Curly Hair
 
 We reviewed commonly available refillable systems focusing on those suitable for medium to tight curls requiring hydration, frizz control, and nourishment.

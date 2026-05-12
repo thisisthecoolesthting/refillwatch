@@ -24,6 +24,10 @@ There are several refill formats:
 
 The key is the ratio of packaging reused versus discarded: effective refillable deodorants minimize plastic waste and other material consumption by only replacing the deodorant itself.
 
+
+
+> **See also:** [Best Refillable Sunscreens for Eco-Conscious Consumers](https://refillwatch.org/articles/best-refillable-sunscreens-for-eco-conscious-consumers/)
+
 ## How Refillable Deodorants Work and Why Concentration Matters
 
 Many people underestimate how important formula concentration is for deodorant performance. The active ingredients must neutralize odor-causing bacteria and control wetness (if antiperspirant) effectively. Refillable deodorants often come more concentrated than single-use counterparts, which makes refills smaller and better for waste reduction.

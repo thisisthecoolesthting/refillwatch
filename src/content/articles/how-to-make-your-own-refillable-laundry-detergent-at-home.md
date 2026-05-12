@@ -29,6 +29,10 @@ However, not all homemade detergents are equal. Many DIY recipes:
 
 That's why a thoughtful approach to concentration, ingredient choice, and reuse is critical.
 
+
+
+> **See also:** [How to Make Your Own Refillable Air Freshener at Home](https://refillwatch.org/articles/how-to-make-your-own-refillable-air-freshener-at-home/)
+
 ## How to Make Effective, Refillable Laundry Detergent at Home
 
 ### Step 1: Understand Concentration Ratios

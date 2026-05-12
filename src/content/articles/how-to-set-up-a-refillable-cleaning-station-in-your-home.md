@@ -16,6 +16,10 @@ Setting up a refillable cleaning station at home can reduce your single-use plas
 
 Most cleaning products come in single-use plastic bottles, contributing substantially to household plastic waste. Switching to refillables saves money and raw materials, but only if you choose concentrated formulas, durable dispensing containers, and refill sources that are transparent about their ingredients. Setting up a well-organized station helps maintain efficiency, ensures consistency in your cleaning solutions, and limits clutter.
 
+
+
+> **See also:** [Best Refillable Cleaning Tools for Plastic Reduction at Home](https://refillwatch.org/articles/best-refillable-cleaning-tools-for-plastic-reduction-at-home/)
+
 ## Step 1: Audit Your Current Cleaning Supplies and Habits
 
 Before buying anything new, take stock of what you use and how often:

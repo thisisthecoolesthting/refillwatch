@@ -18,6 +18,10 @@ Refillable dish soap comes as either concentrated formulas designed to be dilute
 
 The benefits are clear: significantly less single-use plastic waste, smaller shipping footprints due to concentrated formulas, and sometimes better ingredient transparency. However, not all refillable options are created equal in terms of waste savings or price.
 
+
+
+> **See also:** [Best Refillable Fabric Softener Options Without Plastic Bottles](https://refillwatch.org/articles/best-refillable-fabric-softener-options-without-plastic-bottles/)
+
 ## How to Evaluate Refillable Dish Soap for Zero-Waste Kitchens
 
 Cutting plastic waste is more complex than simply choosing “refillable” brands. Here are the critical factors to consider:

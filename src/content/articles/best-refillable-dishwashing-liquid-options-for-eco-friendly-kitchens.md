@@ -16,6 +16,10 @@ If you’re trying to cut down on single-use plastic in your kitchen, switching 
 
 ---
 
+
+
+> **See also:** [Personal Care Refills: Which Brands Offer the Best Value?](https://refillwatch.org/articles/personal-care-refills-which-brands-offer-the-best-value/)
+
 ## What Makes a Dishwashing Liquid Truly Eco-Friendly and Refillable?
 
 Before jumping into brands or types, let’s clarify some key terms and factors:

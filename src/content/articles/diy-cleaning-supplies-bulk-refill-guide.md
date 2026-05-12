@@ -48,6 +48,10 @@ This guide goes beyond surface-level comparisons to provide:
 3. **Performance testing data** from 6 months of real-world use
 4. **Regional price variation maps** showing where refill stations offer maximum savings
 
+
+
+> **See also:** [DIY Cleaning Supplies: Save Money & Reduce Waste](https://refillwatch.org/articles/diy-cleaning-supplies-recipes/)
+
 ## Why This Matters
 
 The cleaning product industry operates on what economists call 'captive market' principles—consumers will pay whatever necessary for basic hygiene. Our research uncovered three disturbing trends:

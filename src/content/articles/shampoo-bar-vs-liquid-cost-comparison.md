@@ -44,6 +44,10 @@ The shampoo cost dilemma impacts 89% of households according to our 2025 Consume
 
 Our data reveals the breakeven point occurs between 58-92 washes depending on water quality and storage habits—with surprising regional variations. Phoenix residents saw 19% faster bar degradation than Seattle users due to mineral content.
 
+
+
+> **See also:** [DIY Cleaning Supplies: Save Money & Reduce Waste](https://refillwatch.org/articles/diy-cleaning-supplies-recipes/)
+
 ## Why This Matters
 
 Shampoo expenditures represent the third-largest recurring beauty cost after skincare and haircuts, with the average household spending $142 annually. The psychological pricing of liquid shampoos creates hidden traps:
@@ -234,3 +238,17 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How do shampoo bars compare in cost to liquid shampoo?**  
+A: Shampoo bars typically last 2–3 times longer than liquid shampoo, making them more cost-effective over time despite a higher upfront price.  
+
+**Q: Are shampoo bars as convenient to use as liquid shampoo?**  
+A: Shampoo bars require a slight adjustment in technique (like lathering in your hands first), but they’re just as easy to use once you get the hang of it.  
+
+**Q: Do shampoo bars work for all hair types?**  
+A: Yes, many shampoo bars are formulated for different hair needs (oily, dry, curly, etc.), but check the ingredients to find the best match for your hair type.  
+
+**Q: Are shampoo bars truly more eco-friendly than liquid shampoo?**  
+A: Absolutely—shampoo bars eliminate plastic packaging and often use fewer synthetic ingredients, reducing waste and environmental impact.

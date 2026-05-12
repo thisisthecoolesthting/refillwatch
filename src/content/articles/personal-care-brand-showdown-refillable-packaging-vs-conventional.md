@@ -22,6 +22,10 @@ Refillable packaging means a container designed to be used multiple times by ref
 
 Refillable packaging contrasts with conventional single-use plastic bottles, which are typically tossed in recycling or garbage after use.
 
+
+
+> **See also:** [Zero-Waste Living: Refillable Personal Care Products Beginners Guide](https://refillwatch.org/articles/zero-waste-living-refillable-personal-care-products-beginners-guide/)
+
 ## How Refillable Packaging Works
 
 At a manufacturing level, refillable packaging relies heavily on concentrated formulas. Instead of diluting a product to a ready-to-use level (like a typical shampoo bottle containing about 90% water), refill pouches often contain concentrated formulas ranging from 2 to 10 times the product strength of typical retail bottles. The user then dilutes or dispenses the product into the refillable container as needed.

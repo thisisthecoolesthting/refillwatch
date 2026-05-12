@@ -18,6 +18,10 @@ In this guide, I’ll walk you through the practical steps to create your own ze
 
 ---
 
+
+
+> **See also:** [Why Refillable Cleaning Products Reduce Household Plastic Waste](https://refillwatch.org/articles/why-refillable-cleaning-products-reduce-household-plastic-waste/)
+
 ## Step 1: Gather Essential Kitchen Ingredients
 
 Most zero-waste cleaning recipes revolve around a few versatile, multi-purpose ingredients. Before starting, make sure you have these staples on hand:

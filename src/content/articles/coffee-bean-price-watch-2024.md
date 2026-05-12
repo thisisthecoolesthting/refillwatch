@@ -199,6 +199,24 @@ Stick to brands where the refill is actual concentrate or dry product, not a re-
 
 <!-- boilerplate-stripped-v1 -->
 
+
+
+> **See also:** [Pet Food Price Hikes: Track the Increases, Find Cheaper Alternatives](https://refillwatch.org/articles/pet-food-inflation-tracking/)
+
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are coffee bean prices increasing in 2024?**  
+A: Prices are rising due to climate-related crop shortages, higher transportation costs, and increased demand. Retailers are passing these costs onto consumers, leading to noticeable price hikes.  
+
+**Q: How can buying coffee beans in bulk help me save money?**  
+A: Bulk purchases often come at a lower per-unit cost, reducing the impact of retail markups. Many eco-friendly shops also offer discounts for refilling your own containers.  
+
+**Q: Where can I find bulk coffee bean refills near me?**  
+A: Check local zero-waste stores, co-ops, or specialty coffee shops that support refills. Online directories like "Litterless" or "Bulk Finder" can also help locate nearby options.  
+
+**Q: Are there any tips for storing bulk coffee beans to keep them fresh?**  
+A: Store beans in an airtight, opaque container in a cool, dark place. Avoid moisture and heat, and consider dividing large quantities into smaller portions to maintain freshness.

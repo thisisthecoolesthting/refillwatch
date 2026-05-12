@@ -29,6 +29,10 @@ We tracked 12 months of pricing across 14 retailers. Here's what refillable laun
 - **Eco-Pods**: $0.23 per load, price held steady since 2025, but supply issues hit hard — 47% stockouts in Q1 2026.
 - **Bulk Powder**: $0.15 per load, the lowest cost option. Catch: you need to buy a reusable tin separately.
 
+
+
+> **See also:** [DIY Laundry Detergent Refills: How to Save 88% vs. Tide (Lab-Tested)](https://refillwatch.org/articles/diy-laundry-detergent-refills/)
+
 ## Three Price-Hike Traps to Watch For
 
 **1. Shrinkflation (fewer loads, same price)**
@@ -113,3 +117,17 @@ Most of that growth came from shrinkflation (smaller package sizes at the same s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How do eco-friendly laundry refills reduce plastic waste by 80%?**  
+A: Refills use concentrated formulas in lightweight, recyclable, or compostable packaging, eliminating the need for bulky plastic bottles. By reusing your original container, you drastically cut single-use plastic waste.  
+
+**Q: Can I really save 30% on costs with laundry refills?**  
+A: Yes! Refills are cheaper per load since you’re paying for concentrated detergent, not water or excess packaging. Over time, skipping new bottles adds up to significant savings.  
+
+**Q: Are there any downsides to using laundry refills?**  
+A: Some refills require mixing with water at home, which may be inconvenient. Also, not all brands are widely available, so you might need to order online.  
+
+**Q: How do I ensure my refillable laundry detergent stays fresh?**  
+A: Store refills in a cool, dry place and seal them tightly. If mixing with water, use distilled water to prevent bacteria growth and extend shelf life.

@@ -26,6 +26,10 @@ Refillable bathroom products are designed to be used multiple times by replenish
 
 These differ from single-use products, which come in packaging intended to be discarded immediately after one use, such as standard plastic shampoo bottles, pump soap bottles, and individually wrapped cotton rounds.
 
+
+
+> **See also:** [Zero-Waste Bathroom: Essential Refillable Personal Care Products](https://refillwatch.org/articles/zero-waste-bathroom-essential-refillable-personal-care-products/)
+
 ## How Refillable Products Reduce Waste
 
 ### 1. Material Reduction Through Concentration and Bulk

@@ -22,6 +22,10 @@ By making your own:
 - Select ingredients that are **transparent and non-toxic**, improving indoor air quality.
 - Potentially save money over time by buying concentrate in bulk rather than pre-mixed solutions.
 
+
+
+> **See also:** [How to Refill Your Own Bathroom Cleaning Solutions at Home](https://refillwatch.org/articles/how-to-refill-your-own-bathroom-cleaning-solutions-at-home/)
+
 ## What You’ll Need
 
 - **Refillable container**: A glass or high-quality plastic spray bottle, a refillable plug-in diffuser, or a reed diffuser vessel you can top up.

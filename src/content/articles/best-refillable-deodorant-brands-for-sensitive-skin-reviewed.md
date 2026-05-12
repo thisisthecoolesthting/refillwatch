@@ -22,6 +22,10 @@ Before diving into brand reviews, it’s important to clarify what qualifies as 
 - **Cost vs Waste Savings:** A refillable product needs to truly save money or at least balance cost with waste savings over time. Some 'refillable' claims don’t saving much plastic or end up costing more without environmental benefit.
 - **User Experience:** Application method matters—creams, sticks, balms, or roll-ons—especially for sensitive skin which might need smooth application without friction or powders that dry out skin.
 
+
+
+> **See also:** [Personal Care Refills: Eco-Friendly Options for Every Skin Type](https://refillwatch.org/articles/personal-care-refills-eco-friendly-options-for-every-skin-type/)
+
 ## Top 5 Refillable Deodorant Brands for Sensitive Skin Reviewed
 
 | Rank | Brand Type      | Container Material | Formula Type               | Ingredient Highlights                | Refill Format       | Approximate Refill Cost Savings | Notes on Sensitivity & Performance                |

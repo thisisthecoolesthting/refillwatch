@@ -18,6 +18,10 @@ This article breaks down what refillable shaving cream options look like, how th
 
 ---
 
+
+
+> **See also:** [Plastic-Free Toothpaste Options Compared: Tubes vs Refill Packs](https://refillwatch.org/articles/plastic-free-toothpaste-options-compared-tubes-vs-refill-packs/)
+
 ## What Are Refillable Shaving Cream Options?
 
 Refillable shaving cream options are grooming products designed to minimize packaging waste by allowing you to reuse the primary container multiple times, replenishing it with refill cartridges, concentrates, or DIY refills. Rather than buying a new aerosol can or plastic tube every time, you keep the same container and top it up — ideally with packaging that uses less plastic, or packaging that can be reused or recycled more easily.

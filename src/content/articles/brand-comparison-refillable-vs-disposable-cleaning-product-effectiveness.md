@@ -21,6 +21,10 @@ If you're tired of throwing away single-use plastic bottles after every cleaning
 
 **Refillable Cleaning Products** generally involve purchasing a durable bottle that can be reused repeatedly, paired with refill packs or cartridges containing concentrated cleaning solutions. These refills either come as pre-measured capsules, pouches, or cartridges that you mix with water before use. Some brands offer brand-specific cartridges, while others allow third-party refills.
 
+
+
+> **See also:** [Zero-Waste Bathroom Swaps: Refillable vs Single-Use Products](https://refillwatch.org/articles/zero-waste-bathroom-swaps-refillable-vs-single-use-products/)
+
 ## How Refillable and Disposable Products Work
 
 | Feature                         | Disposable Cleaning Products                   | Refillable Cleaning Products                      |

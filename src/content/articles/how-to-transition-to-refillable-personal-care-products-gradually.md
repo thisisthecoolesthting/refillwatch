@@ -23,6 +23,10 @@ Making a slow switch helps you:
 
 With this approach, you’ll find refillable alternatives that fit your lifestyle and household needs, while keeping your bathroom shelf tidy and your conscience clear.
 
+
+
+> **See also:** [Best Refillable Fabric Softener Options Without Plastic Bottles](https://refillwatch.org/articles/best-refillable-fabric-softener-options-without-plastic-bottles/)
+
 ## Step 1: Audit Your Current Products and Waste Patterns
 
 Before replacing anything, know what you use regularly and where your waste comes from.

@@ -20,6 +20,10 @@ Traditional face washes usually come in single-use plastic bottles that contribu
 
 But “refillable” doesn’t always mean better. Some refills come in bulky plastic packaging, or their cartridge systems don’t last long enough to offset the initial container’s footprint. Concentrated formulas requiring dilution at home can also reduce packaging volume dramatically, but may add a step you don’t want in your routine. Transparency about ingredients and concentration ratios is key — an honest refill system will clearly state how concentrated the product is and what you’re getting per refill pod.
 
+
+
+> **See also:** [Refillable vs Concentrated vs Powdered Cleaning Products Explained](https://refillwatch.org/articles/refillable-vs-concentrated-vs-powdered-cleaning-products-explained/)
+
 ## What to Look for in a Refillable Face Wash for Oily and Dry Skin
 
 - **Formulation targeted for your skin type:** Oily skin benefits from foaming, oil-control cleansers with clarifying ingredients like salicylic acid, while dry skin needs gentle hydrating cleansers with soothing oils and humectants.

@@ -42,6 +42,10 @@ Our investigation reveals how manufacturers bank on three factors: 1) The psycho
 
 We'll expose which products increased costs fastest through both overt and covert methods, demonstrate through laboratory testing that cheaper alternatives clean just as effectively, and provide a detailed roadmap to bulk refill systems that can reduce your annual detergent spend by $127 or more.
 
+
+
+> **See also:** [Laundry Detergent: Tracking the Hidden Price Increases](https://refillwatch.org/articles/detergent-dollar-drain/)
+
 ## Why this matters
 
 Laundry detergent pricing operates on razor-thin margins and sophisticated consumer psychology. Manufacturers understand that most households will absorb a $0.12 increase per load because the perceived risk of switching brands outweighs the cost difference. However, our independent testing with 42 different fabric types and 18 common stains proves that budget-friendly detergents like [Arm & Hammer Clean Burst](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) remove identical stains as premium pods when used with proper techniques (pre-treating, correct water temperature, and adequate agitation).
@@ -209,3 +213,17 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are laundry detergent prices increasing?**  
+A: Prices are rising due to higher production costs, supply chain disruptions, and increased demand for concentrated or "premium" detergents. Some brands also shrink package sizes without lowering prices, a practice known as "shrinkflation."  
+
+**Q: How can I save money on laundry detergent without sacrificing quality?**  
+A: Opt for refillable or bulk options, use eco-friendly concentrates, or make your own detergent with simple ingredients like baking soda and castile soap. These alternatives often cost less per load.  
+
+**Q: Are eco-friendly detergents more expensive than conventional ones?**  
+A: While some eco-friendly detergents have a higher upfront cost, they’re often more concentrated, lasting longer and reducing cost per wash. Refill programs can also lower long-term expenses.  
+
+**Q: What’s the environmental impact of traditional laundry detergents?**  
+A: Many conventional detergents contain synthetic chemicals and microplastics that pollute waterways. Eco-friendly options use biodegradable ingredients and refillable packaging to minimize waste and harm.

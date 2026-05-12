@@ -24,6 +24,10 @@ However, “refillable” covers a range of designs and practices:
 
 Each approach has different trade-offs in convenience, environmental impact, and cost savings.
 
+
+
+> **See also:** [Top Eco-Friendly Refillable Shampoo Brands Reviewed](https://refillwatch.org/articles/top-eco-friendly-refillable-shampoo-brands-reviewed/)
+
 ## How Refillable Brands Actually Reduce Plastic Waste
 
 The main goal is to reduce the total plastic used per cleaning cycle. Key factors include:

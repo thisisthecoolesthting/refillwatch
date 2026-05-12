@@ -23,6 +23,10 @@ Refill options fall into broad categories:
 - **Reusable cartridge systems:** Specialized bottles or devices where you insert a cartridge that contains a concentrated formula.
 - **Concentrated formulas:** Highly concentrated versions that you dilute at home in reusable bottles.
 
+
+
+> **See also:** [Refillable vs Traditional Cleaning Products: Cost and Environmental Impact](https://refillwatch.org/articles/refillable-vs-traditional-cleaning-products-cost-and-environmental-impact/)
+
 ## How Do Personal Care Refills Work?
 
 The waste-saving benefit comes from reusing rigid bottles or dispensing devices multiple times instead of discarding after a single use. Refills either:

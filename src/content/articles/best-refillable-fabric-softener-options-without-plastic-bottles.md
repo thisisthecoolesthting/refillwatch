@@ -16,6 +16,10 @@ Refillable fabric softener options are gaining traction as households look to re
 
 Refillable fabric softener refers to products designed to minimize single-use plastic waste by using reusable containers and concentrated refills. Instead of purchasing a new full plastic bottle each time, you keep a sturdy, durable container and replenish the fabric softener either through compatible refill pouches, cartridges, or bulk concentrate solutions.
 
+
+
+> **See also:** [Best Refillable Dish Soap Brands for Zero-Waste Kitchens](https://refillwatch.org/articles/best-refillable-dish-soap-brands-for-zero-waste-kitchens/)
+
 ## How Do Refillable Fabric Softeners Work?
 
 1. **Reusable Container**: The core concept is that you own or reuse a durable bottle that is designed to last for months or years.

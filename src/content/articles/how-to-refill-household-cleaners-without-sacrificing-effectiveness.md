@@ -22,6 +22,10 @@ Most household cleaners come in concentrated or ready-to-use forms. Concentrates
 
 By matching or exceeding the concentration ratio of your original cleaner, refills can perform just as well or better.
 
+
+
+> **See also:** [How to Refill Your Own All-Purpose Cleaner Safely](https://refillwatch.org/articles/how-to-refill-your-own-all-purpose-cleaner-safely/)
+
 ## Step-by-Step Guide to Refilling Household Cleaners without Losing Effectiveness
 
 ### Step 1: Choose Concentrated or Compatible Refill Formats

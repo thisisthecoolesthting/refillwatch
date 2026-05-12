@@ -16,6 +16,10 @@ If you have sensitive skin, finding effective household cleaners that won’t ca
 
 In this article, we explore how refillable cleaners with gentle, transparent ingredients work, why concentration ratios matter for both skin and waste reduction, and which refill systems truly save plastic. We also provide a detailed comparison table to help you select the best options for your household.
 
+
+
+> **See also:** [How to Make Zero-Waste Cleaning Products from Kitchen Ingredients](https://refillwatch.org/articles/how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients/)
+
 ## What Are Refillable Cleaners for Sensitive Skin?
 
 Refillable cleaners are household cleaning products designed to reuse the same container through refills—either via concentrated formulas or compatible refill cartridges. When tailored for sensitive skin, these cleaners feature low-irritation, fragrance-free, or naturally derived ingredients to minimize skin reactions during use. Many also use transparent labeling to disclose all components, giving users confidence about what they’re applying around their home.

@@ -226,6 +226,24 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 
 <!-- boilerplate-stripped-v1 -->
 
+
+
+> **See also:** [Refill Your Routine: Smart Swaps for Cheaper Personal Care Products](https://refillwatch.org/articles/personal-care-refill-options/)
+
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much can I really save by buying cleaning supplies in bulk?**  
+A: Savings vary, but bulk purchases often cut costs by 20–40% compared to single-use products, especially when paired with refillable containers. Always compare unit prices to ensure the deal is worth it.  
+
+**Q: Are all "bulk" deals actually eco-friendly?**  
+A: Not always—some bulk products still come in plastic packaging or contain harsh chemicals. Look for concentrated refills, biodegradable options, or brands committed to sustainability.  
+
+**Q: What’s the best way to store bulk cleaning supplies to avoid waste?**  
+A: Use airtight, labeled containers in a cool, dark place to extend shelf life. For liquids, opt for glass or durable plastic bottles to prevent leaks and degradation.  
+
+**Q: Which cleaning products make the most sense to buy in bulk?**  
+A: High-use items like dish soap, laundry detergent, and all-purpose cleaners offer the best savings and reduce packaging waste when bought in bulk. Avoid bulk buys for products you rarely use.

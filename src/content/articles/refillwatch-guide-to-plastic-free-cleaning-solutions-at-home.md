@@ -16,6 +16,10 @@ If you’ve found yourself drowning in single-use plastic bottles and containers
 
 ---
 
+
+
+> **See also:** [How to Refill Your Own Bathroom Cleaning Solutions at Home](https://refillwatch.org/articles/how-to-refill-your-own-bathroom-cleaning-solutions-at-home/)
+
 ## What Are Plastic-Free Cleaning Solutions?
 
 Plastic-free cleaning solutions replace traditional cleaning products packaged in single-use plastic with options that minimize or eliminate plastic waste. These can include:

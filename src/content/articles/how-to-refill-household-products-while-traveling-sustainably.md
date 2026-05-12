@@ -16,6 +16,10 @@ Packing for a trip often means juggling the convenience of disposable products w
 
 Refilling rather than buying new bottled products greatly reduces plastic waste, especially when traveling. Tourists and business travelers often accumulate dozens of single-use bottles over time, contributing to landfill overflow and ocean pollution. Furthermore, many refilled products have higher concentrations, meaning less water in the mix and less plastic used over multiple refills. Being intentional about your product use on the road aligns your travel habits with sustainability goals at home.
 
+
+
+> **See also:** [Refillable vs Concentrated vs Powdered Cleaning Products Explained](https://refillwatch.org/articles/refillable-vs-concentrated-vs-powdered-cleaning-products-explained/)
+
 ## Step 1: Plan Your Products & Containers Ahead
 
 Start by deciding which household products you truly need during your trip. Common choices include:

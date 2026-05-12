@@ -16,6 +16,10 @@ If you’re trying to reduce your single-use plastic waste while protecting your
 
 ---
 
+
+
+> **See also:** [How to Choose Refillable Deodorants That Actually Work](https://refillwatch.org/articles/how-to-choose-refillable-deodorants-that-actually-work/)
+
 ## What Makes a Sunscreen Refillable and Eco-Friendly?
 
 Refillable sunscreens go beyond standard spray or pump bottles by offering ways to cut down on single-use packaging:

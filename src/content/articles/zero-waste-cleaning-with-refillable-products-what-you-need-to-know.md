@@ -26,6 +26,10 @@ Refillable cleaning products offer a way to reuse containers, reduce packaging w
 - How concentrated the cleaning product formula is.
 - Whether the refill unit is truly reusable or designed to be discarded anyway.
 
+
+
+> **See also:** [Zero-Waste Cleaning Hacks Using Refillable Household Essentials](https://refillwatch.org/articles/zero-waste-cleaning-hacks-using-refillable-household-essentials/)
+
 ## How Refillable Cleaning Products Work
 
 Refill systems come in several shapes, each with different waste and cost implications:

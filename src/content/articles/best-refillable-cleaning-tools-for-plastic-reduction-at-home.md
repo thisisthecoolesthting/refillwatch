@@ -18,6 +18,10 @@ This guide breaks down the best types of refillable cleaning tools for plastic r
 
 ---
 
+
+
+> **See also:** [How to Identify Truly Plastic-Free Refillable Product Packaging](https://refillwatch.org/articles/how-to-identify-truly-plastic-free-refillable-product-packaging/)
+
 ## What Are Refillable Cleaning Tools?
 
 Refillable cleaning tools are household cleaning products designed to be reused, with only the cleaning solution or consumable part replaced. Instead of purchasing entirely new spray bottles, mop heads, or scrubbing tools each time, you refill or replace a cartridge, concentrate, or reusable part.

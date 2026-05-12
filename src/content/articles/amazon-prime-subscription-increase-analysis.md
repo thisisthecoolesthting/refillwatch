@@ -39,6 +39,10 @@ We spent 90 days tracking real delivery times, streaming costs, and the "impulse
 
 We'll show you the exact math for your household, plus three alternatives that beat Prime's value for specific use cases.
 
+
+
+> **See also:** [Has Your Amazon Prime Subscription Doubled? Here's Why.](https://refillwatch.org/articles/amazon-prime-subscription-cost-increase/)
+
 ## Why this matters
 
 Amazon Prime represents textbook subscription creep—the slow price increase that relies on you not noticing, paired with benefits that gradually degrade (slower shipping in rural areas, streaming bloat, fewer exclusive deals).
@@ -288,3 +292,17 @@ Compare unit prices section by section before assuming bulk = cheaper. The sweet
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much do I need to spend on Amazon to make Prime worth the $139 annual fee?**  
+A: If you take advantage of free shipping alone, you’d need to place about 14 orders per year (assuming average shipping costs of $10 without Prime) to break even.  
+
+**Q: Does Prime’s eco-friendly packaging option offset its environmental impact?**  
+A: While Amazon offers "Frustration-Free Packaging" for some items, the carbon footprint of fast shipping and excess packaging on many products still outweighs this benefit for eco-conscious shoppers.  
+
+**Q: Are there cheaper alternatives to Prime for eco-friendly shopping?**  
+A: Yes, refillable and zero-waste retailers like Grove Collaborative or Thrive Market often offer lower annual fees and prioritize sustainable shipping and packaging.  
+
+**Q: Can I share my Prime membership to split the cost with others?**  
+A: Yes, Amazon allows two adults in the same household to share Prime benefits, but sharing outside your address violates their terms of service.

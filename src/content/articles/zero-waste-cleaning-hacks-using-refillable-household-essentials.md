@@ -145,3 +145,5 @@ Transitioning to zero-waste cleaning is both feasible and rewarding, but it requ
 
 **Q: How do I know how much concentrate to dilute?**  
 **A:** Most concentrates come with clear dilution ratios. Use a measuring bottle or cup to follow instructions carefully; this maximizes cleaning power and minimizes waste.
+
+> **See also:** [Refillable vs Concentrated Cleaning Products: What’s Better?](https://refillwatch.org/articles/refillable-vs-concentrated-cleaning-products-what-s-better/)

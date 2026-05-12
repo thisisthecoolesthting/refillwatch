@@ -16,6 +16,10 @@ If you’re trying to cut down on single-use plastic and household product waste
 
 ---
 
+
+
+> **See also:** [Personal Care Brand Showdown: Refillable Packaging vs. Conventional](https://refillwatch.org/articles/personal-care-brand-showdown-refillable-packaging-vs-conventional/)
+
 ## What Are Refillable Personal Care Products?
 
 Refillable personal care products are items designed to be reused multiple times by refilling them with concentrated formulas or bulk refills instead of buying entirely new bottles or packaging. Common categories include shampoo, conditioner, body wash, face wash, lotion, deodorant, toothpaste, and even some cosmetics.

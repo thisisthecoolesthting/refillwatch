@@ -18,6 +18,10 @@ A refillable shampoo brand typically provides a container that can be reused mul
 
 However, the effectiveness of a refill system depends heavily on how much plastic and packaging is saved per refill, whether the refills are compatible with multiple bottle sizes, and if concentrate refills allow for less water and plastic shipping overhead.
 
+
+
+> **See also:** [Refillable vs Disposable Cotton Rounds: Which Is More Sustainable?](https://refillwatch.org/articles/refillable-vs-disposable-cotton-rounds-which-is-more-sustainable/)
+
 ## How Eco-Friendly Refill Shampoo Systems Work
 
 - **Standard Refill Bottles or Pouches:** These involve buying smaller bottles or plastic pouches intended to refill the main bottle. They reduce the amount of plastic used overall, but the real savings depend on how lightweight and recyclable the refill packaging is.

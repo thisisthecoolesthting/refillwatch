@@ -21,6 +21,10 @@ Ocean plastic pollution refers to the accumulation of plastic debris in marine e
 
 Though many think of plastic bags or fishing gear as the main ocean pollution sources, single-use or hard-to-recycle household containers are part of the persistent problem. These containers are often made from mixed plastics or combined materials, making them less likely to be recycled efficiently, thus increasing the chance plastic leaks into nature.
 
+
+
+> **See also:** [Refillable Household Cleaners That Deliver Powerful Results](https://refillwatch.org/articles/refillable-household-cleaners-that-deliver-powerful-results/)
+
 ## How Refillable Household Products Work to Cut Plastic Waste
 
 Refillable household products usually fall into a few models:

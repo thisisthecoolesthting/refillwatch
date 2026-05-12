@@ -18,6 +18,10 @@ Concentrated cleaning formulas are liquid or powder cleaning products designed t
 
 The concentration ratio indicates how much water you add to the concentrate. For example, a 1:16 ratio means one part concentrate mixed with 16 parts water results in one bottle of finished cleaning solution. This means that one small bottle of concentrate can replace many large spray bottles or buckets of cleaner.
 
+
+
+> **See also:** [Why Refillable Cleaning Products Reduce Household Plastic Waste](https://refillwatch.org/articles/why-refillable-cleaning-products-reduce-household-plastic-waste/)
+
 ## How Concentrated Formulas Help Reduce Plastic Waste
 
 - **Less Packaging Volume:** Concentrates require much smaller bottles or pouches to deliver an equivalent number of uses compared to ready-to-use cleaners.

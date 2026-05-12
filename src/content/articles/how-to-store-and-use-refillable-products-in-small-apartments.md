@@ -14,6 +14,10 @@ subtopic: personal-care
 
 If you live in a small apartment, you might struggle with limited storage space and the clutter that reusable or refillable household products can add. While switching to refillable products reduces single-use plastic waste and can save money, managing bulky containers, refill pouches, and cartridges can feel overwhelming in tight quarters. This guide helps you optimize storage and use of refillable products in small apartments — keeping your space tidy, your routines simple, and your environmental impact low.
 
+
+
+> **See also:** [How to Transition to Refillable Personal Care Products Gradually](https://refillwatch.org/articles/how-to-transition-to-refillable-personal-care-products-gradually/)
+
 ## Why Refillable Products Are Worth It in Small Spaces
 
 Refillable household products — like detergent, soaps, cleaners, and personal care items — come in concentrated formulas and reusable containers designed to cut down on plastic waste. The trade-off: they often require more calculated storage and handling than disposable bottles.

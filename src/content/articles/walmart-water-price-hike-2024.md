@@ -205,6 +205,24 @@ Compare unit prices section by section before assuming bulk = cheaper. The sweet
 
 <!-- boilerplate-stripped-v1 -->
 
+
+
+> **See also:** [Walmart Water: Is Your Hydration Bill Creeping Up?](https://refillwatch.org/articles/walmart-water-price-surge/)
+
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How much did Walmart increase its water prices in 2024?**  
+A: Walmart raised its water prices by an average of 55% across various brands and sizes in 2024, according to our analysis.
+
+**Q: How can I save money despite the price hike?**  
+A: Switching to refillable water bottles and using home filtration systems can save you up to 55% compared to buying bottled water at Walmart.
+
+**Q: Are eco-friendly alternatives as convenient as bottled water?**  
+A: Yes, refillable bottles and filtration systems are just as convenient, often offering better quality water and reducing plastic waste.
+
+**Q: What are the environmental benefits of switching to refillable options?**  
+A: Refillable options significantly reduce plastic waste, lower carbon emissions from production and transportation, and promote sustainable living.

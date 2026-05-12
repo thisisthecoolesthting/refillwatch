@@ -18,6 +18,10 @@ Refillable toothpaste tablets are solid, chewable oral care products designed to
 
 This means you can carry a small reusable jar or container on travels or for everyday use and purchase refills in bulk or compatible third-party packaging. The packaging reduction is often the key selling point, as it bypasses the plastic tube’s rigid structure and excess material.
 
+
+
+> **See also:** [Best Refillable Toothbrushes for Plastic Reduction Goals](https://refillwatch.org/articles/best-refillable-toothbrushes-for-plastic-reduction-goals/)
+
 ## How Do Refillable Toothpaste Tablets Work?
 
 1. **Concentration and Formulation**: Toothpaste tablets contain highly concentrated ingredients like fluoride, abrasives, natural flavorings, and cleaning agents compressed into a solid form. You usually chew one or two tablets to produce a toothpaste-like paste in your mouth.

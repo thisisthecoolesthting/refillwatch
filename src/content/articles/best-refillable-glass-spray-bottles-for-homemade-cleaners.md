@@ -16,6 +16,10 @@ If you're mixing your own homemade cleaners to cut single-use plastic waste and 
 
 Glass is inert, non-reactive, and doesn’t leach chemicals into your cleaners, ensuring ingredient integrity and safety. Refillable glass spray bottles are often sturdy enough to reuse for years, helping you avoid the single-use plastic cycle. They also tend to be better at preserving the concentration and effectiveness of your concentrated homemade solutions compared to some plastics that might interact with essential oils or vinegar.
 
+
+
+> **See also:** [How to Refill Your Own All-Purpose Cleaner Safely](https://refillwatch.org/articles/how-to-refill-your-own-all-purpose-cleaner-safely/)
+
 ## What to Look for in a Refillable Glass Spray Bottle
 
 When picking a glass bottle for your homemade cleaners, focus on:

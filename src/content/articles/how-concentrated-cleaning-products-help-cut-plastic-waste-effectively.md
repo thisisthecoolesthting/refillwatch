@@ -16,6 +16,10 @@ If you're tired of filling your recycling bin with bulky, half-empty plastic bot
 
 ---
 
+
+
+> **See also:** [How to Make Zero-Waste Cleaning Products from Kitchen Ingredients](https://refillwatch.org/articles/how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients/)
+
 ## What Are Concentrated Cleaning Products?
 
 Concentrated cleaning products are formulations designed with a higher percentage of active cleaning ingredients in a reduced volume of liquid or solid form. Instead of buying ready-to-use bottles filled mostly with water, you purchase small, potent doses of cleaner that you dilute at home with water. They usually come in compact packaging such as small pouches, tablets, or small bottles intended for mixing into larger reusable spray bottles or containers.

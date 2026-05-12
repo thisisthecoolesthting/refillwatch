@@ -43,6 +43,10 @@ These aren't one-time adjustments but part of a calculated industry playbook. Ne
 
 We analyzed 1,200+ Reddit threads and found that **68% of users** didn't notice sub-$2 increases until reviewing annual statements. The psychological pricing threshold appears to be $3—hikes below this amount see 42% lower cancellation rates according to leaked industry documents.
 
+
+
+> **See also:** [Subscription Service Audit: How to Stop the Quiet Price Creep](https://refillwatch.org/articles/subscription-service-audit-stop-the-creep/)
+
 ## Why This Matters
 
 Streaming now consumes **37% of average home entertainment budgets**—up from 12% in 2017—while delivering less consistent value. Unlike cable packages where price hikes triggered regulatory scrutiny, streaming services exploit digital agility to implement changes with minimal friction. Three hidden impacts costing consumers billions:
@@ -194,3 +198,17 @@ Stick to brands where the refill is actual concentrate or dry product, not a re-
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What is "streaming service price creep"?**  
+A: Streaming price creep refers to the gradual increase in subscription costs over time, often with little notice or added value, making it harder for consumers to budget effectively.  
+
+**Q: How can I track price changes across multiple streaming services?**  
+A: Use a spreadsheet or budgeting app to log subscription costs and set alerts for billing changes, or follow industry news for announced price hikes.  
+
+**Q: Are there eco-friendly alternatives to streaming services?**  
+A: Yes, consider borrowing DVDs from libraries, hosting movie swaps with friends, or supporting platforms that prioritize sustainability in their operations.  
+
+**Q: What should I do if a streaming service raises prices unexpectedly?**  
+A: Evaluate whether the service still offers value, cancel unused subscriptions, or switch to ad-supported tiers to save money and reduce digital waste.

@@ -16,6 +16,10 @@ If you're trying to cut down on single-use plastic and household-product waste, 
 
 ---
 
+
+
+> **See also:** [Refillable vs Concentrated Cleaning Products: What’s Better?](https://refillwatch.org/articles/refillable-vs-concentrated-cleaning-products-what-s-better/)
+
 ## Why Refill Your All-Purpose Cleaner?
 
 Before jumping into steps, it's important to know why refilling matters beyond just saving money:

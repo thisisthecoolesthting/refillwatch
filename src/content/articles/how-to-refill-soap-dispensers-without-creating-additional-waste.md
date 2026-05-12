@@ -23,6 +23,10 @@ The key to genuinely reducing waste lies in:
 - Avoiding refills that require buying new plastic bottles or complicated adapter kits.
 - Comparing cost-per-use and environmental impact to ensure choices make practical sense.
 
+
+
+> **See also:** [How to Refill Your Own Bathroom Cleaning Solutions at Home](https://refillwatch.org/articles/how-to-refill-your-own-bathroom-cleaning-solutions-at-home/)
+
 ## How to Refill Soap Dispensers Without Creating Additional Waste
 
 ### Step 1: Check Your Dispenser Compatibility and Refill Options

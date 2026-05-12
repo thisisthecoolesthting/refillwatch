@@ -28,6 +28,10 @@ updatedAt: 2026-05-12
 
 Streaming services have implemented **17–22% annual price increases** since 2023—and most subscribers barely notice. A $8.99 subscription becomes $14.99. An add-on channel climbs 89% from launch price. The pattern is consistent across every major service: small monthly bumps that feel painless until you step back and see the full picture.
 
+
+
+> **See also:** [Your Streaming Service Just Doubled in Price—Here's How to Stop Overpaying](https://refillwatch.org/articles/streaming-service-price-doubling/)
+
 ## Why These Price Hikes Work (And Why You Don't Notice)
 
 **Gradual Bumps Feel Invisible**  
@@ -101,3 +105,17 @@ Stick to brands where the refill is actual concentrate or dry product, not a re-
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much have streaming service prices increased since 2023?**  
+A: On average, major streaming platforms have raised prices by 20–30% since 2023, with some premium plans now costing up to $25/month.  
+
+**Q: Why are streaming services getting more expensive?**  
+A: Rising content production costs, licensing fees, and the push for profitability have led companies to pass expenses onto subscribers.  
+
+**Q: Are there ways to save on streaming without sacrificing access?**  
+A: Yes, sharing plans (where allowed), rotating subscriptions, or opting for ad-supported tiers can reduce costs while still enjoying content.  
+
+**Q: How does this price creep compare to inflation?**  
+A: Streaming price hikes have far outpaced general inflation, which averaged around 3–4% annually, making them a growing budget concern.

@@ -23,6 +23,10 @@ Refillable products are items designed to be used multiple times with replenishm
 
 However, the term “refillable” is loosely applied and doesn’t always guarantee a meaningful waste reduction or cost savings without some consideration.
 
+
+
+> **See also:** [Best Refillable Dish Soap Brands for Zero-Waste Kitchens](https://refillwatch.org/articles/best-refillable-dish-soap-brands-for-zero-waste-kitchens/)
+
 ## How Refillable Products Work
 
 There are generally three refill formats:

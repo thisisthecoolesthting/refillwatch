@@ -16,6 +16,10 @@ If you've started trying to cut down on single-use plastics in your bathroom, yo
 
 ---
 
+
+
+> **See also:** [Best Refillable Dishwashing Liquid Options for Eco-Friendly Kitchens](https://refillwatch.org/articles/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens/)
+
 ## What Are Personal Care Refills?
 
 Personal care refills are refill packages designed to replenish your existing product containers, such as shampoo bottles, body wash dispensers, hand soap pumps, deodorant sticks, or lotion bottles. Rather than buying a brand-new bottle each time, refills come in flexible pouches, cartridges, or larger bottles meant to reduce plastic waste and packaging volume.

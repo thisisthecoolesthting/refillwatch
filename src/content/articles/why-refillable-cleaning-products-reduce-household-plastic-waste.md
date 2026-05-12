@@ -14,6 +14,10 @@ subtopic: cleaning
 
 If you’re like many households trying to cut down on single-use plastic waste, you’ve probably looked at your cleaning supplies and felt stuck. Traditional cleaning products come in thick plastic bottles that are tossed after a single use, filling landfills and often not getting recycled properly. Switching to refillable cleaning products can make a meaningful dent in household plastic waste—but not all refillable options are created equal, and understanding how they work and what to watch for is crucial.
 
+
+
+> **See also:** [Refillable vs Concentrated vs Powdered Cleaning Products Explained](https://refillwatch.org/articles/refillable-vs-concentrated-vs-powdered-cleaning-products-explained/)
+
 ## What Are Refillable Cleaning Products?
 
 Refillable cleaning products are cleaning solutions that come in reusable containers designed to be refilled multiple times instead of discarded after one use. Typically, this involves purchasing a concentrated formula or a liquid refill packet that you pour or transfer into a durable bottle, often designed to last months or years.

@@ -25,6 +25,10 @@ Common refill forms include:
 
 All these systems aim to reduce the environmental cost of packaging without sacrificing the convenience of liquid makeup remover.
 
+
+
+> **See also:** [Top Eco-Friendly Refillable Shampoo Brands Reviewed](https://refillwatch.org/articles/top-eco-friendly-refillable-shampoo-brands-reviewed/)
+
 ## How Refillable Makeup Removers Reduce Plastic Waste
 
 ### 1. Reducing Single-Use Plastic Bottles

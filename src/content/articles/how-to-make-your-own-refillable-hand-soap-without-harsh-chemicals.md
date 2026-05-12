@@ -16,6 +16,10 @@ Many households want to reduce single-use plastic and avoid harsh chemicals in t
 
 Commercial hand soaps generally come in single-use plastic bottles, contributing to plastic waste. Even refills often use new plastic packaging or cartridges. Some "natural" or refillable soaps still contain harsh chemicals such as sulfates, parabens, or synthetic fragrances, which can irritate sensitive skin or pollute freshwater. By making your own, you control every ingredient, cut down on packaging, and often reduce costs significantly.
 
+
+
+> **See also:** [How to Refill Your Own Bathroom Cleaning Solutions at Home](https://refillwatch.org/articles/how-to-refill-your-own-bathroom-cleaning-solutions-at-home/)
+
 ## What Makes a Good DIY Refillable Hand Soap?
 
 Before diving in, it’s helpful to understand the core components of a gentle, refillable hand soap:

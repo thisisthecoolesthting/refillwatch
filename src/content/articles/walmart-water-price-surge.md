@@ -240,6 +240,24 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 
 <!-- boilerplate-stripped-v1 -->
 
+
+
+> **See also:** [Walmart Water Price Increase 2024: What You Need to Know](https://refillwatch.org/articles/walmart-water-price-increase-2024/)
+
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much does Walmart water cost compared to refillable options?**  
+A: Walmart’s bottled water prices can add up to hundreds per year, while refillable options like filtered pitchers or reusable bottles cost pennies per gallon after the initial investment.  
+
+**Q: Are Walmart’s water bottles eco-friendly?**  
+A: Most Walmart water bottles are single-use plastic, contributing to landfill waste. Switching to refillable, BPA-free bottles or home filtration systems reduces environmental impact.  
+
+**Q: What’s the healthiest alternative to Walmart bottled water?**  
+A: A high-quality water filter (like Berkey or Brita) paired with a stainless steel or glass reusable bottle ensures clean, safe hydration without plastic contaminants.  
+
+**Q: Can I save money by refilling water bottles at Walmart?**  
+A: Some Walmart locations have water refill stations, but investing in a home filtration system is cheaper long-term and more convenient.

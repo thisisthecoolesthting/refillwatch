@@ -43,6 +43,10 @@ This guide answers the question every budget-conscious printer owner asks: *How 
 
 We uncovered manufacturer tactics most people miss. Canon's PG-245XL now yields 330 pages versus 400 five years ago, despite a 15% price increase. Epson embedded artificial expiration dates in cartridge chips—not because ink degrades (our lab tests showed inks remain stable for 18+ months past the date), but to force premature replacement. The [EcoTank ET-2800](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) system proves bulk ink can reduce costs by 90% over time without sacrificing quality, though it requires $250+ upfront investment.
 
+
+
+> **See also:** [Printer Ink Price Hikes Exposed: Track Real Costs & Save 80% With Refill Systems](https://refillwatch.org/articles/refillwatch-article-02/)
+
 ## Why This Matters
 
 Printer manufacturers use the razor-and-blades model: sell hardware at cost, profit on consumables. The average household spends $120–$300 yearly on ink—more than the printer itself costs after two years. Worse, manufacturers use firmware updates to block third-party cartridges (practices the FTC is now investigating).
@@ -206,3 +210,17 @@ Most of that growth came from shrinkflation (smaller package sizes at the same s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much can I really save by switching to ink refills instead of buying new cartridges?**  
+A: On average, refilling ink can save you $200+ yearly, as refill kits cost a fraction of branded cartridges—often just 10–20% of the price per milliliter.  
+
+**Q: Are refilled ink cartridges as reliable as brand-new ones?**  
+A: Yes, quality refill kits provide comparable print quality and longevity, especially when using trusted brands or professional refill services.  
+
+**Q: Won’t refilling cartridges void my printer’s warranty?**  
+A: Most manufacturers can’t legally void warranties solely for using refills, but check your policy—some third-party cartridges may trigger alerts.  
+
+**Q: How do ink refills help the environment compared to disposable cartridges?**  
+A: Refills reduce plastic waste—over 375 million cartridges are dumped yearly—and cut carbon emissions from manufacturing and shipping new ones.

@@ -66,6 +66,10 @@ We conducted a 6-month real-world trial with 50 households tracking their cleani
 
 For apartment dwellers, we found space-saving solutions like repurposing [glass kombucha bottles](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20) with spray tops ($12/6-pack) for cleaner storage. Those with hard water saw best results adding 1/2 tsp of [citric acid powder](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20) ($9.95/lb) per quart to prevent mineral deposits.
 
+
+
+> **See also:** [Detergent Price Creep: Target vs. Costco – Are You Overpaying?](https://refillwatch.org/articles/detergent-price-creep-target-vs-costco/)
+
 ## Why This Matters
 
 Retailers bank on you not noticing the nickel-and-dime strategy: a $0.30 increase here, a 4oz shrink there. Our data reveals the worst offenders in cleaning supplies:
@@ -239,3 +243,17 @@ Compare unit prices section by section before assuming bulk = cheaper. The sweet
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are the benefits of making DIY cleaning supplies?**  
+A: DIY cleaning supplies save money, reduce plastic waste, and eliminate harmful chemicals found in commercial products. They’re also customizable for different cleaning needs.  
+
+**Q: What basic ingredients do I need to start making eco-friendly cleaners?**  
+A: Common ingredients include white vinegar, baking soda, castile soap, essential oils, and reusable spray bottles. These are affordable, effective, and widely available.  
+
+**Q: How do I store homemade cleaning solutions safely?**  
+A: Use glass or durable plastic containers with tight lids, and label them clearly. Keep them out of reach of children and away from direct sunlight to maintain effectiveness.  
+
+**Q: Can DIY cleaners disinfect surfaces as well as store-bought ones?**  
+A: While vinegar and hydrogen peroxide can disinfect, they may not kill all germs like commercial disinfectants. For high-risk areas, consider adding rubbing alcohol or checking EPA-approved DIY recipes.

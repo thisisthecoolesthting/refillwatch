@@ -23,6 +23,10 @@ Refillable body lotions without plastic pump bottles come in packaging designed 
 
 The core idea is to eliminate single-use plastic pump mechanisms and bulky plastic bottles, replacing them with refills that significantly reduce plastic consumption per use.
 
+
+
+> **See also:** [Best Refillable Dish Soap Brands for Zero-Waste Kitchens](https://refillwatch.org/articles/best-refillable-dish-soap-brands-for-zero-waste-kitchens/)
+
 ## Why Concentration Ratios Matter
 
 One overlooked factor when comparing refillable lotions is concentration ratio. Concentrated lotions contain less water and more active ingredients per ounce. This makes them:

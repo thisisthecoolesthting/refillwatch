@@ -18,6 +18,10 @@ This article breaks down what concentrated and traditional detergents are, how t
 
 ---
 
+
+
+> **See also:** [Refillable vs Concentrated Cleaning Products: What’s Better?](https://refillwatch.org/articles/refillable-vs-concentrated-cleaning-products-what-s-better/)
+
 ## What Are Concentrated and Traditional Detergents?
 
 **Traditional Detergents:**  

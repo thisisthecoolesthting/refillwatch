@@ -16,6 +16,10 @@ If you’re committed to cutting down on single-use plastic but feel overwhelmed
 
 ---
 
+
+
+> **See also:** [Refillable Household Products That Reduce Carbon Footprint Significantly](https://refillwatch.org/articles/refillable-household-products-that-reduce-carbon-footprint-significantly/)
+
 ## What Are Refillable Concentrates?
 
 Refillable concentrates are highly concentrated forms of household products (like detergents, hand soaps, shampoos, or all-purpose cleaners) designed to be diluted with water at home. Instead of buying bulky single-use plastic bottles filled with water-heavy liquids, you purchase a small concentrate container and mix it into a reusable bottle, dramatically reducing the volume of plastic you throw away.

@@ -16,6 +16,10 @@ Allergy sufferers face an everyday challenge: how to keep their homes clean with
 
 Allergy-friendly refillable household cleaners are cleaning products designed with non-irritating, transparent ingredient lists, free from common allergens like fragrances, dyes, and harsh preservatives. Instead of tossing single-use plastic bottles, these come in reusable containers paired with concentrated refills or compatible cartridges that minimize plastic waste and often reduce cost per use.
 
+
+
+> **See also:** [Refillable Household Products That Reduce Carbon Footprint Significantly](https://refillwatch.org/articles/refillable-household-products-that-reduce-carbon-footprint-significantly/)
+
 ## How Refillable Allergy-Friendly Cleaners Work
 
 1. **Concentration and Dilution:** Allergy-friendly cleaning concentrates remove the need for thick preservatives and synthetic scents, which are often allergenic. These are diluted at home, so you use fewer chemicals overall.

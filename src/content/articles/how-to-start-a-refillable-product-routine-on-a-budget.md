@@ -24,6 +24,10 @@ For example, a laundry detergent concentrate might be sold as a 1-ounce concentr
 - Packaging waste per use
 - Shipping carbon footprint per use
 
+
+
+> **See also:** [Top Refillable Household Products That Slash Single-Use Plastic Waste](https://refillwatch.org/articles/top-refillable-household-products-that-slash-single-use-plastic-waste/)
+
 ## Step 2: Calculate Refill Cost vs Bottle Cost Using Real Numbers
 
 To determine if a refill truly saves money, consider the following cost math:

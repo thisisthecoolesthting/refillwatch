@@ -49,6 +49,10 @@ We've tracked these changes through:
 - Testing actual loads per bottle (spoiler: most brands overestimate)
 - Monitoring subscription price creep over 12-month periods
 
+
+
+> **See also:** [Detergent Price Creep: How to Fight Back Against Rising Costs](https://refillwatch.org/articles/detergent-price-creep-how-to-fight-back/)
+
 ## Why this matters
 
 Laundry detergent operates on what economists call 'inelastic demand'—people buy it regardless of price fluctuations because clean clothes aren't optional. Manufacturers exploit this through sophisticated psychological pricing strategies:
@@ -246,3 +250,17 @@ The break-even point is the metric that matters — if you'll use the reusable t
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why have laundry detergent prices increased despite packaging appearing the same?**  
+A: Many brands have reduced product volume while keeping package sizes identical, a practice known as "shrinkflation." Additionally, rising raw material and transportation costs have driven up prices without obvious packaging changes.  
+
+**Q: How can switching to refillable detergent help save money?**  
+A: Refillable detergents often come in concentrated forms, offering more uses per purchase, and bulk refills typically cost less per load than traditional single-use bottles. Over time, this reduces both spending and plastic waste.  
+
+**Q: Are eco-friendly detergents as effective as conventional ones?**  
+A: Yes, many plant-based and refillable detergents now match conventional options in cleaning power, thanks to advances in biodegradable surfactants and enzyme formulas. They also avoid harsh chemicals, making them safer for sensitive skin.  
+
+**Q: What’s the best way to track hidden price increases in household products?**  
+A: Compare unit prices (e.g., cost per load or ounce) rather than total package prices, and monitor product sizes over time. Apps or spreadsheets can help track historical pricing trends and identify shrinkflation tactics.

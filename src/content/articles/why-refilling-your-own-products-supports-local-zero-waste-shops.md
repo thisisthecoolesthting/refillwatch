@@ -18,6 +18,10 @@ Refilling your products means bringing empty containers from home—such as jars
 
 Refilling isn’t limited to water or coffee—it’s a comprehensive approach to stopping the stream of plastic packaging and excessive waste that make their way into landfills and oceans. It replaces the concept of “one-use, toss” packaging with reusable containers you already have, or durable containers purchased once and reused repeatedly.
 
+
+
+> **See also:** [RefillWatch: Top Refillable Household Products for Zero-Waste Living](https://refillwatch.org/articles/refillwatch-top-refillable-household-products-for-zero-waste-living/)
+
 ## How It Works: Local Zero-Waste Shops and Their Role
 
 Local zero-waste shops typically offer:

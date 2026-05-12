@@ -54,6 +54,10 @@ Our testing methodology involved:
 
 The results revealed three clear patterns: 1) Powder detergents consistently delivered the lowest cost per load, 2) Refillable systems reduced packaging waste by 92%, and 3) Many "premium" liquid detergents underperformed against budget powders on stain removal. For example, [Arm & Hammer Powder](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) removed red wine stains 18% faster than Persil ProClean Liquid despite costing 60% less per load.
 
+
+
+> **See also:** [DIY Laundry Detergent Refills: How to Save 88% vs. Tide (Lab-Tested)](https://refillwatch.org/articles/diy-laundry-detergent-refills/)
+
 ## Why this matters
 
 Laundry detergent operates on what economists call "inelastic demand"—people buy it regardless of price fluctuations because clean clothes aren't optional. Retailers exploit this by gradually increasing prices (what we call "dripflation") while reducing package sizes. Our tracking shows the average 50-load detergent container shrank by 6.2% since 2020 while prices rose 22%. Worse, many conventional detergents use 80-90% water, meaning you're paying to ship heavy liquid that could be added at home.
@@ -219,3 +223,17 @@ The break-even point is the metric that matters — if you'll use the reusable t
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Are cheaper laundry detergents as effective as name-brand options?**  
+A: Yes, many budget-friendly and eco-friendly alternatives, like soap nuts or DIY detergent, clean just as well without harsh chemicals or inflated prices.  
+
+**Q: What’s the most affordable eco-friendly laundry detergent option?**  
+A: Washing soda and baking soda mixed with grated castile soap is a low-cost, effective DIY solution that’s gentle on clothes and the environment.  
+
+**Q: Can I use vinegar as a laundry detergent substitute?**  
+A: Yes, vinegar works as a fabric softener and odor neutralizer, but it’s best paired with a mild detergent for tougher stains.  
+
+**Q: How do refillable detergent options save money long-term?**  
+A: Refillable systems reduce packaging waste and often offer bulk pricing, cutting costs per load compared to single-use detergent bottles.

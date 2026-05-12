@@ -26,6 +26,10 @@ Concentrates can come in several formats, including:
 
 Regardless of format, the core idea is the same—maximize cleaning power per ounce to reduce packaging and transportation impact.
 
+
+
+> **See also:** [RefillWatch’s Best Picks for Sustainable Household Cleaning Products](https://refillwatch.org/articles/refillwatch-s-best-picks-for-sustainable-household-cleaning-products/)
+
 ## How Cleaning Concentrates Work
 
 The key to cleaning concentrates is their *formulation concentration*. In regular cleaning products, a large amount of water dilutes active ingredients before purchase. Concentrates remove that premixed water, leaving much more active cleaning agent per ounce or gram.

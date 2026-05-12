@@ -18,6 +18,10 @@ Refillable household products come in containers designed to be replenished mult
 
 The goal is to minimize single-use plastic bottles and containers entering your waste stream while maintaining convenience and effectiveness. Many refill options enable you to keep a durable, long-lasting container on hand, drastically reducing your packaging waste over time.
 
+
+
+> **See also:** [Zero-Waste Cleaning Hacks Using Refillable Household Essentials](https://refillwatch.org/articles/zero-waste-cleaning-hacks-using-refillable-household-essentials/)
+
 ## How Refillable Products Work to Cut Waste
 
 Unlike single-use bottles, refillable solutions aim to reduce the plastic used per volume of product. There are two main approaches:

@@ -16,6 +16,10 @@ If you’re trying to reduce single-use plastic and overall household waste, dec
 
 ---
 
+
+
+> **See also:** [Refillable vs Recyclable Packaging: What Consumers Should Know](https://refillwatch.org/articles/refillable-vs-recyclable-packaging-what-consumers-should-know/)
+
 ## What Are Refillable and Disposable Sponges?
 
 **Disposable sponges**, traditionally, are single-piece sponges designed to be used until worn or dirty, then discarded. They are often synthetic foam or cellulose-based, packaged individually or in multi-packs, and frequently replaced—sometimes weekly in busy kitchens.

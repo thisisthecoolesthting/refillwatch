@@ -22,6 +22,10 @@ Refillable hand soap refers to soap products designed to be used multiple times 
 
 The goal is to reduce single-use plastic, minimize packaging waste, and cut down on the overall cost of hand soap over time.
 
+
+
+> **See also:** [Zero-Waste Cleaning Hacks Using Refillable Household Essentials](https://refillwatch.org/articles/zero-waste-cleaning-hacks-using-refillable-household-essentials/)
+
 ## How Using Refillable Hand Soap Saves Money
 
 ### 1. Lower Cost per Wash Through Bulk Purchasing

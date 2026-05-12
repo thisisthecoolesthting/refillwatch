@@ -178,3 +178,17 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How can I track my streaming subscriptions to avoid overpaying?**  
+A: Use budgeting apps or subscription trackers to monitor all your active subscriptions and their renewal dates.
+
+**Q: Are there eco-friendly alternatives to streaming services?**  
+A: Consider borrowing DVDs or Blu-rays from local libraries or sharing subscriptions with friends to reduce digital waste.
+
+**Q: What should I do if I notice a price hike on my streaming service?**  
+A: Check for promotional rates, downgrade to a cheaper plan, or cancel and switch to a more affordable service.
+
+**Q: Can I negotiate streaming subscription prices?**  
+A: Some services offer discounts for annual plans or loyalty programs—contact customer support to inquire about potential deals.

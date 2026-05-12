@@ -26,6 +26,10 @@ Refillable shampoo typically involves purchasing shampoo concentrate or bulk ref
 
 Not all refill systems are equally effective at reducing plastic waste — understanding packaging materials, reuse practices, and formula concentration is key.
 
+
+
+> **See also:** [Top Refillable Mouthwash Brands That Reduce Plastic Use](https://refillwatch.org/articles/top-refillable-mouthwash-brands-that-reduce-plastic-use/)
+
 ## How Refillable Shampoo Reduces Plastic: Key Factors
 
 ### 1. Concentration Ratio (Water vs Active Ingredients)

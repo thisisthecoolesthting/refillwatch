@@ -18,6 +18,10 @@ Refillable products are designed to be used multiple times by replenishing their
 
 Examples include glass or stainless steel bottles refilled with bulk soaps, shampoo dispensers that accept liquid refills, or durable containers paired with reusable cartridges or pods.  The concept sounds simple, but many products labeled ‘refillable’ still rely on plastic pouches or single-use cartridges that create plastic waste and complicate recycling.
 
+
+
+> **See also:** [Refillable Shampoo Brands That Actually Reduce Plastic Use](https://refillwatch.org/articles/refillable-shampoo-brands-that-actually-reduce-plastic-use/)
+
 ## How Refillable Products Reduce Plastic Waste
 
 Refillable products reduce plastic waste primarily by:

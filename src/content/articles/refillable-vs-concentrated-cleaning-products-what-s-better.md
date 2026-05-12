@@ -25,6 +25,10 @@ Refillable cleaning products typically come as ready-to-use liquids sold in larg
 
 Concentrated cleaning products come in highly condensed form—usually a small bottle, packet, or tablet. You dilute them with water at home before use to reach the working solution strength. Concentrates reduce packaging size significantly because the cleaning agents are compressed into minimal volume and weight, which lowers shipping emissions and plastic use.
 
+
+
+> **See also:** [Zero-Waste Cleaning Hacks Using Refillable Household Essentials](https://refillwatch.org/articles/zero-waste-cleaning-hacks-using-refillable-household-essentials/)
+
 ## How Do They Work to Reduce Waste?
 
 - **Refillables** reduce plastic waste by encouraging reuse of containers. Instead of buying a new spray bottle every time, you keep your original bottle and refill it from a larger container or pouch.

@@ -25,6 +25,10 @@ Refillable personal care products are those designed to reduce plastic waste by 
 
 By focusing on refillability, the goal is to minimize single-use plastic bottles, reduce product transportation footprint, and often improve control over ingredients and packaging materials.
 
+
+
+> **See also:** [Zero-Waste Living: Refillable Personal Care Products Beginners Guide](https://refillwatch.org/articles/zero-waste-living-refillable-personal-care-products-beginners-guide/)
+
 ## How Refillable Personal Care Products Work
 
 Most refillable systems fall into a few structural models:

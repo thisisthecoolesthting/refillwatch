@@ -22,6 +22,10 @@ The product types include:
 - Disinfectants gentle enough for pet-used areas but tough on germs
 - Specialty odor eliminators or enzymatic stain removers
 
+
+
+> **See also:** [Why Refillable Cleaning Products Reduce Household Plastic Waste](https://refillwatch.org/articles/why-refillable-cleaning-products-reduce-household-plastic-waste/)
+
 ## How Refillable Pet Cleaning Products Work
 
 Many refillable pet cleaning products deploy one of these frameworks:

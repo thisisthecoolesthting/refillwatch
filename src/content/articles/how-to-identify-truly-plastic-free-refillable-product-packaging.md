@@ -22,6 +22,10 @@ To be "truly" plastic-free and refillable, both the **primary container** and th
 
 ---
 
+
+
+> **See also:** [Best Refillable Cleaning Tools for Plastic Reduction at Home](https://refillwatch.org/articles/best-refillable-cleaning-tools-for-plastic-reduction-at-home/)
+
 ## How to Identify Truly Plastic-Free Refillable Packaging: Step-by-Step
 
 ### Step 1: Inspect the Primary Container Material

@@ -25,6 +25,10 @@ Unlike conventional single-use bottles, refills:
 
 But not all refillable products are created equal. Some “refillable” options simply reuse the label or packaging while requiring new plastic containers that don’t actually reduce plastic consumption enough to offset their environmental impact.
 
+
+
+> **See also:** [Refillable vs Concentrated Cleaning Products: What’s Better?](https://refillwatch.org/articles/refillable-vs-concentrated-cleaning-products-what-s-better/)
+
 ## How Refillable Products Reduce Carbon Footprint
 
 The carbon footprint of household products is heavily influenced by:

@@ -24,6 +24,10 @@ Refillable cotton rounds are washable and reusable pads usually made from organi
 
 ---
 
+
+
+> **See also:** [Top Eco-Friendly Refillable Shampoo Brands Reviewed](https://refillwatch.org/articles/top-eco-friendly-refillable-shampoo-brands-reviewed/)
+
 ## How Refillable and Disposable Cotton Rounds Work
 
 ### Disposable Rounds

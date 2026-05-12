@@ -107,3 +107,17 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: Why have laundry detergent prices increased by 8–15%?**  
+A: The price hike is due to rising production costs, including raw materials, transportation, and packaging, as well as broader inflation trends affecting consumer goods.
+
+**Q: How can switching to refillable detergents save me money?**  
+A: Refillable detergents often cost less per load because you’re not paying for new packaging each time, and many brands offer discounts for returning customers who refill.
+
+**Q: Are refillable laundry detergents as effective as traditional ones?**  
+A: Yes, many eco-friendly refillable detergents are formulated to match the cleaning power of conventional options, with the added benefit of being gentler on the environment.
+
+**Q: Where can I find refill stations for laundry detergent?**  
+A: Many zero-waste stores, co-ops, and even some major retailers now offer refill stations, and some brands provide mail-back or subscription refill services for convenience.

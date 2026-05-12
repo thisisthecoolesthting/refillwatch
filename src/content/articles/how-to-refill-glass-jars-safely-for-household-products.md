@@ -22,6 +22,10 @@ Common concerns you may have:
 - How to refill without contaminating or damaging the jar contents
 - How to save money by using concentrate refills or compatible cartridges
 
+
+
+> **See also:** [How to Refill Personal Care Products Without Cross-Contamination](https://refillwatch.org/articles/how-to-refill-personal-care-products-without-cross-contamination/)
+
 ## Step-by-Step: How to Safely Refill Glass Jars
 
 ### 1. Inspect Your Glass Jars First  

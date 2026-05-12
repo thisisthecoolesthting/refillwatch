@@ -30,6 +30,10 @@ However, **not all refillable claims are equal**, and some can still generate su
 
 ---
 
+
+
+> **See also:** [Best Refillable Fabric Softener Options Without Plastic Bottles](https://refillwatch.org/articles/best-refillable-fabric-softener-options-without-plastic-bottles/)
+
 ## How Refillable Hand Sanitizers Reduce Single-Use Plastic
 
 The primary goal is to reduce the total plastic generated per unit of sanitizer used. Factors that influence actual plastic savings:

@@ -27,6 +27,10 @@ Common refillable categories include:
 - Personal care (shampoos, conditioners, lotions)
 - Laundry detergents and fabric softeners
 
+
+
+> **See also:** [How to Store and Use Refillable Products in Small Apartments](https://refillwatch.org/articles/how-to-store-and-use-refillable-products-in-small-apartments/)
+
 ## How Refillable Products Save Space in Tiny Homes
 
 Space efficiency is critical in tiny living — refillables help in several tangible ways:

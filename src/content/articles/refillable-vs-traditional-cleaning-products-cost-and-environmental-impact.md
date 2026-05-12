@@ -18,6 +18,10 @@ Cleaning your home without creating excess plastic waste or overspending can fee
 
 **Refillable cleaning products** use bottles or dispensers designed for reuse. Instead of buying a new bottle each time, you purchase a concentrated formula, cartridge, or pouch to refill your container. This system aims to cut plastic waste and sometimes reduce shipping weight.
 
+
+
+> **See also:** [Zero-Waste Cleaning Hacks Using Refillable Household Essentials](https://refillwatch.org/articles/zero-waste-cleaning-hacks-using-refillable-household-essentials/)
+
 ## How Do Refillable Systems Work?
 
 Refillables come in different formats:

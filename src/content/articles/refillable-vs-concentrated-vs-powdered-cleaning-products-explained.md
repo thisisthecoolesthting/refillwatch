@@ -26,6 +26,10 @@ Concentrated cleaning products are liquids or gels with a high ratio of active i
 ### Powdered Cleaning Products
 Powdered products contain active cleaning agents in a dry form, often requiring mixing with water to generate a solution for cleaning. They typically come in recyclable or compostable paper-based or cardboard packaging, which is usually lighter and less reliant on plastic than conventional bottles.
 
+
+
+> **See also:** [Refillable vs Concentrated Cleaning Products: What’s Better?](https://refillwatch.org/articles/refillable-vs-concentrated-cleaning-products-what-s-better/)
+
 ## How They Work
 
 - **Refillables** cut waste by reusing bottles or dispensers. Instead of buying new plastic bottles, you keep one container and refill it regularly.

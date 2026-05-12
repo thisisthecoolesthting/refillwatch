@@ -23,6 +23,10 @@ The goal is to reduce waste generated from frequent disposal of plastic bottles 
 - The source and transportation of the refill itself (bulk refills often ship more efficiently)
 - Ingredient transparency allowing you to avoid harsh chemicals harming environment or requiring excess packaging to mitigate 
 
+
+
+> **See also:** [Best Refillable Fabric Softener Options Without Plastic Bottles](https://refillwatch.org/articles/best-refillable-fabric-softener-options-without-plastic-bottles/)
+
 ## How Refillable Products Reduce Carbon Footprint
 
 1. **Less Single-Use Plastic Waste**  
