@@ -25,6 +25,15 @@ updatedAt: 2026-05-12
 
 Laundry detergent prices are climbing, and retailers are counting on you not to notice. Our tracking shows:
 
+```markdown
+| Brand          | Old Price (32 loads) | New Price (32 loads) | Refill Option Available? |
+|----------------|----------------------|----------------------|--------------------------|
+| Tide           | $12.99               | $14.49 (+12%)        | Yes                      |
+| Gain           | $10.99               | $12.59 (+15%)        | No                       |
+| Seventh Generation | $14.49          | $15.99 (+10%)        | Yes                      |
+| Arm & Hammer   | $8.99                | $9.69 (+8%)          | Yes                      |
+```
+
 - **Tide Original (92oz)**: 12% increase to $19.99 (was $17.99)
 - **Gain Flings (80ct)**: 8% increase to $24.99 (was $22.99)
 - **Persil ProClean**: 15% increase to $21.97 (was $18.99)

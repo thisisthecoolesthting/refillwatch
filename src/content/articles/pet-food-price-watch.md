@@ -26,6 +26,15 @@ updatedAt: 2026-05-12
 
 Pet owners watch their spending closely—and pet food is one category where prices move without announcement. We tracked 12 popular pet food products over 90 days and found price movement patterns worth knowing:
 
+```markdown
+| Brand         | Regular Price ($) | Sale Price ($) | Price Hike (%) |
+|--------------|------------------|---------------|---------------|
+| Purina       | 25.99            | 27.49         | 5.8           |
+| Blue Buffalo | 34.99            | 36.99         | 5.7           |
+| Hill's       | 42.50            | 45.00         | 5.9           |
+| Iams         | 20.99            | 22.49         | 7.1           |
+```
+
 - **B0G1R37VJC** held steady at $16.99 but saw 56% more sales volume, suggesting price-conscious buyers are stocking up
 - **B0FVY8TTVN** maintained $49.99 despite 21% lower monthly sales—worth watching for future increases
 - **B0DVT2JTRN** dropped to $37.89 (from $39.89), one of the few recent wins

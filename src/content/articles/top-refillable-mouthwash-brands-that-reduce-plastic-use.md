@@ -137,6 +137,8 @@ When choosing a refillable mouthwash brand for eco-friendly purposes, consider t
 
 ## FAQ
 
+## Frequently Asked Questions
+
 **Q: How do refillable mouthwash brands reduce plastic waste?**  
 A: Refillable mouthwash brands use reusable bottles and offer concentrated refills, significantly cutting down on single-use plastic packaging.
 

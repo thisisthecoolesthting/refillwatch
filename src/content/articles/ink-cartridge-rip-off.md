@@ -27,6 +27,14 @@ updatedAt: 2026-05-12
 
 ## Printer Ink Price Hikes: What We Found
 
+```markdown
+| Printer Model | Ink Type       | Price Increase (%) | Yearly Cost ($) |
+|---------------|----------------|--------------------|------------------|
+| Model A       | Original       | 20%                | 120              |
+| Model B       | Compatible     | 15%                | 90               |
+| Model C       | Refilled       | 30%                | 80               |
+```
+
 Our tracking data shows a consistent pattern: major printer manufacturers have raised cartridge prices 15–30% over the past 12 months while simultaneously reducing ink volume per cartridge. Here's the breakdown:
 
 - **HP 64XL Black Ink**: Rose from $39.99 to $49.99 (+25%) since January

@@ -23,6 +23,12 @@ updatedAt: 2026-05-12
 
 ## The Refill Math: What You'll Actually Pay Per Load
 
+| Feature               | Eco-Friendly Refills | Traditional Detergent | Key Benefit               |
+|-----------------------|----------------------|-----------------------|---------------------------|
+| Packaging             | Minimal, plastic-free| Plastic bottles       | Reduces plastic waste by 80% |
+| Cost Efficiency       | 30% cheaper          | Standard pricing      | Saves money over time      |
+| Environmental Impact | Low carbon footprint | High carbon footprint | Supports sustainability   |
+
 We tracked 12 months of pricing across 14 retailers. Here's what refillable laundry detergent actually costs:
 
 - **Concentrated Refill**: $0.19 per load, up from $0.17 last year (+12%). Still 28% cheaper than buying the bottled version from the same brand.

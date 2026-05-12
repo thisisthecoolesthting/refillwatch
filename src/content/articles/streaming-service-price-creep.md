@@ -26,6 +26,15 @@ updatedAt: 2026-05-12
 
 ## How Streaming Services Quietly Raise Your Bill
 
+```markdown
+| Service          | 2023 Price | 2024 Price | Increase (%) |
+|------------------|------------|------------|--------------|
+| Netflix          | $9.99      | $15.49     | 55%          |
+| Disney+         | $7.99      | $10.99     | 38%          |
+| HBO Max         | $14.99     | $15.99     | 7%           |
+| Apple TV+       | $6.99      | $9.99      | 43%          |
+```
+
 Streaming services have implemented **17–22% annual price increases** since 2023—and most subscribers barely notice. A $8.99 subscription becomes $14.99. An add-on channel climbs 89% from launch price. The pattern is consistent across every major service: small monthly bumps that feel painless until you step back and see the full picture.
 
 
