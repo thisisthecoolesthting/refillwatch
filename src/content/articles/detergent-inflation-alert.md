@@ -18,7 +18,9 @@ tags:
 - price hike
 - consumer goods
 - refillable
-heroImage: "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-inflation-alert.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 Laundry detergent prices are climbing, and retailers are counting on you not to notice. Our tracking shows:

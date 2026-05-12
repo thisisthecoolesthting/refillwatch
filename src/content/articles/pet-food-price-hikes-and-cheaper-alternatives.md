@@ -26,7 +26,9 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-price-hikes-and-cheaper-alternatives.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -76,6 +78,8 @@ To provide a more comprehensive comparison, we also evaluated the cost per calor
 
 Furthermore, we considered the ingredient quality of each brand. While Hill's Science Diet is often praised for its high-quality ingredients, our analysis revealed that [Blue Buffalo Wilderness](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) offers a comparable ingredient profile at a lower cost. This makes [Blue Buffalo](https://www.amazon.com/dp/B00JA3YPN4?tag=refillwatch-20) an attractive option for pet owners who prioritize ingredient quality but are also mindful of their budget.
 
+
+For more on finding cheaper alternatives for canon pg-245 ink cartridges, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).
 ## Real-World Performance
 
 Beyond price tags, we tested how these foods perform in actual use:

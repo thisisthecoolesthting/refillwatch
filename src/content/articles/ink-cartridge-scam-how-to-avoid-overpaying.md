@@ -26,7 +26,9 @@ tags:
 - printer price hikes
 - ink alternatives
 - printing costs
-heroImage: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/ink-cartridge-scam-how-to-avoid-overpaying.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -59,6 +61,8 @@ Key findings:
 - HP shows the most aggressive pricing strategy, with 28% increases on flagship models
 - Epson's high-yield cartridges offer better value but still trail refill alternatives
 
+
+For more on printer ink price comparison guide 2024: stop overpaying!, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/).
 ## Real-World Performance
 
 Third-party ink often gets dismissed over quality concerns, but modern formulations have narrowed the gap. We tested the [InkOwl refill kit](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20) against OEM cartridges in three scenarios:

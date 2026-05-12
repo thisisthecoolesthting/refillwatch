@@ -27,10 +27,12 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-09.webp
 cardTitle: 'Printer Ink Costs Skyrocketing: Save 80% With Smart Refill Strategies'
 cardPick: Refillable cartridges eliminate vendor lock-in, delivering genuine savings
   while bypassing manufacturer price manipulation schemes.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -76,6 +78,8 @@ For families printing 50 pages weekly, these hikes add $85–120 annually. A den
 - HP's price hikes outpace inflation by 3.6× while yields decline
 - EcoTank systems achieve near-perfect yield accuracy with zero DRM
 
+
+For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).
 ## Real-World Performance
 
 Our 6-month stress tests with 15 participants and 4,200+ print jobs revealed surprises:

@@ -20,7 +20,9 @@ tags:
 - price-hike
 - refillable-alternatives
 - consumables
-heroImage: "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/ink-cartridge-rip-off.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Printer Ink Price Hikes: What We Found
@@ -51,6 +53,8 @@ Printer manufacturers use a proven playbook: sell the hardware cheap, then profi
 
 **Lock in subscription pricing early.** If you use HP Instant Ink, sign up for an annual plan to avoid monthly rate hikes. The per-page math only works if you maintain consistent usage.
 
+
+For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).
 ## The Bottom Line
 
 Printer ink is one of the most expensive liquids by volume—retailers knowingly sell printers at a loss to lock you into high-margin consumables. By switching to refillable systems or laser printers, you can cut ink costs by 50–70% without sacrificing print quality.

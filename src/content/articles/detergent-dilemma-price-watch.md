@@ -27,7 +27,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-dilemma-price-watch.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -49,6 +51,16 @@ The real scandal lies in how retailers exploit auto-delivery subscriptions: Amaz
 Seventh Generation's Free & Clear liquid detergent now costs more per load ($0.23) than many conventional detergents despite its simpler formula - their 2025 price jump of 27% dwarfs P&G's 12% average increase. This green premium has reached unjustifiable levels, especially when independent testing shows store brands outperforming these products in key cleaning metrics.
 
 The financial impact extends beyond the detergent aisle: improper dosing (a common issue with concentrated formulas) leads to 37% of consumers using more product than necessary, according to our usage surveys. When combined with stealth price increases, this waste compounds the financial burden on households already facing grocery inflation.
+
+<InlineComparisonTable
+  caption="Laundry Detergent Price Watch — Best Value Picks"
+  products={[
+    { name: "Persil ProClean Power-Liquid", asin: "B0DHV8SCLS", price: "$16.99", pros: ["Removes tough stains", "No price jump vs 2023", "High load count"], cons: ["Overkill for light loads", "Higher cost/load than budget picks"], tag: "refillwatch-20", badge: "Best Heavy-Duty" },
+    { name: "ECOS Laundry Detergent", asin: "B0DHV7ZWH2", price: "$15.49", pros: ["Plant-based formula", "HE compatible", "Fragrance-free option"], cons: ["27% price hike since 2023", "Size reduced from 128oz to 100oz"], tag: "refillwatch-20", badge: "Eco Pick" },
+    { name: "Arm & Hammer Clean Burst", asin: "B00WSAXBQ0", price: "$9.32", pros: ["Lowest cost per load ($0.14)", "Smallest price increase (10%)", "Widely available"], cons: ["Lighter scent", "Less effective on heavy grease"], tag: "refillwatch-20", badge: "Best Value" },
+    { name: "Method Laundry Detergent 8x", asin: "B098JD8HD3", price: "$14.99", pros: ["Ultra-concentrated", "Biodegradable formula", "Small-batch packaging"], cons: ["Easy to over-dose", "Premium price tier"], tag: "refillwatch-20" }
+  ]}
+/>
 
 ## Head-to-head comparison
 

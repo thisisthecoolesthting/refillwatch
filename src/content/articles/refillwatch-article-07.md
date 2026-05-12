@@ -27,10 +27,12 @@ tags:
 - refillable ink
 - printer supplies
 - cost per page
-heroImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-07.webp
 cardTitle: 'Printer Ink Costs Skyrocket: Here''s How to Save Big'
 cardPick: Third-party cartridges cut costs 60-70% versus OEM brands while maintaining
   quality and reliability for everyday printing.
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -77,6 +79,8 @@ Key findings:
 - **Yield misreporting**: Printer software routinely underestimates remaining ink by 12–18%
 - **Regional pricing**: The same Brother TN-760 cartridge costs $38 in the US vs $22 in Japan
 
+
+For more on how to refill your own ink cartridges: save 60–90% vs. oem, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-your-own-ink-cartridges-guide/).
 ## Real-World Performance
 
 Our testing involved:

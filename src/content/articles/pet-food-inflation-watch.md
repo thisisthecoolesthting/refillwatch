@@ -31,7 +31,9 @@ relatedProducts:
 - B0DHV8SCLS
 - B0G63G9LRJ
 - B0GCMVP12Q
-heroImage: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-inflation-watch.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

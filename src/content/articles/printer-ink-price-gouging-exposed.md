@@ -27,10 +27,12 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B00063RWT8
-heroImage: "https://images.unsplash.com/photo-1543168256-418811576931?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/printer-ink-price-gouging-exposed.webp
 cardTitle: 'Stop Overpaying for Ink: Refill Hacks Save Hundreds Yearly'
 cardPick: Bulk concentrate refills cut cleaning supply costs by 70% versus brand-name
   cartridges and pre-filled bottles.
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -133,6 +135,8 @@ For text documents, the [INKredible Compatible](https://www.amazon.com/dp/B0CB75
 - High-gloss photo paper (OEM inks had 12% better color gamut)
 - Water resistance (OEM inks lasted 15% longer when wet)
 
+
+For more on printer ink price comparison guide 2024: stop overpaying!, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/).
 ## Real-World Performance
 
 Beyond controlled lab tests, we monitored these cartridges in three real-world environments for six months:

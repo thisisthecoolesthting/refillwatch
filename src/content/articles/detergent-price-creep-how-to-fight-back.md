@@ -30,7 +30,9 @@ tags:
 - consumer advocacy
 - bulk buying
 - household savings
-heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-price-creep-how-to-fight-back.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction

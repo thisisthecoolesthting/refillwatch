@@ -26,7 +26,9 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1586374579358-9d19d632b6df?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/ink-cartridge-scam-uncovered.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -78,6 +80,8 @@ Key findings from our 1,200+ page test:
 
 Environmental impact deserves special attention. Each HP 67XL cartridge generates enough plastic waste to make 17 disposable water bottles. When you factor in transportation (cartridges are air-freighted due to their high value-to-weight ratio), the carbon footprint becomes staggering. Refillable systems reduce this waste by 90% or more.
 
+
+For more on printer maintenance tips to save ink: cut your cartridge costs by 50%+, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-maintenance-tips-to-save-ink/).
 ## Real-world performance
 
 Manufacturer page yield claims often bear little resemblance to actual usage. We conducted controlled testing across three common scenarios with the [HP 67XL](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) and [Epson 212](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) to measure real-world performance:

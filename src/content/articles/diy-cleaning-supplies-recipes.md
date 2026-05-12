@@ -46,7 +46,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/diy-cleaning-supplies-recipes.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -105,6 +107,8 @@ For tough jobs, we developed a heavy-duty degreaser that rivals [Zep Industrial 
 
 This cuts through grill grease at $0.12/oz versus Zep's $0.33/oz, with no respiratory warnings.
 
+
+For more on diy ink refill: a step-by-step guide to saving money, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-at-home/).
 ## Real-World Performance
 
 Commercial cleaners have two hidden advantages: surfactants that reduce streaking and stabilizers that prolong shelf life. Our tests revealed:

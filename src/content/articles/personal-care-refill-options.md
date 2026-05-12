@@ -40,7 +40,9 @@ relatedProducts:
 - B0G63G9LRJ
 - B0G63H5J2M
 - B0GCMVP12Q
-heroImage: "https://images.unsplash.com/photo-1607083681678-52d5ef83b9b5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/personal-care-refill-options.webp
+subtopic: personal-care
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -92,6 +94,8 @@ Key findings from our 180-day testing period:
 - **Soap Innovation**: Tablets eliminate single-use plastic waste and surprisingly outperform liquid soap in lather tests - one [Blueland tablet](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) generated 22% more foam than equivalent liquid volumes in controlled measurements.
 - **Unexpected Benefits**: 68% of testers reported their shower drainage improved after switching to refill systems, likely due to reduced plastic bottle accumulation and cleaner product formulations.
 
+
+For more on canon pg-245 cheaper alternatives: compatible cartridges vs. refill kits vs, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternative/).
 ## Real-World Performance
 
 We stress-tested refill systems for 6 months across multiple climates and usage scenarios:

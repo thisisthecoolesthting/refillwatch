@@ -26,10 +26,12 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/best-reusable-water-bottles-save-money.webp
 cardTitle: Stop Spending $100+ Yearly on Bottled Water
 cardPick: One large reusable bottle pays for itself in weeks while eliminating recurring
   beverage expenses forever.
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -82,6 +84,8 @@ Key revelations:
 - **304 vs 18/8 stainless**: Food-grade 304 (used in [Simple Modern](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)) resists corrosion nearly as well as premium 18/8 at 40% lower cost
 - **Hidden replacement costs**: 68% of "lifetime warranties" exclude gaskets ($5 every 18 months)
 
+
+For more on going paperless: digital alternatives to printing that actually save money, see [our coverage at inkledger.org](https://inkledger.org/articles/going-paperless-digital-alternatives-to-printing/).
 ## Real-World Performance
 
 Through accelerated lifecycle testing, we identified three failure modes that impact long-term savings:

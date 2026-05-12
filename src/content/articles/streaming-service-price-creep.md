@@ -19,7 +19,9 @@ tags:
 - Amazon Prime hike
 - entertainment budget
 - price tracking
-heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/streaming-service-price-creep.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## How Streaming Services Quietly Raise Your Bill

@@ -28,7 +28,9 @@ relatedProducts:
 - B0F54TYKF9
 - B0G3BYYZN2
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/shampoo-bar-vs-liquid-cost-comparison.webp
+subtopic: personal-care
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -77,6 +79,8 @@ Key findings:
 - Ethique's higher price only justifies itself for users with perfect storage conditions
 - Shipping emissions favor bars by 75% on average
 
+
+For more on brother laser vs. inkjet: a long-term cost comparison, see [our coverage at inkledger.org](https://inkledger.org/articles/brother-laser-vs-inkjet-cost-comparison/).
 ## Real-World Performance
 
 Our 90-day user trials uncovered unexpected variables:

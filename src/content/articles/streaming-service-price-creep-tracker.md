@@ -22,10 +22,12 @@ tags:
 - entertainment budget
 - price tracking
 - reusable alternatives
-heroImage: "https://images.unsplash.com/photo-1586899028174-e7098604235b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/streaming-service-price-creep-tracker.webp
 cardTitle: Stop Paying More for Cleaners Every Month Without Realizing It
 cardPick: Bulk concentrate cuts cleaning supply costs by 75% compared to pre-made
   bottles, protecting your budget from silent price increases.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

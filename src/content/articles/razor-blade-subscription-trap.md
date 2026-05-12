@@ -24,7 +24,9 @@ tags:
 - safety razor savings
 - blade cost per shave
 - dollar shave club alternative
-heroImage: "https://images.unsplash.com/photo-1586899028174-e7098604235b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/razor-blade-subscription-trap.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -73,6 +75,8 @@ We conducted a 6-month controlled study comparing four subscription services aga
 - Handle durability shows the starkest difference—plastic subscription handles averaged 9.2 months before failure versus decades for metal safety razors
 - The Feather AS-D2 provided the closest shave at the lowest long-term cost ($0.018 per shave)
 
+
+For more on the razor-and-blade model: why printer ink is so expensive, see [our coverage at inkledger.org](https://inkledger.org/articles/why-is-printer-ink-so-expensive/).
 ## Real-World Performance
 
 Beyond cost, our team of 12 testers tracked shave quality, blade degradation, and hidden frustrations across 1,800 shaves. The results expose critical flaws in subscription models:

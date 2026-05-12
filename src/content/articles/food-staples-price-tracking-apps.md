@@ -26,7 +26,9 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: "https://images.unsplash.com/photo-1569172122301-bc5008bc09c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/food-staples-price-tracking-apps.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

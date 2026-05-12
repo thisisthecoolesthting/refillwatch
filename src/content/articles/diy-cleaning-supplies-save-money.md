@@ -27,10 +27,12 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/diy-cleaning-supplies-save-money.webp
 cardTitle: 'Stop Overpaying for Cleaners: Make Your Own for Pennies'
 cardPick: Bulk concentrate costs 80% less than brand names and makes 10x more product
   with simple water mixing.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

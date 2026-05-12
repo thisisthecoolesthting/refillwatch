@@ -27,7 +27,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-inflation-alternatives.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

@@ -27,7 +27,9 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/reusable-water-bottles-best-value.webp
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -79,6 +81,8 @@ Key insights from 2,100+ data points:
 3. **Lid design is the failure point**: 83% of leaks originated from gasket-less designs like the [Simple Modern Wave](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20)'s flip-top
 4. **Powder coating longevity varies wildly**: [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20)'s coating showed no wear after 500 dishwasher cycles, while budget brands peeled within 50
 
+
+For more on brother laser vs. inkjet: a long-term cost comparison, see [our coverage at inkledger.org](https://inkledger.org/articles/brother-laser-vs-inkjet-cost-comparison/).
 ## Real-World Performance
 
 ### Temperature Retention Deep Dive

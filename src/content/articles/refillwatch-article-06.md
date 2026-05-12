@@ -27,10 +27,12 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: "https://images.unsplash.com/photo-1601598851547-4302969d0614?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-06.webp
 cardTitle: 'Stop Overpaying for Printer Ink: Real Savings Breakdown'
 cardPick: Refill systems slash ink costs by 70% versus cartridge replacement, delivering
   legitimate savings for budget-conscious households.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -175,3 +177,5 @@ Most of that growth came from shrinkflation (smaller package sizes at the same s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).

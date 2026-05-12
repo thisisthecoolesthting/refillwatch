@@ -29,10 +29,12 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F4X2YBP1
-heroImage: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/bulk-pet-food-savings-guide.webp
 cardTitle: 'Skip Pet Store Markups: Buy Bulk Pet Food Like a Savvy Shopper'
 cardPick: Bulk purchasing eliminates recurring markup costs, stretching pet budgets
   30-40% further annually than routine retail purchases.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -89,6 +91,8 @@ Key findings from our expanded research:
 - Purina's 47lb "bulk" option contains three individually packaged 15.7lb bags, reducing storage needs but adding packaging waste
 - All brands showed accelerated nutritional degradation when stored improperly in humid environments (Florida test homes saw 23% faster vitamin loss)
 
+
+For more on how to transition your senior dog to new food: a step-by-step guide, see [our coverage at silvertail.app](https://silvertail.app/articles/transitioning-senior-dog-food/).
 ## Real-world performance
 
 Our 12-month field study with 37 participant households yielded crucial insights about bulk food storage and usage:

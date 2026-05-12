@@ -27,10 +27,12 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-01.webp
 cardTitle: 'Stop Overpaying for Printer Ink: Save $200 Yearly'
 cardPick: Refill cartridges cost 70% less than OEM originals while delivering identical
   print quality for budget-conscious households.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -71,6 +73,8 @@ Our expanded testing revealed critical insights about printer economics. While l
 
 Environmental impact varies dramatically: laser printers consume more energy per page but generate less physical waste, while inkjet uses less power but creates cartridge waste unless refilled.
 
+
+For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).
 ## Real-World Performance
 
 Our stress-testing of 14 refill systems across six months with 50 participants revealed:

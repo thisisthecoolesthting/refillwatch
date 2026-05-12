@@ -24,7 +24,9 @@ relatedProducts:
 - B0F4X2YBP1
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: "https://images.unsplash.com/photo-1452948675878-09df4b36e569?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/food-staples-price-watch-inflation.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

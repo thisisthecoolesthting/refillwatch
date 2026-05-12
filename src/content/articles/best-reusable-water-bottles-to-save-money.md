@@ -27,7 +27,9 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/best-reusable-water-bottles-to-save-money.webp
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -86,6 +88,8 @@ Using actuarial tables to project lifespan, we calculated:
 
 *Against convenience store purchases
 
+
+For more on going paperless: digital alternatives to printing that actually save money, see [our coverage at inkledger.org](https://inkledger.org/articles/going-paperless-digital-alternatives-to-printing/).
 ## Real-world performance
 
 Through our 180-day field study with 53 testers, we identified these critical usage patterns:

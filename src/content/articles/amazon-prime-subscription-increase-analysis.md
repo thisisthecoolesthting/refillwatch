@@ -18,10 +18,12 @@ tags:
 - subscription alternatives
 - budgeting
 - consumer advocacy
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/amazon-prime-subscription-increase-analysis.webp
 cardTitle: Is Amazon Prime Worth $139? The Real Math for Budget Households
 cardPick: Water filter pitchers save families $300+ yearly versus bottled water, eliminating
   Prime's entire annual cost in pure savings.
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

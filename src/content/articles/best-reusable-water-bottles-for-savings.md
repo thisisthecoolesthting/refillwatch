@@ -18,10 +18,12 @@ tags:
 - eco-friendly
 - refill alternatives
 - budget-friendly
-heroImage: "https://images.unsplash.com/photo-1580913428023-02c695666d61?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/best-reusable-water-bottles-for-savings.webp
 cardTitle: 'Stop Buying Bottled Water: The Math Behind Reusable Pitchers'
 cardPick: Filtered pitcher pays for itself in weeks versus endless bottled water spending
   that quietly drains hundreds yearly.
+subtopic: brands
+updatedAt: 2026-05-12
 ---
 
 # Introduction

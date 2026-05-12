@@ -36,7 +36,9 @@ tags:
 - refillable
 - shrinkflation
 - consumer watchdog
-heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-price-creep-target-vs-costco.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -76,6 +78,8 @@ Our expanded testing reveals even more insights: Costco's buying power allows th
 
 Kirkland Signature outperformed Target's Tide Original on oil-based stains by 19% in cold water washes, though Tide had a slight edge (7% better) on protein-based stains in warm water. For households with high-efficiency washers, the performance gap narrowed further—Costco's detergent created 23% fewer suds than Target's, meaning less residue buildup in HE machines over time.
 
+
+For more on printer ink price comparison guide 2024: stop overpaying!, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/).
 ## Real-World Performance
 
 Our 90-day test of 12 detergents revealed three dirty secrets: 1) "100 loads" claims assume half-cap measurements (real-world usage cuts yields by 18-27%), 2) Costco's Kirkland liquid outperformed [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) on grass stains but failed on grease, and 3) [ECOS Hypoallergenic](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) delivered 142 loads from its 100-load bottle by optimizing dispenser design. High-efficiency (HE) washers showed the widest variance—Tide HE Triple Clean used 47% more detergent per load than recommended, accelerating price creep.

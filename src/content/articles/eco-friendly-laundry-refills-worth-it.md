@@ -31,7 +31,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/eco-friendly-laundry-refills-worth-it.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -90,6 +92,8 @@ We subjected eight leading products to standardized testing under 2025 ASTM guid
 - **Hard Water Heroes**: [Seventh Generation's 2x formula](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) outperformed all refills in 250 ppm water
 - **Budget Pick**: [Meliora's bulk powder](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) offers the lowest per-load cost but requires pre-dissolving
 
+
+For more on is hp instant ink worth it? cost analysis vs. cartridges & refills, see [our coverage at inkledger.org](https://inkledger.org/articles/instant-ink-subscription-worth-it/).
 ## Real-world performance
 
 Beyond lab conditions, we documented six months of real-home usage across 20 households. The findings reveal practical challenges manufacturers don't advertise:

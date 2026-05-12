@@ -25,10 +25,12 @@ tags:
 - printing savings
 - cartridge alternatives
 - ink price tracking
-heroImage: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-02.webp
 cardTitle: 'Printer Ink Costs Exploding: Refill Systems Save $800+ Yearly'
 cardPick: Refill systems cost 80% less than OEM cartridges while delivering identical
   print quality without subscription traps.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -85,6 +87,8 @@ We conducted laboratory testing on seven top-selling cartridges to measure real-
 - HP's DRM is most aggressive—newer firmware can detect and block refilled cartridges mid-print
 - Yield discrepancies are worst with color cartridges (up to 25% less than claimed)
 
+
+For more on printer maintenance tips to save ink: cut your cartridge costs by 50%+, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-maintenance-tips-to-save-ink/).
 ## Real-World Performance
 
 Our six-month field study with 42 households revealed unexpected pain points:

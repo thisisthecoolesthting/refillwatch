@@ -25,7 +25,9 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-inflation-finding-affordable-alternatives.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -77,6 +79,8 @@ Our lab analysis revealed that while [Purina Pro Plan](https://www.amazon.com/dp
 
 For cats, we found even less differentiation between price tiers. [Fancy Feast](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20)'s classic pâté line scored equally to premium brands in protein content (10% vs 11%) and palatability tests with 30 feline testers. The main difference? Premium brands use more photogenic chunks and gravy, while budget options focus on nutritionally complete formulas without the aesthetics markup.
 
+
+For more on finding cheaper alternatives for canon pg-245 ink cartridges, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).
 ## Real-World Performance
 
 Beyond lab analyses, we conducted 60-day feeding trials with three dog groups:

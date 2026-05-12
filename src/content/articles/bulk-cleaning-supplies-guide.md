@@ -23,7 +23,9 @@ relatedProducts:
 - B00B5JOC5C
 - B00CBBJ5KY
 - B098JD8HD3
-heroImage: "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/bulk-cleaning-supplies-guide.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction

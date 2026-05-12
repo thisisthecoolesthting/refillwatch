@@ -26,10 +26,12 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-08.webp
 cardTitle: Printer Ink Costs Up 40%? Here's What Actually Saves Money
 cardPick: Third-party refill solutions cut ink expenses by half without sacrificing
   print quality or voiding warranties.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -78,6 +80,8 @@ HP Instant Ink charges $1.99/month for 15 pages (15-page plans) or $9.99/month f
 - Brother's chips tolerate third-party refills better than HP/Epson but void warranties if detected
 - All brands increased prices during back-to-school season (August) by 8–14%
 
+
+For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).
 ## Real-World Testing Results
 
 We stress-tested 6 cartridges for page yield, ink waste, and compatibility.

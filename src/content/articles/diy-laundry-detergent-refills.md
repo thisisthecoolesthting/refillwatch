@@ -22,7 +22,9 @@ tags:
 - washing soda powder
 - laundry savings calculator
 - shrinkflation detergent
-heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/diy-laundry-detergent-refills.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -172,3 +174,5 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on how to refill ink cartridges: save 60–90% vs. oem with tested methods, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-guide/).

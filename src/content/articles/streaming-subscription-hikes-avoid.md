@@ -23,7 +23,9 @@ tags:
 - entertainment budget
 - streaming deals
 - price tracking
-heroImage: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/streaming-subscription-hikes-avoid.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction

@@ -28,7 +28,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/razor-blade-subscription-alternatives.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -73,6 +75,8 @@ Key findings from our 200-hour lab testing:
 
 Subscription blades degrade faster in hard water—DSC blades lasted just 3 shaves in areas with 150+ ppm water hardness versus 7 shaves with filtered water
 
+
+For more on finding cheaper alternatives for canon pg-245 ink cartridges, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).
 ## Real-World Performance
 
 Subscription blades often cut corners on materials. We dissected DSC and Harry's cartridges under microscopes, finding:

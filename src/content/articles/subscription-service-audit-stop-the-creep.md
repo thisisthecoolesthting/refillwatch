@@ -28,7 +28,9 @@ tags:
 - bulk buying
 - consumer advocacy
 - subscription audit
-heroImage: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/subscription-service-audit-stop-the-creep.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -67,6 +69,8 @@ Key findings from our comparison:
 - Pet services use 'premiumization' to justify hikes
 - Coffee subscriptions mask shrinkflation (less product for same price)
 
+
+For more on printer ink price comparison guide 2024: stop overpaying!, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/).
 ## Real-World Performance
 
 We stress-tested subscription services against three real-world scenarios:

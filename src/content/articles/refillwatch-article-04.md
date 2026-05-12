@@ -26,10 +26,12 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refillwatch-article-04.webp
 cardTitle: 'Stop Overpaying For Printer Ink: 82% Savings Hack Revealed'
 cardPick: Refillable systems slash ink costs dramatically versus name-brand cartridges,
   protecting household budgets from sneaky price creep.
+subtopic: personal-care
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -81,6 +83,8 @@ Our expanded testing revealed additional insights:
 2. **Color versus black:** Printing color documents consumes ink 3× faster than claimed—the [Epson 502 Color](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) yielded just 210 pages in our photo printing test
 3. **Page coverage impact:** Documents with heavy graphics (like school projects) can cut cartridge life by 40% versus text-only pages
 
+
+For more on printer maintenance tips to save ink: cut your cartridge costs by 50%+, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-maintenance-tips-to-save-ink/).
 ## Real-World Performance
 
 Our stress tests revealed surprising durability differences:

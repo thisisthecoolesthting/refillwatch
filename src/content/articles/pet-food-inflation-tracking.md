@@ -20,10 +20,12 @@ tags:
 - pet food subscription creep
 - refillable pet food options
 - price tracking pet goods
-heroImage: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-inflation-tracking.webp
 cardTitle: 'Stop Overpaying for Filtered Water: Budget-Friendly Pitcher Alternative'
 cardPick: Large capacity pitcher eliminates recurring bottled water costs while filtering
   at home for pennies per gallon versus store prices.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -203,3 +205,5 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on finding cheaper alternatives for canon pg-245 ink cartridges, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).

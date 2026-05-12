@@ -23,10 +23,12 @@ tags:
 - cost comparison
 - reusable water
 - bulk water
-heroImage: "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/walmart-water-price-increase-2024.webp
 cardTitle: 'Walmart Water Prices Rising Fast: Switch to Reusable Bottles Now'
 cardPick: Reusable bottles eliminate recurring water markups, saving budget-conscious
   households hundreds annually on bottled water alone.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -96,6 +98,8 @@ We lab-tested 5 options for contaminants:
 4. Waterdrop filtered: 0ppb arsenic
 5. Tap water (Phoenix): 8ppb arsenic
 
+
+For more on are compatible ink cartridges safe for your printer? what you need to know, see [our coverage at inkledger.org](https://inkledger.org/articles/compatible-ink-cartridges-safety/).
 ## Real-world performance
 
 Bulk water systems aren't perfect. Through stress-testing 12 options, we found:

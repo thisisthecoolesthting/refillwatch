@@ -19,7 +19,9 @@ tags:
 - pet-supplies
 - price tracking consumer goods
 - retailer price hike
-heroImage: "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-price-watch.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 Pet owners watch their spending closely—and pet food is one category where prices move without announcement. We tracked 12 popular pet food products over 90 days and found price movement patterns worth knowing:

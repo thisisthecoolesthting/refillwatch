@@ -27,7 +27,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/walmart-water-price-surge.webp
+subtopic: diy
+updatedAt: 2026-05-12
 ---
 
 # Introduction

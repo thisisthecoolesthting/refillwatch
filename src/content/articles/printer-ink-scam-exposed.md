@@ -20,7 +20,9 @@ tags:
 - third-party ink
 relatedProducts:
 - B00CBBJ5KY
-heroImage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/printer-ink-scam-exposed.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -70,6 +72,8 @@ We conducted an independent printer ink test evaluating 14 systems across 2,500 
 
 For photo enthusiasts, Canon's OEM inks remain unmatched for color accuracy (98% Adobe RGB coverage). But for document printing, refillable systems delivered 93% savings over cartridge systems with no noticeable quality difference in text.
 
+
+For more on printer maintenance tips to save ink: cut your cartridge costs by 50%+, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-maintenance-tips-to-save-ink/).
 ## Real-World Performance
 
 Beyond lab tests, we deployed printers in five real-world environments for 90 days:

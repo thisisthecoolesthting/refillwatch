@@ -20,7 +20,9 @@ tags:
 - disney plus price increase
 - netflix alternatives
 - streaming cost comparison
-heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/streaming-service-price-doubling.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -188,3 +190,5 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on printer ink price comparison guide 2024: stop overpaying!, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/).
