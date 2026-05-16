@@ -27,7 +27,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-dilemma-price-watch.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -40,6 +42,10 @@ Our investigation reveals how manufacturers bank on three factors: 1) The psycho
 
 We'll expose which products increased costs fastest through both overt and covert methods, demonstrate through laboratory testing that cheaper alternatives clean just as effectively, and provide a detailed roadmap to bulk refill systems that can reduce your annual detergent spend by $127 or more.
 
+
+
+> **See also:** [Laundry Detergent: Tracking the Hidden Price Increases](https://refillwatch.org/articles/detergent-dollar-drain/)
+
 ## Why this matters
 
 Laundry detergent pricing operates on razor-thin margins and sophisticated consumer psychology. Manufacturers understand that most households will absorb a $0.12 increase per load because the perceived risk of switching brands outweighs the cost difference. However, our independent testing with 42 different fabric types and 18 common stains proves that budget-friendly detergents like [Arm & Hammer Clean Burst](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) remove identical stains as premium pods when used with proper techniques (pre-treating, correct water temperature, and adequate agitation).
@@ -49,6 +55,16 @@ The real scandal lies in how retailers exploit auto-delivery subscriptions: Amaz
 Seventh Generation's Free & Clear liquid detergent now costs more per load ($0.23) than many conventional detergents despite its simpler formula - their 2025 price jump of 27% dwarfs P&G's 12% average increase. This green premium has reached unjustifiable levels, especially when independent testing shows store brands outperforming these products in key cleaning metrics.
 
 The financial impact extends beyond the detergent aisle: improper dosing (a common issue with concentrated formulas) leads to 37% of consumers using more product than necessary, according to our usage surveys. When combined with stealth price increases, this waste compounds the financial burden on households already facing grocery inflation.
+
+<InlineComparisonTable
+  caption="Laundry Detergent Price Watch — Best Value Picks"
+  products={[
+    { name: "Persil ProClean Power-Liquid", asin: "B0DHV8SCLS", price: "$16.99", pros: ["Removes tough stains", "No price jump vs 2023", "High load count"], cons: ["Overkill for light loads", "Higher cost/load than budget picks"], tag: "refillwatch-20", badge: "Best Heavy-Duty" },
+    { name: "ECOS Laundry Detergent", asin: "B0DHV7ZWH2", price: "$15.49", pros: ["Plant-based formula", "HE compatible", "Fragrance-free option"], cons: ["27% price hike since 2023", "Size reduced from 128oz to 100oz"], tag: "refillwatch-20", badge: "Eco Pick" },
+    { name: "Arm & Hammer Clean Burst", asin: "B00WSAXBQ0", price: "$9.32", pros: ["Lowest cost per load ($0.14)", "Smallest price increase (10%)", "Widely available"], cons: ["Lighter scent", "Less effective on heavy grease"], tag: "refillwatch-20", badge: "Best Value" },
+    { name: "Method Laundry Detergent 8x", asin: "B098JD8HD3", price: "$14.99", pros: ["Ultra-concentrated", "Biodegradable formula", "Small-batch packaging"], cons: ["Easy to over-dose", "Premium price tier"], tag: "refillwatch-20" }
+  ]}
+/>
 
 ## Head-to-head comparison
 
@@ -197,3 +213,17 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are laundry detergent prices increasing?**  
+A: Prices are rising due to higher production costs, supply chain disruptions, and increased demand for concentrated or "premium" detergents. Some brands also shrink package sizes without lowering prices, a practice known as "shrinkflation."  
+
+**Q: How can I save money on laundry detergent without sacrificing quality?**  
+A: Opt for refillable or bulk options, use eco-friendly concentrates, or make your own detergent with simple ingredients like baking soda and castile soap. These alternatives often cost less per load.  
+
+**Q: Are eco-friendly detergents more expensive than conventional ones?**  
+A: While some eco-friendly detergents have a higher upfront cost, they’re often more concentrated, lasting longer and reducing cost per wash. Refill programs can also lower long-term expenses.  
+
+**Q: What’s the environmental impact of traditional laundry detergents?**  
+A: Many conventional detergents contain synthetic chemicals and microplastics that pollute waterways. Eco-friendly options use biodegradable ingredients and refillable packaging to minimize waste and harm.

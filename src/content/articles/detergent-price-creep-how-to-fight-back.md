@@ -30,7 +30,9 @@ tags:
 - consumer advocacy
 - bulk buying
 - household savings
-heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-price-creep-how-to-fight-back.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -235,6 +237,24 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 
 <!-- boilerplate-stripped-v1 -->
 
+
+
+> **See also:** [Laundry Detergent: Tracking the Hidden Price Increases](https://refillwatch.org/articles/detergent-dollar-drain/)
+
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are detergent prices increasing?**  
+A: Detergent prices are rising due to higher production costs, supply chain disruptions, and increased demand for concentrated formulas. Brands also often pass on marketing and packaging expenses to consumers.  
+
+**Q: How can switching to refillable detergents save money?**  
+A: Refillable detergents eliminate the cost of single-use packaging and often come in bulk concentrates, reducing per-wash expenses. Many eco-friendly brands also offer subscription discounts for refills.  
+
+**Q: Are eco-friendly detergents as effective as traditional ones?**  
+A: Yes, many plant-based and refillable detergents are just as effective at cleaning, with the added benefit of being gentler on fabrics and the environment. Look for products with certifications like EPA Safer Choice.  
+
+**Q: Where can I find affordable refillable detergent options?**  
+A: Check zero-waste stores, online eco-marketplaces, or direct-from-brand refill programs. Buying in bulk or joining a co-op can also lower costs significantly.

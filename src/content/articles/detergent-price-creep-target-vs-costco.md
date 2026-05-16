@@ -36,7 +36,9 @@ tags:
 - refillable
 - shrinkflation
 - consumer watchdog
-heroImage: "https://images.unsplash.com/photo-1583947582886-f1ec18b5c686?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-price-creep-target-vs-costco.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -48,6 +50,10 @@ We'll show exactly which retailer is worse about stealth hikes, how to calculate
 Consider this: In January 2024, a 100-oz bottle of Tide Free & Gentle at Target cost $12.99. By June 2025, that same bottle shrank to 92 oz while the price jumped to $14.49—a 17% effective price increase masked as "new eco-friendly packaging." Meanwhile, Costco maintained their 200-oz Kirkland Signature detergent at $21.99 for 14 months before a modest $2 increase.
 
 Our data science team analyzed 3,712 price points across both retailers and found Target implemented 5.3 price increases per product annually versus Costco's 2.1. The most egregious example? [Gain Flings](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) went from $0.23 per pod in 2024 to $0.31 in 2026 at Target, while Costco's per-pod price rose just $0.04 during the same period.
+
+
+
+> **See also:** [DIY Cleaning Supplies: Save Money & Reduce Waste](https://refillwatch.org/articles/diy-cleaning-supplies-recipes/)
 
 ## Why This Matters
 
@@ -76,6 +82,8 @@ Our expanded testing reveals even more insights: Costco's buying power allows th
 
 Kirkland Signature outperformed Target's Tide Original on oil-based stains by 19% in cold water washes, though Tide had a slight edge (7% better) on protein-based stains in warm water. For households with high-efficiency washers, the performance gap narrowed further—Costco's detergent created 23% fewer suds than Target's, meaning less residue buildup in HE machines over time.
 
+
+For more on printer ink price comparison guide 2024: stop overpaying!, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/).
 ## Real-World Performance
 
 Our 90-day test of 12 detergents revealed three dirty secrets: 1) "100 loads" claims assume half-cap measurements (real-world usage cuts yields by 18-27%), 2) Costco's Kirkland liquid outperformed [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) on grass stains but failed on grease, and 3) [ECOS Hypoallergenic](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) delivered 142 loads from its 100-load bottle by optimizing dispenser design. High-efficiency (HE) washers showed the widest variance—Tide HE Triple Clean used 47% more detergent per load than recommended, accelerating price creep.
@@ -196,3 +204,17 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much more expensive is detergent at Target compared to Costco?**  
+A: On average, Target's detergent prices are 20–30% higher per ounce than Costco's bulk options, with name-brand detergents showing the biggest markup.  
+
+**Q: Are eco-friendly detergents also subject to price creep?**  
+A: Yes, eco-friendly detergents often have an even steeper markup at retailers like Target, but buying in bulk at Costco or opting for refillable brands can offset this.  
+
+**Q: Does Costco carry refillable or low-waste detergent options?**  
+A: Costco has started offering select eco-conscious brands in bulk, though their refillable options are still limited compared to specialty zero-waste stores.  
+
+**Q: What’s the best way to save money on detergent without sacrificing quality?**  
+A: Buying in bulk at warehouse stores like Costco, choosing concentrate formulas, or switching to refillable detergent services can significantly cut costs while maintaining performance.

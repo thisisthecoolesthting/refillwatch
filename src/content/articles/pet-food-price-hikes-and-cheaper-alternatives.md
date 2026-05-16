@@ -26,7 +26,9 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/pet-food-price-hikes-and-cheaper-alternatives.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -38,6 +40,10 @@ These aren't inflation adjustments—they're margin expansions disguised as rout
 To understand the full scope of these price increases, we analyzed pricing data from major retailers, including Walmart, Amazon, Target, and PetSmart, over the past three years. Our findings reveal that the average price of a 30-lb bag of dry dog food has increased by 22%, while wet food prices have risen by 18%. These hikes are particularly concerning given that ingredient costs, such as chicken meal, have actually decreased by 7% in Q1 2026.
 
 Moreover, we discovered that some brands are engaging in 'shrinkflation,' where they reduce package sizes while maintaining or increasing prices. For example, a 30-lb bag of IAMS Minichunks now weighs 28 lbs but costs the same as the previous 30-lb bag. This deceptive practice further exacerbates the financial burden on pet owners.
+
+
+
+> **See also:** [Pet Food Price Hikes: Track the Increases, Find Cheaper Alternatives](https://refillwatch.org/articles/pet-food-inflation-tracking/)
 
 ## Why This Matters
 
@@ -76,6 +82,8 @@ To provide a more comprehensive comparison, we also evaluated the cost per calor
 
 Furthermore, we considered the ingredient quality of each brand. While Hill's Science Diet is often praised for its high-quality ingredients, our analysis revealed that [Blue Buffalo Wilderness](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) offers a comparable ingredient profile at a lower cost. This makes [Blue Buffalo](https://www.amazon.com/dp/B00JA3YPN4?tag=refillwatch-20) an attractive option for pet owners who prioritize ingredient quality but are also mindful of their budget.
 
+
+For more on finding cheaper alternatives for canon pg-245 ink cartridges, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).
 ## Real-World Performance
 
 Beyond price tags, we tested how these foods perform in actual use:
@@ -198,3 +206,17 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are pet food prices increasing?**  
+A: Pet food prices are rising due to higher costs of ingredients, supply chain disruptions, and increased demand for premium pet food brands. Inflation and global economic factors also play a significant role.  
+
+**Q: What are some affordable yet healthy alternatives to commercial pet food?**  
+A: Consider homemade meals with vet-approved recipes using lean meats, vegetables, and grains. Buying in bulk or opting for store-brand options with similar nutritional value can also save money.  
+
+**Q: How can eco-friendly pet food choices help reduce costs?**  
+A: Refillable pet food options or bulk purchases reduce packaging waste and often come at a lower price per pound. Some eco-friendly brands also offer subscription discounts for repeat buyers.  
+
+**Q: Are there long-term savings in switching to homemade or alternative pet diets?**  
+A: Yes, homemade diets can be cost-effective if planned carefully, and alternatives like buying from local farmers or co-ops may offer fresher ingredients at lower prices. Always consult a vet to ensure nutritional balance.

@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import { visit } from 'unist-util-visit';
 
 // Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
 // our current route set. Re-enable once upstream ships a fix or we
@@ -64,6 +65,17 @@ function rehypeAugmentProductLinks() {
   return (tree) => walk(tree);
 }
 
+function rehypeAmazonRel() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      if (node.tagName === 'a' && typeof node.properties?.href === 'string' && node.properties.href.includes('amazon.com')) {
+        node.properties.rel = ['sponsored', 'nofollow', 'noopener'];
+        node.properties.target = '_blank';
+      }
+    });
+  };
+}
+
 export default defineConfig({
   site: 'https://refillwatch.org',
   trailingSlash: 'never',
@@ -75,7 +87,7 @@ export default defineConfig({
     format: 'directory',
   },
   markdown: {
-    rehypePlugins: [rehypeAugmentProductLinks],
+    rehypePlugins: [rehypeAugmentProductLinks, rehypeAmazonRel],
     shikiConfig: {
       theme: 'github-light',
     },

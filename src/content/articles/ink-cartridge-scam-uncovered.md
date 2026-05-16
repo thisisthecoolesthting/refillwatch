@@ -26,7 +26,9 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1586374579358-9d19d632b6df?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/ink-cartridge-scam-uncovered.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -43,6 +45,10 @@ Consider the [HP 67XL Black Ink Cartridge](https://www.amazon.com/dp/B0CB75LML9?
 4. Obfuscated page yield metrics that hide true cost-per-page
 
 The environmental impact compounds the financial harm. Each new HP 67 cartridge requires 3 ounces of oil to manufacture and generates 3.5 pounds of CO2 emissions in production - meaning your $35 purchase actually consumed $0.82 in fossil fuels before even reaching the shelf. With over 375 million cartridges entering landfills annually (less than 30% recycled), this business model creates both financial and ecological waste on an industrial scale.
+
+
+
+> **See also:** [Printer Ink Price Gouging: How Brands Keep You Paying More](https://refillwatch.org/articles/printer-ink-price-gouging-exposed/)
 
 ## Why this matters
 
@@ -78,6 +84,8 @@ Key findings from our 1,200+ page test:
 
 Environmental impact deserves special attention. Each HP 67XL cartridge generates enough plastic waste to make 17 disposable water bottles. When you factor in transportation (cartridges are air-freighted due to their high value-to-weight ratio), the carbon footprint becomes staggering. Refillable systems reduce this waste by 90% or more.
 
+
+For more on printer maintenance tips to save ink: cut your cartridge costs by 50%+, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-maintenance-tips-to-save-ink/).
 ## Real-world performance
 
 Manufacturer page yield claims often bear little resemblance to actual usage. We conducted controlled testing across three common scenarios with the [HP 67XL](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) and [Epson 212](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) to measure real-world performance:
@@ -240,3 +248,17 @@ Most of that growth came from shrinkflation (smaller package sizes at the same s
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why is printer ink so expensive?**  
+A: Printer manufacturers often sell printers at a loss and make profits through overpriced ink cartridges, using proprietary designs to prevent third-party alternatives.  
+
+**Q: Are refillable ink cartridges a good alternative?**  
+A: Yes, refillable cartridges reduce costs by up to 90% and are eco-friendly, though they require careful handling to avoid leaks or clogs.  
+
+**Q: Do printer companies really design cartridges to run out faster?**  
+A: Some manufacturers use tactics like "smart chips" that disable cartridges before they’re fully empty, forcing premature replacements.  
+
+**Q: How can I avoid falling for ink cartridge scams?**  
+A: Opt for refillable or third-party cartridges, buy in bulk, or choose printers with high-yield ink tanks to lower long-term costs.

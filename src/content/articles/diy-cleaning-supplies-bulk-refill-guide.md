@@ -26,7 +26,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/diy-cleaning-supplies-bulk-refill-guide.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -45,6 +47,10 @@ This guide goes beyond surface-level comparisons to provide:
 2. **Long-term cost projections** accounting for annual price hikes
 3. **Performance testing data** from 6 months of real-world use
 4. **Regional price variation maps** showing where refill stations offer maximum savings
+
+
+
+> **See also:** [DIY Cleaning Supplies: Save Money & Reduce Waste](https://refillwatch.org/articles/diy-cleaning-supplies-recipes/)
 
 ## Why This Matters
 
@@ -99,6 +105,8 @@ We conducted a 6-month longitudinal study comparing conventional products versus
 2. **Efficacy**: EPA-registered disinfectants performed equally across formats when used properly
 3. **Convenience**: Refill systems required 12-15% more time investment initially, but this decreased to 5% after adaptation
 
+
+For more on diy ink refill: a step-by-step guide to saving money, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-at-home/).
 ## Real-World Performance
 
 Through our 180-day home testing program with 50 participants, we identified both challenges and unexpected benefits of refill systems:

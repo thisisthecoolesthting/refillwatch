@@ -1,10 +1,12 @@
 ---
 import BrandMark from '@/components/BrandMark.astro';
+import menu from '@/data/menu.json';
 
 const navItems = [
   { href: '/', label: 'Home' },
   { href: '/pillars', label: 'Guides' },
   { href: '/products', label: 'Reviews' },
+  { href: '/articles', label: 'Articles' },
   { href: '/about', label: 'About' },
 ];
 ---
@@ -23,7 +25,7 @@ const navItems = [
 
         {/* Desktop nav — hidden on mobile */}
         <nav class="hidden md:block">
-          <ul class="flex gap-5 md:gap-7 text-sm font-medium">
+          <ul class="flex gap-5 md:gap-7 text-sm font-medium items-center">
             {navItems.map((item) => (
               <li>
                 <a
@@ -34,6 +36,36 @@ const navItems = [
                 </a>
               </li>
             ))}
+            {/* Topics dropdown */}
+            <li class="relative" id="topics-dropdown-wrap">
+              <button
+                id="topics-dropdown-btn"
+                type="button"
+                aria-haspopup="true"
+                aria-expanded="false"
+                class="flex items-center gap-1 text-ink-700 hover:text-terracotta-500 transition-colors duration-200 bg-transparent border-0 cursor-pointer text-sm font-medium"
+              >
+                {menu.main}
+                <svg class="w-3.5 h-3.5 mt-0.5 transition-transform duration-200" id="topics-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+                  <polyline points="6 9 12 15 18 9" />
+                </svg>
+              </button>
+              <div
+                id="topics-dropdown-panel"
+                class="absolute top-full right-0 mt-2 w-52 bg-white rounded-2xl shadow-lg border border-cream-200/60 py-2 hidden"
+                role="menu"
+              >
+                {menu.subtopics.map((st) => (
+                  <a
+                    href={`/topics/${st.slug}/`}
+                    role="menuitem"
+                    class="block px-4 py-2.5 text-sm text-ink-700 hover:bg-cream-50 hover:text-terracotta-600 no-underline transition-colors duration-150"
+                  >
+                    {st.label}
+                  </a>
+                ))}
+              </div>
+            </li>
           </ul>
         </nav>
 
@@ -59,7 +91,7 @@ const navItems = [
         </button>
       </div>
 
-      {/* Mobile expandable panel — collapsed by default */}
+      {/* Mobile expandable panel */}
       <nav
         id="site-nav-mobile"
         class="md:hidden overflow-hidden max-h-0 transition-[max-height] duration-300 ease-out"
@@ -76,6 +108,31 @@ const navItems = [
               </a>
             </li>
           ))}
+          {/* Topics section in mobile */}
+          <li>
+            <button
+              id="mobile-topics-btn"
+              type="button"
+              class="w-full flex items-center justify-between px-4 py-3 rounded-2xl text-ink-700 hover:bg-white hover:text-terracotta-600 transition-colors duration-200 text-base font-medium bg-transparent border-0 cursor-pointer"
+            >
+              {menu.main}
+              <svg class="w-4 h-4 transition-transform duration-200" id="mobile-topics-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+                <polyline points="6 9 12 15 18 9" />
+              </svg>
+            </button>
+            <ul id="mobile-topics-panel" class="hidden pl-4 space-y-1">
+              {menu.subtopics.map((st) => (
+                <li>
+                  <a
+                    href={`/topics/${st.slug}/`}
+                    class="block px-4 py-2.5 rounded-xl text-sm text-ink-600 hover:bg-white hover:text-terracotta-600 no-underline transition-colors duration-150"
+                  >
+                    {st.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </li>
         </ul>
       </nav>
     </div>
@@ -84,46 +141,67 @@ const navItems = [
 
 <script>
   (function () {
+    // Main mobile nav toggle
     const toggle = document.getElementById('site-nav-toggle');
     const panel  = document.getElementById('site-nav-mobile');
-    if (!toggle || !panel) return;
-
-    const iconOpen  = toggle.querySelector('.icon-open');
-    const iconClose = toggle.querySelector('.icon-close');
-
-    function setOpen(open) {
-      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
-      panel.setAttribute('aria-hidden', open ? 'false' : 'true');
-      if (open) {
-        panel.style.maxHeight = panel.scrollHeight + 'px';
-        iconOpen?.classList.add('hidden');
-        iconClose?.classList.remove('hidden');
-      } else {
-        panel.style.maxHeight = '0px';
-        iconOpen?.classList.remove('hidden');
-        iconClose?.classList.add('hidden');
+    if (toggle && panel) {
+      const iconOpen  = toggle.querySelector('.icon-open');
+      const iconClose = toggle.querySelector('.icon-close');
+      function setOpen(open: boolean) {
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+        panel.setAttribute('aria-hidden', open ? 'false' : 'true');
+        if (open) {
+          panel.style.maxHeight = panel.scrollHeight + 200 + 'px';
+          iconOpen?.classList.add('hidden');
+          iconClose?.classList.remove('hidden');
+        } else {
+          panel.style.maxHeight = '0px';
+          iconOpen?.classList.remove('hidden');
+          iconClose?.classList.add('hidden');
+        }
       }
+      toggle.addEventListener('click', () => setOpen(toggle.getAttribute('aria-expanded') !== 'true'));
+      panel.addEventListener('click', (e) => {
+        const t = e.target as HTMLElement;
+        if (t && t.closest('a')) setOpen(false);
+      });
+      const mq = window.matchMedia('(min-width: 768px)');
+      const handleMQ = () => { if (mq.matches) setOpen(false); };
+      mq.addEventListener ? mq.addEventListener('change', handleMQ) : (mq as any).addListener(handleMQ);
     }
 
-    toggle.addEventListener('click', function () {
-      const isOpen = toggle.getAttribute('aria-expanded') === 'true';
-      setOpen(!isOpen);
-    });
-
-    // Close when a link inside the panel is tapped (helps single-page-feeling nav).
-    panel.addEventListener('click', function (e) {
-      const target = e.target;
-      if (target && target.closest('a')) {
-        setOpen(false);
+    // Desktop dropdown
+    const dropBtn   = document.getElementById('topics-dropdown-btn');
+    const dropPanel = document.getElementById('topics-dropdown-panel');
+    const chevron   = document.getElementById('topics-chevron');
+    if (dropBtn && dropPanel) {
+      function setDropOpen(open: boolean) {
+        dropBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        dropPanel.classList.toggle('hidden', !open);
+        chevron?.classList.toggle('rotate-180', open);
       }
-    });
-
-    // Reset state if the viewport crosses back to desktop width.
-    const mq = window.matchMedia('(min-width: 768px)');
-    function handleMQ() {
-      if (mq.matches) setOpen(false);
+      dropBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        setDropOpen(dropPanel.classList.contains('hidden'));
+      });
+      document.addEventListener('click', () => setDropOpen(false));
+      dropPanel.addEventListener('click', (e) => e.stopPropagation());
     }
-    mq.addEventListener ? mq.addEventListener('change', handleMQ) : mq.addListener(handleMQ);
+
+    // Mobile topics accordion
+    const mobileBtn   = document.getElementById('mobile-topics-btn');
+    const mobilePanel = document.getElementById('mobile-topics-panel');
+    const mobileCh    = document.getElementById('mobile-topics-chevron');
+    if (mobileBtn && mobilePanel) {
+      mobileBtn.addEventListener('click', () => {
+        const open = !mobilePanel.classList.contains('hidden');
+        mobilePanel.classList.toggle('hidden', open);
+        mobileCh?.classList.toggle('rotate-180', !open);
+        // Re-expand parent panel to fit new content
+        const parent = document.getElementById('site-nav-mobile');
+        if (parent) parent.style.maxHeight = parent.scrollHeight + 200 + 'px';
+      });
+    }
   })();
 </script>

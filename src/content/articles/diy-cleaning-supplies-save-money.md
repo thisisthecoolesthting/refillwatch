@@ -27,10 +27,12 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/diy-cleaning-supplies-save-money.webp
 cardTitle: 'Stop Overpaying for Cleaners: Make Your Own for Pennies'
 cardPick: Bulk concentrate costs 80% less than brand names and makes 10x more product
   with simple water mixing.
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -38,6 +40,10 @@ cardPick: Bulk concentrate costs 80% less than brand names and makes 10x more pr
 Why pay $5 for a bottle of all-purpose cleaner when you can make something just as effective for under $0.50? Retailers bank on consumers not realizing how simple most cleaning formulas actually are. A 2025 Consumer Reports analysis found branded multi-surface cleaners contain 90-95% water, with the remaining ingredients being cheap acids, alcohols, or surfactants you can buy in bulk.
 
 The price creep is real: [Seventh Generation All-Purpose Cleaner](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) jumped from $3.99 to $5.49 since 2022 without formula changes. Meanwhile, a DIY mix of white vinegar, water, and citrus peels costs $0.23 per 24oz batch. This guide compares 12 name-brand products against their homemade equivalents, tests longevity of reusable systems like [Blueland's Refillable Cleaning Tablet Starter Kit](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20), and reveals where DIY falls short (hint: avoid homemade laundry pods).
+
+
+
+> **See also:** [Bulk Cleaning Supplies: The Real Math on Savings (And Which ''Bulk'' Deals](https://refillwatch.org/articles/bulk-cleaning-supplies-guide/)
 
 ## Why This Matters
 
@@ -146,3 +152,17 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Are DIY cleaning supplies really as effective as store-bought brands?**  
+A: Yes, many DIY cleaners using ingredients like vinegar, baking soda, and castile soap are just as effective for everyday cleaning tasks, often without harsh chemicals.  
+
+**Q: How much money can I save by making my own cleaning supplies?**  
+A: DIY cleaners can save you up to 80% compared to brand-name products, as basic ingredients like vinegar and baking soda are inexpensive and multi-purpose.  
+
+**Q: What are the best eco-friendly ingredients for DIY cleaning solutions?**  
+A: White vinegar, baking soda, lemon juice, and castile soap are top choices—they’re biodegradable, non-toxic, and work well for most cleaning needs.  
+
+**Q: Can I store DIY cleaning supplies long-term, or do they expire?**  
+A: Most DIY solutions last 1–2 months when stored in airtight containers, but fresher batches (especially those with citrus) work best within a few weeks.

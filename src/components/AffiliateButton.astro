@@ -1,0 +1,10 @@
+---
+export interface Props {
+  asin: string;
+  tag: string;
+  label?: string;
+}
+const { asin, tag, label = 'Check Price on Amazon →' } = Astro.props;
+const href = `https://www.amazon.com/dp/${asin}?tag=${tag}`;
+---
+<a href={href} target="_blank" rel="sponsored nofollow noopener" class="inline-block bg-accent hover:opacity-90 text-white text-[11px] font-mono uppercase tracking-wider px-4 py-2 rounded-lg transition-opacity no-underline">{label}</a>
