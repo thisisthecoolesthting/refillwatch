@@ -167,12 +167,13 @@ const articleSchema = {
       <PhoneStorePromo variant="sidebar" affiliateSlug="refillwatch" motif="light" />
 
       <PhoneStorePromo variant="end-of-article" affiliateSlug="refillwatch" motif="light" />
-      {relatedProducts.length > 0 && (
-        <div class="hidden xl:block w-52 flex-shrink-0">
-          <ProductSidebar products={relatedProducts} associateTag="refillwatch-20" />
-        </div>
-      )}
     </article>
+
+    {relatedProducts.length > 0 && (
+      <div class="hidden xl:block w-52 flex-shrink-0 self-stretch">
+        <ProductSidebar products={relatedProducts} associateTag="refillwatch-20" />
+      </div>
+    )}
   </div>
 
   <div class="max-w-3xl mx-auto px-5 pb-20">
