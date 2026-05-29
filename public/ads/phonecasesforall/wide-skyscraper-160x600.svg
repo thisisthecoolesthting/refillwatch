@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 600" width="160" height="600" role="img" aria-label="Phone Cases For All — Cases that match your energy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF7F2"/>
+      <stop offset="1" stop-color="#FFE4D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="160" height="6" fill="#FF4F5E"/>
+  <text x="80" y="56" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#1F2933" letter-spacing="-0.02em" text-anchor="middle">PHONE</text>
+  <text x="80" y="80" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#1F2933" letter-spacing="-0.02em" text-anchor="middle">CASES</text>
+  <text x="80" y="104" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#1F2933" letter-spacing="-0.02em" text-anchor="middle">FOR ALL</text>
+  <line x1="50" y1="120" x2="110" y2="120" stroke="#FF4F5E" stroke-width="3"/>
+  <g transform="translate(40 180)" opacity="0.95">
+    <rect x="0" y="0" width="80" height="160" rx="14" fill="none" stroke="#FF4F5E" stroke-width="2"/>
+    <rect x="6" y="6" width="68" height="148" rx="9" fill="#00CFC1" opacity="0.22"/>
+    <circle cx="40" cy="14" r="3" fill="#FF4F5E"/>
+  </g>
+  <text x="80" y="386" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2933" opacity="0.75" text-anchor="middle">Cases that</text>
+  <text x="80" y="406" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2933" opacity="0.75" text-anchor="middle">match your</text>
+  <text x="80" y="426" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2933" opacity="0.75" text-anchor="middle">energy.</text>
+  <rect x="20" y="510" width="120" height="44" rx="22" fill="#FF4F5E"/>
+  <text x="80" y="538" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP →</text>
+</svg>

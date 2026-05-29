@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 600" width="160" height="600" role="img" aria-label="Phone Cases For Her — Cases with personal polish.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8F4"/>
+      <stop offset="1" stop-color="#F8E2D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="160" height="6" fill="#C77A8B"/>
+  <text x="80" y="56" font-family="Cormorant Garamond,Georgia,serif" font-style="italic" font-weight="600" font-size="20" fill="#2B1D24" letter-spacing="-0.01em" text-anchor="middle">Phone Cases</text>
+  <text x="80" y="82" font-family="Cormorant Garamond,Georgia,serif" font-style="italic" font-weight="600" font-size="20" fill="#2B1D24" letter-spacing="-0.01em" text-anchor="middle">For Her.</text>
+  <line x1="50" y1="98" x2="110" y2="98" stroke="#C77A8B" stroke-width="3"/>
+  <g transform="translate(40 180)" opacity="0.95">
+    <rect x="0" y="0" width="80" height="160" rx="14" fill="#FFFFFF" stroke="#C77A8B" stroke-width="2"/>
+    <path d="M16 28 Q28 18 40 28 Q52 18 64 28 Q64 44 40 70 Q16 44 16 28 Z" fill="#C77A8B" opacity="0.85"/>
+    <circle cx="22" cy="100" r="6" fill="#E7C98A" opacity="0.85"/>
+    <circle cx="58" cy="130" r="6" fill="#C77A8B" opacity="0.6"/>
+  </g>
+  <text x="80" y="386" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#2B1D24" opacity="0.78" text-anchor="middle">Cases with</text>
+  <text x="80" y="406" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#2B1D24" opacity="0.78" text-anchor="middle">personal</text>
+  <text x="80" y="426" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#2B1D24" opacity="0.78" text-anchor="middle">polish.</text>
+  <rect x="20" y="510" width="120" height="44" rx="22" fill="#8A4E62"/>
+  <text x="80" y="538" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP →</text>
+</svg>

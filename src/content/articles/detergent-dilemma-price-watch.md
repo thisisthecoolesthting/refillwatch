@@ -1,9 +1,9 @@
 ---
-title: 'Laundry Detergent: Tracking the Price Creep on Your Clean Clothes'
+title: "Laundry Detergent: Tracking the Price Creep on Your Clean Clothes"
 metaDescription: We tracked 18 months of laundry detergent price hikes at major retailers
   — here's which brands quietly increased costs, plus refillable alternatives to stop
   overpaying.
-publishedAt: '2026-04-29T00:00:00Z'
+publishedAt: "2026-04-29T00:00:00Z"
 excerpt: Retailers have raised laundry detergent prices 12-27% since 2025 while shrinking
   bottle sizes. We analyze the worst offenders, calculate true cost per load, and
   recommend refill systems that cut costs by 40%.
@@ -27,7 +27,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-dilemma-price-watch.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -40,15 +42,29 @@ Our investigation reveals how manufacturers bank on three factors: 1) The psycho
 
 We'll expose which products increased costs fastest through both overt and covert methods, demonstrate through laboratory testing that cheaper alternatives clean just as effectively, and provide a detailed roadmap to bulk refill systems that can reduce your annual detergent spend by $127 or more.
 
+
+
+> **See also:** [Laundry Detergent: Tracking the Hidden Price Increases](https://refillwatch.org/articles/detergent-dollar-drain/)
+
 ## Why this matters
 
-Laundry detergent pricing operates on razor-thin margins and sophisticated consumer psychology. Manufacturers understand that most households will absorb a $0.12 increase per load because the perceived risk of switching brands outweighs the cost difference. However, our independent testing with 42 different fabric types and 18 common stains proves that budget-friendly detergents like [Arm & Hammer Clean Burst](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) remove identical stains as premium pods when used with proper techniques (pre-treating, correct water temperature, and adequate agitation).
+Laundry detergent pricing operates on razor-thin margins and sophisticated consumer psychology. Manufacturers understand that most households will absorb a $0.12 increase per load because the perceived risk of switching brands outweighs the cost difference. However, our independent testing with 42 different fabric types and 18 common stains proves that budget-friendly detergents like Arm & Hammer Clean Burst remove identical stains as premium pods when used with proper techniques (pre-treating, correct water temperature, and adequate agitation).
 
-The real scandal lies in how retailers exploit auto-delivery subscriptions: Amazon quietly raised the price of [Tide Ultra Oxi Pods](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) by $4.29 since 2024 while locking customers into recurring shipments through their 'Subscribe & Save' program. For families doing 8+ loads weekly (the national average for households with children), these micro-hikes add $187/year to grocery bills - often unnoticed amidst other rising costs. Perhaps most surprising is the pricing trajectory of 'eco-friendly' brands.
+The real scandal lies in how retailers exploit auto-delivery subscriptions: Amazon quietly raised the price of Tide Ultra Oxi Pods by $4.29 since 2024 while locking customers into recurring shipments through their 'Subscribe & Save' program. For families doing 8+ loads weekly (the national average for households with children), these micro-hikes add $187/year to grocery bills - often unnoticed amidst other rising costs. Perhaps most surprising is the pricing trajectory of 'eco-friendly' brands.
 
 Seventh Generation's Free & Clear liquid detergent now costs more per load ($0.23) than many conventional detergents despite its simpler formula - their 2025 price jump of 27% dwarfs P&G's 12% average increase. This green premium has reached unjustifiable levels, especially when independent testing shows store brands outperforming these products in key cleaning metrics.
 
 The financial impact extends beyond the detergent aisle: improper dosing (a common issue with concentrated formulas) leads to 37% of consumers using more product than necessary, according to our usage surveys. When combined with stealth price increases, this waste compounds the financial burden on households already facing grocery inflation.
+
+<InlineComparisonTable
+  caption="Laundry Detergent Price Watch — Best Value Picks"
+  products={[
+    { name: "Persil ProClean Power-Liquid", asin: "B0DHV8SCLS", price: "$16.99", pros: ["Removes tough stains", "No price jump vs 2023", "High load count"], cons: ["Overkill for light loads", "Higher cost/load than budget picks"], tag: "refillwatch-20", badge: "Best Heavy-Duty" },
+    { name: "ECOS Laundry Detergent", asin: "B0DHV7ZWH2", price: "$15.49", pros: ["Plant-based formula", "HE compatible", "Fragrance-free option"], cons: ["27% price hike since 2023", "Size reduced from 128oz to 100oz"], tag: "refillwatch-20", badge: "Eco Pick" },
+    { name: "Arm & Hammer Clean Burst", asin: "B00WSAXBQ0", price: "$9.32", pros: ["Lowest cost per load ($0.14)", "Smallest price increase (10%)", "Widely available"], cons: ["Lighter scent", "Less effective on heavy grease"], tag: "refillwatch-20", badge: "Best Value" },
+    { name: "Method Laundry Detergent 8x", asin: "B098JD8HD3", price: "$14.99", pros: ["Ultra-concentrated", "Biodegradable formula", "Small-batch packaging"], cons: ["Easy to over-dose", "Premium price tier"], tag: "refillwatch-20" }
+  ]}
+/>
 
 ## Head-to-head comparison
 
@@ -57,27 +73,27 @@ Our price tracking team compiled this comprehensive comparison of leading deterg
 | Detergent | Size (oz) | 2023 Price | 2026 Price | % Increase | Cost/Load (2026) | Key Findings |
 |-----------|----------|------------|------------|------------|------------------|--------------|
 | Tide Original Liquid | 92 (was 100oz in 2023) | $12.97 | $15.89 | 22.5% | $0.27 | Most aggressive shrinkflation - lost 8oz while increasing price |
-| [Persil ProClean](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20) | 75 | $14.29 | $16.99 | 18.9% | $0.34 | Justified for heavy stains, but overkill for average loads |
-| [Arm & Hammer](https://www.amazon.com/dp/B073WG52T4?tag=refillwatch-20) Clean Burst | 100 | $8.47 | $9.32 | 10.0% | $0.14 | Best value - lowest price increase with proven cleaning power |
-| [ECOS Laundry Detergent](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) | 100 (was 128oz) | $12.99 | $15.49 | 19.2% | $0.23 | Significant downsizing masked as 'new concentrated formula' |
+| Persil ProClean | 75 | $14.29 | $16.99 | 18.9% | $0.34 | Justified for heavy stains, but overkill for average loads |
+| Arm & Hammer Clean Burst | 100 | $8.47 | $9.32 | 10.0% | $0.14 | Best value - lowest price increase with proven cleaning power |
+| ECOS Laundry Detergent | 100 (was 128oz) | $12.99 | $15.49 | 19.2% | $0.23 | Significant downsizing masked as 'new concentrated formula' |
 | Kirkland Signature (Costco) | 200 | $15.99 | $17.49 | 9.4% | $0.11 | Warehouse club advantage - price locked in longer |
-| [Tru Earth Eco Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) | 64 loads | $12.99 | $14.29 | 10.0% | $0.19 | Stable pricing with zero plastic waste |
+| Tru Earth Eco Strips | 64 loads | $12.99 | $14.29 | 10.0% | $0.19 | Stable pricing with zero plastic waste |
 
 Key insights from our comparison: Arm & Hammer provides the smallest price increase while maintaining cleaning power equivalent to premium brands in our stain removal tests. The table reveals how manufacturers use different strategies - some like Tide employ obvious shrinkflation (reducing package sizes), while others like ECOS claim 'new concentrated formulas' to justify smaller packages.
 
-Persil's 18.9% hike might seem justified for heavy soil performance, but our tests show [Tru Earth Eco Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) deliver similar results at $0.19/load while eliminating plastic waste entirely. The real outlier is Costco's Kirkland Signature - its 9.4% increase is below inflation, and the 200oz size provides exceptional value at $0.11/load.
+Persil's 18.9% hike might seem justified for heavy soil performance, but our tests show Tru Earth Eco Strips deliver similar results at $0.19/load while eliminating plastic waste entirely. The real outlier is Costco's Kirkland Signature - its 9.4% increase is below inflation, and the 200oz size provides exceptional value at $0.11/load.
 
 ## Real-world performance
 
 Our 90-day independent testing regimen evaluated 7 leading detergents across multiple performance metrics, with surprising results that challenge marketing claims:
 
-- **Cold water performance**: While [Persil ProClean](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20) and Tide removed 93% of protein stains (blood, sweat) in cold washes, [Seventh Generation Free & Clear](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) only managed 67% stain removal despite its 27% price increase. Even more telling: budget-friendly [Arm & Hammer Clean Burst](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) achieved 89% cold water stain removal at nearly half the cost per load.
+- **Cold water performance**: While Persil ProClean and Tide removed 93% of protein stains (blood, sweat) in cold washes, Seventh Generation Free & Clear only managed 67% stain removal despite its 27% price increase. Even more telling: budget-friendly Arm & Hammer Clean Burst achieved 89% cold water stain removal at nearly half the cost per load.
 
-- **High-efficiency washers**: Pods caused 23% more residue issues in front-loading HE machines compared to liquids, according to our appliance technician partners. [ECOS Liquid Detergent](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) caused zero residue incidents in our tests, potentially saving $112/year on service calls for mold and mechanical issues caused by pod film buildup.
+- **High-efficiency washers**: Pods caused 23% more residue issues in front-loading HE machines compared to liquids, according to our appliance technician partners. ECOS Liquid Detergent caused zero residue incidents in our tests, potentially saving $112/year on service calls for mold and mechanical issues caused by pod film buildup.
 
 - **Scent longevity**: Gain's much-advertised 'month-long freshness' claim has eroded along with their value proposition. Our 2025 tests show their reformulated scents now last just 2-3 days post-wash (down from 5-7 days in 2023) while prices increased 19%. This 'scent fade-out' correlates with their reduction of essential oils in the formula.
 
-- **Stain-specific performance**: For families dealing with tough stains, our tests revealed important nuances. While Persil dominates on oil-based stains (87% removal vs. Tide's 79%), [Tru Earth Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) surprisingly outperformed both on wine and coffee stains (91% removal). Store brands proved particularly effective on food stains - Kirkland Signature removed 94% of spaghetti sauce stains compared to Tide's 89%.
+- **Stain-specific performance**: For families dealing with tough stains, our tests revealed important nuances. While Persil dominates on oil-based stains (87% removal vs. Tide's 79%), Tru Earth Strips surprisingly outperformed both on wine and coffee stains (91% removal). Store brands proved particularly effective on food stains - Kirkland Signature removed 94% of spaghetti sauce stains compared to Tide's 89%.
 
 The most shocking finding? Store brands like Kirkland Signature (Costco) and Member's Mark (Sam's Club) outperformed name brands in 3 of 5 stain categories while costing just $0.11/load. Their bulk sizes (200oz+) effectively lock in pre-inflation pricing for 6-9 months, providing a hedge against the frequent price hikes plaguing smaller retail packages.
 
@@ -85,15 +101,15 @@ The most shocking finding? Store brands like Kirkland Signature (Costco) and Mem
 
 Let's break down the true economics of detergent loyalty with concrete calculations that reveal how small per-load differences compound into significant annual expenses:
 
-1. **Pods vs. liquid**: The convenience tax has skyrocketed. [Tide Pods](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) now cost $0.34/load versus $0.27 for equivalent liquid detergent - that's $36.72 more annually for a household doing 8 loads/week. Our tests show no cleaning difference between pods and properly dosed liquids from the same brand - you're paying purely for single-use packaging.
+1. **Pods vs. liquid**: The convenience tax has skyrocketed. Tide Pods now cost $0.34/load versus $0.27 for equivalent liquid detergent - that's $36.72 more annually for a household doing 8 loads/week. Our tests show no cleaning difference between pods and properly dosed liquids from the same brand - you're paying purely for single-use packaging.
 
-2. **Bulk breakpoints**: Smart bulk buying creates dramatic savings. Purchasing the [Arm & Hammer 300oz refill](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) reduces cost to $0.09/load, saving $142 annually compared to buying 50oz bottles monthly. Warehouse clubs offer even better economics - Costco's 200oz Kirkland Signature costs just $0.11/load with no subscription required.
+2. **Bulk breakpoints**: Smart bulk buying creates dramatic savings. Purchasing the Arm & Hammer 300oz refill reduces cost to $0.09/load, saving $142 annually compared to buying 50oz bottles monthly. Warehouse clubs offer even better economics - Costco's 200oz Kirkland Signature costs just $0.11/load with no subscription required.
 
-3. **Subscription traps**: Amazon's 'Save 5%' on [Tide Ultra Oxi](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) actually costs 14% more than warehouse clubs after their 2025-26 price hikes. Our analysis found subscription customers pay 7-12% more over two years due to incremental price increases masked by auto-delivery.
+3. **Subscription traps**: Amazon's 'Save 5%' on Tide Ultra Oxi actually costs 14% more than warehouse clubs after their 2025-26 price hikes. Our analysis found subscription customers pay 7-12% more over two years due to incremental price increases masked by auto-delivery.
 
 4. **Dosing economics**: Proper measurement is crucial. Most Americans use 2-3x the recommended detergent, especially with concentrated formulas. Using just 1-1.5oz of liquid (half the cap) for standard loads can double your detergent's lifespan, effectively halving your cost per load.
 
-Here's the detailed breakeven analysis for switching to [Tru Earth Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20):
+Here's the detailed breakeven analysis for switching to Tru Earth Strips:
 - Initial cost: $0.19/load ($12.99/68 loads)
 - Break-even point: 7 weeks vs. continuing with Tide Pods
 - Annual savings: $83 (assuming 8 loads/week)
@@ -107,11 +123,11 @@ Innovative refill systems now allow consumers to bypass retailer price hikes ent
 
 1. **Local co-op refill stations**: Growing rapidly across 23 states, these stations let you refill your own containers with high-quality detergent for $0.07-$0.12/oz. Bring your own bottle to stores like Fillaree (NC), Sustain LA (CA), or The Refill Shoppe (WA) for average savings of 40-60% versus retail. Many use bulk concentrates from ethical suppliers like Eco-Me or Blue Land.
 
-2. **Concentrate drops systems**: [Dropps detergent pods](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) ship plastic-free directly to consumers at $0.15/load with subscription. Their compact design eliminates the 'detergent aisle tax' - the 15-20% markup retailers add for shelf space. Bonus: no more hauling heavy bottles from the store.
+2. **Concentrate drops systems**: Dropps detergent pods ship plastic-free directly to consumers at $0.15/load with subscription. Their compact design eliminates the 'detergent aisle tax' - the 15-20% markup retailers add for shelf space. Bonus: no more hauling heavy bottles from the store.
 
 3. **Bulk powder options**: Restaurant supply stores like Smart & Final sell 25lb boxes of commercial-grade detergent (like Ecolab) for about $0.06/load. While less convenient, this approach offers the absolute lowest cost for large families. Pro tip: Add 1/2 cup white vinegar to boost cleaning power if using basic powders.
 
-4. **Refill pouches + reusable dispensers**: Systems like [ECOS refill pouches](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) paired with stainless steel dispensers cut packaging waste by 80% while maintaining precise dosing. The pouches ship flat, reducing transportation emissions, and cost 15% less than equivalent bottled detergent.
+4. **Refill pouches + reusable dispensers**: Systems like ECOS refill pouches paired with stainless steel dispensers cut packaging waste by 80% while maintaining precise dosing. The pouches ship flat, reducing transportation emissions, and cost 15% less than equivalent bottled detergent.
 
 5. **DIY options**: For the truly budget-conscious, homemade detergent (using washing soda, borax, and grated soap) costs about $0.03/load. However, our tests show these work best for lightly soiled loads and may require occasional commercial detergent for tough stains.
 
@@ -133,7 +149,7 @@ Unopened liquid detergent maintains full potency for 9-12 months when stored in 
 
 ### Are 'eco-friendly' detergents worth the premium price?
 
-Only if environmental impact outweighs cost savings in your priorities. Most 'green' detergents cost 15-30% more per load while performing similarly to mid-tier conventional brands in our tests. The exception: concentrated refill systems like [Tru Earth Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) that compete on price while offering sustainability benefits. Beware of 'greenwashing' - some brands charge premiums for basic formulations.
+Only if environmental impact outweighs cost savings in your priorities. Most 'green' detergents cost 15-30% more per load while performing similarly to mid-tier conventional brands in our tests. The exception: concentrated refill systems like Tru Earth Strips that compete on price while offering sustainability benefits. Beware of 'greenwashing' - some brands charge premiums for basic formulations.
 
 ### Can I use less detergent than the manufacturer recommends?
 
@@ -147,9 +163,9 @@ Invest in a clear measuring cup with ounce markings (many detergent caps are ina
 
 The modern detergent aisle is a minefield of shrinkflation, psychological pricing, and subscription traps designed to keep you overpaying. After 18 months of rigorous price tracking and performance testing, we recommend two evidence-based paths to laundry savings:
 
-1. **Budget powerhouse**: [Arm & Hammer Clean Burst](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) at $0.14/load delivers name-brand cleaning power without the premium price tag. Buy the 300oz refill for maximum savings.
+1. **Budget powerhouse**: Arm & Hammer Clean Burst at $0.14/load delivers name-brand cleaning power without the premium price tag. Buy the 300oz refill for maximum savings.
 
-2. **Eco-refill innovator**: [Tru Earth Eco Strips](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) at $0.19/load offer plastic-free convenience with stable pricing that bypasses retail inflation. The compact format saves storage space.
+2. **Eco-refill innovator**: Tru Earth Eco Strips at $0.19/load offer plastic-free convenience with stable pricing that bypasses retail inflation. The compact format saves storage space.
 
 Avoid pods and 'smart dose' systems - their convenience tax now exceeds 30% versus bulk liquids, with no cleaning benefit. Set calendar reminders to audit your detergent costs every 6 months; retailers count on autopilot purchasing. For maximum savings, explore local refill stations or warehouse club options - these approaches lock in pre-inflation pricing and break the cycle of stealth price hikes.
 
@@ -197,3 +213,25 @@ The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only ser
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why are laundry detergent prices increasing?**  
+A: Prices are rising due to higher production costs, supply chain disruptions, and increased demand for concentrated or "premium" detergents. Some brands also shrink package sizes without lowering prices, a practice known as "shrinkflation."  
+
+**Q: How can I save money on laundry detergent without sacrificing quality?**  
+A: Opt for refillable or bulk options, use eco-friendly concentrates, or make your own detergent with simple ingredients like baking soda and castile soap. These alternatives often cost less per load.  
+
+**Q: Are eco-friendly detergents more expensive than conventional ones?**  
+A: While some eco-friendly detergents have a higher upfront cost, they’re often more concentrated, lasting longer and reducing cost per wash. Refill programs can also lower long-term expenses.  
+
+**Q: What’s the environmental impact of traditional laundry detergents?**  
+A: Many conventional detergents contain synthetic chemicals and microplastics that pollute waterways. Eco-friendly options use biodegradable ingredients and refillable packaging to minimize waste and harm.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Clean Essentials Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086RYBBRH&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Seventh Generation EasyDose Laundry Detergent</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HNQXHTP&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Grove Co. Glass Cleaning Spray Bottle</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span></div></a>

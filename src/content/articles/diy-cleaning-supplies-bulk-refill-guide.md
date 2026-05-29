@@ -1,5 +1,5 @@
 ---
-title: 'DIY Cleaning Supplies: Your Guide to Bulk Refills and Savings'
+title: "DIY Cleaning Supplies: Your Guide to Bulk Refills and Savings"
 metaDescription: Stop overpaying for cleaning products. We compare bulk refill options,
   calculate real cost savings, and expose retailer price hikes on common household
   cleaners.
@@ -26,7 +26,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/diy-cleaning-supplies-bulk-refill-guide.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -37,7 +39,7 @@ Have you noticed your grocery bill creeping up every month—especially for basi
 - **Shrinkflation**: Many products now contain 5-10% less volume at the same price point
 - **Psychological pricing**: Odd-numbered prices ($4.97 vs $5.00) mask increases
 
-We tracked [Mrs. Meyer's Clean Day Multi-Surface Cleaner](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) through 18 price changes since 2020, documenting its transition from $3.49 to $4.99 for the same 16oz bottle. Meanwhile, innovative alternatives like [Blueland's tablet-based system](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) deliver comparable cleaning power at 73% lower cost per use while eliminating single-use plastics entirely.
+We tracked Mrs. Meyer's Clean Day Multi-Surface Cleaner through 18 price changes since 2020, documenting its transition from $3.49 to $4.99 for the same 16oz bottle. Meanwhile, innovative alternatives like Blueland's tablet-based system deliver comparable cleaning power at 73% lower cost per use while eliminating single-use plastics entirely.
 
 This guide goes beyond surface-level comparisons to provide:
 
@@ -45,6 +47,10 @@ This guide goes beyond surface-level comparisons to provide:
 2. **Long-term cost projections** accounting for annual price hikes
 3. **Performance testing data** from 6 months of real-world use
 4. **Regional price variation maps** showing where refill stations offer maximum savings
+
+
+
+> **See also:** [DIY Cleaning Supplies: Save Money & Reduce Waste](https://refillwatch.org/articles/diy-cleaning-supplies-recipes/)
 
 ## Why This Matters
 
@@ -67,7 +73,7 @@ Manufacturers employ subtle volume reductions to hide price increases:
 | Dawn Dish Soap | 24oz | 22oz | 8.3% |
 
 **3. Ingredient Dilution**
-Lab tests show some brands reducing active ingredients while maintaining prices. We found [Seventh Generation Dish Liquid](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) contained 12% less surfactant in 2023 versus 2021 samples.
+Lab tests show some brands reducing active ingredients while maintaining prices. We found Seventh Generation Dish Liquid contained 12% less surfactant in 2023 versus 2021 samples.
 
 The environmental impact compounds these financial concerns. Americans discard over 1 billion plastic cleaning bottles annually, with less than 30% being recycled. Bulk refill systems can:
 
@@ -80,31 +86,33 @@ The environmental impact compounds these financial concerns. Americans discard o
 We conducted a 6-month longitudinal study comparing conventional products versus refill alternatives across three key metrics: cost per use, cleaning efficacy, and convenience. Our test matrix included:
 
 **Disinfectants**
-- [Clorox Disinfecting Wipes](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20) (conventional)
-- [Force of Nature](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20) (electrolyzed concentrate)
-- [Branch Basics](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) (oxygen-powered)
+- Clorox Disinfecting Wipes (conventional)
+- Force of Nature (electrolyzed concentrate)
+- Branch Basics (oxygen-powered)
 
 **Laundry Detergents**
-- [Tide Original Liquid](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20) (conventional)
-- [Earth Breeze Laundry Sheets](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20) (sheet detergent)
-- [Soap Nuts](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) (natural alternative)
+- Tide Original Liquid (conventional)
+- Earth Breeze Laundry Sheets (sheet detergent)
+- Soap Nuts (natural alternative)
 
 **Multi-Surface Cleaners**
-- [Method All-Purpose](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) (conventional)
-- [Blueland Tablet System](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20)
-- [DIY Vinegar Solution](https://www.amazon.com/dp/B0F54TYKF9?tag=refillwatch-20)
+- Method All-Purpose (conventional)
+- Blueland Tablet System
+- DIY Vinegar Solution
 
 **Key Findings**
 1. **Price Stability**: Concentrate systems showed zero price increases during our study period, while conventional products averaged 2.3 price hikes
 2. **Efficacy**: EPA-registered disinfectants performed equally across formats when used properly
 3. **Convenience**: Refill systems required 12-15% more time investment initially, but this decreased to 5% after adaptation
 
+
+For more on diy ink refill: a step-by-step guide to saving money, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-at-home/).
 ## Real-World Performance
 
 Through our 180-day home testing program with 50 participants, we identified both challenges and unexpected benefits of refill systems:
 
 **Dissolution Issues Solved**
-Early adopters reported [Blueland's cleaning tablets](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20) taking 5+ minutes to dissolve in cold water. We developed these solutions:
+Early adopters reported Blueland's cleaning tablets taking 5+ minutes to dissolve in cold water. We developed these solutions:
 1. Pre-warm bottle with hot water (reduces to 90 seconds)
 2. Use wide-mouth containers for easier mixing
 3. Add 1/4 tsp citric acid to accelerate dissolution
@@ -155,14 +163,14 @@ Major chains now offer bulk cleaning stations:
 3. **Local Co-ops**: Often have organic options
 
 **Mail-Order Systems**
-1. [Blueland](https://www.amazon.com/dp/B0GF25F12C?tag=refillwatch-20): Compostable refill packets
-2. [Grove Collaborative](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20): Glass bottle ecosystem
-3. [Fillaree](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20): Local delivery options
+1. Blueland: Compostable refill packets
+2. Grove Collaborative: Glass bottle ecosystem
+3. Fillaree: Local delivery options
 
 **Commercial-Grade Options**
 Janitorial suppliers offer tremendous value:
-- [Zep Floor Cleaner](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20): $28.99 for 5 gallons
-- [Ecolab Disinfectant](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20): $0.02/oz
+- Zep Floor Cleaner: $28.99 for 5 gallons
+- Ecolab Disinfectant: $0.02/oz
 
 ## FAQ
 
@@ -175,7 +183,7 @@ Start with high-use products:
 **Q: Are concentrates safe for septic systems?**
 Most water-based concentrates are septic-safe. Avoid:
 - Products with sodium hypochlorite
-- Those labeled 'anti-bacterial'
+- Those labeled 'anti-bacterial"
 - Oil-based cleaners
 
 **Q: Can I mix different brands' concentrates?**
@@ -200,7 +208,7 @@ Look for third-party certifications:
 After 18 months of rigorous testing and price tracking, we recommend this phased approach:
 
 **Phase 1 (Immediate Savings)**
-Replace your top 3 used cleaners with bulk concentrates from [Zep](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) or [Ecolab](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)
+Replace your top 3 used cleaners with bulk concentrates from Zep or Ecolab
 
 **Phase 2 (Mid-Term Transition)**
 Invest in durable glass bottles and transition 50% of cleaning products within 3 months
@@ -241,7 +249,7 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 
@@ -257,3 +265,11 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Clean Essentials Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086RYBBRH&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Seventh Generation EasyDose Laundry Detergent</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HNQXHTP&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Grove Co. Glass Cleaning Spray Bottle</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span></div></a>

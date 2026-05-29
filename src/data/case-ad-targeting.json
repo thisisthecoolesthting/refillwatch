@@ -1,0 +1,127 @@
+{
+    "version":  "1.0.0",
+    "updated":  "2026-05-10",
+    "doctrine":  "Per AFFILIATE-200 spec — SSC + RefillWatch surface light cases (clean palettes), Inkledger surfaces dark cases (moody palettes). All affiliate sites can show all phonecase shops, but weights tilt by audience fit.",
+    "affiliate_sites":  {
+                            "secondspringclub":  {
+                                                     "domain":  "secondspringclub.com",
+                                                     "audience":  "wellness, women 50+, intentional living",
+                                                     "case_motif":  "light",
+                                                     "shop_weights":  {
+                                                                          "phonecasesforher":  3.0,
+                                                                          "phonecasegift":  2.5,
+                                                                          "phonecasesforall":  1.5,
+                                                                          "galaxycaseco":  1.0,
+                                                                          "titancase":  0.8
+                                                                      }
+                                                 },
+                            "refillwatch":  {
+                                                "domain":  "refillwatch.org",
+                                                "audience":  "sustainability, eco-conscious, refillable products",
+                                                "case_motif":  "light",
+                                                "shop_weights":  {
+                                                                     "phonecasesforall":  2.5,
+                                                                     "galaxycaseco":  2.0,
+                                                                     "titancase":  1.5,
+                                                                     "phonecasegift":  1.5,
+                                                                     "phonecasesforher":  1.0
+                                                                 }
+                                            },
+                            "inkledger":  {
+                                              "domain":  "inkledger.org",
+                                              "audience":  "art, illustration, printing, designers",
+                                              "case_motif":  "dark",
+                                              "shop_weights":  {
+                                                                   "phonecasesforall":  3.0,
+                                                                   "titancase":  2.5,
+                                                                   "galaxycaseco":  1.5,
+                                                                   "phonecasesforher":  1.0,
+                                                                   "phonecasegift":  1.0
+                                                               }
+                                          },
+                            "birdledger":  {
+                                               "domain":  "birdledger.com",
+                                               "audience":  "birding, nature, photography",
+                                               "case_motif":  "light",
+                                               "shop_weights":  {
+                                                                    "phonecasesforall":  2.5,
+                                                                    "titancase":  1.5,
+                                                                    "galaxycaseco":  1.5,
+                                                                    "phonecasesforher":  1.0,
+                                                                    "phonecasegift":  0.8
+                                                                }
+                                           },
+                            "chairwise":  {
+                                              "domain":  "chairwise.com",
+                                              "audience":  "ergonomic chairs, home office",
+                                              "case_motif":  "light",
+                                              "shop_weights":  {
+                                                                   "phonecasesforall":  2.0,
+                                                                   "titancase":  1.5,
+                                                                   "galaxycaseco":  1.5,
+                                                                   "phonecasesforher":  1.0,
+                                                                   "phonecasegift":  1.0
+                                                               }
+                                          },
+                            "silvertail":  {
+                                               "domain":  "silvertail.com",
+                                               "audience":  "TBD",
+                                               "case_motif":  "light",
+                                               "shop_weights":  {
+                                                                    "phonecasesforall":  1.5,
+                                                                    "titancase":  1.5,
+                                                                    "galaxycaseco":  1.5,
+                                                                    "phonecasesforher":  1.5,
+                                                                    "phonecasegift":  1.5
+                                                                }
+                                           },
+                            "tinkerbench":  {
+                                                "domain":  "tinkerbench.com",
+                                                "audience":  "DIY, makers, tools",
+                                                "case_motif":  "dark",
+                                                "shop_weights":  {
+                                                                     "phonecasesforall":  2.0,
+                                                                     "titancase":  2.0,
+                                                                     "galaxycaseco":  2.0,
+                                                                     "phonecasegift":  1.0,
+                                                                     "phonecasesforher":  0.8
+                                                                 }
+                                            },
+                            "campdeck":  {
+                                             "domain":  "campdeck.app",
+                                             "audience":  "outdoor, camping, backpacking",
+                                             "case_motif":  "light",
+                                             "shop_weights":  {
+                                                                  "phonecasesforall":  2,
+                                                                  "titancase":  2,
+                                                                  "galaxycaseco":  1.5,
+                                                                  "phonecasegift":  1,
+                                                                  "phonecasesforher":  0.8
+                                                              }
+                                         },
+                            "gymledger":  {
+                                              "domain":  "gymledger.app",
+                                              "audience":  "fitness, home gym, strength training",
+                                              "case_motif":  "dark",
+                                              "shop_weights":  {
+                                                                   "titancase":  2.5,
+                                                                   "phonecasesforall":  2,
+                                                                   "galaxycaseco":  1.5,
+                                                                   "phonecasegift":  0.8,
+                                                                   "phonecasesforher":  0.5
+                                                               }
+                                          },
+                            "kitchenwise":  {
+                                                "domain":  "kitchenwise.app",
+                                                "audience":  "home cooks, kitchen gear",
+                                                "case_motif":  "light",
+                                                "shop_weights":  {
+                                                                     "phonecasesforall":  2.5,
+                                                                     "phonecasesforher":  2,
+                                                                     "phonecasegift":  1.5,
+                                                                     "galaxycaseco":  1,
+                                                                     "titancase":  1
+                                                                 }
+                                            }
+                        }
+}

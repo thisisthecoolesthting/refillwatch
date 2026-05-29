@@ -2,6 +2,7 @@
 import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
+import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import home from '@/data/spawn-home.json';
 
 const id = home.brand.identity;
@@ -111,6 +112,10 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <main class="flex-1">
       <slot />
     </main>
+    <AffiliateDisclosure />
     <Footer />
+      <script is:inline>
+      (function(){try{window.dataLayer=window.dataLayer||[];function emit(n,p){window.dataLayer.push(Object.assign({event:n},p));if(typeof window.gtag==='function')window.gtag('event',n,p)}function txt(a){var t=(a.textContent||'').replace(/\s+/g,' ').trim();return t.length>80?t.slice(0,80):t}document.addEventListener('click',function(e){var el=e.target;if(!el||!el.closest)return;var a=el.closest('a[href]');if(!a)return;var raw=a.getAttribute('href');if(!raw)return;var u;try{u=new URL(raw,location.href)}catch(_){return}if(u.protocol!=='http:'&&u.protocol!=='https:')return;var href=u.href,domain=u.hostname,rel=(a.getAttribute('rel')||'').toLowerCase(),aff=rel.indexOf('sponsored')>=0||href.toLowerCase().indexOf('amazon.')>=0,base={link_url:href,link_domain:domain,link_text:txt(a),page_path:location.pathname};if(aff){emit('affiliate_click',base);return}if(domain&&domain!==location.hostname)emit('outbound_click',base)},true)}catch(_){}})();
+    </script>
   </body>
 </html>

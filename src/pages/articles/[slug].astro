@@ -1,10 +1,10 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
+import CaseAdSlot from '@/components/CaseAdSlot.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
-import AuthorCard from '@/components/AuthorCard.astro';
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import TopPicksBlock from '@/components/TopPicksBlock.astro';
@@ -25,7 +25,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const b = home.brand;
-const nl = home.newsletter;
+const nl = home.newsletter ?? { title: '', subtitle: '' };
 const siteYmyl =
   (home as { editorial?: { ymyl?: boolean } }).editorial?.ymyl === true ||
   (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === true;
@@ -37,7 +37,7 @@ const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 const relatedProducts = await getRelatedProductsFromBody(entry.body);
 const topProduct = relatedProducts[0];
-const publishedISO = new Date(entry.data.publishedAt).toISOString();
+const publishedISO = new Date(entry.data.publishedAt ?? entry.data.updatedAt ?? Date.now()).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const bodyLower = (entry.body || '').toLowerCase();
 const tags = (entry.data.tags || []).map((t) => t.toLowerCase());
@@ -95,8 +95,7 @@ const articleSchema = {
     <ArticleToC />
 
     <article class="min-w-0 flex-1">
-      <AuthorCard authorSlug={authorSlug} />
-
+  
       <header class="mb-6">
         <h1 class="font-display text-3xl md:text-4xl text-ink-900 mb-3 !mt-0">{entry.data.title}</h1>
         <AffiliateDisclosure />
@@ -104,11 +103,12 @@ const articleSchema = {
 
       <AuthorByline
         authorSlug={authorSlug}
-        publishedAt={entry.data.publishedAt}
+        publishedAt={entry.data.publishedAt ?? entry.data.updatedAt}
         reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
       />
 
       <AdSlot position="above_fold" label="above-fold" />
+    <CaseAdSlot size="728x90" placement="article-top" />
 
       {entry.data.heroImage && (
         <figure class="mb-10 -mx-4 md:mx-0">
@@ -123,11 +123,14 @@ const articleSchema = {
 
       <AdSlot position="mid_content" label="pre-body" />
 
-      <div class="prose prose-lg prose-ink max-w-none">
+      <div class="lg:grid lg:grid-cols-[minmax(0,1fr)_220px] lg:gap-10 lg:items-start">
+        <div class="min-w-0">
+          <div class="prose prose-lg prose-ink max-w-none">
         <Content />
       </div>
 
       <AdSlot position="end" label="post-body" />
+    <CaseAdSlot size="300x250" placement="article-end" />
 
       {needsMedicalDisclaimer && <MedicalDisclaimer />}
 

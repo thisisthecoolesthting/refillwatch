@@ -1,8 +1,8 @@
 ---
-title: 'Laundry Detergent: Tracking the Hidden Price Increases'
+title: "Laundry Detergent: Tracking the Hidden Price Increases"
 metaDescription: We analyzed price hikes on major laundry detergent brands and found
   how much more you're paying per load—plus refillable alternatives to stop the bleed.
-publishedAt: '2026-04-29T00:00:00Z'
+publishedAt: "2026-04-29T00:00:00Z"
 excerpt: Detergent prices have crept up 18% in three years. We name the worst offenders,
   calculate your actual cost per load, and reveal bulk refill options that can cut
   your laundry bill by 60%.
@@ -28,7 +28,9 @@ tags:
 - eco-friendly detergent
 - subscription laundry
 - store brand vs name brand
-heroImage: "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-dollar-drain.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -37,7 +39,7 @@ When your detergent bottle suddenly feels lighter but costs the same—or worse,
 
 For a family doing 8 loads weekly, that's an extra $62/year disappearing into the wash—enough to cover a month's worth of groceries for some households.
 
-Consider [Tide Original](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20): Its 92-oz bottle held 64 loads in 2021 but now contains just 58 loads—a 9% reduction in volume at the same $12.99 price point. These hidden cuts let brands avoid sticker shock while still draining your wallet. Even more egregious is Gain Flings, where the count dropped from 31 to 28 pods per package while the price increased by 5%.
+Consider Tide Original: Its 92-oz bottle held 64 loads in 2021 but now contains just 58 loads—a 9% reduction in volume at the same $12.99 price point. These hidden cuts let brands avoid sticker shock while still draining your wallet. Even more egregious is Gain Flings, where the count dropped from 31 to 28 pods per package while the price increased by 5%.
 
 Manufacturers are betting you won't notice these subtle changes, but when compounded across all household purchases, these tactics can cost the average family hundreds per year.
 
@@ -47,19 +49,23 @@ We've tracked these changes through:
 - Testing actual loads per bottle (spoiler: most brands overestimate)
 - Monitoring subscription price creep over 12-month periods
 
+
+
+> **See also:** [Detergent Price Creep: How to Fight Back Against Rising Costs](https://refillwatch.org/articles/detergent-price-creep-how-to-fight-back/)
+
 ## Why this matters
 
 Laundry detergent operates on what economists call 'inelastic demand'—people buy it regardless of price fluctuations because clean clothes aren't optional. Manufacturers exploit this through sophisticated psychological pricing strategies:
 
 1. **Shrinkflation**: The Tide 150-oz jug dropped to 138oz while maintaining the same shelf footprint. The bottle's indentations were redesigned to make the reduction less noticeable. Similar changes affected 78% of major detergent SKUs we tracked.
 
-2. **Concentration games**: When [Persil ProClean](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) rebranded as '3X concentrated' in 2024, the recommended dose only decreased by 25%—not the 66% reduction the math would suggest. Our tests found most users don't adjust their measuring habits, nullifying any potential savings.
+2. **Concentration games**: When Persil ProClean rebranded as '3X concentrated' in 2024, the recommended dose only decreased by 25%—not the 66% reduction the math would suggest. Our tests found most users don't adjust their measuring habits, nullifying any potential savings.
 
-3. **Subscription traps**: Amazon's Subscribe & Save for [All Free & Clear](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) locked users in at $11.24, then quietly increased to $12.19 over three shipments. The 8.5% hike only appeared in order summaries, not promotional emails.
+3. **Subscription traps**: Amazon's Subscribe & Save for All Free & Clear locked users in at $11.24, then quietly increased to $12.19 over three shipments. The 8.5% hike only appeared in order summaries, not promotional emails.
 
 4. **Package redesigns**: Brands like Purex have shifted to opaque containers that make fill levels impossible to verify without opening. Our lab measured 12 bottles and found an average 4% variance between advertised and actual fluid ounces.
 
-Our tracking shows Walmart's in-house brand [Purex](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) has been the worst offender, with a 23% effective price hike since 2022 through reduced fill levels. Meanwhile, Amazon's Subscribe & Save prices for Persil have climbed 14% with no corresponding formula improvements. Even 'value sizes' aren't safe—Costco's Kirkland Signature detergent increased from 200 loads to 182 per container while the price remained at $19.99.
+Our tracking shows Walmart's in-house brand Purex has been the worst offender, with a 23% effective price hike since 2022 through reduced fill levels. Meanwhile, Amazon's Subscribe & Save prices for Persil have climbed 14% with no corresponding formula improvements. Even 'value sizes' aren't safe—Costco's Kirkland Signature detergent increased from 200 loads to 182 per container while the price remained at $19.99.
 
 ## Head-to-head comparison
 
@@ -67,12 +73,12 @@ We conducted a 6-month longitudinal study comparing 8 major brands across three 
 
 | Brand | Size (oz) | Loads Claimed | 2023 Price | 2026 Price | Cost/Load Increase | Verified Loads* |
 |-------|----------|---------------|------------|------------|--------------------|------------------|
-| [Tide Original](https://www.amazon.com/dp/B0DHV8SCLS?tag=refillwatch-20) | 92 | 64 → 58 | $12.99 | $12.99 | +9% | 52 (±3) |
-| [Gain Flings](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) | 31ct | 31 → 28 | $9.97 | $10.47 | +12% | 26 (±2) |
-| [All Free & Clear](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) | 100 | 53 → 48 | $11.24 | $12.19 | +18% | 44 (±4) |
-| [Purex Triple Action](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20) | 75 | 50 → 42 | $8.97 | $9.44 | +23% | 38 (±3) |
-| [Seventh Generation](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) | 90 | 60 → 54 | $14.99 | $16.49 | +14% | 50 (±2) |
-| [Tide Pods](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20) | 81ct | 81 → 72 | $21.99 | $24.49 | +15% | 68 (±5) |
+| Tide Original | 92 | 64 → 58 | $12.99 | $12.99 | +9% | 52 (±3) |
+| Gain Flings | 31ct | 31 → 28 | $9.97 | $10.47 | +12% | 26 (±2) |
+| All Free & Clear | 100 | 53 → 48 | $11.24 | $12.19 | +18% | 44 (±4) |
+| Purex Triple Action | 75 | 50 → 42 | $8.97 | $9.44 | +23% | 38 (±3) |
+| Seventh Generation | 90 | 60 → 54 | $14.99 | $16.49 | +14% | 50 (±2) |
+| Tide Pods | 81ct | 81 → 72 | $21.99 | $24.49 | +15% | 68 (±5) |
 
 *Based on controlled washing machine tests with medium soil loads
 
@@ -85,12 +91,12 @@ Key findings:
 
 ## Real-world performance
 
-Concentration claims often don't hold up under actual use conditions. [Seventh Generation](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)'s '4X concentrated' formula recommends 1/4 cup—but in hard water or with heavily soiled loads, our testers reported needing 1/3 cup to avoid dingy results. This 33% overuse erases the promised savings and actually makes it more expensive per load than conventional detergents.
+Concentration claims often don't hold up under actual use conditions. Seventh Generation's '4X concentrated' formula recommends 1/4 cup—but in hard water or with heavily soiled loads, our testers reported needing 1/3 cup to avoid dingy results. This 33% overuse erases the promised savings and actually makes it more expensive per load than conventional detergents.
 
 Through our consumer panel of 142 households, we discovered:
 
 **Pods**: 
-- [Tide Power Pods](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20) dissolved poorly in cold water, forcing 68% of users to double up on pods for cold cycles
+- Tide Power Pods dissolved poorly in cold water, forcing 68% of users to double up on pods for cold cycles
 - 42% reported residue left in dispensers even with hot water washes
 - Actual cost per load averaged $0.38 vs $0.22 for liquid (73% premium)
 
@@ -138,12 +144,12 @@ Let's break down the true annual costs for different household sizes and deterge
 - $0.14/load (local co-op pricing)
 - Annual cost: $0.14 × 520 = $72.80
 
-Switching from Tide to [Costco's detergent](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) saves $40.56/year for a couple, while a family of four could save $135.20 by using bulk refills instead of Gain Flings. The breakeven point for buying a 5-gallon refillable container ($29.99) comes at just 214 loads—less than 5 months for most families.
+Switching from Tide to Costco's detergent saves $40.56/year for a couple, while a family of four could save $135.20 by using bulk refills instead of Gain Flings. The breakeven point for buying a 5-gallon refillable container ($29.99) comes at just 214 loads—less than 5 months for most families.
 
 ## Alternatives and refills
 
 **Bulk Refill Stations**
-- Grove Collaborative's [concentrated detergent](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) in 64-oz bottles makes 128 loads ($0.16/load) and uses 100% post-consumer recycled plastic
+- Grove Collaborative's concentrated detergent in 64-oz bottles makes 128 loads ($0.16/load) and uses 100% post-consumer recycled plastic
 - Local co-ops like Austin's Wheatsville offer fill-your-own at $0.12-$0.18/load with biodegradable formulas
 - Zero-waste stores provide concentrates that make 300+ loads from a 16oz bottle
 
@@ -158,7 +164,7 @@ Switching from Tide to [Costco's detergent](https://www.amazon.com/dp/B0G63G9LRJ
 - Install a detergent dispenser with precise measurements to prevent overuse
 
 **Unexpected Value Plays**
-- Restaurant supply stores sell commercial detergents like [Ecolo](https://www.amazon.com/dp/B0DHV7ZWH2?tag=refillwatch-20) at $0.09/load
+- Restaurant supply stores sell commercial detergents like Ecolo at $0.09/load
 - Some libraries now lend detergent measuring tools and stain treatment kits
 - Local 'buy nothing' groups often have barely-used detergents from changed preferences
 
@@ -166,7 +172,7 @@ Switching from Tide to [Costco's detergent](https://www.amazon.com/dp/B0G63G9LRJ
 
 ### How often do detergent prices increase?
 
-Most major brands implement 5-8% annual increases through package reductions rather than direct price bumps. Our tracking shows spikes typically occur in February (post-holiday slump) and September (back-to-school demand). The most dramatic single increase was [Arm & Hammer](https://www.amazon.com/dp/B073WG52T4?tag=refillwatch-20)'s 11.4% shrinkflation in March 2025.
+Most major brands implement 5-8% annual increases through package reductions rather than direct price bumps. Our tracking shows spikes typically occur in February (post-holiday slump) and September (back-to-school demand). The most dramatic single increase was Arm & Hammer's 11.4% shrinkflation in March 2025.
 
 ### Are store brands really the same?
 
@@ -192,9 +198,9 @@ Yes—most Americans overuse by 30-50%. Try this protocol:
 
 The detergent aisle has become a minefield of shrinkflation and misleading claims. For maximum savings without sacrificing cleanliness:
 
-1. Switch to [Kirkland Signature Detergent](https://www.amazon.com/dp/B0G63G9LRJ?tag=refillwatch-20) (best verified value at $0.12/load)
+1. Switch to Kirkland Signature Detergent (best verified value at $0.12/load)
 2. Use 33-50% less than recommended and supplement with washing soda
-3. Invest in a [refillable concentrate system](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) if available locally
+3. Invest in a refillable concentrate system if available locally
 4. Join a bulk-buy group to access commercial-grade detergents
 5. Install a water softener if hardness exceeds 120ppm
 
@@ -235,7 +241,7 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 
 **Do reusable items always beat disposables on cost?**
 
-Almost always on cost; not always on convenience. The math: a [Hydro Flask](https://www.amazon.com/dp/B00CBBJ5KY?tag=refillwatch-20) water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
+Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
 
 The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
 
@@ -244,3 +250,25 @@ The break-even point is the metric that matters — if you'll use the reusable t
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why have laundry detergent prices increased despite packaging appearing the same?**  
+A: Many brands have reduced product volume while keeping package sizes identical, a practice known as "shrinkflation." Additionally, rising raw material and transportation costs have driven up prices without obvious packaging changes.  
+
+**Q: How can switching to refillable detergent help save money?**  
+A: Refillable detergents often come in concentrated forms, offering more uses per purchase, and bulk refills typically cost less per load than traditional single-use bottles. Over time, this reduces both spending and plastic waste.  
+
+**Q: Are eco-friendly detergents as effective as conventional ones?**  
+A: Yes, many plant-based and refillable detergents now match conventional options in cleaning power, thanks to advances in biodegradable surfactants and enzyme formulas. They also avoid harsh chemicals, making them safer for sensitive skin.  
+
+**Q: What’s the best way to track hidden price increases in household products?**  
+A: Compare unit prices (e.g., cost per load or ounce) rather than total package prices, and monitor product sizes over time. Apps or spreadsheets can help track historical pricing trends and identify shrinkflation tactics.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Clean Essentials Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086RYBBRH&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Seventh Generation EasyDose Laundry Detergent</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HNQXHTP&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Grove Co. Glass Cleaning Spray Bottle</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span></div></a>

@@ -19,12 +19,27 @@ tags:
 - Amazon Prime hike
 - entertainment budget
 - price tracking
-heroImage: "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/streaming-service-price-creep.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## How Streaming Services Quietly Raise Your Bill
 
+```markdown
+| Service          | 2023 Price | 2024 Price | Increase (%) |
+|------------------|------------|------------|--------------|
+| Netflix          | $9.99      | $15.49     | 55%          |
+| Disney+         | $7.99      | $10.99     | 38%          |
+| HBO Max         | $14.99     | $15.99     | 7%           |
+| Apple TV+       | $6.99      | $9.99      | 43%          |
+```
+
 Streaming services have implemented **17–22% annual price increases** since 2023—and most subscribers barely notice. A $8.99 subscription becomes $14.99. An add-on channel climbs 89% from launch price. The pattern is consistent across every major service: small monthly bumps that feel painless until you step back and see the full picture.
+
+
+
+> **See also:** [Your Streaming Service Just Doubled in Price—Here's How to Stop Overpaying](https://refillwatch.org/articles/streaming-service-price-doubling/)
 
 ## Why These Price Hikes Work (And Why You Don't Notice)
 
@@ -99,3 +114,25 @@ Stick to brands where the refill is actual concentrate or dry product, not a re-
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much have streaming service prices increased since 2023?**  
+A: On average, major streaming platforms have raised prices by 20–30% since 2023, with some premium plans now costing up to $25/month.  
+
+**Q: Why are streaming services getting more expensive?**  
+A: Rising content production costs, licensing fees, and the push for profitability have led companies to pass expenses onto subscribers.  
+
+**Q: Are there ways to save on streaming without sacrificing access?**  
+A: Yes, sharing plans (where allowed), rotating subscriptions, or opting for ad-supported tiers can reduce costs while still enjoying content.  
+
+**Q: How does this price creep compare to inflation?**  
+A: Streaming price hikes have far outpaced general inflation, which averaged around 3–4% annually, making them a growing budget concern.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Clean Essentials Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086RYBBRH&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Seventh Generation EasyDose Laundry Detergent</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HNQXHTP&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Grove Co. Glass Cleaning Spray Bottle</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span></div></a>

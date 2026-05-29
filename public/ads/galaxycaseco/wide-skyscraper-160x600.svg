@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 600" width="160" height="600" role="img" aria-label="Galaxy Case Co — Built for Galaxy. Ready for impact.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#1A2332"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="160" height="6" fill="#0A84FF"/>
+  <text x="80" y="56" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF" letter-spacing="-0.02em" text-anchor="middle">GALAXY</text>
+  <text x="80" y="80" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#FFFFFF" letter-spacing="-0.02em" text-anchor="middle">CASE CO.</text>
+  <line x1="50" y1="96" x2="110" y2="96" stroke="#00D2FF" stroke-width="3"/>
+  <g transform="translate(40 180)" opacity="0.95">
+    <rect x="0" y="0" width="80" height="160" rx="14" fill="#0B0F14" stroke="#0A84FF" stroke-width="2"/>
+    <rect x="6" y="6" width="68" height="148" rx="9" fill="#0A84FF" opacity="0.18"/>
+    <rect x="33" y="14" width="14" height="3" rx="1.5" fill="#1A2332"/>
+  </g>
+  <text x="80" y="386" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#FFFFFF" opacity="0.78" text-anchor="middle">Built for</text>
+  <text x="80" y="406" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#FFFFFF" opacity="0.78" text-anchor="middle">Galaxy.</text>
+  <text x="80" y="426" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#FFFFFF" opacity="0.78" text-anchor="middle">Ready for impact.</text>
+  <rect x="20" y="510" width="120" height="44" rx="22" fill="#0A84FF"/>
+  <text x="80" y="538" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP →</text>
+</svg>

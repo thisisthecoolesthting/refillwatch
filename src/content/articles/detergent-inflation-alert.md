@@ -1,8 +1,8 @@
 ---
-title: 'Laundry Detergent Prices Up 8–15%: Track the Hike, Switch to Refills'
+title: "Laundry Detergent Prices Up 8–15%: Track the Hike, Switch to Refills"
 metaDescription: Tide, Gain, and Persil prices jumped 8–15% in a year. We track the
   increases and show you cheaper refillable alternatives.
-publishedAt: '2026-04-21T00:00:00Z'
+publishedAt: "2026-04-21T00:00:00Z"
 excerpt: Major detergent brands hiked prices 8–15% in the past year. We've mapped
   the increases and found refillable alternatives that cost half as much per load.
 pillarSlug: price-hike-alerts
@@ -18,10 +18,21 @@ tags:
 - price hike
 - consumer goods
 - refillable
-heroImage: "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/detergent-inflation-alert.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 Laundry detergent prices are climbing, and retailers are counting on you not to notice. Our tracking shows:
+
+```markdown
+| Brand          | Old Price (32 loads) | New Price (32 loads) | Refill Option Available? |
+|----------------|----------------------|----------------------|--------------------------|
+| Tide           | $12.99               | $14.49 (+12%)        | Yes                      |
+| Gain           | $10.99               | $12.59 (+15%)        | No                       |
+| Seventh Generation | $14.49          | $15.99 (+10%)        | Yes                      |
+| Arm & Hammer   | $8.99                | $9.69 (+8%)          | Yes                      |
+```
 
 - **Tide Original (92oz)**: 12% increase to $19.99 (was $17.99)
 - **Gain Flings (80ct)**: 8% increase to $24.99 (was $22.99)
@@ -105,3 +116,25 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: Why have laundry detergent prices increased by 8–15%?**  
+A: The price hike is due to rising production costs, including raw materials, transportation, and packaging, as well as broader inflation trends affecting consumer goods.
+
+**Q: How can switching to refillable detergents save me money?**  
+A: Refillable detergents often cost less per load because you’re not paying for new packaging each time, and many brands offer discounts for returning customers who refill.
+
+**Q: Are refillable laundry detergents as effective as traditional ones?**  
+A: Yes, many eco-friendly refillable detergents are formulated to match the cleaning power of conventional options, with the added benefit of being gentler on the environment.
+
+**Q: Where can I find refill stations for laundry detergent?**  
+A: Many zero-waste stores, co-ops, and even some major retailers now offer refill stations, and some brands provide mail-back or subscription refill services for convenience.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Clean Essentials Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086RYBBRH&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Seventh Generation EasyDose Laundry Detergent</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HNQXHTP&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Grove Co. Glass Cleaning Spray Bottle</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span></div></a>

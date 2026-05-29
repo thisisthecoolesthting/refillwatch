@@ -7,17 +7,17 @@
       "palette": {
         "primary": "#1E3A8A",
         "accent": "#DC2626",
-        "cream": "#F8F5EE",
-        "ink": "#0F172A"
+        "cream": "#F8FAFC",
+        "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Playfair Display",
+        "display": "Archivo",
         "body": "Inter",
         "mono": "JetBrains Mono"
       },
       "mark": {
         "svgPath": "brand/refillwatch-mark.svg",
-        "svgPublicPath": "/brand/refillwatch-mark.svg",
+        "svgPublicPath": "/brand/refillwatch-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -28,7 +28,7 @@
       },
       "headerVariant": "minimal",
       "eyebrowText": "CONSUMER PRICING WATCHDOG",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap"
     }
   },
   "homepage": {
@@ -40,31 +40,21 @@
     "ctaSecondaryLabel": "How we research",
     "ctaSecondaryHref": "/methodology",
     "trustLine": "Independent watchdog \u00b7 No retailer sponsorships \u00b7 We name the hike, we name the alternative",
-    "heroImageUrl": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?auto=format&fit=crop&w=2400&q=85"
+    "heroImageUrl": "/images/hero-refillwatch.webp"
   },
   "palette": {
-    "primary": "#1B4D6E",
+    "primary": "#1E3A8A",
     "secondary": "#3A8F85",
-    "accent": "#F4A63A",
-    "surface": "#F7F8FA",
-    "ink": "#0F172A"
+    "accent": "#DC2626",
+    "surface": "#F8FAFC",
+    "ink": "#0B1120"
+  },
+  "newsletter": {
+    "title": "Stay ahead of the next price hike",
+    "subtitle": "Join RefillWatch \u2014 we email when everyday staples jump and point you to cheaper refills and reusables."
   },
   "analytics": {
-    "ga_measurement_id": "",
-    "ga_property_id": "",
-    "search_console_property": "https://refillwatch.org/"
-  },
-  "defaultMetaDescription": "When retailers creep prices, we're watching.",
-  "defaultAuthorSlug": "default-author",
-  "newsletter": {
-    "title": "Stay one step ahead of price hikes",
-    "subtitle": "We track shrinkflation and pricing tricks so you don't have to. One alert, once a week."
-  },
-  "persona": {
-    "ymyl": false
-  },
-  "about": {
-    "headline": "About RefillWatch",
-    "body": "RefillWatch is an independent consumer pricing watchdog tracking shrinkflation and retailer price creep."
+    "ga_measurement_id": "G-W2WHE10F4S",
+    "ga_property_id": "536827156"
   }
 }

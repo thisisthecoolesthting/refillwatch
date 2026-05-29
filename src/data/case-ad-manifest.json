@@ -1,0 +1,255 @@
+{
+  "version": "2.0.0",
+  "updated": "2026-05-12",
+  "shops": {
+    "phonecasesforall": {
+      "name": "Phone Cases For All",
+      "domain": "phonecasesforall.com",
+      "url": "https://phonecasesforall.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Cases that match your energy",
+      "cta": "Shop the looks",
+      "palette_ref": "phonecasesforall",
+      "weight": 1.0
+    },
+    "galaxycaseco": {
+      "name": "Galaxy Case Co",
+      "domain": "galaxycaseco.com",
+      "url": "https://galaxycaseco.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Built for Galaxy. Ready for impact.",
+      "cta": "Shop Galaxy",
+      "palette_ref": "galaxycaseco",
+      "weight": 1.0
+    },
+    "phonecasegift": {
+      "name": "Phone Case Gift",
+      "domain": "phonecasegift.shop",
+      "url": "https://phonecasegift.shop/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Fun finds for every vibe.",
+      "cta": "Send a gift",
+      "palette_ref": "phonecasegift",
+      "weight": 1.0
+    },
+    "titancase": {
+      "name": "Titan Case",
+      "domain": "titancase.shop",
+      "url": "https://titancase.shop/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Engineered restraint for iPhone.",
+      "cta": "Shop iPhone",
+      "palette_ref": "titancase",
+      "weight": 1.0
+    },
+    "phonecasesforher": {
+      "name": "Phone Cases For Her",
+      "domain": "phonecasesforher.com",
+      "url": "https://phonecasesforher.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
+      "tagline": "Cases with personal polish.",
+      "cta": "Shop the look",
+      "palette_ref": "phonecasesforher",
+      "weight": 1.0
+    }
+  },
+  "sizes": {
+    "300x250": {
+      "format": "medium-rectangle",
+      "width": 300,
+      "height": 250
+    },
+    "728x90": {
+      "format": "leaderboard",
+      "width": 728,
+      "height": 90
+    },
+    "320x50": {
+      "format": "mobile-banner",
+      "width": 320,
+      "height": 50
+    },
+    "160x600": {
+      "format": "wide-skyscraper",
+      "width": 160,
+      "height": 600
+    },
+    "300x600": {
+      "format": "half-page",
+      "width": 300,
+      "height": 600
+    }
+  },
+  "creatives": [
+    {
+      "shop": "phonecasesforall",
+      "size": "300x250",
+      "motif": "light",
+      "file": "i/s1/1.png",
+      "webp": "i/s1/1.webp"
+    },
+    {
+      "shop": "phonecasesforall",
+      "size": "728x90",
+      "motif": "light",
+      "file": "i/s1/2.png",
+      "webp": "i/s1/2.webp"
+    },
+    {
+      "shop": "phonecasesforall",
+      "size": "320x50",
+      "motif": "light",
+      "file": "i/s1/3.png",
+      "webp": "i/s1/3.webp"
+    },
+    {
+      "shop": "phonecasesforall",
+      "size": "160x600",
+      "motif": "light",
+      "file": "i/s1/4.png",
+      "webp": "i/s1/4.webp"
+    },
+    {
+      "shop": "phonecasesforall",
+      "size": "300x600",
+      "motif": "light",
+      "file": "i/s1/5.png",
+      "webp": "i/s1/5.webp"
+    },
+    {
+      "shop": "galaxycaseco",
+      "size": "300x250",
+      "motif": "dark",
+      "file": "i/s2/1.png",
+      "webp": "i/s2/1.webp"
+    },
+    {
+      "shop": "galaxycaseco",
+      "size": "728x90",
+      "motif": "dark",
+      "file": "i/s2/2.png",
+      "webp": "i/s2/2.webp"
+    },
+    {
+      "shop": "galaxycaseco",
+      "size": "320x50",
+      "motif": "dark",
+      "file": "i/s2/3.png",
+      "webp": "i/s2/3.webp"
+    },
+    {
+      "shop": "galaxycaseco",
+      "size": "160x600",
+      "motif": "dark",
+      "file": "i/s2/4.png",
+      "webp": "i/s2/4.webp"
+    },
+    {
+      "shop": "galaxycaseco",
+      "size": "300x600",
+      "motif": "dark",
+      "file": "i/s2/5.png",
+      "webp": "i/s2/5.webp"
+    },
+    {
+      "shop": "phonecasegift",
+      "size": "300x250",
+      "motif": "light",
+      "file": "i/s3/1.png",
+      "webp": "i/s3/1.webp"
+    },
+    {
+      "shop": "phonecasegift",
+      "size": "728x90",
+      "motif": "light",
+      "file": "i/s3/2.png",
+      "webp": "i/s3/2.webp"
+    },
+    {
+      "shop": "phonecasegift",
+      "size": "320x50",
+      "motif": "light",
+      "file": "i/s3/3.png",
+      "webp": "i/s3/3.webp"
+    },
+    {
+      "shop": "phonecasegift",
+      "size": "160x600",
+      "motif": "light",
+      "file": "i/s3/4.png",
+      "webp": "i/s3/4.webp"
+    },
+    {
+      "shop": "phonecasegift",
+      "size": "300x600",
+      "motif": "light",
+      "file": "i/s3/5.png",
+      "webp": "i/s3/5.webp"
+    },
+    {
+      "shop": "titancase",
+      "size": "300x250",
+      "motif": "dark",
+      "file": "i/s4/1.png",
+      "webp": "i/s4/1.webp"
+    },
+    {
+      "shop": "titancase",
+      "size": "728x90",
+      "motif": "dark",
+      "file": "i/s4/2.png",
+      "webp": "i/s4/2.webp"
+    },
+    {
+      "shop": "titancase",
+      "size": "320x50",
+      "motif": "dark",
+      "file": "i/s4/3.png",
+      "webp": "i/s4/3.webp"
+    },
+    {
+      "shop": "titancase",
+      "size": "160x600",
+      "motif": "dark",
+      "file": "i/s4/4.png",
+      "webp": "i/s4/4.webp"
+    },
+    {
+      "shop": "titancase",
+      "size": "300x600",
+      "motif": "dark",
+      "file": "i/s4/5.png",
+      "webp": "i/s4/5.webp"
+    },
+    {
+      "shop": "phonecasesforher",
+      "size": "300x250",
+      "motif": "light",
+      "file": "i/s5/1.png",
+      "webp": "i/s5/1.webp"
+    },
+    {
+      "shop": "phonecasesforher",
+      "size": "728x90",
+      "motif": "light",
+      "file": "i/s5/2.png",
+      "webp": "i/s5/2.webp"
+    },
+    {
+      "shop": "phonecasesforher",
+      "size": "320x50",
+      "motif": "light",
+      "file": "i/s5/3.png",
+      "webp": "i/s5/3.webp"
+    },
+    {
+      "shop": "phonecasesforher",
+      "size": "160x600",
+      "motif": "light",
+      "file": "i/s5/4.png",
+      "webp": "i/s5/4.webp"
+    },
+    {
+      "shop": "phonecasesforher",
+      "size": "300x600",
+      "motif": "light",
+      "file": "i/s5/5.png",
+      "webp": "i/s5/5.webp"
+    }
+  ]
+}

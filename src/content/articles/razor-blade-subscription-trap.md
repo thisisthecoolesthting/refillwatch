@@ -24,7 +24,9 @@ tags:
 - safety razor savings
 - blade cost per shave
 - dollar shave club alternative
-heroImage: "https://images.unsplash.com/photo-1586899028174-e7098604235b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/razor-blade-subscription-trap.webp
+subtopic: cleaning
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -39,6 +41,10 @@ We tracked 18 months of subscription price changes across major brands and found
 - Environmental impact is staggering: An estimated 2 billion plastic razor cartridges enter landfills annually from subscriptions alone
 
 This isn't just about shaving. It's about how companies exploit routine purchases through behavioral economics. You'll see the same pattern with printer ink, water filters, and coffee pods—but razors are where the subscription trap was perfected. The industry knows you'll prioritize convenience over cost analysis for small recurring purchases.
+
+
+
+> **See also:** [The Ink Cartridge Scam: Why Your Printer Ink Costs So Much](https://refillwatch.org/articles/ink-cartridge-scam-uncovered/)
 
 ## Why This Matters
 
@@ -62,17 +68,19 @@ We conducted a 6-month controlled study comparing four subscription services aga
 | Harry's (4-blade) | $22/2 months | 8 | $2.75 | $3.30 | 7 | 6 | $0.46 | 11 months |
 | Gillette Heated Razor | $25/month | 2 | $12.50 | $14.20 | 12 | 10 | $1.25 | 14 months |
 | Bic Flex 5 Hybrid (Amazon Subscribe) | $15/2 months | 4 | $3.75 | $4.15 | 6 | 5 | $0.75 | 7 months |
-| [Merkur Safety Razor](https://www.amazon.com/dp/B000NH7BPW?tag=refillwatch-20) | N/A | N/A | N/A | $0.25 | N/A | 12 | $0.02 | 10+ years |
+| Merkur Safety Razor | N/A | N/A | N/A | $0.25 | N/A | 12 | $0.02 | 10+ years |
 | Leaf Razor | N/A | N/A | N/A | $0.15 | N/A | 15 | $0.01 | 5+ years |
 | Rockwell 6S | N/A | N/A | N/A | $0.30 | N/A | 10 | $0.03 | Lifetime |
 
 **Key findings:**
 - Subscription services average $0.45–$1.25 per shave, with the Gillette Heated Razor being the worst offender at $1.25 per shave
-- Safety razors using [Astra Platinum](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) blades cost 95% less per shave at $0.02
+- Safety razors using Astra Platinum blades cost 95% less per shave at $0.02
 - The "blades per shave" claims from subscription services were exaggerated by 18–25% in our tests
 - Handle durability shows the starkest difference—plastic subscription handles averaged 9.2 months before failure versus decades for metal safety razors
 - The Feather AS-D2 provided the closest shave at the lowest long-term cost ($0.018 per shave)
 
+
+For more on the razor-and-blade model: why printer ink is so expensive, see [our coverage at inkledger.org](https://inkledger.org/articles/why-is-printer-ink-so-expensive/).
 ## Real-World Performance
 
 Beyond cost, our team of 12 testers tracked shave quality, blade degradation, and hidden frustrations across 1,800 shaves. The results expose critical flaws in subscription models:
@@ -80,7 +88,7 @@ Beyond cost, our team of 12 testers tracked shave quality, blade degradation, an
 **Blade degradation:** Subscriptions claim cartridges last "up to a month," but examination and shave testing showed:
 - Harry's blades showed visible edge deterioration after shave 5, becoming uncomfortable by shave 6
 - DSC blades developed rust spots by shave 8 despite proper storage (tested at 45–55% humidity)
-- [Feather Safety](https://www.amazon.com/dp/B002T4D0WU?tag=refillwatch-20) Razor blades maintained optimal sharpness through 12+ shaves due to superior steel quality
+- Feather Safety Razor blades maintained optimal sharpness through 12+ shaves due to superior steel quality
 - Gillette's heated function actually reduced blade life by 17% due to thermal stress on polymer components
 
 **Handle durability:** The $9 plastic handles from subscriptions revealed alarming failure points:
@@ -185,7 +193,7 @@ A: They require more attention than cartridge razors, but cuts are typically min
 
 **Q: What about women's razors?**
 
-The same math applies but with greater savings potential. Women's subscription services like Billie cost $9 per month for 4 blades—that's $0.45 per shave. A [Parker Safety Razor](https://www.amazon.com/dp/B002R5AF1I?tag=refillwatch-20) cuts this to $0.03. Key differences:
+The same math applies but with greater savings potential. Women's subscription services like Billie cost $9 per month for 4 blades—that's $0.45 per shave. A Parker Safety Razor cuts this to $0.03. Key differences:
 - Longer handles better for leg shaving (Merkur 23C)
 - Soap and lather matter more for larger surface areas
 - Leaf Twig designed specifically for women's contours
@@ -266,3 +274,11 @@ Spot it by checking unit pricing on the shelf tag (price per ounce, per square f
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Clean Essentials Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086RYBBRH&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Seventh Generation EasyDose Laundry Detergent</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HNQXHTP&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Grove Co. Glass Cleaning Spray Bottle</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span></div></a>

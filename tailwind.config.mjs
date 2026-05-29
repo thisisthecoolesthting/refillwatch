@@ -7,14 +7,14 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: '#F8F5EE',
-          100: '#F3EFE8',
-          200: '#E7E0D6',
+          50: "#F8FAFC",
+          100: "#EEF0F2",
+          200: "#DFE1E3",
         },
         terracotta: {
-          400: '#F87171',
-          500: '#DC2626',
-          600: '#B91C1C',
+          400: "#FD2C2C",
+          500: "#DC2626",
+          600: "#B41F1F",
         },
         sage: {
           400: '#60A5FA',
@@ -25,14 +25,14 @@ export default {
           deep: '#1E3A8A',
         },
         ink: {
-          900: '#0F172A',
-          700: '#334155',
-          500: '#64748B',
+          900: "#0B1120",
+          700: "#334155",
+          500: "#64748B",
         },
       },
       fontFamily: {
-        display: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans: ['"Inter"', 'system-ui', 'sans-serif'],
+        display: ['Archivo', "Georgia", "serif"],
+        sans: ['Inter', "system-ui", "sans-serif"],
       },
       maxWidth: {
         prose: '68ch',

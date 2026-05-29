@@ -1,0 +1,253 @@
+---
+/**
+ * CaseAdSlot — bold HTML phone-case cross-promo with real case images + 15% promo code.
+ * Self-contained store data. Keeps size/placement props + UA-based link swapping.
+ * Reads spawn-home.json only for affiliate slug (UTM).
+ */
+
+import home from '@/data/spawn-home.json';
+
+export interface Props {
+  size: '300x250' | '728x90' | '320x50' | '160x600' | '300x600';
+  placement?: string;
+  shop?: string;
+}
+
+const { size, placement = 'default', shop: forcedShop } = Astro.props;
+
+const STORES = [
+  {
+    slug: 'phonecasesforher',
+    name: 'Phone Cases For Her',
+    domain: 'phonecasesforher.com',
+    tagline: 'Cases with personal polish.',
+    badge: '🌸 Feminine & aesthetic',
+    offer: '15% off your first case',
+    code: 'FIRST15HER',
+    cta: 'Shop the look',
+    accent: '#c94f7b',
+    accentLight: '#fdf0f5',
+    accentDark: '#9d3560',
+    images: ['pcfh_27217.png','pcfh_25396.png','pcfh_33644.png','pcfh_10980.png','pcfh_37688.png'],
+    iphoneDomain: 'titancase.shop',
+    samsungDomain: 'galaxycaseco.com',
+  },
+  {
+    slug: 'phonecasesforall',
+    name: 'Phone Cases For All',
+    domain: 'phonecasesforall.com',
+    tagline: 'Cases that match your energy.',
+    badge: '📱 Top-rated designs',
+    offer: '15% off your first case',
+    code: 'FIRST15ALL',
+    cta: 'Shop the looks',
+    accent: '#4350e8',
+    accentLight: '#eef0fd',
+    accentDark: '#2e3ab5',
+    images: ['hero_04_CGP-FLORAL-0102.png','best_CGP-FLORAL-0013.png','best_CGP-FLORAL-0036.png','hero_03_CGP-FLORAL-0259.png','best_CGP-FLORAL-0172.png'],
+    iphoneDomain: 'titancase.shop',
+    samsungDomain: 'galaxycaseco.com',
+  },
+  {
+    slug: 'galaxycaseco',
+    name: 'Galaxy Case Co.',
+    domain: 'galaxycaseco.com',
+    tagline: 'Built for Galaxy. Ready for impact.',
+    badge: '🔷 Samsung specialist',
+    offer: '15% off your first case',
+    code: 'FIRST15GAL',
+    cta: 'Shop Galaxy',
+    accent: '#0284c7',
+    accentLight: '#e0f2fe',
+    accentDark: '#015f8f',
+    images: ['flat_CGP-ASTROL-0008.jpg','flat_CGP-ASTROL-0034.jpg','vivid_CGP-FLORAL-0026.png','vivid_CGP-FLORAL-0353.png'],
+    iphoneDomain: 'titancase.shop',
+    samsungDomain: 'galaxycaseco.com',
+  },
+  {
+    slug: 'titancase',
+    name: 'Titan Case',
+    domain: 'titancase.shop',
+    tagline: 'Engineered restraint for iPhone.',
+    badge: '🍎 Built for iPhone',
+    offer: '15% off your first case',
+    code: 'FIRST15TIT',
+    cta: 'Shop iPhone',
+    accent: '#1c1c1e',
+    accentLight: '#f2f2f7',
+    accentDark: '#000000',
+    images: ['vivid_CGP-NATURE-0161.png','vivid_CGP-FLORAL-0346.png','hero_05_CGP-FLORAL-0114.png','hero_04_CGP-FLORAL-0102.png'],
+    iphoneDomain: 'titancase.shop',
+    samsungDomain: 'galaxycaseco.com',
+  },
+  {
+    slug: 'phonecasegift',
+    name: 'Phone Case Gift',
+    domain: 'phonecasegift.shop',
+    tagline: 'Fun finds for every vibe.',
+    badge: '🎁 Perfect gift idea',
+    offer: '15% off your first case',
+    code: 'FIRST15GIFT',
+    cta: 'Send a gift',
+    accent: '#d97706',
+    accentLight: '#fffbeb',
+    accentDark: '#a15c00',
+    images: ['art_CGP-ANIMAL-0748.jpg','flower_CGP-FLORAL-0251.jpg','best_CGP-FLORAL-0190.png','best_CGP-FLORAL-0415.png'],
+    iphoneDomain: 'titancase.shop',
+    samsungDomain: 'galaxycaseco.com',
+  },
+];
+
+const store = forcedShop
+  ? (STORES.find(s => s.slug === forcedShop) ?? STORES[Math.floor(Math.random() * STORES.length)])
+  : STORES[Math.floor(Math.random() * STORES.length)];
+
+const img = store.images[Math.floor(Math.random() * store.images.length)];
+const imgUrl = `https://phonecasesforall.com/hero-cases/${img}`;
+
+const brandName: string = (home as any).brand?.shortName || (home as any).brand?.fullName || (home as any).siteSlug || '';
+const affSlug = brandName.toLowerCase().replace(/[^a-z0-9]/g, '') || 'affiliate';
+const utmContent = `${size}_${placement}`;
+
+const clickUrl = `https://${store.domain}/?utm_source=${affSlug}&utm_medium=cross_promo&utm_campaign=15off&utm_content=${utmContent}`;
+const iphoneUrl = `https://${store.iphoneDomain}/?utm_source=${affSlug}&utm_medium=cross_promo&utm_campaign=15off&utm_content=${utmContent}_iph`;
+const samsungUrl = `https://${store.samsungDomain}/?utm_source=${affSlug}&utm_medium=cross_promo&utm_campaign=15off&utm_content=${utmContent}_sam`;
+
+const slotId = `cad-${placement}-${Math.random().toString(36).slice(2, 8)}`;
+
+// Size category for layout branching
+const isLeader = size === '728x90' || size === '320x50';
+const isSkyscraper = size === '160x600' || size === '300x600';
+---
+
+{isLeader ? (
+  <!-- Leaderboard / mobile banner — slim horizontal bar -->
+  <div id={slotId} class="cad-wrap cad-leader not-prose"
+       style={`--accent:${store.accent};--accent-light:${store.accentLight};--accent-dark:${store.accentDark}`}>
+    <a href={clickUrl} target="_blank" rel="noopener sponsored"
+       data-href-iphone={iphoneUrl} data-href-samsung={samsungUrl}
+       class="cad-leader-inner">
+      <span class="cad-leader-accent-bar"></span>
+      <img src={imgUrl} alt="" loading="lazy" class="cad-leader-img"
+           onerror="this.style.display='none'" />
+      <span class="cad-leader-body">
+        <span class="cad-leader-name">{store.name}</span>
+        <span class="cad-leader-tag">{store.tagline}</span>
+      </span>
+      <span class="cad-leader-offer">
+        <span class="cad-leader-pct">15% OFF</span>
+        <span class="cad-leader-code">{store.code}</span>
+      </span>
+      <span class="cad-leader-cta">{store.cta} →</span>
+    </a>
+    <p class="cad-disc">Sponsored</p>
+  </div>
+) : isSkyscraper ? (
+  <!-- Skyscraper / half-page — tall vertical card -->
+  <div id={slotId} class="cad-wrap cad-sky not-prose"
+       style={`--accent:${store.accent};--accent-light:${store.accentLight};--accent-dark:${store.accentDark}`}>
+    <p class="cad-eyebrow">Sponsored</p>
+    <a href={clickUrl} target="_blank" rel="noopener sponsored"
+       data-href-iphone={iphoneUrl} data-href-samsung={samsungUrl}
+       class="cad-sky-card">
+      <div class="cad-sky-img-wrap">
+        <img src={imgUrl} alt={store.name} loading="lazy" class="cad-sky-img"
+             onerror="this.parentElement.style.background='var(--accent-light)';this.remove()" />
+      </div>
+      <div class="cad-sky-body">
+        <span class="cad-badge">{store.badge}</span>
+        <p class="cad-name">{store.name}</p>
+        <p class="cad-tag">{store.tagline}</p>
+        <div class="cad-offer">
+          <span class="cad-offer-text">✦ {store.offer}</span>
+          <span class="cad-code">Code: <strong>{store.code}</strong></span>
+        </div>
+        <span class="cad-cta-btn">{store.cta} →</span>
+      </div>
+    </a>
+  </div>
+) : (
+  <!-- 300x250 medium rectangle — horizontal card with case image -->
+  <div id={slotId} class="cad-wrap cad-rect not-prose"
+       style={`--accent:${store.accent};--accent-light:${store.accentLight};--accent-dark:${store.accentDark}`}>
+    <p class="cad-eyebrow">Sponsored · From our family of brands</p>
+    <a href={clickUrl} target="_blank" rel="noopener sponsored"
+       data-href-iphone={iphoneUrl} data-href-samsung={samsungUrl}
+       class="cad-rect-card">
+      <div class="cad-rect-img-wrap">
+        <img src={imgUrl} alt={store.name} loading="lazy" class="cad-rect-img"
+             onerror="this.parentElement.style.background='var(--accent-light)';this.remove()" />
+      </div>
+      <div class="cad-rect-body">
+        <span class="cad-badge">{store.badge}</span>
+        <p class="cad-name">{store.name}</p>
+        <p class="cad-tag">{store.tagline}</p>
+        <div class="cad-stars"><span class="cad-star-row">★★★★★</span></div>
+        <div class="cad-offer">
+          <span class="cad-offer-text">✦ {store.offer}</span>
+          <span class="cad-code">Code: <strong>{store.code}</strong></span>
+        </div>
+        <span class="cad-cta-btn">{store.cta} →</span>
+      </div>
+    </a>
+  </div>
+)}
+
+<style>
+  .cad-wrap { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; margin: 16px 0; }
+  .cad-eyebrow { font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.6px; color: #9ca3af; margin: 0 0 5px; }
+  .cad-disc { font-size: 9px; color: #bbb; text-align: center; margin: 3px 0 0; }
+  .cad-badge { font-size: 10px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.5px; }
+  .cad-name { font-size: 13px; font-weight: 700; color: #111; margin: 0; line-height: 1.2; }
+  .cad-tag { font-size: 11px; color: #6b7280; margin: 0; line-height: 1.4; }
+  .cad-stars { font-size: 10px; }
+  .cad-star-row { color: #f59e0b; letter-spacing: 1px; }
+  .cad-offer { display: flex; flex-direction: column; gap: 2px; background: var(--accent-light); border-left: 3px solid var(--accent); border-radius: 4px; padding: 6px 8px; margin: 3px 0; }
+  .cad-offer-text { font-size: 11px; font-weight: 700; color: var(--accent-dark); text-transform: uppercase; letter-spacing: 0.3px; }
+  .cad-code { font-size: 10px; color: #374151; }
+  .cad-code strong { font-family: 'Courier New', monospace; font-size: 10px; background: rgba(0,0,0,0.07); padding: 1px 4px; border-radius: 3px; letter-spacing: 1px; }
+  .cad-cta-btn { display: inline-block; padding: 7px 14px; background: var(--accent); color: #fff; border-radius: 6px; font-size: 11px; font-weight: 600; margin-top: 5px; transition: background 150ms; }
+
+  /* ── LEADERBOARD ── */
+  .cad-leader-inner { display: flex; align-items: center; gap: 10px; padding: 0 12px; height: 82px; background: #fff; border-radius: 10px; border: 1.5px solid rgba(0,0,0,0.08); border-top: 4px solid var(--accent); box-shadow: 0 1px 6px rgba(0,0,0,0.06); text-decoration: none; color: inherit; overflow: hidden; }
+  .cad-leader-accent-bar { width: 4px; height: 40px; background: var(--accent); border-radius: 2px; flex-shrink: 0; }
+  .cad-leader-img { width: 52px; height: 68px; object-fit: cover; object-position: center top; border-radius: 6px; flex-shrink: 0; }
+  .cad-leader-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+  .cad-leader-name { font-size: 13px; font-weight: 700; color: #111; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .cad-leader-tag { font-size: 11px; color: #6b7280; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .cad-leader-offer { display: flex; flex-direction: column; align-items: center; gap: 2px; background: var(--accent-light); border-radius: 6px; padding: 5px 10px; flex-shrink: 0; }
+  .cad-leader-pct { font-size: 13px; font-weight: 800; color: var(--accent-dark); line-height: 1; }
+  .cad-leader-code { font-family: 'Courier New', monospace; font-size: 10px; color: #374151; background: rgba(0,0,0,0.06); padding: 1px 5px; border-radius: 3px; letter-spacing: 1px; }
+  .cad-leader-cta { font-size: 12px; font-weight: 600; color: #fff; background: var(--accent); padding: 8px 12px; border-radius: 7px; flex-shrink: 0; white-space: nowrap; }
+
+  /* ── MEDIUM RECTANGLE ── */
+  .cad-rect-card { display: flex; flex-direction: row; text-decoration: none; color: inherit; border-radius: 14px; overflow: hidden; border: 1.5px solid rgba(0,0,0,0.08); background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.07); border-top: 4px solid var(--accent); }
+  .cad-rect-img-wrap { flex-shrink: 0; width: 100px; background: var(--accent-light); overflow: hidden; }
+  .cad-rect-img { width: 100px; height: 100%; min-height: 210px; object-fit: cover; object-position: center top; }
+  .cad-rect-body { flex: 1; padding: 14px 14px; display: flex; flex-direction: column; gap: 4px; justify-content: center; }
+
+  /* ── SKYSCRAPER ── */
+  .cad-sky-card { display: flex; flex-direction: column; text-decoration: none; color: inherit; border-radius: 14px; overflow: hidden; border: 1.5px solid rgba(0,0,0,0.08); background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,0.07); border-top: 4px solid var(--accent); max-width: 300px; }
+  .cad-sky-img-wrap { width: 100%; height: 200px; background: var(--accent-light); overflow: hidden; }
+  .cad-sky-img { width: 100%; height: 200px; object-fit: cover; object-position: center top; }
+  .cad-sky-body { padding: 14px 16px; display: flex; flex-direction: column; gap: 5px; }
+
+  @media (max-width: 480px) {
+    .cad-leader-img { display: none; }
+    .cad-leader-tag { display: none; }
+  }
+</style>
+
+<script define:vars={{ slotId, iphoneUrl, samsungUrl }}>
+  (function () {
+    var el = document.getElementById(slotId);
+    var link = el && el.querySelector('a');
+    if (!link) return;
+    var ua = navigator.userAgent || '';
+    if (/iPhone|iPad|iPod/.test(ua)) {
+      link.href = iphoneUrl;
+    } else if (/Samsung|SM-[A-Za-z]/.test(ua)) {
+      link.href = samsungUrl;
+    }
+  })();
+</script>

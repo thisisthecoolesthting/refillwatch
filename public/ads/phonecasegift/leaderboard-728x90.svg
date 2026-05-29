@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 728 90" width="728" height="90" role="img" aria-label="Phone Case Gift — Fun finds for every vibe.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFF9EE"/>
+      <stop offset="1" stop-color="#FFF1D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="728" height="90" fill="url(#bg)"/>
+  <rect x="0" y="0" width="6" height="90" fill="#A78BFA"/>
+  <g transform="translate(28 14)">
+    <rect x="0" y="0" width="38" height="62" rx="8" fill="#FFFFFF" stroke="#A78BFA" stroke-width="2"/>
+    <path d="M0 18 Q19 6 38 18 L38 28 Q19 16 0 28 Z" fill="#FF7AB6" opacity="0.6"/>
+  </g>
+  <text x="92" y="42" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#2D2240" letter-spacing="-0.02em">PHONE CASE GIFT.</text>
+  <text x="92" y="66" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="13" fill="#2D2240" opacity="0.7">Fun finds for every vibe · custom message</text>
+  <rect x="568" y="28" width="138" height="36" rx="18" fill="#FF7AB6"/>
+  <text x="637" y="51" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SEND A GIFT →</text>
+</svg>
