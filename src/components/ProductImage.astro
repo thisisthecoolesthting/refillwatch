@@ -1,5 +1,6 @@
 ---
-import { FALLBACK_SVG, productImageCandidates } from '@/utils/product-image';
+import path from 'node:path';
+import { FALLBACK_SVG, resolveProductImageSources } from '@/utils/product-image';
 
 export interface Props {
   slug: string;
@@ -21,16 +22,24 @@ const {
   containerClass = '',
 } = Astro.props;
 
-const sources = productImageCandidates(slug, asin, imageUrl);
-const primary = sources[0];
-const fallbacks = sources.slice(1);
+const publicRoot = path.join(process.cwd(), 'public');
+const { primary, fallbacks } = await resolveProductImageSources(
+  slug,
+  asin,
+  imageUrl,
+  publicRoot,
+);
+const fallbackPayload = fallbacks.join('\u001f');
 ---
 
 <img
   src={primary}
   alt={alt}
   loading={loading}
+  decoding="async"
+  referrerpolicy="no-referrer"
   class:list={[imgClass, containerClass]}
-  data-fallbacks={fallbacks.join('|')}
-  onerror={`(function(img){var q=img.getAttribute('data-fallbacks');if(!q){img.src='${FALLBACK_SVG}';return;}var n=q.split('|').filter(Boolean);if(!n.length){img.onerror=null;return;}img.src=n.shift();img.setAttribute('data-fallbacks',n.join('|'));})(this)`}
+  data-fallbacks={fallbackPayload}
+  data-fallback-svg={FALLBACK_SVG}
+  onerror="(function(img){img.onerror=null;var q=img.getAttribute('data-fallbacks')||'';var n=q.split('\u001f').filter(Boolean);if(n.length){img.src=n.shift();img.setAttribute('data-fallbacks',n.join('\u001f'));return;}img.src=img.getAttribute('data-fallback-svg')||'';})(this)"
 />

@@ -1,4 +1,7 @@
-/** Product image URLs — local assets first, then Amazon ASIN fallback, then SVG placeholder. */
+/** Product image URLs — curated catalog URL first, ASIN fallback, optional local asset, SVG last. */
+
+import { existsSync, statSync } from 'node:fs';
+import path from 'node:path';
 
 const FALLBACK_SVG =
   'data:image/svg+xml;utf8,' +
@@ -12,12 +15,23 @@ const FALLBACK_SVG =
       `</g></svg>`,
   );
 
+const MIN_IMAGE_BYTES = 512;
+
 export function localProductImagePath(slug: string): string {
   return `/images/products/${slug}.jpg`;
 }
 
 export function amazonAsinImageUrl(asin: string): string {
-  return `https://images-na.ssl-images-amazon.com/images/P/${asin}.01._SCLZZZZZZZ_.jpg`;
+  const id = asin.trim().toUpperCase();
+  return `https://m.media-amazon.com/images/P/${id}.01._SL500_.jpg`;
+}
+
+/** Prefer m.media-amazon.com — survives hotlink better than legacy ssl-images host. */
+export function normalizeAmazonImageUrl(url: string): string {
+  const trimmed = url.trim();
+  const match = trimmed.match(/\/images\/I\/([^/?]+)/i);
+  if (match?.[1]) return `https://m.media-amazon.com/images/I/${match[1]}`;
+  return trimmed.replace(/images-na\.ssl-images-amazon\.com/i, 'm.media-amazon.com');
 }
 
 export function productImageCandidates(
@@ -25,14 +39,78 @@ export function productImageCandidates(
   asin: string,
   imageUrl?: string | null,
 ): string[] {
-  const local = localProductImagePath(slug);
-  const candidates: string[] = [local];
-  if (imageUrl && imageUrl.trim() && imageUrl.trim() !== local) {
-    candidates.push(imageUrl.trim());
+  const seen = new Set<string>();
+  const out: string[] = [];
+  const add = (candidate?: string | null) => {
+    const value = (candidate ?? '').trim();
+    if (!value || seen.has(value)) return;
+    seen.add(value);
+    out.push(value);
+  };
+
+  if (imageUrl?.trim()) {
+    add(normalizeAmazonImageUrl(imageUrl));
+    add(imageUrl.trim());
   }
-  if (asin) candidates.push(amazonAsinImageUrl(asin));
-  candidates.push(FALLBACK_SVG);
-  return candidates;
+  if (asin?.trim()) add(amazonAsinImageUrl(asin));
+  add(localProductImagePath(slug));
+  add(FALLBACK_SVG);
+  return out;
+}
+
+function localFileOk(publicRoot: string, src: string): boolean {
+  const full = path.join(publicRoot, src.replace(/^\//, ''));
+  if (!existsSync(full)) return false;
+  try {
+    return statSync(full).size >= MIN_IMAGE_BYTES;
+  } catch {
+    return false;
+  }
+}
+
+async function remoteUrlOk(url: string): Promise<boolean> {
+  if (url.startsWith('data:')) return true;
+  try {
+    const res = await fetch(url, {
+      method: 'HEAD',
+      headers: { 'User-Agent': 'RefillWatchBuild/1.0' },
+      redirect: 'follow',
+    });
+    if (!res.ok) return false;
+    const len = Number(res.headers.get('content-length') || 0);
+    return len >= MIN_IMAGE_BYTES;
+  } catch {
+    return false;
+  }
+}
+
+/** Pick the first candidate that exists locally or responds with a real image body. */
+export async function resolveProductImageSources(
+  slug: string,
+  asin: string,
+  imageUrl: string | null | undefined,
+  publicRoot: string,
+): Promise<{ primary: string; fallbacks: string[] }> {
+  const candidates = productImageCandidates(slug, asin, imageUrl);
+  const valid: string[] = [];
+
+  for (const src of candidates) {
+    if (src.startsWith('/images/')) {
+      if (localFileOk(publicRoot, src)) valid.push(src);
+      continue;
+    }
+    if (src.startsWith('data:')) {
+      valid.push(src);
+      continue;
+    }
+    if (await remoteUrlOk(src)) valid.push(src);
+  }
+
+  if (!valid.length) {
+    return { primary: FALLBACK_SVG, fallbacks: [] };
+  }
+
+  return { primary: valid[0], fallbacks: valid.slice(1) };
 }
 
 export function primaryProductImage(
@@ -40,7 +118,7 @@ export function primaryProductImage(
   asin: string,
   imageUrl?: string | null,
 ): string {
-  return localProductImagePath(slug);
+  return productImageCandidates(slug, asin, imageUrl)[0] ?? FALLBACK_SVG;
 }
 
-export { FALLBACK_SVG };
+export { FALLBACK_SVG, MIN_IMAGE_BYTES };

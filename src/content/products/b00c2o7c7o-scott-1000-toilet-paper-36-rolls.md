@@ -13,7 +13,7 @@ reviewCount: 41280
 bsr: 4
 commissionPerSale: 0.0
 score: 85.0
-imageUrl: "https://images-na.ssl-images-amazon.com/images/I/81X7dN9DXEL._AC_SL1500_.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/515nKDNSU5L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B00C2O7C7O?tag=refillwatch-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"
