@@ -19,6 +19,8 @@ export const GET: APIRoute = async () => {
   urls.push({ loc: `${SITE}/about`,     changefreq: 'monthly', priority: '0.6' });
   urls.push({ loc: `${SITE}/contact`,   changefreq: 'monthly', priority: '0.5' });
   urls.push({ loc: `${SITE}/editorial-standards`, changefreq: 'monthly', priority: '0.5' });
+    urls.push({ loc: `${SITE}/privacy`,   changefreq: 'yearly',  priority: '0.2' });
+    urls.push({ loc: `${SITE}/terms`,    changefreq: 'yearly',  priority: '0.2' });
   urls.push({ loc: `${SITE}/disclosure`,changefreq: 'yearly',  priority: '0.3' });
   urls.push({ loc: `${SITE}/methodology`, changefreq: 'yearly', priority: '0.4' });
   urls.push({ loc: `${SITE}/products`,  changefreq: 'daily',   priority: '0.9' });
