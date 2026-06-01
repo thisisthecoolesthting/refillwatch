@@ -1,0 +1,88 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import HeroSnapshot from '@/components/HeroSnapshot.astro';
+
+export interface SnapshotConfig {
+  panelLabel?: string;
+  panelAriaLabel?: string;
+  trackedSuffix?: string;
+  footerNote?: string;
+  footerHref?: string;
+  footerLinkText?: string;
+  productPlaceholder?: string;
+}
+
+export interface Props {
+  eyebrow: string;
+  h1: string;
+  subhead: string;
+  ctaPrimaryHref: string;
+  ctaPrimaryLabel: string;
+  ctaSecondaryHref: string;
+  ctaSecondaryLabel: string;
+  bullets: string[];
+  stats: { num: string; label: string }[];
+  products: CollectionEntry<'products'>[];
+  articleCount: number;
+  snapshot?: SnapshotConfig;
+  gradient?: string;
+}
+
+const {
+  eyebrow,
+  h1,
+  subhead,
+  ctaPrimaryHref,
+  ctaPrimaryLabel,
+  ctaSecondaryHref,
+  ctaSecondaryLabel,
+  bullets,
+  stats,
+  products,
+  articleCount,
+  snapshot = {},
+  gradient = 'bg-[radial-gradient(50%_80%_at_100%_0%,rgba(245,158,11,.14),transparent_55%),radial-gradient(40%_50%_at_0%_100%,rgba(30,58,138,.22),transparent_60%)]',
+} = Astro.props;
+---
+
+<section class="hero-band pt-6 md:pt-8 pb-10 md:pb-12">
+  <div aria-hidden="true" class:list={['pointer-events-none absolute inset-0 -z-10', gradient]}></div>
+  <div class="max-w-site mx-auto px-4 sm:px-5">
+    <div class="grid lg:grid-cols-[1fr_380px] xl:grid-cols-[1fr_420px] gap-8 lg:gap-10 items-start">
+      <div class="min-w-0">
+        <p class="section-eyebrow text-terracotta-400 mb-2">{eyebrow}</p>
+        <h1 class="font-display text-3xl sm:text-4xl lg:text-[2.75rem] text-cream-50 leading-[1.1] tracking-tight text-balance">
+          {h1}
+        </h1>
+        <p class="text-base text-cream-50/85 max-w-[36em] mt-4 leading-relaxed">{subhead}</p>
+        <div class="flex flex-wrap gap-3 mt-6">
+          <a href={ctaPrimaryHref} class="btn-primary no-underline cursor-pointer text-sm md:text-base">
+            {ctaPrimaryLabel}
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </a>
+          <a href={ctaSecondaryHref} class="btn-secondary no-underline cursor-pointer text-sm md:text-base">
+            {ctaSecondaryLabel}
+          </a>
+        </div>
+        <ul class="flex flex-wrap gap-x-5 gap-y-2 mt-5 text-sm text-cream-50/75" role="list">
+          {bullets.map((t) => (
+            <li class="flex items-center gap-1.5">
+              <svg class="w-4 h-4 text-terracotta-400 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+              {t}
+            </li>
+          ))}
+        </ul>
+      </div>
+      <HeroSnapshot
+        stats={stats}
+        products={products}
+        articleCount={articleCount}
+        {...snapshot}
+      />
+    </div>
+  </div>
+</section>

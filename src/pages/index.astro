@@ -11,6 +11,8 @@ import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
+import HeroCompact from '@/components/HeroCompact.astro';
+import TrustStrip from '@/components/TrustStrip.astro';
 import home from '@/data/brand.config.json';
 
 const h = home.homepage;
@@ -67,91 +69,48 @@ const pinThumbVariants = [
 
 const heroStatCount = completeProducts.length;
 const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracked';
+
+const dataStats = [
+  { num: '18%', label: 'Staple price creep', sub: 'Average household refill hike since 2022.' },
+  { num: '$420', label: 'Annual overspend', sub: 'On repeat buys when you miss shrinkflation.' },
+  { num: `${completeProducts.length || '50'}+`, label: 'Products tracked', sub: 'Water, detergent, ink, pet food, subscriptions.' },
+];
+
+const trustItems = [
+  { label: 'Independent watchdog', icon: 'shield' as const },
+  { label: 'Weekly price checks', icon: 'clock' as const },
+  { label: 'No retailer sponsorships', icon: 'ban' as const },
+];
 ---
 
 <CompliantLayout title={b.fullName} description={dmeta}>
 
-  {/* ============ 1. HERO ============ */}
-  <section class="relative pt-10 md:pt-16 pb-20 md:pb-24 overflow-hidden">
-    <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10
-                                   bg-[radial-gradient(60%_50%_at_92%_18%,rgba(220,38,38,.08),transparent_70%),radial-gradient(45%_40%_at_8%_90%,rgba(37,99,235,.06),transparent_70%)]"></div>
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="grid md:grid-cols-[1.1fr_1fr] gap-10 md:gap-14 items-center">
-        <div>
-          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium">
-            {h.eyebrow}
-          </p>
-          <h1 class="font-display text-4xl md:text-6xl text-ink-900 mt-3 leading-[1.08] tracking-tight">
-            {h.h1}
-          </h1>
-          <p class="text-base md:text-lg text-ink-700 max-w-[32em] mt-5 leading-relaxed">
-            {h.subhead}
-          </p>
-          <div class="flex flex-wrap gap-3 mt-7">
-            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">
-              {h.ctaPrimaryLabel} <span aria-hidden="true" class="ml-2">→</span>
-            </a>
-            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">
-              {h.ctaSecondaryLabel}
-            </a>
-          </div>
-          <ul class="flex flex-wrap gap-x-6 gap-y-2 mt-8 text-sm text-ink-700">
-            <li class="flex items-center gap-2">
-              <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold">✓</span>
-              {siteYmyl ? 'Clinician-reviewed' : 'Editorially reviewed'}
-            </li>
-            <li class="flex items-center gap-2">
-              <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold">✓</span>
-              No retailer sponsorships
-            </li>
-            <li class="flex items-center gap-2">
-              <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold">✓</span>
-              Affiliate disclosed
-            </li>
-          </ul>
-        </div>
+  {/* ============ 1. HERO — compact watchdog band ============ */}
+  <HeroCompact
+    eyebrow={h.eyebrow}
+    h1={h.h1}
+    subhead={h.subhead}
+    ctaPrimaryHref={h.ctaPrimaryHref}
+    ctaPrimaryLabel={h.ctaPrimaryLabel}
+    ctaSecondaryHref={h.ctaSecondaryHref}
+    ctaSecondaryLabel={h.ctaSecondaryLabel}
+    bullets={['No retailer sponsorships', 'Weekly price checks', `${allArticles.length}+ articles tracked`]}
+    stats={dataStats}
+    products={compareRow}
+    articleCount={allArticles.length}
+    gradient="bg-[radial-gradient(50%_80%_at_100%_0%,rgba(220,38,38,.12),transparent_55%),radial-gradient(40%_50%_at_0%_100%,rgba(37,99,235,.18),transparent_60%)]"
+    snapshot={{
+      panelLabel: 'Price watchlist',
+      panelAriaLabel: 'Household staple price snapshot',
+      trackedSuffix: 'articles tracked',
+      footerNote: 'Shrinkflation alerts · refill swaps · no pay-to-play',
+      footerHref: '/pillars/household-refill-buying-guide',
+      footerLinkText: 'Refill buying guide →',
+      productPlaceholder: 'Item',
+    }}
+  />
 
-        <div class="relative">
-          <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3]">
-            {h.heroImageUrl ? (
-              <img src={h.heroImageUrl} alt="" loading="eager"
-                   class="absolute inset-0 w-full h-full object-cover" />
-            ) : (
-              <div class="absolute inset-0 bg-gradient-to-b from-cream-200 to-terracotta-400/40"></div>
-            )}
-            <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent to-ink-900/45"></div>
-            <span class="absolute top-4 left-4 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.18em] uppercase px-2.5 py-1.5 rounded">
-              {(heroCategories[0] || 'Pricing').toUpperCase()} · TRACKED
-            </span>
-            <span class="absolute bottom-4 left-4 right-4 text-cream-50/95 font-mono text-[10.5px] tracking-[0.1em]">
-              Independent watchdog · updated weekly
-            </span>
-          </div>
-          {heroStatCount > 0 && (
-            <a href="/products" class="no-underline absolute -left-4 -bottom-7 md:-left-8 bg-cream-50 border border-cream-200 rounded-xl shadow-soft px-5 py-4 w-56 hover:shadow-soft-lg transition-shadow">
-              <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">Watchlist</p>
-              <p class="font-display text-2xl text-ink-900 mt-1 leading-none">{heroStatCount} {heroStatLabel}</p>
-              <p class="text-xs text-ink-700 mt-1.5 leading-snug">Real prices · published methodology · history kept</p>
-            </a>
-          )}
-        </div>
-      </div>
-    </div>
-  </section>
-
-  {/* ============ 2. TRUST STRIP ============ */}
-  <section class="border-y border-cream-200 bg-cream-50">
-    <div class="max-w-6xl mx-auto px-5 py-6 md:py-7
-                grid md:grid-cols-[auto_1fr_auto] gap-5 md:gap-8 items-center">
-      <p class="font-mono text-[10.5px] tracking-[0.18em] uppercase text-terracotta-600">Editorial standards</p>
-      <p class="font-display italic text-base md:text-lg text-ink-700 leading-snug">
-        “{trustLineDisplay}”
-      </p>
-      <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 whitespace-nowrap no-underline hover:text-terracotta-600">
-        How we work →
-      </a>
-    </div>
-  </section>
+  <TrustStrip trustLine={trustLineDisplay} items={trustItems} />
 
   {/* ============ 3. PILLAR GRID ============ */}
   {(pillarFour.length > 0 || heroCategories.length > 0) && (

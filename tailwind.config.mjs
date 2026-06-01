@@ -35,6 +35,7 @@ export default {
         sans: ['Inter', "system-ui", "sans-serif"],
       },
       maxWidth: {
+        site: "72rem",
         prose: '68ch',
       },
     },

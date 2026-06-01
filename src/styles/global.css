@@ -163,3 +163,50 @@
     @apply text-ink-900;
   }
 }
+
+/* UIPRO-SPINE-MERGE — synced from templates/ssc-site */
+@layer components {
+  .skip-link {
+    @apply sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100]
+           focus:inline-flex focus:items-center focus:px-4 focus:py-2.5
+           focus:bg-ink-900 focus:text-cream-50 focus:rounded-lg focus:shadow-soft-lg
+           focus:font-semibold focus:text-sm focus:no-underline;
+  }
+  .btn-secondary-light {
+    @apply btn bg-white text-ink-900 border border-cream-200 shadow-soft
+           hover:border-terracotta-400 hover:text-terracotta-600
+           focus-visible:ring-terracotta-500;
+  }
+  .btn-nav-cta {
+    @apply hidden md:inline-flex items-center justify-center rounded-full px-5 py-2.5
+           text-sm font-semibold bg-terracotta-500 text-white no-underline
+           hover:bg-terracotta-600 transition-colors duration-200 cursor-pointer
+           focus-visible:ring-2 focus-visible:ring-terracotta-500 focus-visible:ring-offset-2;
+  }
+  .section-eyebrow {
+    @apply font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium;
+  }
+  .hero-band {
+    @apply relative bg-ink-900 text-cream-50 overflow-hidden;
+  }
+  .hero-band a:not(.btn-primary):not(.btn-secondary):not(.btn-secondary-light) {
+    @apply text-cream-50/90 hover:text-white;
+  }
+  .trust-badge {
+    @apply inline-flex items-center gap-2 rounded-full border border-cream-200
+           bg-white px-3 py-1.5 text-xs font-medium text-ink-700;
+  }
+  .stat-card {
+    @apply bg-white border border-cream-200 rounded-2xl p-8 text-center
+           shadow-soft transition-colors duration-200 cursor-default
+           hover:border-terracotta-400/50 hover:shadow-soft-lg;
+  }
+}
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+}
+
+  .hero-band .btn-secondary {
+    @apply bg-white/10 text-cream-50 border border-cream-50/35 shadow-none
+           hover:bg-cream-50 hover:text-ink-900 hover:border-cream-50 hover:shadow-soft;
+  }
