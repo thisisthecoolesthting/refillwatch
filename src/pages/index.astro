@@ -28,7 +28,9 @@ const aboutHeadline = homeX.about?.headline || `Why ${b.shortName || b.fullName}
 const aboutBody = homeX.about?.body
   || (b as any).taglineShort
   || `We translate confusing ${(homeX.categories?.[0] || 'category')} chatter into practical, evidence-based notes.`;
-const heroCategories: string[] = Array.isArray(homeX.categories) ? homeX.categories : [];
+const heroCategories: string[] = Array.isArray(homeX.categories) && homeX.categories.length
+  ? homeX.categories
+  : ['household refills', 'subscription creep', 'printer ink', 'grocery staples'];
 
 // ---------- Content collection joins ----------
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
@@ -47,6 +49,10 @@ const allPillars = await getCollection('pillars', ({ data }) => data.status === 
 const pillarFour = allPillars
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
   .slice(0, 4);
+
+/** Prefer real pillar guides; fall back to category tiles — never render an empty grid. */
+const pillarGridEntries =
+  pillarFour.length > 0 ? pillarFour : heroCategories.slice(0, 4);
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
 const latestSix = allArticles
@@ -118,9 +124,9 @@ const trustItems = [
   <TrustStrip trustLine={trustLineDisplay} items={trustItems} />
 
   {/* ============ 3. PILLAR GRID ============ */}
-  {(pillarFour.length > 0 || heroCategories.length > 0) && (
-    <section class="max-w-6xl mx-auto px-5 py-20">
-      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
+  {pillarGridEntries.length > 0 && (
+    <section class="max-w-6xl mx-auto px-5 py-12 md:py-14">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
         <div>
           <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Start here</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0 max-w-[18ch]">
@@ -132,8 +138,8 @@ const trustItems = [
           Three clicks to the answer.
         </p>
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-        {(pillarFour.length >= 4 ? pillarFour : heroCategories.slice(0, 4)).map((entry: any, idx: number) => {
+      <div class={`grid grid-cols-1 sm:grid-cols-2 gap-4 ${pillarGridEntries.length >= 4 ? 'lg:grid-cols-4' : 'lg:grid-cols-3'}`}>
+        {pillarGridEntries.map((entry: any, idx: number) => {
           const isPillar = !!entry?.slug && !!entry?.data;
           const tints = [
             'bg-gradient-to-b from-cream-100 to-cream-50',
@@ -172,8 +178,8 @@ const trustItems = [
   {/* ============ 4. COMPARISON ROW ============ */}
   {compareRow.length >= 1 && (
     <section class="bg-gradient-to-b from-cream-50 to-cream-100 border-y border-cream-200">
-      <div class="max-w-6xl mx-auto px-5 py-20">
-        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
+      <div class="max-w-6xl mx-auto px-5 py-12 md:py-14">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-6">
           <div>
             <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Tracked this week</p>
             <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[24ch]">
@@ -224,8 +230,8 @@ const trustItems = [
 
   {/* ============ 5. LATEST STRIP ============ */}
   {latestSix.length > 0 && (
-    <section class="max-w-6xl mx-auto px-5 py-20">
-      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
+    <section class="max-w-6xl mx-auto px-5 py-12 md:py-14">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
         <div>
           <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Latest from the desk</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[20ch]">
@@ -276,7 +282,7 @@ const trustItems = [
   )}
 
   {/* ============ 6. AUTHOR TRUST BLOCK ============ */}
-  <section class="relative bg-ink-900 text-cream-50 py-24 overflow-hidden">
+  <section class="relative bg-ink-900 text-cream-50 py-16 md:py-20 overflow-hidden">
     <div aria-hidden="true" class="absolute inset-0 pointer-events-none
                                     bg-[radial-gradient(50%_60%_at_18%_50%,rgba(220,38,38,.18),transparent_70%)]"></div>
     <div class="relative max-w-6xl mx-auto px-5 grid md:grid-cols-[280px_1fr] gap-10 md:gap-14 items-start">
@@ -339,8 +345,13 @@ const trustItems = [
   </section>
 
   {/* ============ 7. NEWSLETTER ============ */}
-  <section class="max-w-3xl mx-auto px-5 py-20">
-    <NewsletterForm variant="hero" />
+  <section class="max-w-3xl mx-auto px-5 py-10 md:py-12">
+    <NewsletterForm
+      variant="hero"
+      title="RefillWatch weekly"
+      subtitle="One shrinkflation alert, one smarter swap, one price check — every week. No spam."
+      cta="Get price alerts"
+    />
   </section>
 
   {/* ============ 8. METHODOLOGY DISCLOSURE STRIP ============ */}

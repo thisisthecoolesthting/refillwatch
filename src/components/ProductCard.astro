@@ -7,6 +7,7 @@
 
 import type { CollectionEntry } from 'astro:content';
 import { amazonAffiliateUrl } from '@/utils/related-products';
+import ProductImage from '@/components/ProductImage.astro';
 
 export interface Props {
   product: CollectionEntry<'products'>;
@@ -34,20 +35,7 @@ const shortTitle = (data.cardTitle && data.cardTitle.trim())
 
 // One-line "Why we picked it" — optional, hand-curated per product.
 const pickLine = (data.cardPick && data.cardPick.trim()) ? data.cardPick.trim() : '';
-
-// Inline SVG placeholder — shown when imageUrl is missing or fails to load.
-// Neutral cream background, subtle icon — no raw alt text ever renders.
-const FALLBACK_SVG =
-  "data:image/svg+xml;utf8," +
-  encodeURIComponent(
-    `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'>` +
-    `<rect width='120' height='120' fill='#F5EFE6'/>` +
-    `<g fill='none' stroke='#C8B6A0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'>` +
-    `<rect x='28' y='34' width='64' height='52' rx='6'/>` +
-    `<circle cx='46' cy='52' r='5'/>` +
-    `<path d='m34 78 16-16 14 12 10-8 12 14'/>` +
-    `</g></svg>`
-  );
+const asin = String(data.asin || product.slug.split('-')[0] || '').toUpperCase();
 ---
 <a
   href={affiliateHref}
@@ -58,12 +46,12 @@ const FALLBACK_SVG =
          transition-all duration-300 ease-out no-underline overflow-hidden"
 >
   <div class="aspect-square bg-cream-100 flex items-center justify-center overflow-hidden">
-    <img
-      src={data.imageUrl || FALLBACK_SVG}
-      alt=""
-      aria-hidden="true"
+    <ProductImage
+      slug={product.slug}
+      asin={asin}
+      imageUrl={data.imageUrl}
+      alt={shortTitle}
       loading="lazy"
-      onerror={`this.onerror=null;this.src='${FALLBACK_SVG}';this.classList.add('p-8');`}
       class="w-full h-full object-contain p-5 group-hover:scale-[1.04] transition-transform duration-500 ease-out"
     />
   </div>
