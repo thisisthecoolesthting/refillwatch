@@ -6,34 +6,43 @@ import { getCollection } from 'astro:content';
 const products = await getCollection('products', ({ data }) => data.status === 'published');
 const sorted = products.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0));
 
-const byCategory = sorted.reduce<Record<string, typeof sorted>>((acc, p) => {
-  const cat = p.data.category || 'other';
-  (acc[cat] = acc[cat] || []).push(p);
-  return acc;
-}, {});
+function categoryLabel(cat: string) {
+  return (cat || 'other').replace(/-/g, ' ');
+}
 ---
 
 <CompliantLayout
   title="Product reviews"
   description="RefillWatch tracks household staples, bulk refills, and repeat buys — scored by price history and real-world value."
   sectionAds="reviews"
+  sectionAdsCompact={true}
 >
-  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full">
-    <div class="max-w-3xl mx-auto text-center mb-10">
-      <h1 class="font-display text-4xl text-ink-900 mb-4">Product reviews</h1>
-      <p class="text-ink-700">
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-10 w-full">
+    <header class="mb-6 md:mb-8 max-w-2xl">
+      <h1 class="font-display text-3xl md:text-4xl text-ink-900 mb-3">Product reviews</h1>
+      <p class="text-ink-700 text-sm md:text-base leading-relaxed">
         Sorted by our internal score: sales velocity, review quality, and category value so the
         top rows are picks we would actually restock.
       </p>
-    </div>
+    </header>
 
-    {Object.entries(byCategory).map(([cat, items]) => (
-      <section class="mb-14">
-        <h2 class="font-display text-2xl text-ink-900 capitalize mb-5">{cat.replace(/-/g, ' ')}</h2>
-        <div class="grid w-full grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
-          {items.map((p) => <ProductCard product={p} />)}
+    <div
+      class="products-review-grid grid w-full grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 sm:gap-4 md:gap-5"
+    >
+      {sorted.map((p) => (
+        <div class="min-w-0 flex flex-col gap-2">
+          <span class="text-[10px] font-mono uppercase tracking-[0.14em] text-ink-500 px-1">
+            {categoryLabel(p.data.category)}
+          </span>
+          <ProductCard product={p} />
         </div>
-      </section>
-    ))}
+      ))}
+    </div>
   </section>
 </CompliantLayout>
+
+<style>
+  .products-review-grid > * {
+    min-width: 0;
+  }
+</style>

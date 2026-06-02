@@ -118,6 +118,18 @@
     @apply bg-terracotta-600;
   }
 
+  .amazon-inline-card--mid {
+    @apply my-5;
+  }
+  .amazon-inline-card--mid .amazon-inline-card__link {
+    @apply p-2.5 sm:p-3 gap-2.5;
+  }
+  .amazon-inline-card--mid .amazon-inline-card__img {
+    @apply w-16 h-16;
+    min-width: 4rem;
+    min-height: 4rem;
+  }
+
   /* Subtle grain texture for cream sections — barely visible, but gives
      the cream background the analog feel that flat CSS doesn't.         */
   .texture-paper {
