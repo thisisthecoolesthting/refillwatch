@@ -69,6 +69,8 @@ const h1Text = entry.data.targetKeyword
   articleAuthor={author?.data.name ?? b.fullName}
   articleSection={entry.data.targetKeyword}
   articleTags={entry.data.tags}
+  sectionAds="guides"
+  sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 

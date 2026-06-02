@@ -88,6 +88,8 @@ const articleSchema = {
   articleModifiedTime={modifiedISO}
   articleAuthor={author?.data.name ?? b.fullName}
   articleTags={entry.data.tags}
+  sectionAds="articles"
+  sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
