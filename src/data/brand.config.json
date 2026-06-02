@@ -51,5 +51,10 @@
   },
   "analytics": {
     "ga_measurement_id": "G-W2WHE10F4S"
+  },
+  "defaultAuthorSlug": "dana-wolff",
+  "persona": {
+    "name": "Dana Wolff",
+    "pseudonymHint": "Dana Wolff"
   }
 }

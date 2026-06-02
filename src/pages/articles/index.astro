@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import home from '@/data/spawn-home.json';
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
-const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'default-author';
+const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'dana-wolff';
 
 const articleData = allArticles.map((a) => ({
   slug: a.slug,
@@ -90,10 +90,11 @@ const description = "Tracking shrinkflation and pricing tricks so you don't have
           {a.excerpt && <p class="text-ink-700 mt-2 text-sm line-clamp-2">{a.excerpt}</p>}
           <div class="mt-3 flex items-center gap-2 text-xs text-ink-500">
             <img
-              src={`/authors/${a.author}.jpg`}
+              src={`/authors/${a.author}.svg`}
               alt={a.author}
-              class="w-6 h-6 rounded-full object-cover"
+              class="w-6 h-6 rounded-full object-cover bg-cream-200"
               loading="lazy"
+              onerror="this.onerror=null;this.src='/authors/dana-wolff.svg'"
             />
             {(a.updatedAt || a.publishedAt) && (
               <span>{new Date(a.updatedAt || a.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
@@ -112,14 +113,28 @@ const description = "Tracking shrinkflation and pricing tricks so you don't have
     const grid    = document.getElementById('articles-grid');
     const noRes   = document.getElementById('no-results');
     const counter = document.getElementById('result-count');
-    const cards   = Array.from(document.querySelectorAll('.article-card')) as HTMLElement[];
-    const sortSel = document.getElementById('sort-select') as HTMLSelectElement;
+    const cards   = Array.from(document.querySelectorAll('.article-card'));
+    const sortSel = document.getElementById('sort-select');
+    if (!grid || !cards.length) return;
 
-    let activeFilter = 'all';
+    const params = new URLSearchParams(window.location.search);
+    let activeFilter = params.get('subtopic') || params.get('cat') || 'all';
     let activeSort   = 'newest';
 
+    function setActiveButton(filter) {
+      document.querySelectorAll('.filter-btn').forEach((b) => {
+        const el = b;
+        const on = (el.dataset.filter || 'all') === filter;
+        el.classList.toggle('active', on);
+        el.classList.toggle('bg-ink-900', on);
+        el.classList.toggle('text-white', on);
+        el.classList.toggle('bg-white', !on);
+        el.classList.toggle('text-ink-700', !on);
+      });
+    }
+
     function applyFilterSort() {
-      const visible = cards.filter(c => activeFilter === 'all' || c.dataset.subtopic === activeFilter);
+      const visible = cards.filter((c) => activeFilter === 'all' || c.dataset.subtopic === activeFilter);
 
       visible.sort((a, b) => {
         if (activeSort === 'newest') return (b.dataset.date || '').localeCompare(a.dataset.date || '');
@@ -129,30 +144,35 @@ const description = "Tracking shrinkflation and pricing tricks so you don't have
         return 0;
       });
 
-      cards.forEach(c => { c.style.display = 'none'; });
-      visible.forEach(c => { c.style.display = ''; grid?.appendChild(c); });
+      cards.forEach((c) => {
+        c.style.display = visible.includes(c) ? '' : 'none';
+      });
+      visible.forEach((c) => grid.appendChild(c));
 
       noRes?.classList.toggle('hidden', visible.length > 0);
-      if (counter) counter.textContent = visible.length === cards.length
-        ? `${cards.length} articles`
-        : `${visible.length} of ${cards.length} articles`;
+      if (counter) {
+        counter.textContent = visible.length === cards.length
+          ? `${cards.length} articles`
+          : `${visible.length} of ${cards.length} articles`;
+      }
     }
 
-    document.querySelectorAll('.filter-btn').forEach(btn => {
+    document.querySelectorAll('.filter-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
-        activeFilter = (btn as HTMLElement).dataset.filter || 'all';
-        document.querySelectorAll('.filter-btn').forEach(b => {
-          b.classList.remove('active', 'bg-ink-900', 'text-white');
-          b.classList.add('bg-white', 'text-ink-700');
-        });
-        btn.classList.add('active', 'bg-ink-900', 'text-white');
-        btn.classList.remove('bg-white', 'text-ink-700');
+        activeFilter = btn.dataset.filter || 'all';
+        setActiveButton(activeFilter);
         applyFilterSort();
       });
     });
 
-    sortSel?.addEventListener('change', () => { activeSort = sortSel.value; applyFilterSort(); });
+    if (sortSel) {
+      sortSel.addEventListener('change', () => {
+        activeSort = sortSel.value;
+        applyFilterSort();
+      });
+    }
 
+    if (activeFilter !== 'all') setActiveButton(activeFilter);
     applyFilterSort();
   })();
 </script>
