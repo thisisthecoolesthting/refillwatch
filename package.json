@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "fix:amazon-cards": "node scripts/fix-amazon-inline-cards.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.7",

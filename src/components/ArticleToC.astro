@@ -1,11 +1,18 @@
 ---
-// No server-side props — JS builds ToC from live DOM H2s.
+export interface Props {
+  /** Inside ArticleSidebar — no second sticky column. */
+  embedded?: boolean;
+}
+
+const { embedded = false } = Astro.props;
 ---
 
 <nav
   id="article-toc"
   aria-label="Table of contents"
-  class="hidden xl:block sticky top-24 self-start w-52 flex-shrink-0"
+  class:list={[
+    embedded ? 'block w-full min-w-0' : 'hidden xl:block sticky top-24 self-start w-52 flex-shrink-0',
+  ]}
 >
   <p class="font-mono text-[10px] tracking-[0.16em] uppercase text-terracotta-600 mb-3">On this page</p>
   <a
@@ -17,8 +24,15 @@
   >
     ↓ Jump to picks
   </a>
-  <ol id="toc-list" class="space-y-1 text-xs text-ink-700"></ol>
+  <ol id="toc-list" class="toc-list-scroll space-y-1 text-xs text-ink-700 pr-1"></ol>
 </nav>
+
+<style>
+  .toc-list-scroll {
+    max-height: min(52vh, 28rem);
+    overflow-y: auto;
+  }
+</style>
 
 <script>
 (function () {

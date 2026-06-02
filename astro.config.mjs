@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import { rehypeFixAmazonInline } from './src/lib/rehype-fix-amazon-inline.mjs';
 
 // Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
 // our current route set. Re-enable once upstream ships a fix or we
@@ -75,7 +76,7 @@ export default defineConfig({
     format: 'directory',
   },
   markdown: {
-    rehypePlugins: [rehypeAugmentProductLinks],
+    rehypePlugins: [rehypeFixAmazonInline, rehypeAugmentProductLinks],
     shikiConfig: {
       theme: 'github-light',
     },

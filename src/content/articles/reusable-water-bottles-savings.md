@@ -241,6 +241,24 @@ A: Many insulated stainless steel bottles can keep drinks cold for up to 24 hour
 
 ## Top Picks
 
-<a href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082TRQ5Y1&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Blueland Foaming Hand Soap Starter Kit" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Blueland Foaming Hand Soap Starter Kit</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Refillable foam dispenser plus 3 dissolvable tablets—same lather, 50x less plastic.</span></div></a>
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B082TRQ5Y1.01._SL500_.jpg" alt="Blueland Foaming Hand Soap Starter Kit" width="80" height="80" loading="lazy">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Blueland Foaming Hand Soap Starter Kit</strong>
+<span class="amazon-inline-card__desc">Refillable foam dispenser plus 3 dissolvable tablets—same lather, 50x less plastic.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
 
-<a href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00120VWKS&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Dr. Bronner's Pure-Castile Soap Concentrate" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Dr. Bronner's Pure-Castile Soap Concentrate</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">18-in-1 dilutable soap for cleaners, body wash, dish soap, and laundry—fair-trade certified.</span></div></a>
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B00120VWKS.01._SL500_.jpg" alt="Dr. Bronner's Pure-Castile Soap Concentrate" width="80" height="80" loading="lazy">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap Concentrate</strong>
+<span class="amazon-inline-card__desc">18-in-1 dilutable soap for cleaners, body wash, dish soap, and laundry—fair-trade certified.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>

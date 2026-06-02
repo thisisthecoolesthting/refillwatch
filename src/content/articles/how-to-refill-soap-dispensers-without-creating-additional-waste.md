@@ -142,6 +142,24 @@ By making intentional choices around dispenser type, refill format, and soap con
 
 ## Top Picks
 
-<a href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BEYLTKY&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Stasher Reusable Silicone Bags – 4 Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Stasher Reusable Silicone Bags – 4 Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Platinum silicone bags replace zip-lock for fridge, freezer, and sous vide—dishwasher safe.</span></div></a>
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B00BEYLTKY.01._SL500_.jpg" alt="Stasher Reusable Silicone Bags – 4 Pack" width="80" height="80" loading="lazy">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Stasher Reusable Silicone Bags – 4 Pack</strong>
+<span class="amazon-inline-card__desc">Platinum silicone bags replace zip-lock for fridge, freezer, and sous vide—dishwasher safe.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
 
-<a href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00YBXVLWK&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=refillwatch-20" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Bee's Wrap Organic Cotton Food Wrap Set</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span></div></a>
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B00YBXVLWK.01._SL500_.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
