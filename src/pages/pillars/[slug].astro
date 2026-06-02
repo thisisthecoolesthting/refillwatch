@@ -21,7 +21,7 @@ const b = home.brand;
 const nl = home.newsletter;
 const siteYmyl = (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === true;
 const o = siteOrigin();
-const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'dana-wolff';
+const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 const relatedProducts = await getRelatedProductsFromBody(entry.body);

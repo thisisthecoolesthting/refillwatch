@@ -40,7 +40,7 @@
     "ctaSecondaryLabel": "How we research",
     "ctaSecondaryHref": "/methodology",
     "trustLine": "Independent watchdog \u00b7 No retailer sponsorships \u00b7 We name the hike, we name the alternative",
-    "heroImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=85"
+    "heroImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&q=80"
   },
   "palette": {
     "primary": "#1E3A8A",
@@ -60,5 +60,28 @@
   "defaultAuthorSlug": "dana-wolff",
   "editorial": {
     "author_slug": "dana-wolff"
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ],
+  "supportEmail": "hello@refillwatch.org"
 }

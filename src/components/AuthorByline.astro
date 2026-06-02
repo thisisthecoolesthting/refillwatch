@@ -1,19 +1,15 @@
 ---
-// Compact author byline for article, pillar, and product pages.
-// Renders avatar + name (linked) + role + published date + optional "Last reviewed" date.
-//
-// Usage:
-//   <AuthorByline authorSlug={entry.data.author} publishedAt={entry.data.publishedAt} reviewedAt={entry.data.reviewedAt} />
-
 import { getEntry } from 'astro:content';
 
 export interface Props {
   authorSlug: string;
   publishedAt: Date | string;
   reviewedAt?: Date | string;
+  /** footer = below article body; default = legacy above-body strip */
+  variant?: 'default' | 'footer';
 }
 
-const { authorSlug, publishedAt, reviewedAt } = Astro.props;
+const { authorSlug, publishedAt, reviewedAt, variant = 'default' } = Astro.props;
 
 const author = await getEntry('authors', authorSlug);
 if (!author) {
@@ -24,17 +20,28 @@ const pubDate = new Date(publishedAt);
 const revDate = reviewedAt ? new Date(reviewedAt) : null;
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const isFooter = variant === 'footer';
 ---
 
-<div class="flex items-center gap-4 py-5 border-y border-cream-200/70 my-6">
+<div
+  class:list={[
+    'flex items-center gap-3 not-prose',
+    isFooter
+      ? 'mt-6 pt-5 border-t border-cream-200/80'
+      : 'py-5 border-y border-cream-200/70 my-6',
+  ]}
+>
   <a href={`/authors/${author.slug}/`} class="block shrink-0 no-underline">
     <img
       src={author.data.photoUrl}
       alt={author.data.name}
       loading="lazy"
-      width="56"
-      height="56"
-      class="w-14 h-14 rounded-full object-cover ring-2 ring-cream-200/80 !my-0"
+      width={isFooter ? 48 : 56}
+      height={isFooter ? 48 : 56}
+      class:list={[
+        'rounded-full object-cover ring-2 ring-cream-200/80 !my-0',
+        isFooter ? 'w-12 h-12' : 'w-14 h-14',
+      ]}
     />
   </a>
   <div class="flex-1 min-w-0 leading-snug">
@@ -44,11 +51,11 @@ const fmt = (d: Date) =>
         href={`/authors/${author.slug}/`}
         class="font-semibold text-ink-900 hover:text-terracotta-600 transition-colors no-underline"
       >{author.data.name}</a>
-      <span class="text-ink-500 font-normal"> &middot; {author.data.role}</span>
+      <span class="text-ink-500 font-normal"> · {author.data.role}</span>
     </p>
     <p class="text-xs text-ink-500 !mt-0">
       Published {fmt(pubDate)}
-      {revDate && <> &middot; Last reviewed {fmt(revDate)}</>}
+      {revDate && <> · Last reviewed {fmt(revDate)}</>}
     </p>
   </div>
 </div>

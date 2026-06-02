@@ -11,7 +11,9 @@ import {
   type BottomAmazonPick,
 } from '@/utils/amazon-affiliate';
 import { amazonAsinImageUrl } from '@/utils/product-image';
+import home from '@/data/spawn-home.json';
 
+const siteBrand = home.brand?.fullName || 'RefillWatch';
 const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'refillwatch-20';
 
 const catalog = await getCollection('products', ({ data }) => data.status === 'published');
@@ -26,7 +28,7 @@ const fromCatalog: BottomAmazonPick[] = catalog
       subtitle:
         (p.data as { cardPick?: string }).cardPick ||
         p.data.metaDescription?.slice(0, 120) ||
-        'Tracked on RefillWatch — compare before you restock.',
+        'Reviewed on RefillWatch — real retail tests.',
       priceLabel: price > 0 ? `From ~$${price.toFixed(0)}` : 'See Amazon price',
       badge: 'On our watchlist',
       imageUrl: p.data.imageUrl,
@@ -69,11 +71,11 @@ const FB =
             id="global-bottom-picks-heading"
             class="font-display text-2xl md:text-3xl text-ink-900 !mt-0 leading-tight max-w-[22ch]"
           >
-            Big household buys worth price-checking
+            Kitchen gear worth buying once
           </h2>
         </div>
         <p class="text-sm text-ink-700 max-w-[40ch] leading-relaxed">
-          Bulk refills, ink, and repeat purchases where a few dollars per unit adds up fast.
+          Cookware, knives, and appliances we tested at home — partner links, no extra cost to you.
           Partner links — we may earn a commission at no extra cost to you.
         </p>
       </div>
@@ -131,7 +133,7 @@ const FB =
 
       <div class="mt-8 flex flex-wrap gap-4 items-center justify-between text-xs text-ink-500">
         <p class="!m-0 max-w-[52ch] leading-relaxed">
-          As an Amazon Associate, RefillWatch earns from qualifying purchases.
+          As an Amazon Associate, {siteBrand} earns from qualifying purchases.
           <a href="/disclosure/" class="text-terracotta-600 hover:underline ml-1">Full disclosure</a>
           {' · '}
           <a href="/products/" class="text-terracotta-600 hover:underline">All tracked reviews</a>

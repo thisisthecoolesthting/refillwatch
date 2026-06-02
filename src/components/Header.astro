@@ -1,25 +1,43 @@
 ---
 import BrandMark from '@/components/BrandMark.astro';
+import spawnHome from '@/data/spawn-home.json';
 
-const navItems = [
+type NavItem = { href: string; label: string };
+
+const fallbackNav: NavItem[] = [
   { href: '/', label: 'Home' },
-  { href: '/articles', label: 'Articles' },
   { href: '/pillars', label: 'Guides' },
+  { href: '/articles', label: 'Articles' },
   { href: '/products', label: 'Reviews' },
   { href: '/about', label: 'About' },
 ];
+
+const fromSpawn = Array.isArray((spawnHome as { navigation?: NavItem[] }).navigation)
+  ? (spawnHome as { navigation: NavItem[] }).navigation
+  : null;
+
+const navItems = fromSpawn?.length ? fromSpawn : fallbackNav;
+const headerVariant = (spawnHome as { brand?: { identity?: { headerVariant?: string } } }).brand?.identity
+  ?.headerVariant;
+const textOnlyHeader = headerVariant === 'minimal' || headerVariant === 'text-only';
+const siteName = (spawnHome as { brand?: { fullName?: string } }).brand?.fullName || 'Home';
 ---
 
 <header class="bg-cream-50 relative z-30">
-  <div class="max-w-6xl mx-auto px-3 sm:px-5 pt-4 sm:pt-5">
+  <div class="max-w-6xl mx-auto px-3 sm:px-5 pt-2 sm:pt-3">
     <div
       id="site-nav-shell"
-      class="bg-cream-100/85 backdrop-blur-sm rounded-[1.75rem] md:rounded-full shadow-soft transition-all duration-300"
+      class="bg-cream-100/85 backdrop-blur-sm rounded-2xl md:rounded-full shadow-soft transition-all duration-300"
     >
-      {/* Top bar: brand + hamburger (mobile) / inline nav (desktop) */}
-      <div class="px-5 sm:px-6 py-3 md:py-4 flex items-center justify-between gap-3">
+      <div class="px-4 sm:px-5 py-2 md:py-2.5 flex items-center justify-between gap-3">
         <a href="/" class="no-underline flex items-baseline min-w-0 shrink">
-          <BrandMark splitWordmark />
+          {textOnlyHeader ? (
+            <span class="font-display text-base md:text-lg font-semibold text-ink-900 tracking-tight">
+              {siteName}
+            </span>
+          ) : (
+            <BrandMark splitWordmark />
+          )}
         </a>
 
         {/* Desktop nav — hidden on mobile */}
