@@ -279,6 +279,11 @@
   .section-band-sage {
     @apply border-y border-cream-200 bg-sage-400/15;
   }
+
+  .site-top-ad-band :global(.section-ads-header .cad-wrap) {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
 }
 @layer utilities {
   .text-balance { text-wrap: balance; }

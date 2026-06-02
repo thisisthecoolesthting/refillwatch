@@ -124,10 +124,12 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
     <Header />
-    <main id="main-content" class="flex-1" tabindex="-1">
-      {sectionAds && (
+    {sectionAds && (
+      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95">
         <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
-      )}
+      </div>
+    )}
+    <main id="main-content" class="flex-1" tabindex="-1">
       <slot />
       {sectionAds && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
