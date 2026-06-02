@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import home from '@/data/spawn-home.json';
 
 const b = home.brand;
@@ -13,9 +14,10 @@ const year = new Date().getFullYear();
   ogType="website"
   sectionAds="legal"
 >
-  <article class="prose prose-lg prose-ink max-w-3xl mx-auto py-16 px-5">
-    <h1 class="font-display text-4xl text-ink-900 !mt-0">Privacy Policy</h1>
-    <p class="text-sm text-ink-500">Last updated: {year}</p>
+  <PageIntro eyebrow="Legal" title="Privacy policy" description={`How ${b.fullName} collects, uses, and protects visitor information. Last updated: ${year}.`} />
+
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-14">
+  <article class="content-panel max-w-prose mx-auto prose prose-lg prose-ink">
     <p>
       {b.fullName} respects your privacy. This policy explains what we collect when you visit
       our site, how we use it, and the choices you have.
@@ -47,4 +49,5 @@ const year = new Date().getFullYear();
       Privacy questions: <a href={`mailto:${support}`}>{support}</a>
     </p>
   </article>
+  </section>
 </BaseLayout>

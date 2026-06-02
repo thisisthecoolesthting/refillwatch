@@ -1,20 +1,20 @@
 ---
 asin: B0D92PVDQH
-title: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand
-seoTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand — review
-metaDescription: Hands-on notes on Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand.
+title: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo
+seoTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo — review
+metaDescription: Hands-on notes on Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo.
 category: irons
 price: null
 rating: 4.7
-bsr: null
+bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/816ldmfb+gL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/511L4yygJdL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl
 cardTitle: Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i
 cardPick: Solid pick for most readers
@@ -23,15 +23,15 @@ tags: []
 
 ## Overview
 
-**Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand** is a irons pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo** is a irons pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
 Price varies on Amazon — check the live listing before you buy.
 
 Amazon shoppers rate this about **4.7/5** — useful signal, not the whole story.
 
-Popularity shifts with promos; we re-check listings during refresh passes.
+It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -57,7 +57,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for iron
 
 ## Verdict
 
-**Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 

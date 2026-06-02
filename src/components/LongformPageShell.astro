@@ -67,7 +67,7 @@ const {
 
 <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14 pb-16">
 
-  <div class="flex flex-col lg:flex-row gap-4 lg:gap-8 items-start">
+  <div class="longform-layout flex flex-col lg:flex-row gap-4 lg:gap-8 items-start lg:items-start">
 
     <ArticleSidebar />
 
@@ -201,6 +201,11 @@ const {
 
 
 <style>
+  /* Do not clip position:sticky on the sidebar rail */
+  .longform-layout {
+    overflow: visible;
+  }
+
 
   .article-longform .article-body-wide {
 

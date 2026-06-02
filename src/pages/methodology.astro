@@ -1,5 +1,6 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
 ---
 
 <CompliantLayout
@@ -7,22 +8,14 @@ import CompliantLayout from '@/layouts/CompliantLayout.astro';
   description="RefillWatch's methodology for tracking retailer price hikes, naming the brands, and finding the cheaper refill or bulk alternative."
   sectionAds="legal"
 >
-  <article class="container-prose py-14 md:py-20">
-    <header class="mb-10">
-      <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-3">
-        Methodology
-      </p>
-      <h1 class="font-display text-4xl md:text-5xl text-ink-900 !mt-0 mb-4 leading-tight">
-        How RefillWatch tracks price hikes, names brands, and finds you the alternative
-      </h1>
-      <p class="text-ink-700 text-lg leading-relaxed max-w-prose">
-        RefillWatch exists because most consumer reporting on retail pricing is too polite,
-        too abstract, or too late. Here is exactly how we track the hikes, what evidence we
-        require before naming a brand, and how we disclose.
-      </p>
-    </header>
+  <PageIntro
+    eyebrow="Methodology"
+    title="How we track hikes, name brands, and find the alternative"
+    description="RefillWatch exists because most consumer reporting on retail pricing is too polite, too abstract, or too late. Here is exactly how we work."
+  />
 
-    <div class="prose prose-lg prose-ink max-w-none">
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-14 md:pb-20">
+    <article class="content-panel max-w-prose mx-auto prose prose-lg prose-ink">
       <h2>Our mission</h2>
       <p>
         Catch retailer price hikes on routine purchases before readers quietly pay another
@@ -122,6 +115,6 @@ import CompliantLayout from '@/layouts/CompliantLayout.astro';
         hike is putting real stress on your monthly spending, we&rsquo;ll point you to
         the alternative, but we can&rsquo;t tell you how much to allocate to groceries.
       </p>
-    </div>
-  </article>
+    </article>
+  </section>
 </CompliantLayout>

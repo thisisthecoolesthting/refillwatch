@@ -1,20 +1,20 @@
 ---
 asin: B09W9MF63Y
-title: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (
-seoTitle: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer ( — review
-metaDescription: Hands-on notes on ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (.
+title: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)
+seoTitle: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack) — review
+metaDescription: Hands-on notes on ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack).
 category: inkjet-ink-refills-kits
 price: 30.57
 rating: 4.4
-bsr: 1
+bsr: 208
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/71v7KePSnLL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/51JxuXxXdrL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps
 cardTitle: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for 
 cardPick: Solid pick for most readers
@@ -23,15 +23,15 @@ tags: []
 
 ## Overview
 
-**ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (** is a inkjet-ink-refills-kits pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)** is a inkjet-ink-refills-kits pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
 Typical street price around **$30.57** (Amazon listing; verify before checkout).
 
 Amazon shoppers rate this about **4.4/5** — useful signal, not the whole story.
 
-It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **208** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -57,7 +57,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for inkj
 
 ## Verdict
 
-**ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 

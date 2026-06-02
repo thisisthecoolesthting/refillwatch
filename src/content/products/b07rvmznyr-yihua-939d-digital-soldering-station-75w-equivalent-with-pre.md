@@ -1,20 +1,20 @@
 ---
 asin: B07RVMZNYR
-title: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transfor
-seoTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transfor — review
-metaDescription: Hands-on notes on YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transfor.
+title: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)
+seoTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black) — review
+metaDescription: Hands-on notes on YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black).
 category: soldering-stations
 price: 59.99
 rating: 4.6
-bsr: 1
+bsr: 9
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/71CdRgy93hL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/41l0ECVpfIL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre
 cardTitle: YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro
 cardPick: Solid pick for most readers
@@ -23,15 +23,15 @@ tags: []
 
 ## Overview
 
-**YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transfor** is a soldering-stations pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)** is a soldering-stations pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
 Typical street price around **$59.99** (Amazon listing; verify before checkout).
 
 Amazon shoppers rate this about **4.6/5** — useful signal, not the whole story.
 
-It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **9** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -57,7 +57,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for sold
 
 ## Verdict
 
-**YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transfor** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 

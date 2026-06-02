@@ -6,15 +6,15 @@ metaDescription: Hands-on notes on 60W Adjustable Temperature Soldering Iron Kit
 category: irons
 price: 9.99
 rating: 4.3
-bsr: 2
+bsr: 5
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/81T3Gy5rvhL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/41iaFnjhgjL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-
 cardTitle: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire 
 cardPick: Solid pick for most readers
@@ -29,9 +29,9 @@ Typical street price around **$9.99** (Amazon listing; verify before checkout).
 
 Amazon shoppers rate this about **4.3/5** — useful signal, not the whole story.
 
-It currently sits around BSR **2** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **5** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

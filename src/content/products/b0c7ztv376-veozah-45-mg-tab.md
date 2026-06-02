@@ -13,8 +13,8 @@ imageUrl: "https://m.media-amazon.com/images/I/41BmfDUGk2L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0c7ztv376-veozah-45-mg-tab
 cardTitle: VEOZAH 45 MG TAB
 cardPick: Solid pick for most readers
@@ -31,7 +31,7 @@ We weight verified owner feedback alongside spec fit for the niche.
 
 It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

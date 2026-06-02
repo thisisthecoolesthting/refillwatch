@@ -1,5 +1,6 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import { getEntry } from 'astro:content';
 import home from '@/data/brand.config.json';
 
@@ -19,26 +20,27 @@ const standards = methodology.length > 0
 ---
 
 <CompliantLayout
-  title={`Editorial Standards -- ${b.fullName}`}
+  title={`Editorial Standards — ${b.fullName}`}
   description={`How ${b.fullName} handles sourcing, recommendations, and disclosures.`}
   sectionAds="legal"
 >
-  <section class="pt-8 md:pt-14 max-w-3xl mx-auto px-6 pb-16">
-    <h1 class="font-display text-4xl text-ink-900 mb-5 !mt-0">Editorial Standards</h1>
-    <p class="text-ink-700 leading-relaxed mb-6">
-      {b.fullName} publishes independent reviews and guides. We may earn retailer commissions, but
-      that never changes ranking criteria or what we recommend.
-    </p>
-    {leadAuthor && (
-      <p class="text-sm text-ink-600 mb-6">
-        Editorial lead:{' '}
-        <a class="text-terracotta-600 hover:underline" href={`/authors/${leadAuthor.slug}/`}>
-          {leadAuthor.data.name}
-        </a>
-      </p>
-    )}
-    <ul class="space-y-3 text-ink-700 leading-relaxed list-disc pl-5">
-      {standards.map((item) => <li>{item}</li>)}
-    </ul>
+  <PageIntro
+    eyebrow="Standards"
+    title="Editorial standards"
+    description={`${b.fullName} publishes independent reviews and guides. Partner commissions never change ranking criteria or what we recommend.`}
+  />
+
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-14">
+    <article class="content-panel max-w-2xl mx-auto prose prose-lg prose-ink">
+      {leadAuthor && (
+        <p class="!mt-0 text-sm text-ink-600">
+          Editorial lead:{' '}
+          <a href={`/authors/${leadAuthor.slug}/`}>{leadAuthor.data.name}</a>
+        </p>
+      )}
+      <ul class="space-y-3 !mb-0">
+        {standards.map((item) => <li>{item}</li>)}
+      </ul>
+    </article>
   </section>
 </CompliantLayout>

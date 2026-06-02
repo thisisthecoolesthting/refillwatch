@@ -1,20 +1,20 @@
 ---
 asin: B08GX3K9YS
-title: LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, Wo
-seoTitle: LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, Wo — review
-metaDescription: Hands-on notes on LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, Wo.
+title: LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, WorkCentre 6515 High Yield (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 4-Pack)
+seoTitle: LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, WorkCentre 6515 High Yield (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 4-Pack) — review
+metaDescription: Hands-on notes on LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, WorkCentre 6515 High Yield (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 4-Pack).
 category: toner-cartridges
 price: 45.99
 rating: 4.6
-bsr: 4
+bsr: 1598
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/711bAHTaygL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/41gNXmpaM+L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034
 cardTitle: LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034
 cardPick: Solid pick for most readers
@@ -23,15 +23,15 @@ tags: []
 
 ## Overview
 
-**LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, Wo** is a toner-cartridges pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, WorkCentre 6515 High Yield (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 4-Pack)** is a toner-cartridges pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
 Typical street price around **$45.99** (Amazon listing; verify before checkout).
 
 Amazon shoppers rate this about **4.6/5** — useful signal, not the whole story.
 
-It currently sits around BSR **4** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **1,598** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -57,7 +57,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for tone
 
 ## Verdict
 
-**LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, Wo** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, WorkCentre 6515 High Yield (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 4-Pack)** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 

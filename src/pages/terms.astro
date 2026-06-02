@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import home from '@/data/spawn-home.json';
 
 const b = home.brand;
@@ -13,9 +14,10 @@ const year = new Date().getFullYear();
   ogType="website"
   sectionAds="legal"
 >
-  <article class="prose prose-lg prose-ink max-w-3xl mx-auto py-16 px-5">
-    <h1 class="font-display text-4xl text-ink-900 !mt-0">Terms of Use</h1>
-    <p class="text-sm text-ink-500">Last updated: {year}</p>
+  <PageIntro eyebrow="Legal" title="Terms of use" description={`Terms governing use of ${b.fullName}. Last updated: ${year}.`} />
+
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-14">
+  <article class="content-panel max-w-prose mx-auto prose prose-lg prose-ink">
     <p>
       By using {b.fullName}, you agree to these terms. If you do not agree, please do not use the site.
     </p>
@@ -45,4 +47,5 @@ const year = new Date().getFullYear();
       Questions about these terms: <a href={`mailto:${support}`}>{support}</a>
     </p>
   </article>
+  </section>
 </BaseLayout>

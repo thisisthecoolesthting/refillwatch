@@ -6,15 +6,15 @@ metaDescription: Hands-on notes on Field Company Mini Cast Iron Skillet – Extr
 category: skillets
 price: 100.0
 rating: 4.4
-bsr: 1
+bsr: 155
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/61fwqqpw1vL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/31HGGvVcyQL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o
 cardTitle: Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-S
 cardPick: Solid pick for most readers
@@ -29,9 +29,9 @@ Typical street price around **$100.00** (Amazon listing; verify before checkout)
 
 Amazon shoppers rate this about **4.4/5** — useful signal, not the whole story.
 
-It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **155** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

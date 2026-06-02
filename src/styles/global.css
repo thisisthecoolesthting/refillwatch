@@ -12,7 +12,7 @@
     -moz-osx-font-smoothing: grayscale;
   }
   body {
-    @apply leading-relaxed;
+    @apply leading-relaxed site-page-bg texture-paper;
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Archivo', Georgia, serif;
@@ -243,6 +243,41 @@
     @apply bg-white border border-cream-200 rounded-2xl p-8 text-center
            shadow-soft transition-colors duration-200 cursor-default
            hover:border-terracotta-400/50 hover:shadow-soft-lg;
+  }
+
+  /* Homepage color profile — light surfaces only (no full-page ink-900). */
+  .site-page-bg {
+    background-color: theme('colors.cream.50');
+    background-image:
+      radial-gradient(50% 80% at 100% 0%, rgba(220, 38, 38, 0.08), transparent 55%),
+      radial-gradient(40% 50% at 0% 100%, rgba(37, 99, 235, 0.1), transparent 60%);
+    background-attachment: fixed;
+  }
+
+  .page-intro-band {
+    @apply relative overflow-hidden;
+    background-image:
+      radial-gradient(55% 90% at 92% 8%, rgba(220, 38, 38, 0.1), transparent 58%),
+      radial-gradient(45% 70% at 4% 92%, rgba(37, 99, 235, 0.12), transparent 62%),
+      linear-gradient(180deg, theme('colors.cream.50') 0%, theme('colors.cream.100') 100%);
+  }
+
+  .content-panel {
+    @apply bg-white/90 backdrop-blur-[2px] rounded-[2rem] md:rounded-[2.5rem]
+           border border-cream-200/80 shadow-soft px-6 md:px-12 py-10 md:py-14;
+  }
+
+  .content-panel-muted {
+    @apply bg-gradient-to-b from-cream-100/90 to-cream-50/95 rounded-[2rem] md:rounded-[2.5rem]
+           border border-cream-200/80 shadow-soft px-6 md:px-12 py-10 md:py-14;
+  }
+
+  .section-band {
+    @apply border-y border-cream-200 bg-gradient-to-b from-cream-50 to-cream-100/90;
+  }
+
+  .section-band-sage {
+    @apply border-y border-cream-200 bg-sage-400/15;
   }
 }
 @layer utilities {

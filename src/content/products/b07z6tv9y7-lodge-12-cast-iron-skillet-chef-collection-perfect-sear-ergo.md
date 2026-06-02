@@ -1,20 +1,20 @@
 ---
 asin: B07Z6TV9Y7
-title: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron C"
-seoTitle: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron C \u2014 review"
-metaDescription: "Hands-on notes on Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron C."
+title: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet"
+seoTitle: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet \u2014 review"
+metaDescription: "Hands-on notes on Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet."
 category: skillets
 price: 39.9
 rating: 4.6
-bsr: 5
+bsr: 103
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/81L--4yq6qL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/31PH9cOPkVL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo
 cardTitle: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles"
 cardPick: Solid pick for most readers
@@ -23,15 +23,15 @@ tags: []
 
 ## Overview
 
-**Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron C** is a skillets pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet** is a skillets pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
 Typical street price around **$39.90** (Amazon listing; verify before checkout).
 
 Amazon shoppers rate this about **4.6/5** — useful signal, not the whole story.
 
-It currently sits around BSR **5** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **103** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -57,7 +57,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for skil
 
 ## Verdict
 
-**Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron C** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 

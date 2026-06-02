@@ -9,12 +9,12 @@ rating: null
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/31Ktsr3Jq2L.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/11m-qiYhWsL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0848q34f8-paroxetine-7-5-mg-cap
 cardTitle: PAROXETINE 7.5 MG CAP
 cardPick: Solid pick for most readers
@@ -31,7 +31,7 @@ We weight verified owner feedback alongside spec fit for the niche.
 
 It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

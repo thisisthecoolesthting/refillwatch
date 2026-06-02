@@ -9,18 +9,18 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20
+imageUrl: ""
+affiliateUrl: "https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: '2026-06-01'
-lastSeen: '2026-06-01'
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b00b5joc5c-b00b5joc5c
 cardTitle: B00B5JOC5C
 cardPick: Solid pick for most readers
 tags: []
-updatedAt: '2026-06-01'
 ---
+
 ## Overview
 
 **B00B5JOC5C** is a general pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
@@ -31,7 +31,7 @@ We weight verified owner feedback alongside spec fit for the niche.
 
 Popularity shifts with promos; we re-check listings during refresh passes.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

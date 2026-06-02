@@ -6,15 +6,15 @@ metaDescription: Hands-on notes on Field Company Small Cast Iron Skillet – 8.3
 category: skillets
 price: 135.0
 rating: 4.4
-bsr: 1
+bsr: 141
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/31ze7yhKKHL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/21nXiV-0AOL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned
 cardTitle: Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi
 cardPick: Solid pick for most readers
@@ -29,9 +29,9 @@ Typical street price around **$135.00** (Amazon listing; verify before checkout)
 
 Amazon shoppers rate this about **4.4/5** — useful signal, not the whole story.
 
-It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **141** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

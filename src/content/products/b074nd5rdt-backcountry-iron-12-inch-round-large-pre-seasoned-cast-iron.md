@@ -6,32 +6,32 @@ metaDescription: Hands-on notes on Backcountry Iron 12 Inch Round Large Pre-Seas
 category: skillets
 price: 49.99
 rating: 4.6
-bsr: 1
+bsr: 113
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/71Fbf0znGFL.jpg
-affiliateUrl: https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20
+imageUrl: "https://m.media-amazon.com/images/I/41nbDb8lo4L.jpg"
+affiliateUrl: "https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: '2026-06-01'
-lastSeen: '2026-06-01'
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-
 cardTitle: Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet
 cardPick: Solid pick for most readers
 tags: []
-updatedAt: '2026-06-01'
 ---
+
 ## Overview
 
-**B074ND5RDT** is a general pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet** is a skillets pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
-Price varies on Amazon — check the live listing before you buy.
+Typical street price around **$49.99** (Amazon listing; verify before checkout).
 
-We weight verified owner feedback alongside spec fit for the niche.
+Amazon shoppers rate this about **4.6/5** — useful signal, not the whole story.
 
-Popularity shifts with promos; we re-check listings during refresh passes.
+It currently sits around BSR **113** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -41,7 +41,7 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## What we like
 
-- **Fit for the niche** — title and category tags align with general searches our readers actually run.
+- **Fit for the niche** — title and category tags align with skillets searches our readers actually run.
 - **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
@@ -53,11 +53,11 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## How we score it
 
-Our desk scores **value**, **spec clarity**, and **review credibility** for general. This page is an editorial snapshot—not a sponsored post. ASIN **B074ND5RDT** is tracked in our harvest catalog for price and availability refreshes.
+Our desk scores **value**, **spec clarity**, and **review credibility** for skillets. This page is an editorial snapshot—not a sponsored post. ASIN **B074ND5RDT** is tracked in our harvest catalog for price and availability refreshes.
 
 ## Verdict
 
-**B074ND5RDT** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 

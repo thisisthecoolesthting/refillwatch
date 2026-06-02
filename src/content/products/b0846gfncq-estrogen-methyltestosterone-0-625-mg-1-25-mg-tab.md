@@ -13,8 +13,8 @@ imageUrl: "https://m.media-amazon.com/images/I/31Fmv4HPeDL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab
 cardTitle: ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB
 cardPick: Solid pick for most readers
@@ -31,7 +31,7 @@ We weight verified owner feedback alongside spec fit for the niche.
 
 It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 

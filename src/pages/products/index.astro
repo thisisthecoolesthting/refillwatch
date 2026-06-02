@@ -1,5 +1,6 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import ProductCard from '@/components/ProductCard.astro';
 import { getCollection } from 'astro:content';
 
@@ -17,15 +18,14 @@ function categoryLabel(cat: string) {
   sectionAds="reviews"
   sectionAdsCompact={true}
 >
-  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-10 w-full">
-    <header class="mb-6 md:mb-8 max-w-2xl">
-      <h1 class="font-display text-3xl md:text-4xl text-ink-900 mb-3">Product reviews</h1>
-      <p class="text-ink-700 text-sm md:text-base leading-relaxed">
-        Sorted by our internal score: sales velocity, review quality, and category value so the
-        top rows are picks we would actually restock.
-      </p>
-    </header>
+  <PageIntro
+    eyebrow="Tracked this week"
+    title="Product reviews"
+    description="Sorted by our internal score — sales velocity, review quality, and category value so the top rows are picks we would actually restock."
+    align="left"
+  />
 
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10 md:pb-14 w-full section-band">
     <div
       class="products-review-grid grid w-full grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 sm:gap-4 md:gap-5"
     >

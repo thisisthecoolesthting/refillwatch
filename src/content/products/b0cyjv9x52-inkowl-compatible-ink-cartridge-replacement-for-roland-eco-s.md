@@ -1,20 +1,20 @@
 ---
 asin: B0CYJV9X52
-title: InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i,
-seoTitle: InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i, — review
-metaDescription: Hands-on notes on InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i,.
+title: InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i, VS-640i, XR-640
+seoTitle: InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i, VS-640i, XR-640 — review
+metaDescription: Hands-on notes on InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i, VS-640i, XR-640.
 category: inkjet-ink-cartridges
 price: 479.95
 rating: null
-bsr: 1
+bsr: 16543
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/51lwE84EeML.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/315R+yuAkjL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20"
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: "2026-06-02"
+lastSeen: "2026-06-02"
 slug: b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s
 cardTitle: InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES
 cardPick: Solid pick for most readers
@@ -23,15 +23,15 @@ tags: []
 
 ## Overview
 
-**InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i,** is a inkjet-ink-cartridges pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+**InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i, VS-640i, XR-640** is a inkjet-ink-cartridges pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
 Typical street price around **$479.95** (Amazon listing; verify before checkout).
 
 We weight verified owner feedback alongside spec fit for the niche.
 
-It currently sits around BSR **1** in its Amazon category — a rough popularity signal.
+It currently sits around BSR **16,543** in its Amazon category — a rough popularity signal.
 
-Last catalog check: **2026-06-01**.
+Last catalog check: **2026-06-02**.
 
 ## Who it's for
 
@@ -57,7 +57,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for inkj
 
 ## Verdict
 
-**InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i,** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+**InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ESL4 (440mL, 7-Pack) for VS-300i, VS-540i, VS-640i, XR-640** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
 
 ---
 
