@@ -3,6 +3,8 @@ title: How to Make Your Own Refillable Hand Soap Without Harsh Chemicals
 site: refillwatch
 topic: How to Make Your Own Refillable Hand Soap Without Harsh Chemicals
 tier: mvp
+cardTitle: How to Make Your Own Refillable Hand Soap Without Harsh Chemicals
+cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:25:23Z'
 relatedProducts: []
 status: published
@@ -151,40 +153,7 @@ Making your own refillable hand soap without harsh chemicals is a practical, eco
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Hand Soap Duo" width="80" height="80" loading="lazy">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Blueland Hand Soap Duo</strong>
-<span class="amazon-inline-card__desc">Tablet refills + forever bottles—skip single-use pump plastic.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Grove Co. Glass Soap Dispenser" width="80" height="80" loading="lazy">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Grove Co. Glass Soap Dispenser</strong>
-<span class="amazon-inline-card__desc">Heavy glass pump bottle built for repeat refills—not flimsy grocery-store plastic.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
@@ -195,11 +164,44 @@ Making your own refillable hand soap without harsh chemicals is a practical, eco
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
+<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
+<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71FwXGTMvAL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
+<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>

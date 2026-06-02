@@ -7,6 +7,8 @@ excerpt: Walmart's bottled water prices have increased 18% since 2023. We compar
   current prices to refillable alternatives and calculate how much you could save
   by switching to reusable options.
 pillarSlug: price-hike-alerts
+cardTitle: 'Walmart Water: Is Your Hydration Bill Creeping Up'
+cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 status: published
 tags:
 - bottled water
@@ -265,8 +267,8 @@ A: Some Walmart locations have water refill stations, but investing in a home fi
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -276,11 +278,44 @@ A: Some Walmart locations have water refill stations, but investing in a home fi
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>

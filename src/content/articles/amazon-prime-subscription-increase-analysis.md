@@ -9,6 +9,8 @@ excerpt: Amazon Prime costs $139/year now—up from $79 in 2005. We analyzed 90 
   show which households actually save money and which are overpaying.
 pillarSlug: subscription-creep-busters
 relatedProducts:
+cardTitle: Amazon Prime at $139/Year
+cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 status: "published"
 tags:
 - Amazon Prime
@@ -19,9 +21,6 @@ tags:
 - budgeting
 - consumer advocacy
 heroImage: /heroes/amazon-prime-subscription-increase-analysis.webp
-cardTitle: Is Amazon Prime Worth $139? The Real Math for Budget Households
-cardPick: Water filter pitchers save families $300+ yearly versus bottled water, eliminating
-  Prime's entire annual cost in pure savings.
 subtopic: brands
 updatedAt: 2026-05-12
 ---
@@ -310,22 +309,55 @@ A: Yes, Amazon allows two adults in the same household to share Prime benefits, 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Foaming Hand Soap Starter Kit" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Blueland Foaming Hand Soap Starter Kit</strong>
-<span class="amazon-inline-card__desc">Refillable foam dispenser plus 3 dissolvable tablets—same lather, 50x less plastic.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Soap Concentrate" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap Concentrate</strong>
-<span class="amazon-inline-card__desc">18-in-1 dilutable soap for cleaners, body wash, dish soap, and laundry—fair-trade certified.</span>
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
+<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>

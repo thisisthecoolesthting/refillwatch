@@ -95,6 +95,8 @@ const articles = defineCollection({
     tags: z.array(z.string()).optional().default([]),
     author: z.string().optional().default('dana-wolff'),
     reviewedAt: z.coerce.date().optional(),
+    cardTitle: z.string().optional().default(''),
+    cardPick: z.string().optional().default(''),
   }),
 });
 

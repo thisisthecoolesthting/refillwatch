@@ -1,43 +1,56 @@
 ---
 import ArticleToC from '@/components/ArticleToC.astro';
 import CaseAdSlot from '@/components/CaseAdSlot.astro';
-import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
 ---
 
 <aside
-  class="article-sidebar-rail hidden xl:block w-56 shrink-0 self-start"
-  aria-label="Article navigation and sponsors"
+  class="article-sidebar-rail hidden lg:block w-52 xl:w-56 shrink-0"
+  aria-label="Page map and sponsors"
 >
   <div class="article-sidebar-sticky">
-    <div class="article-sidebar-toc min-h-0 flex-1">
+    <section class="article-sidebar-toc" aria-labelledby="article-page-map-heading">
       <ArticleToC embedded />
-    </div>
+    </section>
 
-    <div class="article-sidebar-ad not-prose shrink-0 mt-3">
+    <div class="article-sidebar-ad not-prose">
       <CaseAdSlot size="728x90" placement="longform-sidebar-sticky" />
-    </div>
-
-    <div class="shrink-0 mt-4">
-      <PhoneCaseFamilyTextLinks placement="article-sidebar" compact />
     </div>
   </div>
 </aside>
 
 <style>
-  /* Sticky rail: TOC on top, leaderboard under it, phone links at bottom — stays in view while reading */
+  /* Sticky rail: page map on top, phone-case leaderboard under — both stay in view while reading */
   .article-sidebar-sticky {
     position: sticky;
     top: 5rem;
-    max-height: calc(100vh - 5.5rem);
+    z-index: 10;
     display: flex;
     flex-direction: column;
-    overscroll-behavior: contain;
+    gap: 0.75rem;
+    max-height: calc(100vh - 5.5rem);
   }
 
   .article-sidebar-toc {
+    flex: 0 1 auto;
+    min-height: 0;
+    max-height: min(42vh, 22rem);
+    overflow: hidden;
+  }
+
+  .article-sidebar-toc :global(#article-toc) {
+    display: flex;
+    flex-direction: column;
+    max-height: min(42vh, 22rem);
+  }
+
+  .article-sidebar-toc :global(.toc-list-scroll) {
+    max-height: min(36vh, 18rem);
     overflow-y: auto;
     overscroll-behavior: contain;
-    padding-right: 2px;
+  }
+
+  .article-sidebar-ad {
+    flex: 0 0 auto;
   }
 
   .article-sidebar-ad :global(.cad-wrap) {

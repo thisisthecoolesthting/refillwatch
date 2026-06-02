@@ -5,7 +5,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { TOP_PICKS_EXTRA, amazonPickCardHtml } from '../src/lib/amazon-pick-catalog.mjs';
+import { getTopicPicks, amazonPickCardHtml } from '../src/lib/amazon-topic-picks.mjs';
+
+const TOP_PICKS_EXTRA = getTopicPicks('personal-care').slice(0, 2);
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const articlesDir = path.join(__dirname, '..', 'src', 'content', 'articles');

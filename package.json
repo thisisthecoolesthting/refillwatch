@@ -10,7 +10,9 @@
     "preview": "astro preview",
     "astro": "astro",
     "fix:amazon-cards": "node scripts/fix-amazon-inline-cards.mjs",
-    "verify:amazon-images": "node scripts/verify-amazon-inline-images.mjs"
+    "verify:amazon-images": "node scripts/verify-amazon-inline-images.mjs",
+    "sync:top-picks": "node scripts/sync-top-picks-by-topic.mjs",
+    "sync:pinterest-fm": "node scripts/sync-article-pinterest-frontmatter.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.7",

@@ -9,6 +9,8 @@ excerpt: Printer ink costs more per ounce than champagne. We analyzed pricing da
   are hiking prices, how much they've increased, and which refillable alternatives
   actually work without damaging your printer.
 pillarSlug: refillwatch-pillar-1
+cardTitle: Printer Ink Price Hikes
+cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 status: published
 tags:
 - printer ink
@@ -29,9 +31,6 @@ relatedProducts:
 - B0DYNQ1WP7
 - B09W9MF63Y
 heroImage: /heroes/refillwatch-article-10.webp
-cardTitle: "Stop Overpaying for Ink: Refillable Systems Save 80% Yearly"
-cardPick: Refillable ink systems eliminate recurring price hikes by letting you buy
-  bulk cartridges once, slashing annual printing costs dramatically.
 subtopic: personal-care
 updatedAt: 2026-05-12
 ---
@@ -286,33 +285,55 @@ A: Refilling is straightforward with the right tools and instructions, though it
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBar Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBar Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid shampoo and conditioner with salon-quality ingredients, zero plastic.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71FwXGTMvAL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>

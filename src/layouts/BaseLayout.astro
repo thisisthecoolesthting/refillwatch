@@ -31,6 +31,8 @@ export interface Props {
   articleAuthor?: string;
   articleSection?: string;
   articleTags?: string[];
+  /** Overrides og/twitter title only (e.g. Pinterest cardTitle hook). */
+  ogTitle?: string;
   /** Sitewide ad spine (omit on longform — LongformPageShell owns top/footer promos) */
   sectionAds?: SectionPage | false;
   /** Tighter header ad on list/index pages (no ornament) */
@@ -49,6 +51,7 @@ const {
   articleAuthor = b.fullName,
   articleSection,
   articleTags = [],
+  ogTitle,
   sectionAds = false,
   sectionAdsCompact = false,
 } = Astro.props;
@@ -59,6 +62,7 @@ const defaultOg = (image && image.length) ? image : (hero && hero.length ? hero 
 const og = defaultOg;
 const isAbs = (u: string) => /^https?:\/\//i.test(u);
 const fullTitle = title.includes(b.fullName) ? title : `${title} | ${b.fullName}`;
+const shareTitle = ogTitle?.trim() || fullTitle;
 const canonicalUrl = canonical ?? (siteUrl ? new URL(Astro.url.pathname, siteUrl + '/').toString() : Astro.url.href);
 const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toString() : og;
 ---
@@ -78,7 +82,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     {noindex && <meta name="robots" content="noindex, nofollow" />}
 
     <meta property="og:type" content={ogType} />
-    <meta property="og:title" content={fullTitle} />
+    <meta property="og:title" content={shareTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageUrl} />
     <meta property="og:url" content={canonicalUrl} />
@@ -95,7 +99,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     )}
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:title" content={shareTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageUrl} />
 

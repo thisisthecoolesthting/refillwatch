@@ -15,6 +15,8 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0DWD9NQ57
+cardTitle: Stop the Bleed
+cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 status: published
 tags:
 - subscription creep
@@ -337,40 +339,29 @@ A: Always read the fine print before signing up for free trials, and opt for one
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Blueland Clean Essentials Starter Kit</strong>
-<span class="amazon-inline-card__desc">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71wfafy0cXL.jpg" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Seventh Generation EasyDose Laundry Detergent</strong>
-<span class="amazon-inline-card__desc">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span>
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Grove Co. Glass Cleaning Spray Bottle</strong>
-<span class="amazon-inline-card__desc">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
@@ -381,11 +372,22 @@ A: Always read the fine print before signing up for free trials, and opt for one
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
+<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
+<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>

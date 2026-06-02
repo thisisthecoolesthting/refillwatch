@@ -3,6 +3,8 @@ title: Refillable Shampoo Brands That Actually Reduce Plastic Use
 site: refillwatch
 topic: Refillable Shampoo Brands That Actually Reduce Plastic Use
 tier: mvp
+cardTitle: Refillable Shampoo Brands That Actually Reduce Plastic Use
+cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 updatedAt: '2026-05-12T05:54:53Z'
 relatedProducts: []
 status: published
@@ -118,8 +120,8 @@ Choosing refillable shampoo brands wisely removes significant single-use plastic
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
@@ -129,22 +131,44 @@ Choosing refillable shampoo brands wisely removes significant single-use plastic
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBar Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBar Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid shampoo and conditioner with salon-quality ingredients, zero plastic.</span>
+<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71FwXGTMvAL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<strong class="amazon-inline-card__title">J.R.LIGGETT Shampoo Bar</strong>
+<span class="amazon-inline-card__desc">One bar replaces multiple liquid bottles—travel-friendly and plastic-free.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Conditioner Bar" data-card-pick="Completes a solid hair routine—pairs directly with Ethique shampoo bars.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71wfafy0cXL.jpg" alt="Ethique Conditioner Bar" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Ethique Conditioner Bar</strong>
+<span class="amazon-inline-card__desc">Solid conditioner bar that pairs with shampoo bars for a full plastic-free routine.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41sysnrYwhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
+<span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>

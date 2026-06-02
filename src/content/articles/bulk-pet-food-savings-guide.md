@@ -8,6 +8,8 @@ excerpt: Pet food prices have surged 18% in three years. We analyzed 14 brands t
   find which bulk options actually save money, where retailers are creeping prices,
   and how refill systems can cut costs by 37%.
 pillarSlug: refill-and-reusable-guides
+cardTitle: Bulk Buying Pet Food
+cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 status: published
 tags:
 - pet food savings
@@ -30,9 +32,6 @@ relatedProducts:
 - B0CGW48C3G
 - B0F4X2YBP1
 heroImage: /heroes/bulk-pet-food-savings-guide.webp
-cardTitle: "Skip Pet Store Markups: Buy Bulk Pet Food Like a Savvy Shopper"
-cardPick: Bulk purchasing eliminates recurring markup costs, stretching pet budgets
-  30-40% further annually than routine retail purchases.
 subtopic: cleaning
 updatedAt: 2026-05-12
 ---
@@ -274,55 +273,55 @@ A: Consider your pet’s consumption rate and storage space—bulk is ideal if t
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Blueland Clean Essentials Starter Kit</strong>
-<span class="amazon-inline-card__desc">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span>
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71wfafy0cXL.jpg" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Seventh Generation EasyDose Laundry Detergent</strong>
-<span class="amazon-inline-card__desc">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Grove Co. Glass Cleaning Spray Bottle</strong>
-<span class="amazon-inline-card__desc">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
