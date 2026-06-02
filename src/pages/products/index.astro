@@ -20,11 +20,13 @@ const byCategory = sorted.reduce<Record<string, typeof sorted>>((acc, p) => {
 >
   <SiteSectionAds page="reviews" variant="header" />
   <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <h1 class="font-display text-4xl text-ink-900 mb-4">Product reviews</h1>
-    <p class="text-ink-700 mb-10 max-w-prose">
-      Sorted by our internal score: sales velocity, review quality, and category value so the
-      top rows are picks we would actually restock.
-    </p>
+    <div class="max-w-3xl mx-auto text-center mb-10">
+      <h1 class="font-display text-4xl text-ink-900 mb-4">Product reviews</h1>
+      <p class="text-ink-700">
+        Sorted by our internal score: sales velocity, review quality, and category value so the
+        top rows are picks we would actually restock.
+      </p>
+    </div>
 
     {Object.entries(byCategory).map(([cat, items]) => (
       <section class="mb-14">

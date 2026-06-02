@@ -31,8 +31,10 @@ const description = "Tracking shrinkflation and pricing tricks so you don't have
 <BaseLayout title="Articles" description={description}>
   <SiteSectionAds page="articles" variant="header" />
   <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <h1 class="font-display text-4xl text-ink-900 mb-3">Articles</h1>
-    <p class="text-ink-700 mb-8 max-w-prose">{description}</p>
+    <div class="max-w-3xl mx-auto text-center mb-8">
+      <h1 class="font-display text-4xl text-ink-900 mb-3">Articles</h1>
+      <p class="text-ink-700">{description}</p>
+    </div>
 
     {/* Filter + sort controls */}
     <div class="flex flex-wrap gap-3 mb-8 items-center">

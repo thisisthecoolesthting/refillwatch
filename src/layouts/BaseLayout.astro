@@ -3,7 +3,6 @@ import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import SkipLink from '@/components/SkipLink.astro';
 import Footer from '@/components/Footer.astro';
-import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import CaseAdRotateInit from '@/components/CaseAdRotateInit.astro';
 import GlobalBottomAffiliateStrip from '@/components/GlobalBottomAffiliateStrip.astro';
 import home from '@/data/spawn-home.json';
@@ -117,7 +116,6 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
       <slot />
     </main>
     <GlobalBottomAffiliateStrip />
-    <AffiliateDisclosure />
     <CaseAdRotateInit />
     <Footer />
       <script is:inline>

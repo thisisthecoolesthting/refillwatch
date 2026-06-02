@@ -1,38 +1,38 @@
----
-/**
- * Sponsor strip + phone-case ads for section pages
- * (Home, Articles, Guides, Reviews, About). Stores rotate on each page load.
- */
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
-import ArticleSponsorNotice from '@/components/ArticleSponsorNotice.astro';
-
-export type SectionPage = 'home' | 'articles' | 'guides' | 'reviews' | 'about';
-
-export interface Props {
-  page: SectionPage;
-  /** header = top leaderboard + notice; footer = mid/kids/end; both = all */
-  variant?: 'header' | 'footer' | 'both';
-}
-
-const { page, variant = 'both' } = Astro.props;
-
-const showHeader = variant === 'header' || variant === 'both';
-const showFooter = variant === 'footer' || variant === 'both';
----
-
-{showHeader && (
-  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 not-prose">
-    <CaseAdSlot size="728x90" placement={`${page}-section-top`} />
-    <div class="my-4">
-      <ArticleSponsorNotice />
-    </div>
-  </div>
-)}
-
-{showFooter && (
-  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 not-prose py-8 md:py-10 space-y-8 border-t border-cream-200/80">
-    <CaseAdSlot size="300x250" placement={`${page}-section-mid`} />
-    <CaseAdSlot size="300x250" placement={`${page}-section-kids`} kids />
-    <CaseAdSlot size="300x250" placement={`${page}-section-end`} />
-  </div>
-)}
+---
+/**
+ * Phone-case ads for section pages (Home, Articles, Guides, Reviews, About).
+ * Stores rotate on each page load.
+ */
+import CaseAdSlot from '@/components/CaseAdSlot.astro';
+import ArticleOrnamentDivider from '@/components/ArticleOrnamentDivider.astro';
+
+export type SectionPage = 'home' | 'articles' | 'guides' | 'reviews' | 'about';
+
+export interface Props {
+  page: SectionPage;
+  /** header = top leaderboard + ornament; footer = mid/kids/end; both = all */
+  variant?: 'header' | 'footer' | 'both';
+}
+
+const { page, variant = 'both' } = Astro.props;
+
+const showHeader = variant === 'header' || variant === 'both';
+const showFooter = variant === 'footer' || variant === 'both';
+---
+
+{showHeader && (
+  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 not-prose">
+    <div class="flex justify-center">
+      <CaseAdSlot size="728x90" placement={`${page}-section-top`} />
+    </div>
+    <ArticleOrnamentDivider />
+  </div>
+)}
+
+{showFooter && (
+  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 not-prose py-8 md:py-10 space-y-8 flex flex-col items-center border-t border-cream-200/80">
+    <CaseAdSlot size="300x250" placement={`${page}-section-mid`} />
+    <CaseAdSlot size="300x250" placement={`${page}-section-kids`} kids />
+    <CaseAdSlot size="300x250" placement={`${page}-section-end`} />
+  </div>
+)}
