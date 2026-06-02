@@ -1,0 +1,105 @@
+---
+import ArticleSidebar from '@/components/ArticleSidebar.astro';
+import ArticleSponsorNotice from '@/components/ArticleSponsorNotice.astro';
+import CaseAdSlot from '@/components/CaseAdSlot.astro';
+import AuthorByline from '@/components/AuthorByline.astro';
+import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
+import TopPicksBlock from '@/components/TopPicksBlock.astro';
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  title: string;
+  heroImage?: string;
+  authorSlug: string;
+  publishedAt: Date | string;
+  reviewedAt?: Date | string;
+  /** YMYL disclaimer above hero (pillar guides). */
+  medicalBeforeBody?: boolean;
+  /** YMYL disclaimer after article body. */
+  medicalAfterBody?: boolean;
+  relatedProducts?: CollectionEntry<'products'>[];
+}
+
+const {
+  title,
+  heroImage,
+  authorSlug,
+  publishedAt,
+  reviewedAt,
+  medicalBeforeBody = false,
+  medicalAfterBody = false,
+  relatedProducts = [],
+} = Astro.props;
+---
+
+<div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14 pb-16">
+  <div class="flex gap-8 xl:gap-10 items-start">
+    <ArticleSidebar />
+
+    <article class="min-w-0 flex-1 w-full article-longform">
+      <CaseAdSlot size="728x90" placement="longform-top" />
+
+      <header class="mb-6">
+        <h1 class="font-display text-3xl md:text-4xl lg:text-[2.35rem] text-ink-900 mb-4 !mt-0 leading-tight">
+          {title}
+        </h1>
+        <ArticleSponsorNotice />
+      </header>
+
+      {medicalBeforeBody && (
+        <div class="mb-6">
+          <MedicalDisclaimer />
+        </div>
+      )}
+
+      {heroImage && (
+        <figure class="mb-8 md:mb-10">
+          <img
+            src={heroImage}
+            alt={title}
+            loading="eager"
+            class="w-full h-auto rounded-3xl object-cover aspect-[16/9] max-h-[520px] shadow-soft"
+          />
+        </figure>
+      )}
+
+      <div class="article-body-wide prose prose-lg md:prose-xl prose-ink max-w-none">
+        <slot />
+      </div>
+
+      <div class="not-prose article-ad-stack my-8 md:my-10 space-y-8">
+        <CaseAdSlot size="300x250" placement="longform-mid" />
+        <CaseAdSlot size="300x250" placement="longform-kids" kids />
+        <CaseAdSlot size="300x250" placement="longform-end" />
+      </div>
+
+      {medicalAfterBody && (
+        <div class="mb-8">
+          <MedicalDisclaimer />
+        </div>
+      )}
+
+      <AuthorByline
+        authorSlug={authorSlug}
+        publishedAt={publishedAt}
+        reviewedAt={reviewedAt}
+      />
+
+      {relatedProducts.length >= 1 && (
+        <div id="top-picks" class="not-prose">
+          <TopPicksBlock products={relatedProducts} />
+        </div>
+      )}
+    </article>
+  </div>
+</div>
+
+<style>
+  .article-longform .article-body-wide :global(p),
+  .article-longform .article-body-wide :global(li) {
+    max-width: none;
+  }
+  .article-ad-stack :global(.cad-rect) {
+    max-width: 100%;
+  }
+</style>

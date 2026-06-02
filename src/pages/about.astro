@@ -1,5 +1,6 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 ---
 
@@ -7,6 +8,7 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
   title="About"
   description="What RefillWatch is, why it exists, and how we choose what to recommend."
 >
+  <SiteSectionAds page="about" variant="header" />
   <section class="pt-8 md:pt-14">
     <div class="max-w-6xl mx-auto px-5">
       <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft px-6 md:px-14 py-14 md:py-20 text-center">
@@ -74,4 +76,5 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
       </div>
     </div>
   </section>
+  <SiteSectionAds page="about" variant="footer" />
 </CompliantLayout>

@@ -1,14 +1,8 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import AdSlot from '@/components/AdSlot.astro';
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
+import LongformPageShell from '@/components/LongformPageShell.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
-import AuthorByline from '@/components/AuthorByline.astro';
-import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
-import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
-import TopPicksBlock from '@/components/TopPicksBlock.astro';
-import ArticleToC from '@/components/ArticleToC.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
@@ -36,7 +30,6 @@ const defSlug =
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 const relatedProducts = await getRelatedProductsFromBody(entry.body);
-const topProduct = relatedProducts[0];
 const publishedISO = new Date(entry.data.publishedAt ?? entry.data.updatedAt ?? Date.now()).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const bodyLower = (entry.body || '').toLowerCase();
@@ -48,7 +41,7 @@ const medicalTerms = [
 ];
 const bodyHeuristic = medicalTerms.some((term) => bodyLower.includes(term));
 const tagMatch = ['health', 'supplements', 'medication', 'hrt', 'hormones', 'insomnia'].some((k) =>
-  tags.includes(k)
+  tags.includes(k),
 );
 const customDisclaimer = (entry.data as { customDisclaimer?: boolean }).customDisclaimer === true;
 const needsMedicalDisclaimer =
@@ -91,81 +84,19 @@ const articleSchema = {
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
-  <div class="max-w-6xl mx-auto px-5 py-12 md:py-16 pb-20 flex gap-12 xl:gap-16 items-start">
-    <ArticleToC />
+  <LongformPageShell
+    title={entry.data.title}
+    heroImage={entry.data.heroImage}
+    authorSlug={authorSlug}
+    publishedAt={entry.data.publishedAt ?? entry.data.updatedAt}
+    reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
+    medicalAfterBody={needsMedicalDisclaimer}
+    relatedProducts={relatedProducts}
+  >
+    <Content />
+  </LongformPageShell>
 
-    <article class="min-w-0 flex-1">
-  
-      <header class="mb-6">
-        <h1 class="font-display text-3xl md:text-4xl text-ink-900 mb-3 !mt-0">{entry.data.title}</h1>
-        <AffiliateDisclosure />
-      </header>
-
-      <AuthorByline
-        authorSlug={authorSlug}
-        publishedAt={entry.data.publishedAt ?? entry.data.updatedAt}
-        reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
-      />
-
-      <AdSlot position="above_fold" label="above-fold" />
-    <CaseAdSlot size="728x90" placement="article-top" />
-
-      {entry.data.heroImage && (
-        <figure class="mb-10 -mx-4 md:mx-0">
-          <img
-            src={entry.data.heroImage}
-            alt={entry.data.title}
-            loading="eager"
-            class="w-full h-auto rounded-3xl object-cover aspect-[16/9] max-h-[480px] shadow-soft"
-          />
-        </figure>
-      )}
-
-      <AdSlot position="mid_content" label="pre-body" />
-
-      <div class="lg:grid lg:grid-cols-[minmax(0,1fr)_220px] lg:gap-10 lg:items-start">
-        <div class="min-w-0">
-          <div class="prose prose-lg prose-ink max-w-none">
-        <Content />
-      </div>
-
-      <AdSlot position="end" label="post-body" />
-    <CaseAdSlot size="300x250" placement="article-end" />
-
-      {needsMedicalDisclaimer && <MedicalDisclaimer />}
-
-      {author && (
-        <aside class="not-prose my-10 flex gap-5 items-start p-6 bg-cream-100 rounded-2xl border border-cream-200/60">
-          <a href={`/authors/${author.slug}/`} class="shrink-0">
-            <img
-              src={author.data.photoUrl}
-              alt={author.data.name}
-              width="72"
-              height="72"
-              class="w-[72px] h-[72px] rounded-full object-cover ring-2 ring-terracotta-200"
-              loading="lazy"
-            />
-          </a>
-          <div>
-            <p class="font-semibold text-ink-900 text-sm mb-1">
-              Written by <a href={`/authors/${author.slug}/`} class="hover:text-terracotta-600 transition-colors">{author.data.name}</a>
-            </p>
-            <p class="text-sm text-ink-700 leading-relaxed">
-              {author.data.bio ?? "Independent researcher and tester. Everything on this site reflects hands-on evaluation, community feedback, and primary source research."}
-              {' '}<a href="/methodology/" class="text-terracotta-600 hover:underline">How we research →</a>
-            </p>
-          </div>
-        </aside>
-      )}
-      {relatedProducts.length >= 1 && (
-        <div id="top-picks">
-          <TopPicksBlock products={relatedProducts} />
-        </div>
-      )}
-    </article>
-  </div>
-
-  <div class="max-w-3xl mx-auto px-5 pb-20">
+  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-20">
     <EmailCapture title={nl.title} subtitle={nl.subtitle} />
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />
   </div>

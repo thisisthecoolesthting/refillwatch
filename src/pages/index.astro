@@ -8,6 +8,7 @@
 // (about / categories / defaultAuthorSlug / persona).
 
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
@@ -148,6 +149,8 @@ const trustItems = [
   />
 
   <TrustStrip trustLine={trustLineDisplay} items={trustItems} />
+
+  <SiteSectionAds page="home" variant="header" />
 
   {/* ============ 3. PILLAR GRID ============ */}
   {pillarGridEntries.length > 0 && (
@@ -367,6 +370,8 @@ const trustItems = [
       </div>
     </div>
   </section>
+
+  <SiteSectionAds page="home" variant="footer" />
 
   {/* ============ 7. NEWSLETTER ============ */}
   <section class="max-w-3xl mx-auto px-5 py-10 md:py-12">
