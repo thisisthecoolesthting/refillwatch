@@ -21,9 +21,28 @@ export function localProductImagePath(slug: string): string {
   return `/images/products/${slug}.jpg`;
 }
 
+/** Prefer curated images/I map — P/ASIN hotlinks return a 43-byte GIF. */
+const AMAZON_I_BY_ASIN: Record<string, string> = {
+  B07LDB5GLB: 'https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg',
+  B089QRFMZF: 'https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg',
+  B082TRQ5Y1: 'https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg',
+  B086RYBBRH: 'https://m.media-amazon.com/images/I/71wfafy0cXL.jpg',
+  B07HNQXHTP: 'https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg',
+  B00120V7VA: 'https://m.media-amazon.com/images/I/414wogLMXDL.jpg',
+  B00120VWKS: 'https://m.media-amazon.com/images/I/414wogLMXDL.jpg',
+  B00BEYLTKY: 'https://m.media-amazon.com/images/I/71St0Xv0ZPL.jpg',
+  B00YBXVLWK: 'https://m.media-amazon.com/images/I/81C8iFvxnfL.jpg',
+  B01N7VKWVO: 'https://m.media-amazon.com/images/I/81fdrmuMVFL.jpg',
+  B07NM4ZM3Z: 'https://m.media-amazon.com/images/I/71yDGNi8wXL.jpg',
+  B0973GJNCC: 'https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg',
+  B0BC244Z4W: 'https://m.media-amazon.com/images/I/31vJmG0wQZL.jpg',
+  B0CLBF6PLW: 'https://m.media-amazon.com/images/I/41sysnrYwhL.jpg',
+};
+
 export function amazonAsinImageUrl(asin: string): string {
   const id = asin.trim().toUpperCase();
-  return `https://m.media-amazon.com/images/P/${id}.01._SL500_.jpg`;
+  if (!id) return FALLBACK_SVG;
+  return AMAZON_I_BY_ASIN[id] || `/images/amazon-picks/${id}.jpg`;
 }
 
 /** Prefer m.media-amazon.com — survives hotlink better than legacy ssl-images host. */

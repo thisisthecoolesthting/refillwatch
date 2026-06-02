@@ -206,7 +206,7 @@ A: Some companies are making efforts, such as using renewable energy for data ce
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B082TRQ5Y1.01._SL500_.jpg" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Clean Essentials Starter Kit" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Blueland Clean Essentials Starter Kit</strong>
 <span class="amazon-inline-card__desc">Dissolvable tablets turn water into glass, bath, and multi-surface cleaner—zero plastic waste.</span>
@@ -217,7 +217,7 @@ A: Some companies are making efforts, such as using renewable energy for data ce
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B086RYBBRH.01._SL500_.jpg" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71wfafy0cXL.jpg" alt="Seventh Generation EasyDose Laundry Detergent" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Seventh Generation EasyDose Laundry Detergent</strong>
 <span class="amazon-inline-card__desc">4x concentrated—one small bottle equals a full-size jug, no synthetic fragrances.</span>
@@ -228,7 +228,7 @@ A: Some companies are making efforts, such as using renewable energy for data ce
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B07HNQXHTP.01._SL500_.jpg" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Grove Co. Glass Cleaning Spray Bottle" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Grove Co. Glass Cleaning Spray Bottle</strong>
 <span class="amazon-inline-card__desc">Durable glass bottle with stainless trigger—outlasts a dozen flimsy plastic sprayers.</span>

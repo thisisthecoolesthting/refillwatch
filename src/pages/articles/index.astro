@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
 import home from '@/data/spawn-home.json';
 
@@ -28,8 +27,7 @@ const subtopicLabels: Record<string, string> = {
 const description = "Tracking shrinkflation and pricing tricks so you don't have to.";
 ---
 
-<BaseLayout title="Articles" description={description}>
-  <SiteSectionAds page="articles" variant="header" />
+<BaseLayout title="Articles" description={description} sectionAds="articles">
   <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <div class="max-w-3xl mx-auto text-center mb-8">
       <h1 class="font-display text-4xl text-ink-900 mb-3">Articles</h1>
@@ -110,7 +108,6 @@ const description = "Tracking shrinkflation and pricing tricks so you don't have
 
     <p id="no-results" class="hidden text-ink-600 text-center py-12">No articles match this filter.</p>
   </section>
-  <SiteSectionAds page="articles" variant="footer" />
 </BaseLayout>
 
 <script>

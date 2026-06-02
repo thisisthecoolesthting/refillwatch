@@ -1,24 +1,31 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import type { Props as BaseLayoutProps } from '@/layouts/BaseLayout.astro';
+import SiteSectionAds from '@/components/SiteSectionAds.astro';
+import type { SectionPage } from '@/lib/section-page';
 
 interface Props extends BaseLayoutProps {
   articleJsonLd?: Record<string, unknown>;
   showPriceFootnote?: boolean;
   priceFootnoteText?: string;
+  /** Sitewide ad spine: top 728×90 + ornament, footer phone-case text links */
+  sectionAds?: SectionPage | false;
 }
 
 const {
   articleJsonLd,
   showPriceFootnote = false,
   priceFootnoteText = 'Prices and availability can change at any time. We may update rankings and picks as market data changes.',
+  sectionAds = false,
   ...baseProps
 } = Astro.props as Props;
 ---
 
 <BaseLayout {...baseProps}>
   {articleJsonLd && <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />}
+  {sectionAds && <SiteSectionAds page={sectionAds} variant="header" />}
   <slot />
+  {sectionAds && <SiteSectionAds page={sectionAds} variant="footer" />}
 
   {showPriceFootnote && (
     <p class="max-w-3xl mx-auto px-6 pb-8 text-xs text-ink-500">

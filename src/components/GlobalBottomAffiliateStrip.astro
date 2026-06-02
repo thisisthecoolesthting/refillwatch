@@ -5,7 +5,7 @@
  */
 import { getCollection } from 'astro:content';
 import { BOTTOM_AMAZON_PICKS } from '@/data/bottom-amazon-picks';
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
+import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
 import {
   amazonAffiliateUrlFromAsin,
   type BottomAmazonPick,
@@ -138,11 +138,8 @@ const FB =
         </p>
       </div>
 
-      <div class="mt-10 pt-8 border-t border-dashed border-cream-200/90 space-y-8">
-        <p class="font-mono text-[10.5px] tracking-[0.16em] uppercase text-ink-500 text-center">
-          Sponsored · Our phone-case family
-        </p>
-        <CaseAdSlot size="728x90" placement="global-bottom-leader" />
+      <div class="mt-10 pt-8 border-t border-dashed border-cream-200/90">
+        <PhoneCaseFamilyTextLinks placement="global-bottom" />
       </div>
     </div>
   </section>

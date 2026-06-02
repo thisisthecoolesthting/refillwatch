@@ -98,6 +98,8 @@
   }
   .amazon-inline-card__img {
     @apply w-20 h-20 object-contain rounded-lg bg-cream-100 flex-shrink-0 p-1;
+    min-width: 5rem;
+    min-height: 5rem;
   }
   .amazon-inline-card__body {
     @apply flex flex-col gap-1 min-w-0 flex-1;

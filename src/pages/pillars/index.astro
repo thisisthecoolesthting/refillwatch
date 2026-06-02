@@ -1,14 +1,16 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
 
 const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
 ---
 
-<CompliantLayout title="Guides" description="In-depth RefillWatch guides on household refills, shrinkflation, and smarter swaps.">
-  <SiteSectionAds page="guides" variant="header" />
+<CompliantLayout
+  title="Guides"
+  description="In-depth RefillWatch guides on household refills, shrinkflation, and smarter swaps."
+  sectionAds="guides"
+>
   <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-12">
     <div class="max-w-3xl mx-auto text-center mb-8">
       <h1 class="font-display text-4xl text-ink-900 mb-3">Guides</h1>
@@ -47,5 +49,4 @@ const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(
       ))}
     </div>
   </section>
-  <SiteSectionAds page="guides" variant="footer" />
 </CompliantLayout>

@@ -44,6 +44,7 @@ const personSchema = {
   title={`${entry.data.name} -- ${entry.data.role}`}
   description={entry.data.shortBio}
   image={entry.data.photoUrl}
+  sectionAds="author"
 >
   <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
 

@@ -269,7 +269,7 @@ A: Yes, insulated stainless steel bottles can maintain temperature for 12–24 h
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B082TRQ5Y1.01._SL500_.jpg" alt="Blueland Foaming Hand Soap Starter Kit" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Foaming Hand Soap Starter Kit" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Blueland Foaming Hand Soap Starter Kit</strong>
 <span class="amazon-inline-card__desc">Refillable foam dispenser plus 3 dissolvable tablets—same lather, 50x less plastic.</span>
@@ -280,7 +280,7 @@ A: Yes, insulated stainless steel bottles can maintain temperature for 12–24 h
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B00120VWKS.01._SL500_.jpg" alt="Dr. Bronner's Pure-Castile Soap Concentrate" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Soap Concentrate" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap Concentrate</strong>
 <span class="amazon-inline-card__desc">18-in-1 dilutable soap for cleaners, body wash, dish soap, and laundry—fair-trade certified.</span>

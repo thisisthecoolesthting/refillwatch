@@ -4,6 +4,7 @@ import ArticleOrnamentDivider from '@/components/ArticleOrnamentDivider.astro';
 import CaseAdSlot from '@/components/CaseAdSlot.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
+import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
 import TopPicksBlock from '@/components/TopPicksBlock.astro';
 import type { CollectionEntry } from 'astro:content';
 
@@ -13,9 +14,7 @@ export interface Props {
   authorSlug: string;
   publishedAt: Date | string;
   reviewedAt?: Date | string;
-  /** YMYL disclaimer above hero (pillar guides). */
   medicalBeforeBody?: boolean;
-  /** YMYL disclaimer after article body. */
   medicalAfterBody?: boolean;
   relatedProducts?: CollectionEntry<'products'>[];
 }
@@ -62,6 +61,8 @@ const {
               src={heroImage}
               alt={title}
               loading="eager"
+              fetchpriority="high"
+              decoding="async"
               class="w-full h-auto rounded-3xl object-cover aspect-[16/9] max-h-[520px] shadow-soft"
             />
           </figure>
@@ -71,10 +72,12 @@ const {
           <slot />
         </div>
 
-        <div class="not-prose article-ad-stack my-8 md:my-10 space-y-8 flex flex-col items-center">
-          <CaseAdSlot size="300x250" placement="longform-mid" />
-          <CaseAdSlot size="300x250" placement="longform-kids" kids />
-          <CaseAdSlot size="300x250" placement="longform-end" />
+        <div class="mt-8 text-left">
+          <AuthorByline
+            authorSlug={authorSlug}
+            publishedAt={publishedAt}
+            reviewedAt={reviewedAt}
+          />
         </div>
 
         {medicalAfterBody && (
@@ -83,12 +86,8 @@ const {
           </div>
         )}
 
-        <div class="text-center">
-          <AuthorByline
-            authorSlug={authorSlug}
-            publishedAt={publishedAt}
-            reviewedAt={reviewedAt}
-          />
+        <div class="my-8">
+          <PhoneCaseFamilyTextLinks placement="longform-after-author" />
         </div>
 
         {relatedProducts.length >= 1 && (
@@ -138,8 +137,5 @@ const {
   }
   .article-longform .article-body-wide :global(blockquote) {
     font-size: 0.92em;
-  }
-  .article-ad-stack :global(.cad-rect) {
-    max-width: 100%;
   }
 </style>

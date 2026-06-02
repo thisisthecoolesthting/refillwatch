@@ -152,7 +152,7 @@ Making your own refillable hand soap without harsh chemicals is a practical, eco
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B00120V7VA.01._SL500_.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -163,7 +163,7 @@ Making your own refillable hand soap without harsh chemicals is a practical, eco
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B082TRQ5Y1.01._SL500_.jpg" alt="Blueland Hand Soap Duo" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="Blueland Hand Soap Duo" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Blueland Hand Soap Duo</strong>
 <span class="amazon-inline-card__desc">Tablet refills + forever bottles—skip single-use pump plastic.</span>
@@ -174,7 +174,7 @@ Making your own refillable hand soap without harsh chemicals is a practical, eco
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B07HNQXHTP.01._SL500_.jpg" alt="Grove Co. Glass Soap Dispenser" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Grove Co. Glass Soap Dispenser" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Grove Co. Glass Soap Dispenser</strong>
 <span class="amazon-inline-card__desc">Heavy glass pump bottle built for repeat refills—not flimsy grocery-store plastic.</span>

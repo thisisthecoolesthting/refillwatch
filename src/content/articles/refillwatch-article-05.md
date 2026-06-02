@@ -215,7 +215,7 @@ A: High-quality refillable cartridges with proper ink can match OEM print qualit
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B07LDB5GLB.01._SL500_.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
@@ -226,7 +226,7 @@ A: High-quality refillable cartridges with proper ink can match OEM print qualit
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B089QRFMZF.01._SL500_.jpg" alt="HiBar Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBar Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">HiBar Solid Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid shampoo and conditioner with salon-quality ingredients, zero plastic.</span>
@@ -237,7 +237,7 @@ A: High-quality refillable cartridges with proper ink can match OEM print qualit
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B07NM4ZM3Z.01._SL500_.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71yDGNi8wXL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
 <span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>

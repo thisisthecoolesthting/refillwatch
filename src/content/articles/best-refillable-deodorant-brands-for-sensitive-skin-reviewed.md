@@ -118,33 +118,33 @@ Choosing the best refillable deodorant for sensitive skin comes down to balancin
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B07LDB5GLB.01._SL500_.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg" alt="Native Sensitive Deodorant Cotton and Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
+<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton &amp; Lily</strong>
+<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B089QRFMZF.01._SL500_.jpg" alt="HiBar Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0BC244Z4W?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31vJmG0wQZL.jpg" alt="Native Plastic Free Deodorant Cucumber Mint" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBar Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid shampoo and conditioner with salon-quality ingredients, zero plastic.</span>
+<strong class="amazon-inline-card__title">Native Plastic Free Deodorant — Cucumber &amp; Mint</strong>
+<span class="amazon-inline-card__desc">Compostable paperboard packaging with naturally derived ingredients—no aluminum or parabens.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/P/B07NM4ZM3Z.01._SL500_.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41sysnrYwhL.jpg" alt="HiBAR Plastic Free Deodorant Bergamot Cedar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar</strong>
+<span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
