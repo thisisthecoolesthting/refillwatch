@@ -4,8 +4,6 @@ import ArticleSidebar from '@/components/ArticleSidebar.astro';
 
 import ArticleOrnamentDivider from '@/components/ArticleOrnamentDivider.astro';
 
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
-
 import AuthorByline from '@/components/AuthorByline.astro';
 
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
@@ -69,7 +67,7 @@ const {
 
 <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14 pb-16">
 
-  <div class="flex gap-6 lg:gap-8 xl:gap-8 items-start">
+  <div class="flex flex-col lg:flex-row gap-4 lg:gap-8 items-start">
 
     <ArticleSidebar />
 
@@ -81,13 +79,6 @@ const {
     >
 
       <div class="article-longform-inner mx-auto w-full max-w-3xl">
-
-        {/* Mobile/tablet: top leaderboard in column; desktop uses sticky sidebar ad */}
-        <div class="longform-top-ad flex justify-center not-prose lg:hidden">
-          <CaseAdSlot size="728x90" placement="longform-top" />
-        </div>
-
-
 
         <ArticleOrnamentDivider />
 

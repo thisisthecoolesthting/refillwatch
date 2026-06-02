@@ -4,12 +4,12 @@ import CaseAdSlot from '@/components/CaseAdSlot.astro';
 ---
 
 <aside
-  class="article-sidebar-rail hidden lg:block w-52 xl:w-56 shrink-0"
-  aria-label="Page map and sponsors"
+  class="article-sidebar-rail w-full lg:w-56 xl:w-60 shrink-0 order-first lg:order-none"
+  aria-label="Page map and phone case offer"
 >
   <div class="article-sidebar-sticky">
-    <section class="article-sidebar-toc" aria-labelledby="article-page-map-heading">
-      <ArticleToC embedded />
+    <section class="article-sidebar-toc">
+      <ArticleToC embedded expanded />
     </section>
 
     <div class="article-sidebar-ad not-prose">
@@ -19,38 +19,39 @@ import CaseAdSlot from '@/components/CaseAdSlot.astro';
 </aside>
 
 <style>
-  /* Sticky rail: page map on top, phone-case leaderboard under — both stay in view while reading */
+  /* Page map + phone-case ad: one sticky column; ad never scrolls away */
   .article-sidebar-sticky {
     position: sticky;
-    top: 5rem;
-    z-index: 10;
+    top: 4.75rem;
+    z-index: 20;
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-    max-height: calc(100vh - 5.5rem);
+    max-height: calc(100vh - 5rem);
+    padding-bottom: 0.25rem;
+  }
+
+  @media (max-width: 1023px) {
+    .article-sidebar-sticky {
+      margin-bottom: 0.75rem;
+      padding: 0.75rem;
+      border-radius: 0.75rem;
+      border: 1px solid #e8e0d4;
+      background: rgba(255, 255, 255, 0.97);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    }
   }
 
   .article-sidebar-toc {
-    flex: 0 1 auto;
+    flex: 1 1 auto;
     min-height: 0;
-    max-height: min(42vh, 22rem);
-    overflow: hidden;
-  }
-
-  .article-sidebar-toc :global(#article-toc) {
-    display: flex;
-    flex-direction: column;
-    max-height: min(42vh, 22rem);
-  }
-
-  .article-sidebar-toc :global(.toc-list-scroll) {
-    max-height: min(36vh, 18rem);
     overflow-y: auto;
     overscroll-behavior: contain;
   }
 
   .article-sidebar-ad {
     flex: 0 0 auto;
+    margin-top: auto;
   }
 
   .article-sidebar-ad :global(.cad-wrap) {
