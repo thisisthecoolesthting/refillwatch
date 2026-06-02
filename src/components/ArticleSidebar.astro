@@ -1,28 +1,56 @@
----
-import ArticleToC from '@/components/ArticleToC.astro';
-import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
----
-
-<aside
-  class="article-sidebar-rail hidden xl:block w-52 shrink-0 self-start"
-  aria-label="Article navigation"
->
-  <div class="article-sidebar-sticky">
-    <ArticleToC embedded />
-    <div class="mt-4">
-      <PhoneCaseFamilyTextLinks placement="article-sidebar" compact />
-    </div>
-  </div>
-</aside>
-
-<style>
-  /* TOC scrolls inside sticky box — avoids whole-rail lock/fight with page scroll */
-  .article-sidebar-sticky {
-    position: sticky;
-    top: 6rem;
-    max-height: calc(100vh - 7rem);
-    overflow-y: auto;
-    overscroll-behavior: contain;
-    padding-right: 2px;
-  }
-</style>
+---
+import ArticleToC from '@/components/ArticleToC.astro';
+import CaseAdSlot from '@/components/CaseAdSlot.astro';
+import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
+---
+
+<aside
+  class="article-sidebar-rail hidden xl:block w-56 shrink-0 self-start"
+  aria-label="Article navigation and sponsors"
+>
+  <div class="article-sidebar-sticky">
+    <div class="article-sidebar-toc min-h-0 flex-1">
+      <ArticleToC embedded />
+    </div>
+
+    <div class="article-sidebar-ad not-prose shrink-0 mt-3">
+      <CaseAdSlot size="728x90" placement="longform-sidebar-sticky" />
+    </div>
+
+    <div class="shrink-0 mt-4">
+      <PhoneCaseFamilyTextLinks placement="article-sidebar" compact />
+    </div>
+  </div>
+</aside>
+
+<style>
+  /* Sticky rail: TOC on top, leaderboard under it, phone links at bottom — stays in view while reading */
+  .article-sidebar-sticky {
+    position: sticky;
+    top: 5rem;
+    max-height: calc(100vh - 5.5rem);
+    display: flex;
+    flex-direction: column;
+    overscroll-behavior: contain;
+  }
+
+  .article-sidebar-toc {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding-right: 2px;
+  }
+
+  .article-sidebar-ad :global(.cad-wrap) {
+    margin: 0;
+  }
+
+  .article-sidebar-ad :global(.cad-leader-inner) {
+    flex-wrap: wrap;
+    padding: 8px 10px;
+  }
+
+  .article-sidebar-ad :global(.cad-leader-img) {
+    width: 40px;
+    height: 52px;
+  }
+</style>

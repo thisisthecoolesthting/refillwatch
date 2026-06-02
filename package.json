@@ -9,7 +9,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "fix:amazon-cards": "node scripts/fix-amazon-inline-cards.mjs"
+    "fix:amazon-cards": "node scripts/fix-amazon-inline-cards.mjs",
+    "verify:amazon-images": "node scripts/verify-amazon-inline-images.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.7",

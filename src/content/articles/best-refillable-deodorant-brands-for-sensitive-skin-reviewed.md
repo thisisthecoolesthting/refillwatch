@@ -130,7 +130,7 @@ Choosing the best refillable deodorant for sensitive skin comes down to balancin
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0BC244Z4W?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31vJmG0wQZL.jpg" alt="Native Plastic Free Deodorant Cucumber Mint" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51eE1u7v3BL.jpg" alt="Native Plastic Free Deodorant Cucumber Mint" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Plastic Free Deodorant — Cucumber &amp; Mint</strong>
 <span class="amazon-inline-card__desc">Compostable paperboard packaging with naturally derived ingredients—no aluminum or parabens.</span>

@@ -146,7 +146,7 @@ By prioritizing concentrated, ingredient-transparent, and genuinely plastic-pump
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71yDGNi8wXL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71FwXGTMvAL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
 <span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>

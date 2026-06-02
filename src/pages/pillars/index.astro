@@ -1,6 +1,7 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
+import { isHeroImageAvailable } from '@/lib/hero-image';
 
 const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
@@ -11,7 +12,7 @@ const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(
   description="In-depth RefillWatch guides on household refills, shrinkflation, and smarter swaps."
   sectionAds="guides"
 >
-  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-12">
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <div class="max-w-3xl mx-auto text-center mb-8">
       <h1 class="font-display text-4xl text-ink-900 mb-3">Guides</h1>
       <p class="text-ink-700">
@@ -24,19 +25,25 @@ const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(
     )}
 
     <div class="grid md:grid-cols-2 gap-8">
-      {sorted.map((p) => (
-        <a href={`/pillars/${p.slug}`} class="group no-underline block">
-          {p.data.heroImage ? (
+      {sorted.map((p) => {
+        const heroImage = isHeroImageAvailable(p.data.heroImage) ? p.data.heroImage : '';
+        return (
+        <a
+          href={`/pillars/${p.slug}`}
+          class:list={[
+            'group no-underline block',
+            !heroImage && 'rounded-lg border border-cream-200 bg-white p-5 hover:border-terracotta-400 transition-colors',
+          ]}
+        >
+          {heroImage && (
             <div class="rounded-lg overflow-hidden mb-4 bg-cream-200 aspect-[16/10]">
               <img
-                src={p.data.heroImage}
+                src={heroImage}
                 alt={p.data.title}
                 loading="lazy"
                 class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
               />
             </div>
-          ) : (
-            <div class="rounded-lg bg-cream-200 aspect-[16/10] mb-4"></div>
           )}
           <h2 class="font-display text-2xl text-ink-900 !mt-0 group-hover:text-terracotta-500 transition-colors">
             {p.data.title}
@@ -46,7 +53,8 @@ const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(
             {new Date(p.data.publishedAt).toLocaleDateString()}
           </p>
         </a>
-      ))}
+        );
+      })}
     </div>
   </section>
 </CompliantLayout>

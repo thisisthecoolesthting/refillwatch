@@ -33,6 +33,8 @@ export interface Props {
   articleTags?: string[];
   /** Sitewide ad spine (omit on longform — LongformPageShell owns top/footer promos) */
   sectionAds?: SectionPage | false;
+  /** Tighter header ad on list/index pages (no ornament) */
+  sectionAdsCompact?: boolean;
 }
 
 const {
@@ -48,6 +50,7 @@ const {
   articleSection,
   articleTags = [],
   sectionAds = false,
+  sectionAdsCompact = false,
 } = Astro.props;
 
 const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
@@ -118,7 +121,9 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <SkipLink />
     <Header />
     <main id="main-content" class="flex-1" tabindex="-1">
-      {sectionAds && <SiteSectionAds page={sectionAds} variant="header" />}
+      {sectionAds && (
+        <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
+      )}
       <slot />
       {sectionAds && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>

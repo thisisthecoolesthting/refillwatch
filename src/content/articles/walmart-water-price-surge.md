@@ -277,7 +277,7 @@ A: Some Walmart locations have water refill stations, but investing in a home fi
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81fdrmuMVFL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>

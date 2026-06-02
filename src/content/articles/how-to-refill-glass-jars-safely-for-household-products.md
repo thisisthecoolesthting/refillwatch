@@ -112,7 +112,7 @@ Safely refilling your glass jars can significantly reduce household waste while 
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71St0Xv0ZPL.jpg" alt="Stasher Reusable Silicone Bags – 4 Pack" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Stasher Reusable Silicone Bags – 4 Pack" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Stasher Reusable Silicone Bags – 4 Pack</strong>
 <span class="amazon-inline-card__desc">Platinum silicone bags replace zip-lock for fridge, freezer, and sous vide—dishwasher safe.</span>
@@ -123,7 +123,7 @@ Safely refilling your glass jars can significantly reduce household waste while 
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81C8iFvxnfL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>

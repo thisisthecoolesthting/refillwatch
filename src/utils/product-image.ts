@@ -30,12 +30,12 @@ const AMAZON_I_BY_ASIN: Record<string, string> = {
   B07HNQXHTP: 'https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg',
   B00120V7VA: 'https://m.media-amazon.com/images/I/414wogLMXDL.jpg',
   B00120VWKS: 'https://m.media-amazon.com/images/I/414wogLMXDL.jpg',
-  B00BEYLTKY: 'https://m.media-amazon.com/images/I/71St0Xv0ZPL.jpg',
-  B00YBXVLWK: 'https://m.media-amazon.com/images/I/81C8iFvxnfL.jpg',
-  B01N7VKWVO: 'https://m.media-amazon.com/images/I/81fdrmuMVFL.jpg',
-  B07NM4ZM3Z: 'https://m.media-amazon.com/images/I/71yDGNi8wXL.jpg',
+  B00BEYLTKY: 'https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg',
+  B00YBXVLWK: 'https://m.media-amazon.com/images/I/51v8EDjURsL.jpg',
+  B01N7VKWVO: 'https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg',
+  B07NM4ZM3Z: 'https://m.media-amazon.com/images/I/71FwXGTMvAL.jpg',
   B0973GJNCC: 'https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg',
-  B0BC244Z4W: 'https://m.media-amazon.com/images/I/31vJmG0wQZL.jpg',
+  B0BC244Z4W: 'https://m.media-amazon.com/images/I/51eE1u7v3BL.jpg',
   B0CLBF6PLW: 'https://m.media-amazon.com/images/I/41sysnrYwhL.jpg',
 };
 
