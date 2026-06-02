@@ -1,46 +1,68 @@
 ---
-asin: "B00C2O7C7O"
-slug: "b00c2o7c7o-scott-1000-toilet-paper-36-rolls"
-title: "Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls"
-seoTitle: "Scott 1000 Toilet Paper 36-Roll Bulk Price | RefillWatch"
-metaDescription: "Scott 1000 bulk toilet paper price tracking. At 1000 sheets per roll, is it actually cheaper than 2-ply alternatives per use?"
-cardTitle: "Scott 1000 (36 rolls)"
-cardPick: "Lowest cost-per-sheet of any bulk TP option"
-category: "paper-products"
+asin: B00C2O7C7O
+slug: b00c2o7c7o-scott-1000-toilet-paper-36-rolls
+title: Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls
+seoTitle: Scott 1000 Toilet Paper 36-Roll Bulk Price | RefillWatch
+metaDescription: Scott 1000 bulk toilet paper price tracking. At 1000 sheets per roll, is it actually cheaper than 2-ply alternatives per use?
+cardTitle: Scott 1000 (36 rolls)
+cardPick: Lowest cost-per-sheet of any bulk TP option
+category: paper-products
 price: 29.99
 rating: 4.6
 reviewCount: 41280
 bsr: 4
 commissionPerSale: 0.0
 score: 85.0
-imageUrl: "https://m.media-amazon.com/images/I/515nKDNSU5L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00C2O7C7O?tag=refillwatch-20&linkCode=ll1&language=en_US"
+imageUrl: https://m.media-amazon.com/images/I/515nKDNSU5L.jpg
+affiliateUrl: https://www.amazon.com/dp/B00C2O7C7O?tag=refillwatch-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-04-24T00:00:00+00:00"
-lastSeen: "2026-05-08T00:00:00+00:00"
+status: published
+firstSeen: '2026-04-24T00:00:00+00:00'
+lastSeen: '2026-05-08T00:00:00+00:00'
 tags:
-  - toilet-paper
-  - paper-products
-  - household
+- toilet-paper
+- paper-products
+- household
+updatedAt: '2026-06-01'
 ---
-# Scott 1000 (36 Rolls) — The Cost-Per-Sheet Benchmark
+## Overview
 
-36 rolls × 1,000 sheets = 36,000 sheets. At $29.99 that's **$0.00083/sheet** — the floor price for mainstream toilet paper.
+**b00c2o7c7o scott 1000 toilet paper 36 rolls** is a water pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
 
-## Comparison table
+Price varies on Amazon — check the live listing before you buy.
 
-| Product | Sheets/roll | Cost/sheet |
-|---|---|---|
-| Scott 1000 (bulk) | 1,000 | **$0.00083** |
-| Charmin Ultra Soft (12-pk) | ~225 | $0.0031 |
-| Kirkland (30-ct) | ~425 | $0.0012 |
-| Store brand 2-ply (24-pk) | ~200 | $0.0017 |
+We weight verified owner feedback alongside spec fit for the niche.
 
-Scott wins on cost but is 1-ply. For most households the tradeoff is worth it.
+Popularity shifts with promos; we re-check listings during refresh passes.
 
-## Price alert
+Last catalog check: **2026-06-01**.
 
-Set at $24.99. It hits this ~5 times/year and that's the time to stock up for 3+ months.
+## Who it's for
 
-<AffiliateCTA asin="B00C2O7C7O" label="Check current price on Amazon" />
+Choose this when you want a mainstream Amazon listing with clear specs and enough owner feedback to spot obvious mismatches. It fits readers who already know the problem they are solving and need a vetted shortcut—not a deep brand story.
+
+Skip it if you need white-glove support, pro-only features, or a guarantee that only a specialty retailer can provide.
+
+## What we like
+
+- **Fit for the niche** — title and category tags align with water searches our readers actually run.
+- **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
+- **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
+
+## Tradeoffs
+
+- Amazon listings change bundles, sellers, and prices without notice — always open the live product page.
+- Star averages can be gamed or stale; read recent critical reviews on Amazon before you commit.
+- We have not independently verified every marketing claim in the manufacturer bullet list.
+
+## How we score it
+
+Our desk scores **value**, **spec clarity**, and **review credibility** for water. This page is an editorial snapshot—not a sponsored post. ASIN **B00C2O7C7O** is tracked in our harvest catalog for price and availability refreshes.
+
+## Verdict
+
+**b00c2o7c7o scott 1000 toilet paper 36 rolls** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+
+---
+
+*Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
