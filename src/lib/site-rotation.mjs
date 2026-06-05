@@ -3,7 +3,7 @@
  * At spawn: set SITE_MONETIZATION from niche_specs/<slug>.json `monetization` block.
  * See DEv1 build/NICHE_ROTATION_AND_PICKS_LAW.md
  */
-import spawnHome from '../data/spawn-home.json';
+import spawnHome from '../data/spawn-home.json' with { type: 'json' };
 
 export const SITE_MONETIZATION = {
   slug: 'site-slug',

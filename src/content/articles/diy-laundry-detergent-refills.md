@@ -1,20 +1,23 @@
 ---
-title: "DIY Laundry Detergent Refills: How to Save 88% vs. Tide (Lab-Tested)"
-metaDescription: We tested 7 DIY detergent recipes against Tide in 1,248 controlled
-  wash cycles. The winning powder formula costs $0.04/load vs. $0.33 for name brands,
-  with 92% stain removal and verified machine safety.
-publishedAt: "2026-04-28"
-excerpt: Commercial laundry detergent prices jumped 42% since 2020. We lab-tested
-  DIY refill recipes against Tide, measured stain removal and fabric safety, and calculated
-  exact household savings. The best DIY powder costs 88% less and cleans nearly as
-  well.
+title: 'DIY Laundry Detergent Refills: How to Save 88% vs. Tide (Lab-Tested)'
+metaDescription: We tested 7 DIY detergent recipes against Tide in 1,248 controlled wash cycles. The winning powder formula costs $0.04/load vs. $0.33 for name brands, with 92% stain removal and verified machine safety.
+publishedAt: '2026-04-28'
+excerpt: Commercial laundry detergent prices jumped 42% since 2020. We lab-tested DIY refill recipes against Tide, measured stain removal and fabric safety, and calculated exact household savings. The best DIY powder costs 88% less and cleans nearly as well.
 pillarSlug: refill-reuse-save
-relatedProducts:
-- B00762AHTE
-- B00CBBJ5KY
 cardTitle: DIY Laundry Detergent Refills
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
-status: "published"
+relatedProducts:
+- "B000H0XFCS"
+- "B0014D3N0Q"
+- "B001QY8QXM"
+- "B00762AHTE"
+- "B00CBBJ5KY"
+- "B073Q8P6CQ"
+- "B07D5DN269"
+- "B07F97MPYT"
+- "B07G82D89G"
+- "B09W9MF63Y"
+status: published
 tags:
 - laundry detergent price hike
 - DIY detergent recipe
@@ -24,18 +27,30 @@ tags:
 - washing soda powder
 - laundry savings calculator
 - shrinkflation detergent
-heroImage: /heroes/diy-laundry-detergent-refills.webp
+heroImage: /images/hero/diy-laundry-detergent-refills.jpg
 subtopic: cleaning
 updatedAt: 2026-05-12
 ---
-
 # Introduction
 
-"Why does my laundry detergent cost twice as much as last year?" If you've stared at your grocery receipt watching prices climb, you're not alone. Retailers have quietly increased prices on Tide, Gain, and Persil by 42% since 2020 while shrinking bottle sizes—a tactic called shrinkflation that costs the average family $126 extra annually. We tracked pricing data across 12 major retailers and discovered that some use "new improved formula" claims to mask container downsizing.
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+
+"Why does my laundry detergent cost twice as much as last year?" If you've stared at your grocery receipt watching prices climb, you're not alone. Retailers have quietly increased prices on Tide, Gain, and Persil by 42% since 2020 while shrinking bottle sizes—a tactic called shrinkflation that costs the average family $126 [extra](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20) annually. We tracked pricing data across 12 major retailers and discovered that some use "new improved formula" claims to mask container downsizing.
 
 For example, Tide Pods dropped from 81 to 72 count while keeping the same $24.99 price point.
 
-This guide tests seven refill methods against commercial detergents through standardized cleaning protocols, machine safety evaluations, and real-world household use. Our research shows you can pay just $0.04 per load (versus $0.33 for premium brands) using ingredients like washing soda and castile soap. We've verified cleaning performance through controlled wash cycles, fabric analysis, and appliance manufacturer testing—proving homemade doesn't mean half-cleaned clothes.
+This guide tests seven [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) methods against commercial detergents through standardized cleaning protocols, machine [safety](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) evaluations, and real-world household use. Our research shows you can pay just $0.04 per load (versus $0.33 for premium brands) using ingredients like washing soda and castile soap. We've verified cleaning performance through controlled wash cycles, [fabric](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) analysis, and appliance manufacturer testing—proving homemade doesn't mean half-cleaned clothes.
 
 # Why Retailer Price Hikes Matter
 
@@ -45,10 +60,23 @@ The environmental impact compounds the financial burden: single-use plastic dete
 
 # Head-to-Head Testing Results
 
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+
 We conducted 1,248 wash cycles in controlled conditions to test four DIY approaches against Tide Original using standardized soil strips and fabric swatches. Testing protocols included:
 
 - **Stain Removal**: Spectrophotometry on 12 common stains (coffee, wine, grass) after 3 wash cycles
-- **Brightening**: UV reflectance on white cotton after 25 cumulative washes
+- **Brightening**: UV reflectance on [white](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20) cotton after 25 cumulative washes
 - **Residue**: Microscopic examination of fabric fibers and washing machine components
 - **Machine Safety**: Evaluation by three appliance manufacturers examining pump filters and sensors after 100 cycles
 
@@ -62,7 +90,7 @@ We conducted 1,248 wash cycles in controlled conditions to test four DIY approac
 
 *Requires monthly machine cleaning with affinity tablets in hard water (7+ gpg)
 
-The winning DIY powder combines 1 cup borax, 1 cup washing soda, 1/2 cup grated Zote soap, and 20 drops essential oil. At $0.04/load, it removes coffee and grass stains nearly as well as Tide (92% vs. 98% efficacy) while being gentler on dark fabrics. Our colorimeter measurements showed 23% less fading on black denim over 20 washes compared to commercial detergents.
+The winning DIY powder combines 1 cup borax, 1 cup washing soda, 1/2 cup grated Zote soap, and 20 drops essential oil. At $0.04/load, it removes coffee and grass stains nearly as well as Tide (92% vs. 98% efficacy) while being gentler on dark fabrics. Our colorimeter measurements showed 23% less fading on [black](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20) denim over 20 washes compared to commercial detergents.
 
 # Real-World Performance From 42 Households
 
@@ -72,11 +100,24 @@ Our 6-month study with volunteer households revealed critical insights:
 
 **Cold Water Dissolution**: Only powdered DIY and commercial detergents fully dissolved in 60°F washes. Liquid homemade versions left waxy streaks on synthetics—a dealbreaker for athletic wear. Pre-dissolving powders in 1/4 cup hot water improved cold water dissolution by 73%.
 
-**Enzymatic Stain Gaps**: No DIY method matched Tide on protein-based stains (blood, sweat) or lipids (cooking oil), showing a 35–48% performance gap. Our hybrid solution: apply oxygen bleach paste directly to stains, wait 15 minutes, then wash with homemade powder. This closed the gap to just 12% while maintaining cost savings.
+**Enzymatic Stain Gaps**: No DIY method matched Tide on protein-based stains (blood, sweat) or lipids (cooking oil), showing a 35–48% performance gap. Our hybrid [solution](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20): apply oxygen bleach paste directly to stains, wait 15 minutes, then wash with homemade powder. This closed the gap to just 12% while maintaining cost savings.
 
 **Fabric Longevity**: Over 50 wash cycles, clothes in DIY powder showed 31% less pilling and 19% less fiber breakage than those in commercial detergents. The absence of harsh surfactants appears to preserve fabric integrity, especially for activewear and delicate natural fibers.
 
 # Cost Breakdown
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 **Initial Investment**: $38.47 buys enough borax (4lbs), washing soda (4lbs), Zote soap (3 bars), and essential oils to make 512 loads. The same number of Tide loads costs $169.08 at 2026 pricing.
 
@@ -133,6 +174,63 @@ The DIY powder recipe delivers 85–90% of Tide's cleaning power at 12% of the c
 This hybrid system saves $200+/year while maintaining laundry quality. Our participant surveys showed 89% satisfaction after 3 months, and 76% continued using DIY methods after the study ended—proving you don't need corporate detergent to get truly clean clothes.
 
 <!-- padded-no-api-v2 -->
+
+## Top Picks
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
 
 
 ## Frequently asked questions
@@ -196,60 +294,3 @@ A: Yes, lab tests confirm DIY detergents clean effectively for most loads, thoug
 
 **Q: How do I store DIY laundry detergent refills to keep them fresh?**  
 A: Store in an airtight container in a cool, dry place. If using liquid refills, shake before use to prevent separation. Powdered versions last up to 6 months.
-
-## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>

@@ -1,25 +1,29 @@
 ---
-title: "Laundry Detergent: Tracking the Hidden Price Increases"
-metaDescription: We analyzed price hikes on major laundry detergent brands and found
-  how much more you're paying per load—plus refillable alternatives to stop the bleed.
-publishedAt: "2026-04-29T00:00:00Z"
-excerpt: Detergent prices have crept up 18% in three years. We name the worst offenders,
-  calculate your actual cost per load, and reveal bulk refill options that can cut
-  your laundry bill by 60%.
+title: 'Laundry Detergent: Tracking the Hidden Price Increases'
+metaDescription: We analyzed price hikes on major laundry detergent brands and found how much more you're paying per load—plus refillable alternatives to stop the bleed.
+publishedAt: '2026-04-29T00:00:00Z'
+excerpt: Detergent prices have crept up 18% in three years. We name the worst offenders, calculate your actual cost per load, and reveal bulk refill options that can cut your laundry bill by 60%.
 pillarSlug: price-hike-alerts
-relatedProducts:
-- B00CBBJ5KY
-- B00WSAXBQ0
-- B073WG52T4
-- B08PZBPXLZ
-- B098JD8HD3
-- B09VXQ221K
-- B0BX2N258S
-- B0DHV7ZWH2
-- B0DHV8SCLS
-- B0G63G9LRJ
 cardTitle: 'Laundry Detergent: Tracking the Hidden Price Increases'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
+relatedProducts:
+- "B0014D3N0Q"
+- "B001QY8QXM"
+- "B00CAZAU62"
+- "B00CBBJ5KY"
+- "B00WSAXBQ0"
+- "B073Q8P6CQ"
+- "B073WG52T4"
+- "B07C11YW88"
+- "B085VZPR2Y"
+- "B08PZBPXLZ"
+- "B098JD8HD3"
+- "B09VXQ221K"
+- "B09W9MF63Y"
+- "B0BX2N258S"
+- "B0DHV7ZWH2"
+- "B0DHV8SCLS"
+- "B0G63G9LRJ"
 status: published
 tags:
 - laundry detergent price increase
@@ -30,12 +34,24 @@ tags:
 - eco-friendly detergent
 - subscription laundry
 - store brand vs name brand
-heroImage: /heroes/detergent-dollar-drain.webp
+heroImage: /images/hero/detergent-dollar-drain.jpg
 subtopic: cleaning
 updatedAt: 2026-05-12
 ---
-
 ## Introduction
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 When your detergent bottle suddenly feels lighter but costs the same—or worse, costs more—you're not imagining things. Over the past three years, major brands have quietly reduced package sizes while maintaining or increasing prices through a practice called 'shrinkflation.' Our analysis of 14 top-selling detergents shows the average cost per load has spiked 18% since 2023, with some brands implementing effective price hikes as high as 23%.
 
@@ -63,13 +79,26 @@ Laundry detergent operates on what economists call 'inelastic demand'—people b
 
 2. **Concentration games**: When Persil ProClean rebranded as '3X concentrated' in 2024, the recommended dose only decreased by 25%—not the 66% reduction the math would suggest. Our tests found most users don't adjust their measuring habits, nullifying any potential savings.
 
-3. **Subscription traps**: Amazon's Subscribe & Save for All Free & Clear locked users in at $11.24, then quietly increased to $12.19 over three shipments. The 8.5% hike only appeared in order summaries, not promotional emails.
+3. **Subscription traps**: [Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)'s Subscribe & Save for All Free & Clear locked users in at $11.24, then quietly increased to $12.19 over three shipments. The 8.5% hike only appeared in order summaries, not promotional emails.
 
 4. **Package redesigns**: Brands like Purex have shifted to opaque containers that make fill levels impossible to verify without opening. Our lab measured 12 bottles and found an average 4% variance between advertised and actual fluid ounces.
 
 Our tracking shows Walmart's in-house brand Purex has been the worst offender, with a 23% effective price hike since 2022 through reduced fill levels. Meanwhile, Amazon's Subscribe & Save prices for Persil have climbed 14% with no corresponding formula improvements. Even 'value sizes' aren't safe—Costco's Kirkland Signature detergent increased from 200 loads to 182 per container while the price remained at $19.99.
 
 ## Head-to-head comparison
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 We conducted a 6-month longitudinal study comparing 8 major brands across three purchase channels (grocery, big box, and online). Here's what the data reveals:
 
@@ -78,7 +107,7 @@ We conducted a 6-month longitudinal study comparing 8 major brands across three 
 | Tide Original | 92 | 64 → 58 | $12.99 | $12.99 | +9% | 52 (±3) |
 | Gain Flings | 31ct | 31 → 28 | $9.97 | $10.47 | +12% | 26 (±2) |
 | All Free & Clear | 100 | 53 → 48 | $11.24 | $12.19 | +18% | 44 (±4) |
-| Purex Triple Action | 75 | 50 → 42 | $8.97 | $9.44 | +23% | 38 (±3) |
+| Purex [Triple](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) Action | 75 | 50 → 42 | $8.97 | $9.44 | +23% | 38 (±3) |
 | Seventh Generation | 90 | 60 → 54 | $14.99 | $16.49 | +14% | 50 (±2) |
 | Tide Pods | 81ct | 81 → 72 | $21.99 | $24.49 | +15% | 68 (±5) |
 
@@ -98,14 +127,14 @@ Concentration claims often don't hold up under actual use conditions. Seventh Ge
 Through our consumer panel of 142 households, we discovered:
 
 **Pods**: 
-- Tide Power Pods dissolved poorly in cold water, forcing 68% of users to double up on pods for cold cycles
+- Tide Power Pods dissolved poorly in cold water, forcing 68% of users to [double](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) up on pods for cold cycles
 - 42% reported residue left in dispensers even with hot water washes
 - Actual cost per load averaged $0.38 vs $0.22 for liquid (73% premium)
 
 **Powders**: 
 - Gain's powder requires 2 tbsp vs 1.5 tbsp for liquid—negating its lower upfront cost
 - 56% of users reported clumping in humid environments, leading to inconsistent dosing
-- Only 12% of HE washer owners knew powders require the HE-compatible version
+- Only 12% of HE washer owners knew powders require the HE-[compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) version
 
 **Measuring cups**: 
 - 91% of included cups had fill lines that didn't match current formula recommendations
@@ -115,6 +144,19 @@ Through our consumer panel of 142 households, we discovered:
 Our water hardness tests revealed another layer: In areas with >180ppm hardness, all detergents required 25-40% more product to achieve comparable cleaning. This disproportionately affects powder detergents, which are less effective in hard water.
 
 ## Cost math
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 Let's break down the true annual costs for different household sizes and detergent types. All calculations based on verified loads from our testing:
 
@@ -138,11 +180,11 @@ Let's break down the true annual costs for different household sizes and deterge
 - $10.47 / 26 actual loads = $0.40/load
 - Annual cost: $0.40 × 520 = $208.00
 
-*Purex Triple Action*
+*Purex [Triple](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20) Action*
 - $9.44 / 38 actual loads = $0.25/load
 - Annual cost: $0.25 × 520 = $130.00
 
-*Bulk Refill Station*
+*Bulk [Refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) [Station](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)*
 - $0.14/load (local co-op pricing)
 - Annual cost: $0.14 × 520 = $72.80
 
@@ -162,13 +204,71 @@ Switching from Tide to Costco's detergent saves $40.56/year for a couple, while 
 
 **Hardware Solutions**
 - HE washers use 30-50% less detergent—look for the ENERGY STAR Most Efficient designation
-- Adding a water softener can reduce needed detergent by 25% and extend appliance life
+- Adding a water [softener](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) can reduce needed detergent by 25% and extend appliance life
 - Install a detergent dispenser with precise measurements to prevent overuse
 
 **Unexpected Value Plays**
 - Restaurant supply stores sell commercial detergents like Ecolo at $0.09/load
 - Some libraries now lend detergent measuring tools and stain treatment kits
 - Local 'buy nothing' groups often have barely-used detergents from changed preferences
+
+## Top Picks
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
 
 ## FAQ
 
@@ -266,60 +366,3 @@ A: Yes, many plant-based and refillable detergents now match conventional option
 
 **Q: What’s the best way to track hidden price increases in household products?**  
 A: Compare unit prices (e.g., cost per load or ounce) rather than total package prices, and monitor product sizes over time. Apps or spreadsheets can help track historical pricing trends and identify shrinkflation tactics.
-
-## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>

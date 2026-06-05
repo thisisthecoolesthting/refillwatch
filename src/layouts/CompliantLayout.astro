@@ -22,7 +22,7 @@ const {
 } = Astro.props as Props;
 ---
 
-<BaseLayout {...baseProps} sectionAds={sectionAds} sectionAdsCompact={sectionAdsCompact}>
+<BaseLayout {...baseProps} sectionAds={sectionAds} sectionAdsCompact={sectionAdsCompact} sectionAdsFooter={baseProps.sectionAdsFooter ?? true}>
   {articleJsonLd && <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />}
   <slot />
 

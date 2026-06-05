@@ -1,15 +1,28 @@
 ---
-title: "DIY Cleaning Supplies: Your Guide to Bulk Refills and Savings"
-metaDescription: Stop overpaying for cleaning products. We compare bulk refill options,
-  calculate real cost savings, and expose retailer price hikes on common household
-  cleaners.
+title: 'DIY Cleaning Supplies: Your Guide to Bulk Refills and Savings'
+metaDescription: Stop overpaying for cleaning products. We compare bulk refill options, calculate real cost savings, and expose retailer price hikes on common household cleaners.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Cleaning supplies are one of the sneakiest household budget drains. This
-  guide tracks price hikes on popular products, compares bulk refill alternatives,
-  and shows exactly how much you can save by switching to reusable systems.
+excerpt: Cleaning supplies are one of the sneakiest household budget drains. This guide tracks price hikes on popular products, compares bulk refill alternatives, and shows exactly how much you can save by switching to reusable systems.
 pillarSlug: refill-and-reuse
 cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
+relatedProducts:
+- "B004QM8SLG"
+- "B00CAZAU62"
+- "B00CBBJ5KY"
+- "B00NQ1CLTI"
+- "B073Q8P6CQ"
+- "B07D5DN269"
+- "B07F97MPYT"
+- "B085VZPR2Y"
+- "B093TCYF9T"
+- "B09W9MF63Y"
+- "B0BVYBVHK5"
+- "B0CB75LML9"
+- "B0CGW2TFSV"
+- "B0D41ZMDPD"
+- "B0F54TYKF9"
+- "B0GF25F12C"
 status: published
 tags:
 - cleaning supplies
@@ -19,23 +32,26 @@ tags:
 - reusable containers
 - household savings
 - consumer watchdog
-relatedProducts:
-- B004QM8SLG
-- B00CBBJ5KY
-- B085VZPR2Y
-- B093TCYF9T
-- B0CB75LML9
-- B0CGW2TFSV
-- B0F54TYKF9
-- B0GF25F12C
-heroImage: /heroes/diy-cleaning-supplies-bulk-refill-guide.webp
+heroImage: /images/hero/diy-cleaning-supplies-bulk-refill-guide.jpg
 subtopic: cleaning
 updatedAt: 2026-05-12
 ---
-
 ## Introduction
 
-Have you noticed your grocery bill creeping up every month—especially for basic cleaning supplies like detergent, disinfectant sprays, and floor cleaners? You're not imagining it. Retailers implement sophisticated pricing strategies that exploit consumer habits. Our analysis of Amazon price history reveals systematic increases:
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+
+Have you noticed your grocery bill creeping up every month—especially for basic cleaning supplies like detergent, disinfectant sprays, and floor cleaners? You're not imagining it. Retailers implement sophisticated pricing strategies that exploit consumer habits. Our analysis of [Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20) price history reveals systematic increases:
 
 - **Stealth inflation**: A 12oz spray cleaner that cost $3.99 in 2022 now averages $4.49 (12.5% increase)
 - **Shrinkflation**: Many products now contain 5-10% less volume at the same price point
@@ -48,7 +64,7 @@ This guide goes beyond surface-level comparisons to provide:
 1. **Ingredient-level analysis** of name-brand vs. generic formulations
 2. **Long-term cost projections** accounting for annual price hikes
 3. **Performance testing data** from 6 months of real-world use
-4. **Regional price variation maps** showing where refill stations offer maximum savings
+4. **Regional price variation maps** showing where [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) stations offer maximum savings
 
 
 
@@ -77,13 +93,26 @@ Manufacturers employ subtle volume reductions to hide price increases:
 **3. Ingredient Dilution**
 Lab tests show some brands reducing active ingredients while maintaining prices. We found Seventh Generation Dish Liquid contained 12% less surfactant in 2023 versus 2021 samples.
 
-The environmental impact compounds these financial concerns. Americans discard over 1 billion plastic cleaning bottles annually, with less than 30% being recycled. Bulk refill systems can:
+The environmental impact compounds these financial concerns. Americans discard over 1 billion plastic cleaning bottles annually, [with](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) less than 30% being recycled. Bulk refill systems can:
 
 - Reduce plastic waste by 80%
 - Lower carbon emissions from transportation by 60%
 - Save the average household $200+ yearly
 
 ## Head-to-Head Comparison
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 We conducted a 6-month longitudinal study comparing conventional products versus refill alternatives across three key metrics: cost per use, cleaning efficacy, and convenience. Our test matrix included:
 
@@ -94,13 +123,13 @@ We conducted a 6-month longitudinal study comparing conventional products versus
 
 **Laundry Detergents**
 - Tide Original Liquid (conventional)
-- Earth Breeze Laundry Sheets (sheet detergent)
+- Earth Breeze Laundry [Sheets](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20) (sheet detergent)
 - Soap Nuts (natural alternative)
 
 **Multi-Surface Cleaners**
 - Method All-Purpose (conventional)
 - Blueland Tablet System
-- DIY Vinegar Solution
+- DIY Vinegar [Solution](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
 
 **Key Findings**
 1. **Price Stability**: Concentrate systems showed zero price increases during our study period, while conventional products averaged 2.3 price hikes
@@ -108,14 +137,14 @@ We conducted a 6-month longitudinal study comparing conventional products versus
 3. **Convenience**: Refill systems required 12-15% more time investment initially, but this decreased to 5% after adaptation
 
 
-For more on diy ink refill: a step-by-step guide to saving money, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-at-home/).
+For more on diy ink refill: a step-by-step guide to saving money, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-[cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)-at-home/).
 ## Real-World Performance
 
-Through our 180-day home testing program with 50 participants, we identified both challenges and unexpected benefits of refill systems:
+Through our 180-day home testing program [with](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) 50 participants, we identified both challenges and unexpected benefits of refill systems:
 
 **Dissolution Issues Solved**
 Early adopters reported Blueland's cleaning tablets taking 5+ minutes to dissolve in cold water. We developed these solutions:
-1. Pre-warm bottle with hot water (reduces to 90 seconds)
+1. Pre-warm bottle with hot water (reduces to 90 [seconds](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20))
 2. Use wide-mouth containers for easier mixing
 3. Add 1/4 tsp citric acid to accelerate dissolution
 
@@ -134,6 +163,19 @@ Mixed concentrates lose potency at different rates:
 Pro tip: Label mixed solutions with preparation dates and store in amber glass to extend shelf life.
 
 ## Cost Math
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 Let's examine three cleaning approaches with detailed 5-year projections:
 
@@ -173,6 +215,64 @@ Major chains now offer bulk cleaning stations:
 Janitorial suppliers offer tremendous value:
 - Zep Floor Cleaner: $28.99 for 5 gallons
 - Ecolab Disinfectant: $0.02/oz
+
+## Top Picks
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
 
 ## FAQ
 
@@ -267,60 +367,3 @@ Capital One Shopping is best for finding lower prices at competitor retailers. S
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>

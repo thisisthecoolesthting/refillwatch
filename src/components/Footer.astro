@@ -1,5 +1,6 @@
 ---
 import home from '@/data/brand.config.json';
+import FriendsOfNetwork from '@/components/FriendsOfNetwork.astro';
 const b = home.brand;
 const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || b.taglineShort;
 const year = new Date().getFullYear();
@@ -8,7 +9,7 @@ const year = new Date().getFullYear();
 <footer class="mt-24 pb-8">
   <div class="max-w-6xl mx-auto px-5">
     <div class="content-panel-muted">
-      <div class="grid md:grid-cols-3 gap-10 md:gap-8 text-sm text-ink-700">
+      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-10 md:gap-8 text-sm text-ink-700">
         <div>
           <p class="font-display text-2xl text-rose-deep mb-3">{b.fullName}</p>
           <p class="leading-relaxed">
@@ -35,6 +36,7 @@ const year = new Date().getFullYear();
             <li><a href="/contact/" class="hover:text-terracotta-600 no-underline">Contact</a></li>
           </ul>
         </div>
+        <FriendsOfNetwork variant="footer" />
       </div>
 
       <div class="mt-10 pt-6 border-t border-cream-200/70 text-center text-xs text-ink-500">

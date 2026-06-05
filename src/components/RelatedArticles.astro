@@ -1,0 +1,56 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  currentSlug: string;
+  articles: CollectionEntry<'articles'>[];
+  subtopic?: string;
+  tags?: string[];
+  limit?: number;
+}
+
+const { currentSlug, articles, subtopic = '', tags = [], limit = 4 } = Astro.props;
+
+const tagSet = new Set((tags || []).map((t) => t.toLowerCase()));
+
+function score(entry: CollectionEntry<'articles'>): number {
+  let s = 0;
+  const d = entry.data as { subtopic?: string; tags?: string[] };
+  if (subtopic && d.subtopic === subtopic) s += 3;
+  for (const t of d.tags || []) {
+    if (tagSet.has(String(t).toLowerCase())) s += 1;
+  }
+  return s;
+}
+
+const related = articles
+  .filter((a) => a.slug !== currentSlug && a.data.status !== 'draft')
+  .map((a) => ({ entry: a, s: score(a) }))
+  .filter((x) => x.s > 0)
+  .sort((a, b) => b.s - a.s || String(b.entry.data.publishedAt).localeCompare(String(a.entry.data.publishedAt)))
+  .slice(0, limit)
+  .map((x) => x.entry);
+
+if (!related.length) return;
+---
+
+<aside class="not-prose mt-10 pt-8 border-t border-cream-200" aria-labelledby="related-articles-heading">
+  <h2 id="related-articles-heading" class="font-display text-xl text-ink-900 mb-4 !mt-0">
+    Related reading
+  </h2>
+  <ul class="space-y-3">
+    {related.map((a) => (
+      <li>
+        <a
+          href={`/articles/${a.slug}`}
+          class="block rounded-xl border border-cream-200 bg-white px-4 py-3 no-underline shadow-soft transition hover:border-terracotta-300 hover:shadow-soft-lg"
+        >
+          <span class="font-semibold text-sm text-ink-900 leading-snug">{a.data.title}</span>
+          {a.data.excerpt && (
+            <span class="block text-xs text-ink-500 mt-1 line-clamp-2">{a.data.excerpt}</span>
+          )}
+        </a>
+      </li>
+    ))}
+  </ul>
+</aside>

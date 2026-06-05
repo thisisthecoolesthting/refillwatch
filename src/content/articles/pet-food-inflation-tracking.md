@@ -1,17 +1,20 @@
 ---
-title: "Pet Food Price Hikes: Track the Increases, Find Cheaper Alternatives"
-metaDescription: Pet food prices jumped 18% in one year. We tracked which brands raised
-  prices most, why quality dropped simultaneously, and how to save $230+ annually
-  without cutting corners.
+title: 'Pet Food Price Hikes: Track the Increases, Find Cheaper Alternatives'
+metaDescription: Pet food prices jumped 18% in one year. We tracked which brands raised prices most, why quality dropped simultaneously, and how to save $230+ annually without cutting corners.
 publishedAt: '2026-04-28'
-excerpt: Pet food prices are rising faster than general inflation—and most brands
-  are quietly shrinking portions at the same time. We tracked price hikes across 12
-  retailers, identified which brands hiked hardest, and found tested alternatives
-  that save real money.
+excerpt: Pet food prices are rising faster than general inflation—and most brands are quietly shrinking portions at the same time. We tracked price hikes across 12 retailers, identified which brands hiked hardest, and found tested alternatives that save real money.
 pillarSlug: price-hike-alerts
-relatedProducts:
 cardTitle: Pet Food Price Hikes
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
+relatedProducts:
+- "B0014D3N0Q"
+- "B00CAZAU62"
+- "B00NQ1CLTI"
+- "B073Q8P6CQ"
+- "B074ND5RDT"
+- "B07D5DN269"
+- "B07F97MPYT"
+- "B0CGW48C3G"
 status: published
 tags:
 - pet food price hike
@@ -22,12 +25,24 @@ tags:
 - pet food subscription creep
 - refillable pet food options
 - price tracking pet goods
-heroImage: /heroes/pet-food-inflation-tracking.webp
+heroImage: /images/hero/pet-food-inflation-tracking.jpg
 subtopic: cleaning
 updatedAt: 2026-05-12
 ---
-
 # Introduction
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 Have you noticed your pet food bill creeping up month after month? You're not alone. Retailers are quietly increasing prices on pet food—often while reducing portion sizes and quality. At RefillWatch, we track these price hikes so you don't have to guess what happened to your budget.
 
@@ -39,14 +54,27 @@ Pet food is a recurring monthly expense for millions of households. Unlike occas
 
 The real impact goes beyond dollars:
 - A retired couple on fixed income watched their monthly pet food bill jump from $85 to $112
-- A small animal shelter feeding 50 dogs now spends $1,875/month instead of $1,500
+- A [small](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) animal shelter feeding 50 dogs now spends $1,875/month instead of $1,500
 - Veterinary clinics report more owners diluting food or reducing portions to stretch budgets
 
-Our survey of 1,200 pet owners found 68% experience "pet food stress"—genuine anxiety about affording quality nutrition for their pets. This hits hardest for owners of large-breed dogs and pets with medical dietary needs.
+Our survey of 1,200 pet owners found 68% experience "pet food stress"—genuine anxiety about affording quality nutrition for their pets. This hits hardest for owners of [large](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)-breed dogs and pets [with](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) medical dietary needs.
 
 What's most troubling: Four of the five major brands we tracked *reduced protein content while raising prices*. That's skimpflation in plain sight.
 
 # Head-to-head price tracking
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 We compared five popular pet food products across 12 retailers over the past 12 months.
 
@@ -54,11 +82,11 @@ We compared five popular pet food products across 12 retailers over the past 12 
 |---------|------------------|------------------|----------|----------------------|
 | Brand A Kibble 30-lb | $30 | $35 | +16.7% | Protein dropped 32%→28%; more corn filler |
 | Brand B Wet Food (24 pk) | $20 | $22 | +10% | Same formula, but new non-recyclable lid |
-| Brand C Training Treats | $15 | $18 | +20% | Package size reduced 12% |
+| Brand C Training Treats | $15 | $18 | +20% | Package [size](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20) reduced 12% |
 | Brand D Dental Chews | $25 | $28 | +12% | Ingredient sourcing changed to cheaper suppliers |
 | Brand E Senior Formula | $40 | $47 | +17.5% | Added "premium" marketing label; formula unchanged |
 
-The pattern is clear: prices went up across the board. But the *reasons* vary—and some are harder to justify than others. Brand A's protein reduction means your dog needs 10–15% more food to maintain energy, which completely erases any savings. Brand C's 20% price hike combined with 12% smaller treats is particularly aggressive.
+The pattern is clear: prices went up across the board. But the *reasons* vary—and some are harder to justify than others. Brand A's protein reduction means your dog needs 10–15% more food to maintain energy, which completely erases any savings. Brand C's 20% price hike combined [with](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) 12% smaller treats is particularly aggressive.
 
 # Real-world performance and downsides
 
@@ -74,12 +102,25 @@ The pattern is clear: prices went up across the board. But the *reasons* vary—
 
 # The cost math
 
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+
 Let's calculate what these hikes actually cost you per year.
 
 **Brand A Kibble scenario**: $1.50/lb (2025) → $1.75/lb (2026), but protein reduction means needing 15% more food.
 - Base price increase: +$26/year (2 lbs/week consumption)
 - Actual increase (accounting for needing more): **+$89.30/year**
-- Over a dog's 12-year lifespan: **+$1,071 extra**
+- Over a dog's 12-year lifespan: **+$1,071 [extra](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)**
 
 **Brand B Wet Food scenario**: $1.00/can (2025) → $1.10/can (2026), one can per day.
 - Price increase: +$36.50/year
@@ -106,9 +147,9 @@ Brand F Treats offer bulk "trainer's boxes" (5-lb packs) at $0.55/treat—45% ch
 
 **Pro strategies**:
 - Join pet food co-ops for wholesale pricing (often 20–30% discount)
-- Time bulk purchases to major sale windows (January, April, July, October)
+- Time bulk purchases to major sale windows (January, [April](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20), July, October)
 - Use cashback apps (Fetch Rewards, Ibotta) for 2–5% back on pet food
-- Subscribe to price alerts on CamelCamelCamel for Amazon price drops
+- Subscribe to price alerts on CamelCamelCamel for [Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20) price drops
 
 # FAQ
 
@@ -161,6 +202,63 @@ Our tested strategy: **Switch to bulk alternatives, use airtight storage, and ti
 Stay vigilant. Prices will keep rising—but you don't have to pay full markup.
 
 <!-- padded-no-api-v2 -->
+
+## Top Picks
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
 
 
 ## Frequently asked questions
@@ -224,60 +322,3 @@ A: Yes, consider bulk or refillable pet food options, which reduce packaging was
 
 **Q: Where can I find cheaper pet food without sacrificing quality?**  
 A: Compare prices online, buy in bulk, or explore store brands with similar nutritional value. Local co-ops or refill stations may also offer discounts for bringing your own containers.
-
-## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>

@@ -1,0 +1,36 @@
+{
+  "heading": "More from our network",
+  "intro": "Independent editorial sites we trust — same watchdog standards, different niches.",
+  "sites": [
+    {
+      "name": "InkLedger",
+      "url": "https://inkledger.org",
+      "tagline": "Printer ink & cartridge price tracking"
+    },
+    {
+      "name": "SubAudit",
+      "url": "https://subaudit.org",
+      "tagline": "Subscription creep & cancel guides"
+    },
+    {
+      "name": "FilterCycle",
+      "url": "https://filtercycle.org",
+      "tagline": "HVAC & fridge filter replacement costs"
+    },
+    {
+      "name": "Second Spring Club",
+      "url": "https://secondspringclub.com",
+      "tagline": "Household wellness & staple swaps"
+    },
+    {
+      "name": "Chairwise",
+      "url": "https://chairwise.app",
+      "tagline": "Ergonomic seating buyer guides"
+    },
+    {
+      "name": "Kitchenwise",
+      "url": "https://kitchenwise.app",
+      "tagline": "Kitchen gear & small-appliance picks"
+    }
+  ]
+}

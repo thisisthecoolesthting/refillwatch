@@ -38,13 +38,23 @@ function readTags(fm) {
   return tags;
 }
 
-/** Replace from ## Top Picks to EOF with heading + topic cards. */
-function replaceTopPicksToEof(body, cardsHtml) {
+/** Insert or replace ## Top Picks block (before FAQ/meta tail when missing). */
+const META_HEADING = /^## (?:FAQ|How we tracked|Bottom Line|Frequently asked)/im;
+
+function applyTopPicks(body, cardsHtml) {
   const idx = body.indexOf('## Top Picks');
-  if (idx < 0) return null;
-  const before = body.slice(0, idx).trimEnd();
-  const section = `## Top Picks\n\n${cardsHtml.trim()}\n`;
-  return `${before}\n\n${section}`;
+  if (idx >= 0) {
+    const before = body.slice(0, idx).trimEnd();
+    const section = `## Top Picks\n\n${cardsHtml.trim()}\n`;
+    return `${before}\n\n${section}`;
+  }
+  const section = `\n\n## Top Picks\n\n${cardsHtml.trim()}\n`;
+  const metaMatch = body.match(META_HEADING);
+  if (metaMatch?.index != null) {
+    const before = body.slice(0, metaMatch.index).trimEnd();
+    return `${before}${section}\n\n${body.slice(metaMatch.index).trimStart()}`;
+  }
+  return `${body.trimEnd()}${section}`;
 }
 
 const files = fs.readdirSync(articlesDir).filter((f) => f.endsWith('.md'));
@@ -56,7 +66,6 @@ for (const f of files) {
   const slug = f.replace(/\.md$/, '');
   const raw = fs.readFileSync(filePath, 'utf8');
   const { fm, body, prefix } = parseMeta(raw);
-  if (!body.includes('## Top Picks')) continue;
 
   const topic = classifyArticleTopic({
     slug,
@@ -68,8 +77,8 @@ for (const f of files) {
 
   const picks = getTopicPicks(topic);
   const cards = picks.map((p) => amazonPickCardHtml(p)).join('\n\n');
-  const newBody = replaceTopPicksToEof(body, cards);
-  if (!newBody || newBody === body) continue;
+  const newBody = applyTopPicks(body, cards);
+  if (newBody === body) continue;
 
   fs.writeFileSync(filePath, `${prefix}${newBody}`, 'utf8');
   updated++;

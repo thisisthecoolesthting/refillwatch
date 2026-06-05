@@ -118,6 +118,15 @@
     @apply bg-terracotta-600;
   }
 
+  /* Prose Amazon affiliate text links — distinct from internal links for CTR + disclosure */
+  .article-body-wide :global(a[href*="amazon.com/dp/"]) {
+    @apply font-medium text-terracotta-600 underline decoration-terracotta-400/60 decoration-2 underline-offset-2;
+  }
+  .article-body-wide :global(a[href*="amazon.com/dp/"]::after) {
+    content: ' ↗';
+    @apply text-[0.7em] text-terracotta-500 no-underline;
+  }
+
   .amazon-inline-card--mid {
     @apply my-5;
   }

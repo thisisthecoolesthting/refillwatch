@@ -1,0 +1,59 @@
+---
+/**
+ * Cross-links to sibling affiliate / editorial sites (friends-of network).
+ */
+import network from '@/data/network-sites.json';
+
+export interface Props {
+  variant?: 'footer' | 'inline';
+}
+
+const { variant = 'footer' } = Astro.props;
+const { heading, intro, sites } = network;
+
+if (!sites?.length) return;
+---
+
+{variant === 'footer' ? (
+  <div>
+    <p class="font-semibold mb-3 text-ink-900 uppercase tracking-[0.15em] text-xs">{heading}</p>
+    {intro && <p class="text-xs text-ink-500 leading-relaxed mb-3">{intro}</p>}
+    <ul class="space-y-2.5">
+      {sites.map((site) => (
+        <li>
+          <a
+            href={site.url}
+            class="group block no-underline hover:text-terracotta-600"
+            rel="noopener"
+            target="_blank"
+          >
+            <span class="font-medium text-ink-900 group-hover:text-terracotta-600">{site.name}</span>
+            <span class="block text-xs text-ink-500 mt-0.5">{site.tagline}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+) : (
+  <aside class="not-prose my-10 rounded-2xl border border-cream-200 bg-cream-50/80 p-5 md:p-6">
+    <p class="font-mono text-[10.5px] tracking-[0.16em] uppercase text-terracotta-600 font-medium mb-1">
+      {heading}
+    </p>
+    {intro && <p class="text-sm text-ink-600 mb-4">{intro}</p>}
+    <ul class="grid sm:grid-cols-2 gap-3">
+      {sites.map((site) => (
+        <li>
+          <a
+            href={site.url}
+            class="flex flex-col rounded-xl border border-cream-200 bg-white px-4 py-3 no-underline shadow-soft transition hover:border-terracotta-300 hover:shadow-soft-lg"
+            rel="noopener"
+            target="_blank"
+          >
+            <span class="font-semibold text-sm text-ink-900">{site.name} ↗</span>
+            <span class="text-xs text-ink-500 mt-1 leading-snug">{site.tagline}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}

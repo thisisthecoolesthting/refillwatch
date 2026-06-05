@@ -9,8 +9,8 @@ import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import type { SectionPage } from '@/lib/section-page';
 import home from '@/data/spawn-home.json';
 
-const id = home.brand.identity;
 const b = home.brand;
+const id = b?.identity ?? {};
 const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || '';
 
 // Analytics auto-injection — reads niche_spec.analytics.ga_measurement_id at
@@ -37,6 +37,8 @@ export interface Props {
   sectionAds?: SectionPage | false;
   /** Tighter header ad on list/index pages (no ornament) */
   sectionAdsCompact?: boolean;
+  /** When false, only render header band (home keeps footer ad before newsletter) */
+  sectionAdsFooter?: boolean;
 }
 
 const {
@@ -54,6 +56,7 @@ const {
   ogTitle,
   sectionAds = false,
   sectionAdsCompact = false,
+  sectionAdsFooter = true,
 } = Astro.props;
 
 const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
@@ -131,7 +134,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     )}
     <main id="main-content" class="flex-1" tabindex="-1">
       <slot />
-      {sectionAds && <SiteSectionAds page={sectionAds} variant="footer" />}
+      {sectionAds && sectionAdsFooter && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
     <GlobalBottomAffiliateStrip />
     <CaseAdRotateInit />

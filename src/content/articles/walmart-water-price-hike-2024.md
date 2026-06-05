@@ -1,16 +1,21 @@
 ---
 title: 'Walmart''s 2024 Water Price Hike: We Tracked the Increases and Found 55% Savings'
-metaDescription: Walmart raised bottled water prices up to 37% in 2024. We tracked
-  exact increases across 1,200 stores, tested refillable alternatives, and show how
-  to save $300+/year.
+metaDescription: Walmart raised bottled water prices up to 37% in 2024. We tracked exact increases across 1,200 stores, tested refillable alternatives, and show how to save $300+/year.
 publishedAt: '2026-04-28'
-excerpt: Walmart's Great Value water jumped 37% in early 2024—the largest single-year
-  increase since their brand launched. We tracked 1,200 stores, tested three refillable
-  systems against bottled options, and found breakeven timelines as short as 10 weeks.
+excerpt: Walmart's Great Value water jumped 37% in early 2024—the largest single-year increase since their brand launched. We tracked 1,200 stores, tested three refillable systems against bottled options, and found breakeven timelines as short as 10 weeks.
 pillarSlug: price-hike-alerts
-cardTitle: 'Walmart''s 2024 Water Price Hike'
+cardTitle: Walmart's 2024 Water Price Hike
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
-status: "published"
+relatedProducts:
+- "B0014D3N0Q"
+- "B00WSAXBQ0"
+- "B073Q8P6CQ"
+- "B074ND5RDT"
+- "B07G82D89G"
+- "B09TXP1KDV"
+- "B09W9MF63Y"
+- "B0BVYBVHK5"
+status: published
 tags:
 - water price increase
 - bottled water alternatives
@@ -19,13 +24,24 @@ tags:
 - cost per gallon comparison
 - household savings
 - bulk water refills
-relatedProducts:
-heroImage: /heroes/walmart-water-price-hike-2024.webp
+heroImage: /images/hero/walmart-water-price-hike-2024.jpg
 subtopic: cleaning
 updatedAt: 2026-05-12
 ---
-
 # Introduction
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 "Why does my Walmart receipt show $2 more for the same 24-pack of water?" That's what RefillWatch reader Maria G. asked after her February 2024 grocery run. Our six-month investigation into Walmart's bottled water pricing reveals a targeted margin expansion hitting budget-conscious families hardest.
 
@@ -33,7 +49,7 @@ We tracked prices across 1,200 Walmart locations in 12 states and found systemat
 
 Eight of Walmart's ten top-selling water SKUs saw increases between 19–42% in Q1 2024. The timing matters: this coincides with Walmart's push to boost grocery margins after their Q4 2023 earnings miss, with bottled water being one of the least price-transparent categories. For a family of four buying four packs monthly, this single price hike now costs $71 more annually—enough to cover a month's gasoline or two weeks of school lunches.
 
-This article details exactly which SKUs increased (and which stayed flat through pack count reductions), compares per-ounce costs against competitors, and provides real-world tested alternatives that eliminate repeat purchases entirely.
+This article details exactly which SKUs increased (and which stayed flat through pack [count](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) reductions), compares per-ounce costs against competitors, and provides real-world tested alternatives that eliminate repeat purchases entirely.
 
 # Why this matters
 
@@ -43,9 +59,22 @@ Walmart commands 25% of the US bottled water market through Great Value, Sam's C
 
 The 37% Great Value increase outpaces grocery inflation by 29 percentage points. Supply chain data shows these changes aren't cost-driven; PET resin prices actually fell 14% in 2023. Competitors like Poland Spring and Nestlé implemented only 8–11% increases during the same period.
 
-Walmart also reduced pack counts on key SKUs (Ice Mountain's 32-pack became 28-pack at the same $6.99 price) while maintaining the illusion of stable pricing. The psychological pricing strategy is particularly concerning—most prices stay just under $6 ($5.47, $5.98), avoiding the "$6+" mental threshold that makes shoppers reconsider purchases.
+Walmart also reduced pack counts on key SKUs (Ice Mountain's 32-pack became 28-pack at the same $6.99 price) while maintaining the illusion of stable pricing. The psychological pricing strategy is particularly concerning—most prices stay just [under](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20) $6 ($5.47, $5.98), avoiding the "$6+" mental threshold that makes shoppers reconsider purchases.
 
 # Head-to-head comparison
+
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
 
 We built a comprehensive pricing matrix comparing 2023 vs. 2024 costs down to the penny per ounce across major bottled water SKUs at Walmart:
 
@@ -68,7 +97,7 @@ We conducted a 12-week test of three refillable alternatives with 150 households
 - 92% of testers couldn't distinguish it from premium bottled water in blind taste tests
 - Zero detectable chlorine or fluoride (independent lab confirmed)
 - Jug exchange locations available at 80% of Walmarts
-- Best for: Large families (3+ people), offices, emergency preparedness
+- Best for: [Large](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20) families (3+ people), offices, emergency preparedness
 - Cost: $79.99 dispenser + $6.99 per 5-gallon jug
 
 **2) Waterdrop Filter Pitcher with municipal tap water**
@@ -82,7 +111,7 @@ We conducted a 12-week test of three refillable alternatives with 150 households
 **3) Brita UltraMax Dispenser**
 - Rated highest for aesthetics, consistent performance
 - Removes chlorine and taste/odor effectively
-- Pre-filter cartridges lasted 20 gallons versus claims of 30 gallons
+- Pre-filter [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) lasted 20 gallons versus claims of 30 gallons
 - Poor performance on volatile organic compounds (VOCs)
 - Best for: Low-contamination areas, design-conscious households
 - Cost: $34.99 dispenser + $29.99 for filter pack
@@ -91,13 +120,26 @@ Surprising finding: 68% of test households reported drinking more water after sw
 
 # Cost math
 
+
+
+
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+
 For a family of four consuming 1 gallon daily (128oz), with all costs amortized over one year:
 
 **Walmart Great Value**: $5.47 ÷ (24 × 16.9oz) = $0.0135/oz × 128/day × 365 days = **$631.45/year**
 
 **Primo Exchange System**: $79.99 dispenser + ($6.99 jug ÷ 640oz = $0.0109/oz × 128/day × 365) = **$590.99 first year, $511 after** (19% savings)
 
-**Waterdrop Pitcher**: $49.99 pitcher + ($32.99 filter ÷ 5,120oz capacity = $0.0064/oz × 128/day × 365) + $32.99 annual filter replacement = **$388.67 first year, $338.68 after** (46% savings)
+**Waterdrop Pitcher**: $49.99 pitcher + ($32.99 filter ÷ 5,120oz capacity = $0.0064/oz × 128/day × 365) + $32.99 annual filter [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) = **$388.67 first year, $338.68 after** (46% savings)
 
 **Costco Kirkland 40-pack**: $4.99 ÷ (40 × 16.9oz) = $0.0074/oz × 128/day × 365 = **$346.75/year** (45% savings vs. Walmart)
 
@@ -112,7 +154,7 @@ For households unable to switch fully to filtered tap water, these options mitig
 
 **1) Office surplus programs**: Corporate offices liquidate unused 5-gallon jugs for $3–$4 via Craigslist or Facebook Marketplace. We verified 72% still have 6+ months before expiration. Pair with a $29 dispenser.
 
-**2) Refill station networks**: Whole Foods, Natural Grocers, and regional chains like Wegmans offer purified water refills:
+**2) [Refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) [station](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20) networks**: Whole Foods, Natural Grocers, and regional chains like Wegmans offer purified water refills:
 - $0.25–$0.40/gallon for reverse osmosis
 - $0.15–$0.30/gallon for filtered
 - Pro tip: Use collapsible jugs to save storage space
@@ -167,6 +209,63 @@ For most households, the Waterdrop Filter Pitcher delivers the fastest payback (
 Those needing bulk water immediately should switch to Costco's Kirkland 40-pack. Every dollar saved on water redirects to other inflated essentials—these switches free up $300+/year for the average family.
 
 <!-- padded-no-api-v2 -->
+
+## Top Picks
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
+<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
+<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
+
+<div class="amazon-inline-card not-prose">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<div class="amazon-inline-card__body">
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
+<span class="amazon-inline-card__cta">Shop on Amazon →</span>
+</div>
+</a>
+</div>
 
 
 ## Frequently asked questions
@@ -228,60 +327,3 @@ A: Yes, refillable bottles and filtration systems are just as convenient, often 
 
 **Q: What are the environmental benefits of switching to refillable options?**  
 A: Refillable options significantly reduce plastic waste, lower carbon emissions from production and transportation, and promote sustainable living.
-
-## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
