@@ -128,7 +128,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <SkipLink />
     <Header />
     {sectionAds && (
-      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95">
+      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95 py-0">
         <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
       </div>
     )}

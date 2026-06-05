@@ -291,7 +291,11 @@
 
   .site-top-ad-band :global(.section-ads-header .cad-wrap) {
     margin-top: 0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.15rem;
+  }
+  .site-top-ad-band :global(.section-ads-header) {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
   }
 }
 @layer utilities {
