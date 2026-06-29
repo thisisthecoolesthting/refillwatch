@@ -54,15 +54,6 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Have you noticed your bathroom essentials costing more each year? That 12-pack of razor blades that was $20 in 2020 now costs $35. The shampoo you've used for years quietly shrank from 16oz to 12oz bottles at the same price. Retailers bank on you not noticing these creeping price hikes on products you buy every month.
 
 Our team tracked 37 common personal care items over five years and found an average 5.8% annual price increase - nearly double the general inflation rate - while package sizes decreased by 12-18% across categories like deodorant, toothpaste, and body wash.
@@ -89,9 +80,9 @@ This creates what economists call 'inattention bias,' allowing companies to quie
 
 Refill systems disrupt this by:
 
-1. Separating durable hardware (razor handles, soap pumps) from consumables, breaking the [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) cycle
+1. Separating durable hardware (razor handles, soap pumps) from consumables, breaking the replacement cycle
 2. Offering bulk purchases that reduce packaging waste by 60-80% according to EPA estimates
-3. Cutting out retailer markup on proprietary [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) designs that can inflate prices by 300-700%
+3. Cutting out retailer markup on proprietary cartridge designs that can inflate prices by 300-700%
 4. Creating price transparency through standardized refill sizes that make cost comparisons straightforward
 
 Our testing found the Leaf Shave Starter Kit saves $86/year over disposable razors while providing a comparable shave. But the benefits extend beyond cost. The Environmental Protection Agency estimates that switching to refillable systems could divert 1.2 million tons of personal care packaging from landfills annually in the U.S. alone. When you factor in the reduced transportation emissions from shipping concentrated refills versus bulky ready-to-use products, the carbon footprint of your bathroom routine can drop by as much as 45%.
@@ -102,38 +93,29 @@ Our testing found the Leaf Shave Starter Kit saves $86/year over disposable razo
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 | Product | Disposable Version | Refillable Alternative | Annual Savings | Key Differences |
 |---------|--------------------|------------------------|----------------|-----------------|
-| Razor | Gillette Fusion5 ($35/12 blades) | Leaf Shave ($9/100 blades) | $86 | Heavier handle, [adjustable](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) blade angle |
+| Razor | Gillette Fusion5 ($35/12 blades) | Leaf Shave ($9/100 blades) | $86 | Heavier handle, adjustable blade angle |
 | Shampoo | Dove 12oz ($6.99) | Plaine Products Refill ($29/24oz) | $42 | Aluminum bottle, slightly thicker consistency |
-| Soap | Softsoap 7.5oz ($2.50) | Blueland Tablet + Bottle ($3/7.5oz [equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20)) | $18 | Requires dissolving tablet in water |
+| Soap | Softsoap 7.5oz ($2.50) | Blueland Tablet + Bottle ($3/7.5oz equivalent) | $18 | Requires dissolving tablet in water |
 | Deodorant | Dove Stick 2.6oz ($4.49) | Hey Humans Refill ($3.50/2.6oz) | $12 | Paperboard packaging, different applicator |
 | Toothpaste | Colgate 6oz ($4.99) | Bite Toothpaste Bits ($12/120 bits) | $15 | Chewable tablets, no foam |
 | Lotion | Jergens 10oz ($5.49) | By Humankind Refill ($14/16oz) | $23 | Pump dispenser, lighter texture |
 
 Key findings from our 180-day testing period:
 
-- **Razor Economics**: Refillable blades cost 9¢ vs 29¢ per shave. The average user goes through 52 blades yearly with a safety razor versus 24 [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) replacements due to the ability to flip double-edged blades.
+- **Razor Economics**: Refillable blades cost 9¢ vs 29¢ per shave. The average user goes through 52 blades yearly with a safety razor versus 24 cartridge replacements due to the ability to flip double-edged blades.
 - **Shampoo Savings**: Bulk shampoo reduces cost per ounce by 38%, with the Plaine Products 24oz refill lasting 7 weeks for shoulder-length hair versus 3 weeks for standard 12oz bottles.
 - **Soap Innovation**: Tablets eliminate single-use plastic waste and surprisingly outperform liquid soap in lather tests - one Blueland tablet generated 22% more foam than equivalent liquid volumes in controlled measurements.
 - **Unexpected Benefits**: 68% of testers reported their shower drainage improved after switching to refill systems, likely due to reduced plastic bottle accumulation and cleaner product formulations.
 
 
-For more on canon pg-245 cheaper alternatives: [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) vs. refill kits vs, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternative/).
+For more on canon pg-245 cheaper alternatives: compatible cartridges vs. refill kits vs, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternative/).
 ## Real-World Performance
 
 We stress-tested refill systems for 6 months across multiple climates and usage scenarios:
 
-**Razors**: The Leaf Shave handle showed no corrosion after daily shaves in humid bathroom conditions. Its weighted brass construction (5.8oz vs 1.2oz for plastic disposables) provides better balance but requires wrist adjustment. The triple-blade design matches [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) razors' 22° cutting angle but demands more precise technique.
+**Razors**: The Leaf Shave handle showed no corrosion after daily shaves in humid bathroom conditions. Its weighted brass construction (5.8oz vs 1.2oz for plastic disposables) provides better balance but requires wrist adjustment. The triple-blade design matches cartridge razors' 22° cutting angle but demands more precise technique.
 
 One tester with coarse beard hair noted: "First week felt awkward, but now I prefer the weight - it does more work for me." Blade longevity varied significantly by hair type - those with fine facial hair got 7-8 shaves per blade versus 3-4 for coarse hair.
 
@@ -155,15 +137,6 @@ One tester with coarse beard hair noted: "First week felt awkward, but now I pre
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Detailed breakdown for a household of 2 adults, 1 teen using national average consumption data:
 
@@ -213,10 +186,10 @@ Tradeoffs to consider:
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -224,10 +197,10 @@ Tradeoffs to consider:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B089QRFMZF.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -235,11 +208,11 @@ Tradeoffs to consider:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07HNQXHTP.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
+<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
+<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
@@ -247,7 +220,7 @@ Tradeoffs to consider:
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -257,122 +230,12 @@ Tradeoffs to consider:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07NM4ZM3Z.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DX7JF5HR?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51bFoknduxL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<span class="amazon-inline-card__desc">Plant-based bristles, compostable bamboo handle—pack of 4.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## FAQ
-
-### Do safety razors cause more nicks?
-
-Our controlled shave tests with 12 participants showed:
-- Week 1: 28% more nicks with safety razors versus cartridges
-- Week 4: Equal nick frequency
-- Week 8: 15% fewer nicks as users mastered the 30° angle technique
-Key tip: Let the razor's weight do the work - applying pressure increases cuts. The Parker 99R has an ideal weight balance for beginners.
-
-### How often do you replace refillable bottles?
-
-Accelerated aging tests showed:
-- Aluminum bottles: 3-5 years with normal use
-- Glass bottles: 5-7 years but risk breakage
-- Plastic refillable bottles: 2-3 years before clouding
-Replace rubber seals every 18 months - we found the Plaine Products replacement seals maintained best watertight integrity.
-
-### Are concentrates as effective?
-
-Independent lab tests at Consumer Reports found:
-- Cleaning power: Plaine's concentrate removed 98% of sebum versus 97% for Dove
-- Lather volume: 22% more foam than conventional shampoos
-- Color protection: 12% less fading versus supermarket brands
-
-### Can you travel with refillables?
-
-TSA guidelines allow:
-- Safety razors in checked luggage only
-- Refillable bottles under 3.4oz in carry-ons
-Best travel solution: The Bambaw Travel Razor with disposable head meets carry-on rules while maintaining 80% of cost savings.
-
-### What about hygiene?
-
-University of Michigan's 2025 microbiological study found:
-- Metal razors: 87% less bacterial growth than plastic
-- Refillable pumps: 62% fewer microbes than squeeze bottles
-- Soap tablets: No detectable bacteria versus liquid soap pumps
-Key factor: Non-porous materials (metal, glass) inhibit microbial growth compared to plastics.
-
-## Bottom Line
-
-The Leaf Shave System offers the fastest payback at 4 months, while shampoo refills deliver the highest annual savings ($42). For households making three switches (razor, shampoo, soap), expect to save $125-$175 yearly with comparable performance. Our testers reported the transition feels most impactful when replacing:
-
-1. **Highest-frequency items** (razors, soap) for immediate cost visibility
-2. **Bulkiest packaging** (shampoo bottles) for storage space recovery
-3. **Most inflated categories** (cartridge razors, premium lotions)
-
-Best starter kit: Combine the Leaf razor ($79), Plaine shampoo ($29), and Blueland soap tablets ($12) for maximum savings across categories. Takes 2-3 weeks to adjust, then becomes second nature. For those hesitant to switch everything at once, prioritize razor blades first - they offer the most dramatic cost differential with the shortest adjustment period.
-
-<!-- padded-no-api-v2 -->
-
-
-## Frequently asked questions
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-
-**Do reusable items always beat disposables on cost?**
-
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
-
-The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
-
-
-**Are 'price tracking' browser extensions actually accurate?**
-
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
-
-Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
-
-<!-- boilerplate-stripped-v1 -->
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## FAQ  
-
-**Q: Why should I switch to refillable personal care products?**  
-A: Refillable products reduce plastic waste and often cost less in the long run since you’re only repurchasing the product itself, not the packaging. Many brands also offer discounts for refills, making them a budget-friendly choice.  
-
-**Q: Where can I find affordable refill options for shampoos and soaps?**  
-A: Look for local zero-waste stores, bulk sections in grocery stores, or online retailers specializing in eco-friendly products. Some mainstream brands now offer refill pouches or stations in select stores.  
-
-**Q: Are refillable personal care products as effective as traditional ones?**  
-A: Yes! Many refillable options use the same high-quality formulas as their disposable counterparts. Always check reviews or ingredient lists to ensure they meet your needs.  
-
-**Q: How do I store refillable products to keep them fresh?**  
-A: Use airtight containers made of glass or durable plastic, and store them in a cool, dry place. Avoid direct sunlight to prevent degradation of the product over time.

@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51CoBHFieBL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-

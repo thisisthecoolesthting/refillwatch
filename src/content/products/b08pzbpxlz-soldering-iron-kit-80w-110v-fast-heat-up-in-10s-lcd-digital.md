@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41XdOMoREFL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-

@@ -29,15 +29,6 @@ excerpt: If you're trying to cut down on single-use plastic and reduce household
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 If you're trying to cut down on single-use plastic and reduce household waste, buying new cleaning products every time they run out can feel frustrating and expensive. Many conventional cleaners come in bulky plastic bottles, with ingredients you can’t easily verify, and costs that add up. Fortunately, you can make effective, zero-waste cleaning products using simple kitchen ingredients you likely already have on hand. This approach saves money, cuts plastic waste from packaging, and offers full ingredient transparency so you know what’s cleaning your home.
 
 In this guide, I’ll walk you through the practical steps to create your own zero-waste cleaning products, explain why these DIY alternatives work, and help you navigate common pitfalls to avoid.
@@ -52,11 +43,11 @@ In this guide, I’ll walk you through the practical steps to create your own ze
 
 Most zero-waste cleaning recipes revolve around a few versatile, multi-purpose ingredients. Before starting, make sure you have these staples on hand:
 
-- **[White](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20) vinegar**: A natural acidic cleaner that cuts through grease, glass, and residues.
+- **White vinegar**: A natural acidic cleaner that cuts through grease, glass, and residues.
 - **Baking soda (sodium bicarbonate)**: Mildly abrasive and deodorizing.
 - **Liquid castile soap**: A biodegradable soap base created from vegetable oils.
 - **Lemon juice**: Adds acid, natural fragrance, and mild bleaching properties.
-- **Essential oils (optional)**: For scent and [extra](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20) antibacterial qualities.
+- **Essential oils (optional)**: For scent and extra antibacterial qualities.
 - **Water**: Preferably distilled or filtered for prolonged shelf life.
 
 With these ingredients, you can mix various cleaners tailored for specific household tasks—from floors and countertops to glass and bathrooms.
@@ -68,15 +59,6 @@ With these ingredients, you can mix various cleaners tailored for specific house
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Knowing why each ingredient works helps you mix better and substitute as needed:
 
@@ -97,7 +79,7 @@ Here are four basic cleaning products you can make easily with common kitchen in
 | All-Purpose Cleaner | Water, white vinegar, castile soap | 1:1 water to vinegar, 1 tsp soap per cup | Use on countertops, sinks, and tiles. Avoid stone surfaces.|
 | Glass Cleaner       | Water, white vinegar, lemon juice | 2 parts water, 1 part vinegar, 1 tbsp lemon juice | Spray on mirrors, windows for streak-free shine.           |
 | Scrubbing Paste     | Baking soda, castile soap, water  | Equal parts baking soda and soap, add water to paste | Use for tubs, tubs, and kitchen sinks.                      |
-| Deodorizing Spray   | Water, baking soda, essential oils (optional) | 1 liter water, 1 tbsp baking soda, 10 drops oils | Spray [fabric](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20), carpets; shake before use.                    |
+| Deodorizing Spray   | Water, baking soda, essential oils (optional) | 1 liter water, 1 tbsp baking soda, 10 drops oils | Spray fabric, carpets; shake before use.                    |
 
 ---
 
@@ -117,18 +99,9 @@ Here are four basic cleaning products you can make easily with common kitchen in
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 One advantage of homemade cleaners is knowing exactly what’s going in. There’s no unlabeled “fragrance” or mysterious preservatives—just kitchen staples.
 
-- **Allergen precautions:** Check if household members have [allergies](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20) to citrus, essential oils, or soaps used.
+- **Allergen precautions:** Check if household members have allergies to citrus, essential oils, or soaps used.
 - **Test surfaces:** Always spot-test a new cleaner to avoid damage.
 - **Safe storage:** Keep cleaning products away from food storage and children.
 
@@ -140,7 +113,7 @@ Some commercial “refillable” cleaning products advertise reduced plastic use
 
 | Refill Type          | Plastic Waste Reduction | Ingredient Transparency          | Cost Efficiency              | When Zero-Waste?                     |
 |----------------------|------------------------|---------------------------------|------------------------------|-------------------------------------|
-| Brand-name [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) | Moderate to high        | Sometimes limited                | Often more expensive          | If [cartridge](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) recycled, but still plastic |
+| Brand-name cartridges | Moderate to high        | Sometimes limited                | Often more expensive          | If cartridge recycled, but still plastic |
 | Third-party refills   | High                   | Varies widely                   | Usually cheaper than brand    | Depends on packaging materials       |
 | Concentrated refills  | Very high              | Usually transparent              | Cost-effective due to concentration | Most zero-waste--diluted at home      |
 | DIY Zero-Waste Mixes  | Complete               | 100% transparent                | Cheapest                      | Best for zero waste and full control  |
@@ -163,7 +136,7 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 
 | Cleaner Type       | Main Ingredients                  | Best Use Cases                     | Surface Safety                 | Suggested Container Type          | Approximate Cost per Use      |
 |--------------------|---------------------------------|----------------------------------|-------------------------------|----------------------------------|------------------------------|
-| All-Purpose Spray  | Vinegar, water, castile soap     | Counters, sinks, sealed tiles    | Avoid stone                   | Glass spray [bottle](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)               | <$0.10 per 16 oz spray       |
+| All-Purpose Spray  | Vinegar, water, castile soap     | Counters, sinks, sealed tiles    | Avoid stone                   | Glass spray bottle               | <$0.10 per 16 oz spray       |
 | Glass Cleaner      | Vinegar, water, lemon juice      | Windows, mirrors                 | Safe                         | Glass spray bottle               | <$0.15 per 16 oz spray       |
 | Scrubbing Paste    | Baking soda, castile soap, water | Bathtubs, grout, tough stains   | Safe on most except sensitive | Glass jar                       | <$0.05 per application       |
 | Deodorizing Spray  | Water, baking soda, essential oils | Carpets, fabric deodorizing     | Generally safe               | Refillable plastic or glass spray| <$0.10 per 16 oz spray       |
@@ -173,10 +146,10 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -184,8 +157,8 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -195,8 +168,8 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -206,8 +179,8 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -217,28 +190,12 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Can homemade cleaners replace all store-bought products?**  
-**A:** For most everyday tasks, yes. However, specialty products like heavy-duty disinfectants or specialty floor finishes may still be needed.
-
-**Q: How long do DIY cleaning solutions last?**  
-**A:** Without preservatives, they usually remain effective for 1–3 weeks stored in a cool, dark place. Castile-soap mixtures may last longer.
-
-**Q: Is white vinegar safe for all floors?**  
-**A:** No. Vinegar should be avoided on natural stone, hardwood with unfinished surfaces, and waxed floors. Use soap-based cleaners instead.
-
----
-
-Making your own zero-waste cleaning products from kitchen ingredients is a practical and cost-effective way to reduce plastic waste and chemical exposure at home. With a few simple tools and recipes, you can shift away from single-use plastic bottles and unclear ingredient lists, empowering your household to live cleaner and greener.

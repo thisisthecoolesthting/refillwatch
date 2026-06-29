@@ -31,22 +31,13 @@ Choosing refillable deodorants that actually work can be tricky. Many shoppers t
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/21hqL-BxKnL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
-<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Refillable deodorants come as a reusable container paired with a [replaceable](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20) product [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) or refill insert. Instead of tossing the entire plastic stick or bottle after use, you keep the durable dispenser and swap in a new deodorant [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) when it’s empty. The concept aims to reduce single-use plastic waste and potentially lower packaging overall.
+Refillable deodorants come as a reusable container paired with a replaceable product cartridge or refill insert. Instead of tossing the entire plastic stick or bottle after use, you keep the durable dispenser and swap in a new deodorant cartridge when it’s empty. The concept aims to reduce single-use plastic waste and potentially lower packaging overall.
 
 There are several refill formats:
 - **Solid sticks:** A reusable tube with refill solid deodorant sticks.
 - **Creams and balms:** Refillable pots or tubes designed for scooping or roll-on application.
 - **Sprays:** Refillable spray bottles with supplemental fragrance or active ingredient refills.
-- **[Cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) systems:** Click-in [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) loaded with deodorant gel or cream.
+- **Cartridge systems:** Click-in cartridges loaded with deodorant gel or cream.
 
 The key is the ratio of packaging reused versus discarded: effective refillable deodorants minimize plastic waste and other material consumption by only replacing the deodorant itself.
 
@@ -59,15 +50,6 @@ The key is the ratio of packaging reused versus discarded: effective refillable 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0BC244Z4W?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Plastic Free Deodorant — Cucumber &amp; Mint" data-card-pick="Compostable packaging and naturally derived scent—strong everyday deodorant without a plastic case.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51eE1u7v3BL.jpg" alt="Native Plastic Free Deodorant — Cucumber & Mint" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Native Plastic Free Deodorant — Cucumber & Mint</strong>
-<span class="amazon-inline-card__desc">Compostable paperboard packaging with naturally derived ingredients—no aluminum or parabens.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Many people underestimate how important formula concentration is for deodorant performance. The active ingredients must neutralize odor-causing bacteria and control wetness (if antiperspirant) effectively. Refillable deodorants often come more concentrated than single-use counterparts, which makes refills smaller and better for waste reduction.
 
@@ -83,15 +65,6 @@ Without proper concentration, refills risk being ineffective, leading you to rev
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41sysnrYwhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
-<span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 ### 1. Identify Your Primary Needs: Deodorant vs. Antiperspirant
 
@@ -155,7 +128,7 @@ Some refill claims are superficial if the refill is encased inside new disposabl
 - **Buying refillable products with weak formulations:** Some refill deodorants prioritize marketing over performance, leading to disappointing odor control.
 - **Ignoring refill availability:** The best reusable container is useless if refills are frequently out of stock or discontinued.
 - **Confusing natural scent with efficacy:** Pleasant-smelling deodorant isn’t always odor-blocking.
-- **Overlooking packaging waste in [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) third-party refills:** Some “[compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20)” refills use more plastic than the original brand’s refill.
+- **Overlooking packaging waste in compatible third-party refills:** Some “compatible” refills use more plastic than the original brand’s refill.
   
 ## Summary Table: Key Factors in Choosing Refillable Deodorants
 
@@ -164,7 +137,7 @@ Some refill claims are superficial if the refill is encased inside new disposabl
 | Active ingredient concentration | Ensures odor and sweat control | Solid antimicrobial levels, effective deodorant actives          |
 | Refill packaging waste      | Reduces plastic footprint       | Minimal single-use plastic, durable reusable container             |
 | Refill cost vs unit size      | Affordability over time         | Compare cost per gram/ml and expected usage duration               |
-| Ingredient transparency       | Health and allergy [safety](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)       | Complete ingredient disclosure, avoid vague "fragrance" listing    |
+| Ingredient transparency       | Health and allergy safety       | Complete ingredient disclosure, avoid vague "fragrance" listing    |
 | Application style             | Personal convenience and usage  | Stick, balm, cream, or spray based on preference and skin type     |
 | Brand sustainability          | Ensures ongoing refill supply | Verified refill availability and environmental claims              |
 
@@ -174,7 +147,7 @@ Refillable deodorants can keep you fresh and reduce waste — but only if you ch
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -185,7 +158,7 @@ Refillable deodorants can keep you fresh and reduce waste — but only if you ch
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0BC244Z4W?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Plastic Free Deodorant — Cucumber &amp; Mint" data-card-pick="Compostable packaging and naturally derived scent—strong everyday deodorant without a plastic case.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0BC244Z4W.jpg" alt="Native Plastic Free Deodorant — Cucumber & Mint" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/314RA4iSBHL.jpg" alt="Native Plastic Free Deodorant — Cucumber & Mint" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Plastic Free Deodorant — Cucumber & Mint</strong>
 <span class="amazon-inline-card__desc">Compostable paperboard packaging with naturally derived ingredients—no aluminum or parabens.</span>
@@ -196,7 +169,7 @@ Refillable deodorants can keep you fresh and reduce waste — but only if you ch
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0CLBF6PLW.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41IfQ1+OUhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
 <span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
@@ -206,10 +179,10 @@ Refillable deodorants can keep you fresh and reduce waste — but only if you ch
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -217,28 +190,12 @@ Refillable deodorants can keep you fresh and reduce waste — but only if you ch
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07HNQXHTP.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
+<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
+<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Are refillable deodorants better than regular deodorants for skin health?**  
-**A:** Not necessarily. Skin tolerance depends more on the ingredients than the refill format. Refillable options often use concentrated formulas, which can be gentler or harsher depending on the actives used.
-
-**Q: Do refillable deodorants save money?**  
-**A:** Sometimes. Refillable deodorants usually require a higher initial investment for the reusable container, but refills often cost less than buying full new sticks or sprays repeatedly. Check cost per use for your preferred product.
-
-**Q: Can I use third-party refills instead of brand-name refills safely?**  
-**A:** Third-party refills may reduce costs but could vary in quality, fit, or packaging waste. Verify compatibility, ingredient safety, and waste impact before switching.
-
----
-
-By focusing on what really works—effective ingredients, low packaging waste, and cost efficiency—you can confidently choose refillable deodorants that keep you fresh while shrinking your environmental footprint.

@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41ND9YlwFGL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch

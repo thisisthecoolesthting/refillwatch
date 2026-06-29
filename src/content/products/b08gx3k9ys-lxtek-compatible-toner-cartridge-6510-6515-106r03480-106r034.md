@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41gNXmpaM+L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034

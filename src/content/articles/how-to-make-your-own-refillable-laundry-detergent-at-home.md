@@ -31,19 +31,10 @@ Making your own laundry detergent at home can be a powerful way to reduce plasti
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Store-bought laundry detergents typically come in single-use plastic bottles, often bulky and partially filled with water. This packaging waste adds up quickly for households trying to cut their plastic footprint. Making your own detergent lets you:
 
 - Cut down on single-use plastic bottles.
-- Control ingredients for sensitive skin or [allergies](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20).
+- Control ingredients for sensitive skin or allergies.
 - Save money by buying bulk or cost-effective ingredients.
 - Customize scent and cleaning strength.
 
@@ -64,15 +55,6 @@ That's why a thoughtful approach to concentration, ingredient choice, and reuse 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 ### Step 1: Understand Concentration Ratios
 
@@ -130,18 +112,18 @@ To really cut waste, pairing your homemade detergent with:
 - Funnels or spouts for easy refilling
 - Clearly labeled containers to avoid confusion
 
-**Important:** Refilling claims matter—refilling a rigid plastic bottle repeatedly saves more waste than swapping single-use sachets or [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) that still contain plastic.
+**Important:** Refilling claims matter—refilling a rigid plastic bottle repeatedly saves more waste than swapping single-use sachets or cartridges that still contain plastic.
 
 | Refill Method       | Waste Reduction        | User Effort           | Cost Consideration   |
 |---------------------|-----------------------|----------------------|---------------------|
 | Bulk Powder to DIY Detergent | High (less water/packaging) | Moderate mixing step | Cost-effective bulk |
-| [Compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) [Cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) Refills | Moderate (less bottle waste) | Low ease              | Moderate but higher price than bulk |
-| Brand-name [Cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) Refills | Low ([cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) plastic still used) | Very easy             | Highest cost         |
+| Compatible Cartridge Refills | Moderate (less bottle waste) | Low ease              | Moderate but higher price than bulk |
+| Brand-name Cartridge Refills | Low (cartridge plastic still used) | Very easy             | Highest cost         |
 | Single-use Plastic Bottles  | None                  | Easiest               | Highest cost and waste |
 
 ### Step 5: Test and Adjust Per Your Laundry Needs
 
-Detergent effectiveness depends on load size, water [temperature,](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) washing machine type, and soil level.
+Detergent effectiveness depends on load size, water temperature, washing machine type, and soil level.
 
 - Run a test with lightly soiled clothes to gauge cleaning power.
 - Increase detergent slightly if stains persist.
@@ -154,22 +136,13 @@ Detergent effectiveness depends on load size, water [temperature,](https://www.a
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 | Factor                 | Homemade Detergent              | Commercial Detergent                 |
 |------------------------|--------------------------------|------------------------------------|
 | Price per load          | $0.05 - $0.15 (depending on bulk ingredient prices) | $0.15 - $0.40 (brand-dependent)      |
 | Packaging Waste         | Minimal if refilling reusables | High single-use plastic bottles     |
 | Ingredient Transparency | High - you pick each component | Low - proprietary blends and fillers|
 | Convenience            | Requires mixing and measuring    | Pre-measured and ready to use       |
-| Cleaning Power         | [Adjustable](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20); best if concentrated | Consistently formulated, often more surfactants/fillers |
+| Cleaning Power         | Adjustable; best if concentrated | Consistently formulated, often more surfactants/fillers |
 
 ## When Homemade Detergent Might Not Be Best
 
@@ -189,10 +162,10 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -200,8 +173,8 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -211,8 +184,8 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -222,8 +195,8 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -233,24 +206,12 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Can homemade detergent work in high-efficiency washers?**  
-**A:** Yes, but you must use low-sudsing recipes and highly concentrated detergents to avoid excess foam and residue.
-
-**Q: How long does homemade detergent last?**  
-**A:** When stored in a sealed container, it typically lasts 1-3 months. Add more water gradually if it thickens too much to maintain pourability.
-
-**Q: Is borax safe to use in homemade laundry detergent?**  
-**A:** Borax is an effective cleaning booster but can irritate sensitive skin. Use in small amounts or omit if you have allergies or children in the home.

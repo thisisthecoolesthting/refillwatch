@@ -29,15 +29,6 @@ excerpt: 'If you’re trying to reduce single-use plastic waste in your bathroom
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 If you’re trying to reduce single-use plastic waste in your bathroom, you’ve likely stumbled upon two popular options: refillable shampoo bars and liquid shampoo refills. Both promise to cut down on plastic bottles, but which one actually saves more waste, money, and hassle? This article breaks down the key differences, helping you make a practical, informed choice about whether to switch to shampoo bars, liquid refills, or a combination of both for your household’s sustainable shampoo routine.
 
 ---
@@ -49,10 +40,10 @@ If you’re trying to reduce single-use plastic waste in your bathroom, you’ve
 ## What Are Refillable Shampoo Bars and Liquid Refills?
 
 ### Refillable Shampoo Bars
-Shampoo bars are solid shampoos shaped like a bar of soap. They typically come without any plastic packaging or [with](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) minimal recyclable wrappings. Some bars are marketed as “refillable” because they can be used multiple times, sometimes [with](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) a tin or reusable container to store them between uses.
+Shampoo bars are solid shampoos shaped like a bar of soap. They typically come without any plastic packaging or with minimal recyclable wrappings. Some bars are marketed as “refillable” because they can be used multiple times, sometimes with a tin or reusable container to store them between uses.
 
 ### Liquid Shampoo Refills
-Liquid refills are shampoo products sold in [large](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)-sized pouches, bags, or sometimes concentrated formats designed for customers to pour into reusable bottles or dispensers. These reduce the need for constantly buying new plastic bottles, as you [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) your original container multiple times.
+Liquid refills are shampoo products sold in large-sized pouches, bags, or sometimes concentrated formats designed for customers to pour into reusable bottles or dispensers. These reduce the need for constantly buying new plastic bottles, as you refill your original container multiple times.
 
 ---
 
@@ -62,23 +53,14 @@ Liquid refills are shampoo products sold in [large](https://www.amazon.com/dp/B0
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 | Feature                     | Refillable Shampoo Bars                  | Liquid Shampoo Refills                     |
 |-----------------------------|-----------------------------------------|-------------------------------------------|
 | **Packaging Waste**           | Typically minimal or zero-plastic packaging; often compostable or recyclable paper | Pouches or bags use less plastic than bottles, but still generate single-use material |
 | **Water Content**             | Very low water content; highly concentrated | Contains water; generally less concentrated than bars |
-| **Application Method**        | Rub bar directly on wet [hair](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20) or hands, lather up | Pour refill into bottle; same usage as traditional liquid shampoo |
-| **Refill Container**          | [Small](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) tin or travel case for the bar | Original plastic or glass shampoo bottle |
+| **Application Method**        | Rub bar directly on wet hair or hands, lather up | Pour refill into bottle; same usage as traditional liquid shampoo |
+| **Refill Container**          | Small tin or travel case for the bar | Original plastic or glass shampoo bottle |
 | **Shelf Life**                | Long shelf life, no preservatives needed | Shorter shelf life; preservatives required |
-| **Ingredients Transparency** | Often simpler ingredient lists [with](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) fewer synthetic chemicals | Sometimes more ingredient complexity due to water and preservation needs |
+| **Ingredients Transparency** | Often simpler ingredient lists with fewer synthetic chemicals | Sometimes more ingredient complexity due to water and preservation needs |
 | **Cost Efficiency Over Time** | Often more cost-efficient due to concentration | Can be economical if refills well priced |
 
 ---
@@ -115,15 +97,6 @@ A downside is that refill pouch materials are often multilayer plastics that are
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">J.R.LIGGETT Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">One bar replaces multiple liquid bottles—travel-friendly and plastic-free.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Shampoo bars have very low water content, making them highly concentrated. For example, a 50g shampoo bar can equate to about 2-3 bottles (300-400mL total) of liquid shampoo depending on frequency of use. This concentration ratio means per-use cost advantages favor bars even when bar prices seem higher upfront.
 
 Liquid refills reduce bottle purchasing costs by allowing repeated bottle reuse but still come with water volume and packaging waste, which adds cost when shipping and waste disposal are factored in.
@@ -154,7 +127,7 @@ Be wary of marketing claims and evaluate the full life-cycle impact of the produ
 
 | Criteria                    | Shampoo Bars                          | Liquid Refills                       |
 |-----------------------------|------------------------------------|------------------------------------|
-| Plastic Waste Reduction      | [High](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) (often zero-plastic packaging) | Moderate (uses refill pouches, but still plastic) |
+| Plastic Waste Reduction      | High (often zero-plastic packaging) | Moderate (uses refill pouches, but still plastic) |
 | Cost Efficiency             | High due to concentration          | Moderate                           |
 | Ingredients Transparency     | Often simpler, fewer preservatives | More complex due to water content  |
 | Convenience                | Less convenient (travel/trial needed) | High (same as traditional shampoo)|
@@ -168,10 +141,10 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -179,10 +152,10 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B089QRFMZF.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -190,8 +163,8 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B082TRQ5Y1.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B001W2K51O?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41e6eGXac8L.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">J.R.LIGGETT Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">One bar replaces multiple liquid bottles—travel-friendly and plastic-free.</span>
@@ -201,10 +174,10 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Conditioner Bar" data-card-pick="Completes a solid hair routine—pairs directly with Ethique shampoo bars.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B086RYBBRH.jpg" alt="Ethique Conditioner Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DKPHHP5G?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Hydrating Conditioner Bar" data-card-pick="Completes a solid hair routine—pairs directly with Ethique shampoo bars.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41+MTQP7EEL.jpg" alt="Ethique Hydrating Conditioner Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Conditioner Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Hydrating Conditioner Bar</strong>
 <span class="amazon-inline-card__desc">Solid conditioner bar that pairs with shampoo bars for a full plastic-free routine.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -213,7 +186,7 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0CLBF6PLW.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41IfQ1+OUhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
 <span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
@@ -221,19 +194,3 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Do shampoo bars really last longer than bottled shampoo?**  
-**A:** Yes, shampoo bars are highly concentrated and typically last as long as 2-3 bottles of liquid shampoo, depending on how often you wash and hair length.
-
-**Q: Can shampoo bars be used on all hair types?**  
-**A:** Many bars suit normal to oily hair well, but people with very dry, curly, or color-treated hair might need specialized formulations, which are less common among bars.
-
-**Q: Are liquid shampoo refills better for families?**  
-**A:** Usually yes, because liquid refills allow quick filling of multiple bottles with familiar use, minimizing the learning curve and sharing issues compared to using a single shampoo bar.
-
----
-
-Choosing between refillable shampoo bars and liquid refills depends on your household’s size, preferences for convenience, sensitivity to ingredients, and how aggressive you want to be in cutting plastic waste. Both options offer clear advantages over traditional bottled shampoo, so even switching partway brings meaningful impact.

@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c

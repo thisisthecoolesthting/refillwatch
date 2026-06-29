@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51PJGgIVToL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim

@@ -11,6 +11,8 @@
     "astro": "astro",
     "fix:amazon-cards": "node scripts/fix-amazon-inline-cards.mjs",
     "verify:amazon-images": "node scripts/verify-amazon-inline-images.mjs",
+    "verify:amazon-asins": "node scripts/verify-amazon-asins.mjs",
+    "archive:off-niche-products": "node scripts/archive-off-niche-products.mjs",
     "sync:top-picks": "node scripts/sync-top-picks-by-topic.mjs",
     "sync:pinterest-fm": "node scripts/sync-article-pinterest-frontmatter.mjs"
   },

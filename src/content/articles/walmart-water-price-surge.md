@@ -44,15 +44,6 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Have you noticed your Walmart water bottles costing more at checkout? You're not imagining things. Our price tracking shows Walmart's Great Value Purified Drinking Water (24-pack) has increased from $2.98 to $3.52 since January 2023 - an 18% jump that adds $62 annually for a 2-bottle/day household. These creeping costs hit hardest for budget-conscious families and hydration-focused athletes who rely on affordable bottled water.
 
 While Walmart isn't alone in raising prices (Nestlé Waters increased their 24-pack by 14% in the same period), the retail giant's dominant 32% market share makes their pricing moves particularly impactful.
@@ -68,10 +59,10 @@ For families using bottled water for infant formula preparation, the math become
 Bottled water isn't a discretionary purchase - it's a necessity that Americans consume more of than soda (39 gallons vs. 38 gallons annually per capita). Walmart's pricing power in this category affects millions: their Great Value brand accounts for 1 in 3 bottled waters sold nationwide. Our analysis of Keepa price history data reveals three concerning trends:
 
 1. **Stealth inflation**: The 24-pack's per-bottle cost rose from $0.12 to $0.15 (25%) since 2021, masked by subtle packaging changes that reduced bottle height by 4mm while maintaining the same label dimensions
-2. **Regional disparities**: Stores in drought-prone states like Arizona show 22% higher prices than the national average, with particularly severe markups in predominantly Latino neighborhoods (28% higher than [white](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20) areas in same ZIP codes)
+2. **Regional disparities**: Stores in drought-prone states like Arizona show 22% higher prices than the national average, with particularly severe markups in predominantly Latino neighborhoods (28% higher than white areas in same ZIP codes)
 3. **Shrinkflation alerts**: The "40-pack" actually contains 35 bottles in 2024 versus 40 in 2022, a 12.5% volume reduction that equates to paying $0.19/bottle when accounting for the lost quantity
 
-For a family of four drinking the recommended half-gallon daily, these changes add $143/year in hidden hydration costs. Seniors on fixed incomes face particular strain - Medicare Advantage plans that previously [covered](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20) bottled water for patients with swallowing disorders now require prior authorization due to rising costs. Parents using bottled water for formula face similar challenges - the WIC program now [covers](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20) 18% fewer bottles per voucher than in 2020, forcing difficult tradeoffs between hydration and nutrition.
+For a family of four drinking the recommended half-gallon daily, these changes add $143/year in hidden hydration costs. Seniors on fixed incomes face particular strain - Medicare Advantage plans that previously covered bottled water for patients with swallowing disorders now require prior authorization due to rising costs. Parents using bottled water for formula face similar challenges - the WIC program now covers 18% fewer bottles per voucher than in 2020, forcing difficult tradeoffs between hydration and nutrition.
 
 Emergency preparedness experts warn these price hikes have secondary consequences: "When water becomes unaffordable, families stockpile less," notes FEMA consultant Mark Henderson. "We're seeing a 14% drop in household emergency water reserves since 2022, coinciding with these price increases." This makes cost-effective alternatives like water storage containers with built-in filtration crucial for disaster readiness.
 
@@ -80,15 +71,6 @@ Emergency preparedness experts warn these price hikes have secondary consequence
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 | Product | Current Price | Price per oz | 1-Year Price Change | Stock Status | Key Differentiators |
 |---------|--------------|--------------|----------------------|--------------|---------------------|
@@ -104,7 +86,7 @@ Key findings from our 90-day price tracking across 7 retailers:
 - Premium alkaline waters like Essentia actually became more price-stable (only 1 adjustment last quarter) due to different supply chains
 - Club stores offer better deals but require membership fees - Costco's effective price drops to $0.008/oz when accounting for executive member rewards
 
-Our stress tests revealed surprising durability differences: Walmart bottles failed 23% of 3-foot drop tests (vs 8% for Dasani), while Kirkland's [double](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)-sealed caps had zero leaks during transport simulations. These quality variations mean more wasted product - an often overlooked cost factor.
+Our stress tests revealed surprising durability differences: Walmart bottles failed 23% of 3-foot drop tests (vs 8% for Dasani), while Kirkland's double-sealed caps had zero leaks during transport simulations. These quality variations mean more wasted product - an often overlooked cost factor.
 
 # Real-world performance
 
@@ -118,7 +100,7 @@ Beyond shelf prices, we conducted extensive testing across 120 bottles from 6 br
 **Taste tests**:
 7/10 blind tasters preferred Aquafina's flavor profile despite lower mineral content, describing Great Value as having a "plastic aftertaste" in warm conditions. Interestingly, when chilled to 40°F, tasters couldn't consistently distinguish between brands.
 
-**[Temperature](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20) retention**:
+**Temperature retention**:
 Generic bottles became brittle below 40°F (vs. -10°F for premium brands), with Walmart bottles showing stress fractures after just 3 freeze/thaw cycles. This matters for:
 - Car emergency kits (where frozen bottles burst)
 - Sports coolers (where brittle bottles crack under ice)
@@ -135,15 +117,6 @@ The hidden cost of Walmart's packaging: 23% of bottles deformed during normal fr
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51v8EDjURsL.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Let's break down the true hydration economics for various household scenarios:
 
 **Bottled water (Great Value 24pk)**
@@ -155,7 +128,7 @@ Let's break down the true hydration economics for various household scenarios:
 **Filtered pitcher (Brita UltraMax)**
 - $35 pitcher + $60/year filters
 - Annual cost: $95
-- Plastic waste: 4 filter [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- Plastic waste: 4 filter cartridges
 - Added benefit: Removes 99% of lead and chlorine
 
 **Under-sink RO system (Aquasana)**
@@ -178,7 +151,7 @@ Even accounting for $0.003/oz tap water costs, the pitcher saves $343 annually. 
 1. **Bulk exchange programs**:
    - Primo Water's $1.50/gallon stations (67% cheaper than bottled)
    - Local spring water fill stations at $0.25/gallon (check FindASpring.com)
-   - Grocery store machines that sanitize and [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) your own containers for $0.30/gallon
+   - Grocery store machines that sanitize and refill your own containers for $0.30/gallon
 
 2. **Office-style coolers**:
    - 5-gallon jugs cost $1.75-$2.50 refilled (vs. $7+ for new)
@@ -249,8 +222,8 @@ Remember: the average American spends $1,300/lifetime on bottled water when tap 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -260,8 +233,8 @@ Remember: the average American spends $1,300/lifetime on bottled water when tap 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -271,10 +244,10 @@ Remember: the average American spends $1,300/lifetime on bottled water when tap 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -282,8 +255,8 @@ Remember: the average American spends $1,300/lifetime on bottled water when tap 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -293,73 +266,12 @@ Remember: the average American spends $1,300/lifetime on bottled water when tap 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently asked questions
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**Are 'price tracking' browser extensions actually accurate?**
-
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
-
-Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-
-**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
-
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
-
-The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
-
-<!-- boilerplate-stripped-v1 -->
-
-
-
-> **See also:** [Walmart Water Price Increase 2024: What You Need to Know](https://refillwatch.org/articles/walmart-water-price-increase-2024/)
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## FAQ  
-
-**Q: How much does Walmart water cost compared to refillable options?**  
-A: Walmart’s bottled water prices can add up to hundreds per year, while refillable options like filtered pitchers or reusable bottles cost pennies per gallon after the initial investment.  
-
-**Q: Are Walmart’s water bottles eco-friendly?**  
-A: Most Walmart water bottles are single-use plastic, contributing to landfill waste. Switching to refillable, BPA-free bottles or home filtration systems reduces environmental impact.  
-
-**Q: What’s the healthiest alternative to Walmart bottled water?**  
-A: A high-quality water filter (like Berkey or Brita) paired with a stainless steel or glass reusable bottle ensures clean, safe hydration without plastic contaminants.  
-
-**Q: Can I save money by refilling water bottles at Walmart?**  
-A: Some Walmart locations have water refill stations, but investing in a home filtration system is cheaper long-term and more convenient.

@@ -42,22 +42,13 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
+The sticker shock at your grocery store's detergent aisle is no coincidence. Over the past 18 months, we've documented systematic price increases across all major detergent brands, implemented through a combination of outright price hikes (averaging 12-27% since 2024) and subtle package downsizing (5-10% reductions in bottle sizes). Our team analyzed 14,000 price points from Walmart, Target, Amazon, and major grocery chains, revealing disturbing trends.
 
-The sticker shock at your grocery store's detergent aisle is no coincidence. Over the past 18 months, we've documented systematic price increases across all major detergent brands, implemented through a combination of outright price hikes (averaging 12-27% since 2024) and subtle package downsizing (5-10% reductions in bottle sizes). Our team analyzed 14,000 price points from Walmart, Target, [Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20), and major grocery chains, revealing disturbing trends.
-
-Tide Original Liquid now costs 23% more per ounce at Walmart compared to 2023 prices, while Gain Flings jumped 19% at Amazon despite identical packaging. Even more alarming: these increases far outpace general inflation rates. We conducted side-by-side comparisons of 2023 and 2026 packaging, confirming that brands like Seventh Generation reduced their 100oz bottles to 90oz while increasing prices by 27% - a [double](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) whammy for consumers. This isn't about rising production costs; it's about exploiting consumer habits.
+Tide Original Liquid now costs 23% more per ounce at Walmart compared to 2023 prices, while Gain Flings jumped 19% at Amazon despite identical packaging. Even more alarming: these increases far outpace general inflation rates. We conducted side-by-side comparisons of 2023 and 2026 packaging, confirming that brands like Seventh Generation reduced their 100oz bottles to 90oz while increasing prices by 27% - a double whammy for consumers. This isn't about rising production costs; it's about exploiting consumer habits.
 
 Our investigation reveals how manufacturers bank on three factors: 1) The psychological barrier to switching laundry brands (79% of consumers stick with their childhood detergent), 2) The opacity of cost-per-load calculations, and 3) The rise of subscription models that make price hikes less noticeable.
 
-We'll expose which products increased costs fastest through both overt and covert methods, demonstrate through laboratory testing that cheaper alternatives clean just as effectively, and provide a detailed roadmap to bulk [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) systems that can reduce your annual detergent spend by $127 or more.
+We'll expose which products increased costs fastest through both overt and covert methods, demonstrate through laboratory testing that cheaper alternatives clean just as effectively, and provide a detailed roadmap to bulk refill systems that can reduce your annual detergent spend by $127 or more.
 
 
 
@@ -65,7 +56,7 @@ We'll expose which products increased costs fastest through both overt and cover
 
 ## Why this matters
 
-Laundry detergent pricing operates on razor-thin margins and sophisticated consumer psychology. Manufacturers understand that most households will absorb a $0.12 increase per load because the perceived risk of switching brands outweighs the cost difference. However, our independent testing with 42 different [fabric](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) types and 18 common stains proves that budget-friendly detergents like Arm & Hammer Clean Burst remove identical stains as premium pods when used with proper techniques (pre-treating, correct water [temperature,](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20) and adequate agitation).
+Laundry detergent pricing operates on razor-thin margins and sophisticated consumer psychology. Manufacturers understand that most households will absorb a $0.12 increase per load because the perceived risk of switching brands outweighs the cost difference. However, our independent testing with 42 different fabric types and 18 common stains proves that budget-friendly detergents like Arm & Hammer Clean Burst remove identical stains as premium pods when used with proper techniques (pre-treating, correct water temperature, and adequate agitation).
 
 The real scandal lies in how retailers exploit auto-delivery subscriptions: Amazon quietly raised the price of Tide Ultra Oxi Pods by $4.29 since 2024 while locking customers into recurring shipments through their 'Subscribe & Save' program. For families doing 8+ loads weekly (the national average for households with children), these micro-hikes add $187/year to grocery bills - often unnoticed amidst other rising costs. Perhaps most surprising is the pricing trajectory of 'eco-friendly' brands.
 
@@ -89,15 +80,6 @@ The financial impact extends beyond the detergent aisle: improper dosing (a comm
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Our price tracking team compiled this comprehensive comparison of leading detergents, analyzing both absolute price changes and the more deceptive practice of 'shrinkflation' (reducing package sizes while maintaining prices):
 
 | Detergent | Size (oz) | 2023 Price | 2026 Price | % Increase | Cost/Load (2026) | Key Findings |
@@ -109,7 +91,7 @@ Our price tracking team compiled this comprehensive comparison of leading deterg
 | Kirkland Signature (Costco) | 200 | $15.99 | $17.49 | 9.4% | $0.11 | Warehouse club advantage - price locked in longer |
 | Tru Earth Eco Strips | 64 loads | $12.99 | $14.29 | 10.0% | $0.19 | Stable pricing with zero plastic waste |
 
-Key insights from our comparison: Arm & Hammer provides the smallest price increase while maintaining cleaning power [equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) to premium brands in our stain removal tests. The table reveals how manufacturers use different strategies - some like Tide employ obvious shrinkflation (reducing package sizes), while others like ECOS claim 'new concentrated formulas' to justify smaller packages.
+Key insights from our comparison: Arm & Hammer provides the smallest price increase while maintaining cleaning power equivalent to premium brands in our stain removal tests. The table reveals how manufacturers use different strategies - some like Tide employ obvious shrinkflation (reducing package sizes), while others like ECOS claim 'new concentrated formulas' to justify smaller packages.
 
 Persil's 18.9% hike might seem justified for heavy soil performance, but our tests show Tru Earth Eco Strips deliver similar results at $0.19/load while eliminating plastic waste entirely. The real outlier is Costco's Kirkland Signature - its 9.4% increase is below inflation, and the 200oz size provides exceptional value at $0.11/load.
 
@@ -132,15 +114,6 @@ The most shocking finding? Store brands like Kirkland Signature (Costco) and Mem
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Let's break down the true economics of detergent loyalty with concrete calculations that reveal how small per-load differences compound into significant annual expenses:
 
@@ -168,7 +141,7 @@ Innovative refill systems now allow consumers to bypass retailer price hikes ent
 
 2. **Concentrate drops systems**: Dropps detergent pods ship plastic-free directly to consumers at $0.15/load with subscription. Their compact design eliminates the 'detergent aisle tax' - the 15-20% markup retailers add for shelf space. Bonus: no more hauling heavy bottles from the store.
 
-3. **Bulk powder options**: Restaurant supply stores like Smart & Final sell 25lb boxes of commercial-grade detergent (like Ecolab) for about $0.06/load. While less convenient, this approach offers the absolute lowest cost for [large](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20) families. Pro tip: Add 1/2 cup [white](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20) vinegar to boost cleaning power if using basic powders.
+3. **Bulk powder options**: Restaurant supply stores like Smart & Final sell 25lb boxes of commercial-grade detergent (like Ecolab) for about $0.06/load. While less convenient, this approach offers the absolute lowest cost for large families. Pro tip: Add 1/2 cup white vinegar to boost cleaning power if using basic powders.
 
 4. **Refill pouches + reusable dispensers**: Systems like ECOS refill pouches paired with stainless steel dispensers cut packaging waste by 80% while maintaining precise dosing. The pouches ship flat, reducing transportation emissions, and cost 15% less than equivalent bottled detergent.
 
@@ -179,10 +152,10 @@ Pro tip: When evaluating refill systems, calculate your household's actual usage
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -190,8 +163,8 @@ Pro tip: When evaluating refill systems, calculate your household's actual usage
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -201,8 +174,8 @@ Pro tip: When evaluating refill systems, calculate your household's actual usage
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -212,8 +185,8 @@ Pro tip: When evaluating refill systems, calculate your household's actual usage
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -223,108 +196,12 @@ Pro tip: When evaluating refill systems, calculate your household's actual usage
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## FAQ
-
-### Are store brands really as good as name-brand detergents?
-
-Our laboratory tests show Kirkland Signature (Costco) and Member's Mark (Sam's Club) detergents match Tide's performance in 4 of 5 stain categories, with the exception being oil/grease stains where Persil maintains a 12% advantage. Independent testing by Consumer Reports consistently rates store brands as 'Best Buys' - they often come from the same manufacturing plants as name brands but without the marketing costs. The savings are real: $0.11/load versus $0.27 for Tide.
-
-### Do detergent pods actually clean better than liquid or powder?
-
-No - pods simply contain pre-measured liquid detergent in dissolvable film. Our controlled tests found identical cleaning results between pods and properly dosed liquids from the same brand. The pod 'convenience tax' now exceeds 30% per load compared to bulk liquids. Worse, many consumers double up on pods for large loads, unknowingly doubling their detergent costs.
-
-### How long does laundry detergent last before losing effectiveness?
-
-Unopened liquid detergent maintains full potency for 9-12 months when stored in moderate temperatures (not garages or sheds). Once opened, use within 6 months for optimal performance - the enzymes that break down stains degrade fastest. Powdered detergents last longer: 12-18 months unopened, 9-12 months opened. Store in airtight containers away from humidity.
-
-### Are 'eco-friendly' detergents worth the premium price?
-
-Only if environmental impact outweighs cost savings in your priorities. Most 'green' detergents cost 15-30% more per load while performing similarly to mid-tier conventional brands in our tests. The exception: concentrated refill systems like Tru Earth Strips that compete on price while offering sustainability benefits. Beware of 'greenwashing' - some brands charge premiums for basic formulations.
-
-### Can I use less detergent than the manufacturer recommends?
-
-Absolutely - and you probably should. Most Americans overdose detergent, leading to residue buildup and wasted money. For standard loads, use 1-1.5oz of liquid (half the cap) unless dealing with heavy soils or large loads. This simple adjustment can double your detergent's lifespan, effectively cutting your cost per load in half. Front-loading HE machines require even less - just 1oz for most loads.
-
-### How do I transition from pods to liquid detergent without mess?
-
-Invest in a clear measuring cup with ounce markings (many detergent caps are inaccurate). Start with 1oz for normal loads in top-loaders, 0.75oz for HE machines. Add detergent to the drum before clothes for best dissolution. For cold washes, mix the detergent with 1/4 cup warm water first to prevent gel clumping.
-
-## Bottom line
-
-The modern detergent aisle is a minefield of shrinkflation, psychological pricing, and subscription traps designed to keep you overpaying. After 18 months of rigorous price tracking and performance testing, we recommend two evidence-based paths to laundry savings:
-
-1. **Budget powerhouse**: Arm & Hammer Clean Burst at $0.14/load delivers name-brand cleaning power without the premium price tag. Buy the 300oz refill for maximum savings.
-
-2. **Eco-refill innovator**: Tru Earth Eco Strips at $0.19/load offer plastic-free convenience with stable pricing that bypasses retail inflation. The compact format saves storage space.
-
-Avoid pods and 'smart dose' systems - their convenience tax now exceeds 30% versus bulk liquids, with no cleaning benefit. Set calendar reminders to audit your detergent costs every 6 months; retailers count on autopilot purchasing. For maximum savings, explore local refill stations or warehouse club options - these approaches lock in pre-inflation pricing and break the cycle of stealth price hikes.
-
-<!-- padded-no-api-v2 -->
-
-
-## Frequently asked questions
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-
-**Why do bulk pantry stores not always save money?**
-
-Bulk-section pricing is heterogeneous. The same store might price oats at 40% below packaged but spices at 200% above grocery-aisle alternatives. The 'bulk savings' assumption was built when most bulk goods were commodity dry foods at 30–60% below packaged. Now bulk sections often emphasize 'specialty' goods (organic flours, exotic legumes, niche teas) where the per-pound cost can exceed packaged.
-
-Compare unit prices section by section before assuming bulk = cheaper. The sweet spot remains commodity grains, beans, oats, sugar, salt, and dried legumes — anywhere the bulk source is the same as the packaged supplier without the marketing markup.
-
-
-**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
-
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
-
-The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
-
-<!-- boilerplate-stripped-v1 -->
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## FAQ  
-
-**Q: Why are laundry detergent prices increasing?**  
-A: Prices are rising due to higher production costs, supply chain disruptions, and increased demand for concentrated or "premium" detergents. Some brands also shrink package sizes without lowering prices, a practice known as "shrinkflation."  
-
-**Q: How can I save money on laundry detergent without sacrificing quality?**  
-A: Opt for refillable or bulk options, use eco-friendly concentrates, or make your own detergent with simple ingredients like baking soda and castile soap. These alternatives often cost less per load.  
-
-**Q: Are eco-friendly detergents more expensive than conventional ones?**  
-A: While some eco-friendly detergents have a higher upfront cost, they’re often more concentrated, lasting longer and reducing cost per wash. Refill programs can also lower long-term expenses.  
-
-**Q: What’s the environmental impact of traditional laundry detergents?**  
-A: Many conventional detergents contain synthetic chemicals and microplastics that pollute waterways. Eco-friendly options use biodegradable ingredients and refillable packaging to minimize waste and harm.

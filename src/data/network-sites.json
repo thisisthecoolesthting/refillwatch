@@ -3,6 +3,11 @@
   "intro": "Independent editorial sites we trust — same watchdog standards, different niches.",
   "sites": [
     {
+      "name": "SoloGlow",
+      "url": "https://sologlow.org",
+      "tagline": "Solo skincare & self-care routines"
+    },
+    {
       "name": "InkLedger",
       "url": "https://inkledger.org",
       "tagline": "Printer ink & cartridge price tracking"

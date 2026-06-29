@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/3160WRxSAIL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p

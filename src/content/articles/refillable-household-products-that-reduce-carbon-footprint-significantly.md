@@ -31,16 +31,7 @@ Many households know cutting single-use plastic waste is important, but struggle
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Refillable household products include any items designed to let you reuse a durable container or dispenser, rather than buying new single-use bottles or packaging each time. Examples include dish soap, laundry detergent, cleaning sprays, hand soap, shampoo, and even some paper goods that come [with](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) packs.
+Refillable household products include any items designed to let you reuse a durable container or dispenser, rather than buying new single-use bottles or packaging each time. Examples include dish soap, laundry detergent, cleaning sprays, hand soap, shampoo, and even some paper goods that come with refill packs.
 
 The goal is to reduce waste generated from frequent disposal of plastic bottles and packaging, but also to cut the full carbon footprint. This depends not just on using less plastic but on factors like:
 
@@ -59,7 +50,7 @@ The goal is to reduce waste generated from frequent disposal of plastic bottles 
    By reusing bottles and dispensers, you dramatically cut the amount of plastic entering the waste stream. The carbon emissions saved come from reduced extraction, production, and disposal processes.
 
 2. **Shipping Weight and Volume Reduction**  
-   Concentrated refill products often use smaller packages or [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) with less water content. Less volume and weight means lower transportation emissions per use.
+   Concentrated refill products often use smaller packages or cartridges with less water content. Less volume and weight means lower transportation emissions per use.
 
 3. **Lower Manufacturing Impact**  
    Durable containers used for refills usually require a single manufacturing event rather than repeated mass production of disposable bottles.
@@ -72,15 +63,6 @@ The goal is to reduce waste generated from frequent disposal of plastic bottles 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 The environmental benefits of refillable products vary widely depending on:
 
@@ -104,21 +86,12 @@ The environmental benefits of refillable products vary widely depending on:
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-| Feature                  | Concentrated Liquid Refill Pouch | Solid/Tablet Concentrate | Bulk Refill from [Station](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20) | [Cartridge](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) Refill                      |
+| Feature                  | Concentrated Liquid Refill Pouch | Solid/Tablet Concentrate | Bulk Refill from Station | Cartridge Refill                      |
 |--------------------------|---------------------------------|-------------------------|--------------------------|--------------------------------------|
 | Carbon Savings Potential | High (less water shipped)        | Very High (very compact) | Moderate (bulk shipping) | Moderate (often single-use plastic)  |
-| Convenience              | Easy to pour, requires dilution  | Requires measuring       | Depends on access        | Easy, drop-in [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)            |
+| Convenience              | Easy to pour, requires dilution  | Requires measuring       | Depends on access        | Easy, drop-in replacement            |
 | Compatibility            | Universal with standard bottles  | Universal if dissolved   | Bottle or dispenser needed| Brand-specific or limited third-party|
-| Packaging Waste          | Minimal flexible plastic          | Minimal solid packaging  | Minimal (bring container)| Moderate ([cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) often plastic)  |
+| Packaging Waste          | Minimal flexible plastic          | Minimal solid packaging  | Minimal (bring container)| Moderate (cartridge often plastic)  |
 | Cost Efficiency          | Moderate to High                  | High                    | Depends on location      | Often more costly per use            |
 | Ingredient Transparency  | Usually high                     | High                    | High                     | Varies with brand                    |
 | Best Scenario            | At-home dilution for soaps/detergents | Travel or minimal water use | Urban households near stations| Brand-loyal households                |
@@ -156,10 +129,10 @@ If possible, use local refill stations or bulk delivery services to further mini
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -167,10 +140,10 @@ If possible, use local refill stations or bulk delivery services to further mini
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B089QRFMZF.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -178,11 +151,11 @@ If possible, use local refill stations or bulk delivery services to further mini
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07HNQXHTP.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
+<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
+<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
@@ -190,7 +163,7 @@ If possible, use local refill stations or bulk delivery services to further mini
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -200,28 +173,12 @@ If possible, use local refill stations or bulk delivery services to further mini
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07NM4ZM3Z.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DX7JF5HR?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51bFoknduxL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<span class="amazon-inline-card__desc">Plant-based bristles, compostable bamboo handle—pack of 4.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Do refillable containers actually save money in the long run?**  
-**A:** They often do, especially with concentrated refills that cut down on shipping and product waste. However, upfront cost for durable bottles can be higher, so it's worth calculating cost per use.
-
-**Q: Can I use generic refills with my brand-name dispensers?**  
-**A:** Sometimes yes, if the refill packaging is compatible. However, some brands lock you into specific cartridges that may cost more or produce more waste. Look for universal or third-party options when possible.
-
-**Q: Are solid or tablet concentrate refills better than liquid pouches?**  
-**A:** Often yes, since solids reduce shipping weight drastically and packaging waste. But they require more user effort to dissolve and measure, so balance convenience with environmental impact.
-
----
-
-Switching to refillable household products that truly reduce your carbon footprint requires careful attention to product concentration, packaging, container reuse, and ingredient safety. By understanding what actually makes a refill eco-friendly rather than just marketing, you can reduce waste, save money, and protect the environment in your everyday cleaning rituals.

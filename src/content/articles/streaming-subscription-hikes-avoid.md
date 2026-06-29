@@ -39,16 +39,7 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Remember when Netflix cost $7.99? If you've noticed your streaming bills creeping up year after year — sometimes [with](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) no added benefits — you're not imagining things. Our analysis of 18 major streaming services shows the average platform has increased prices 47% since 2020, [with](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) some like HBO Max nearly doubling their monthly fees. This guide isn't about canceling your subscriptions; it's about paying strategically.
+Remember when Netflix cost $7.99? If you've noticed your streaming bills creeping up year after year — sometimes with no added benefits — you're not imagining things. Our analysis of 18 major streaming services shows the average platform has increased prices 47% since 2020, with some like HBO Max nearly doubling their monthly fees. This guide isn't about canceling your subscriptions; it's about paying strategically.
 
 We'll show you exactly which services hike prices most aggressively, how to time your signups to avoid annual increases, and which lesser-known alternatives deliver comparable content for 30-60% less. For households juggling 4-5 subscriptions (now averaging $58/month), these creeping costs add up to $700+ annually — enough to fund an entire vacation if reclaimed.
 
@@ -58,7 +49,7 @@ By timing cancellations during these windows and resubscribing during Black Frid
 
 ## Why This Matters
 
-Streaming services bank on "sticky" subscribers who auto-pay without checking statements. Our data shows 83% of users don't notice price hikes [under](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20) $3/month, yet these [small](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) increases compound dramatically. Take Disney+: its $6.99 launch price in 2019 jumped to $13.99 by 2024 — a 100% increase that outpaces inflation by 5x. Worse, many platforms now remove annual payment options (historically 15-20% cheaper) to force monthly billing.
+Streaming services bank on "sticky" subscribers who auto-pay without checking statements. Our data shows 83% of users don't notice price hikes under $3/month, yet these small increases compound dramatically. Take Disney+: its $6.99 launch price in 2019 jumped to $13.99 by 2024 — a 100% increase that outpaces inflation by 5x. Worse, many platforms now remove annual payment options (historically 15-20% cheaper) to force monthly billing.
 
 The financial impact is real: A family paying for Netflix, Hulu, Prime Video, and Max now spends $192 more annually than they did in 2022 for the same content. This section breaks down the psychological pricing tactics used (like burying notifications in app updates) and why your "cheap" $10 subscription could quietly become a $18 line item by 2027.
 
@@ -67,22 +58,13 @@ We conducted a year-long study of billing statement comprehension and found that
 - Content fragmentation (Marvel shows moving from Netflix to Disney+)
 - Resolution downgrades (Hulu's HD plan now maxes at 720p)
 
-The most alarming finding? Services now employ 'shadow tiers' — identical plans [with](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20) different price points based on when you subscribed. Early Disney+ adopters paid $6.99 until 2023, while new subscribers paid $7.99 for the same service starting in 2021.
+The most alarming finding? Services now employ 'shadow tiers' — identical plans with different price points based on when you subscribed. Early Disney+ adopters paid $6.99 until 2023, while new subscribers paid $7.99 for the same service starting in 2021.
 
 ## Head-to-Head Comparison
 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 | Service          | 2023 Price | 2024 Price | Increase | Content Added? | Avg. Hike Frequency | Hidden Changes |
 |------------------|------------|------------|----------|----------------|---------------------|----------------|
@@ -114,22 +96,13 @@ We tested streaming quality across 14 devices and found:
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Breaking down true cost per hour:
 - Netflix: $0.32/hour (based on avg. 51 hrs/month)
 - Max: $0.41/hour
 - Tubi (free w/ads): $0.02/hour (ad time factored)
 - Library services (Kanopy/Hoopla): $0.00/hour
 
-The breakeven point? If you watch less than 14 hours/month across all paid services, a [digital](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) antenna + free platforms deliver better value. For heavy viewers, annual plans still save 12-18% despite disappearing from major services. We created a streaming value calculator that factors in:
+The breakeven point? If you watch less than 14 hours/month across all paid services, a digital antenna + free platforms deliver better value. For heavy viewers, annual plans still save 12-18% despite disappearing from major services. We created a streaming value calculator that factors in:
 - Content turnover rates (Hulu loses 42% of shows annually)
 - Device compatibility costs (needing Apple TV for full quality)
 - Time spent managing subscriptions (valued at $25/hour)
@@ -141,15 +114,15 @@ Rotating subscriptions (3 months on/off) cuts costs by 58% while maintaining acc
 2. Hoopla for kids' content - no ads and unlimited borrows
 3. Buying discounted gift cards (often 20% off at Costco) - locks in rates
 4. Sling Orange at $40/month beats YouTube TV's $72 — just pause during offseason
-5. Plex + [digital](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) antenna for local channels
+5. Plex + digital antenna for local channels
 
 Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creating new accounts with different emails, you can sometimes regain lower rates (tested successfully with Hulu and Paramount+).
 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -159,8 +132,8 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -170,10 +143,10 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -182,7 +155,7 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -192,105 +165,12 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## FAQ
-
-### How often do streaming services raise prices?
-
-Most major platforms increase prices every 12-18 months, typically by $1-$3 per hike. Our data shows Disney+ and Max are the most aggressive, with annual increases averaging 19%. Smaller services like Criterion Channel maintain price stability by focusing on niche audiences.
-
-### Can I lock in old rates?
-
-Yes — purchasing annual gift cards before price hikes lets you extend current rates for 12 months. Stock up when rumors surface (like Netflix's upcoming Q3 2024 increase). Some credit cards (Amazon Prime Visa) offer 5% back on streaming gift card purchases.
-
-### Do student discounts survive price hikes?
-
-Usually. Netflix's student plan ($4.99) hasn't changed since 2021, while Spotify Student includes Hulu at frozen rates. However, verification now requires annual university email confirmation.
-
-### Which services never raise prices?
-
-Ad-supported tiers (Paramount+, Peacock) and niche services like Criterion Channel maintain stable pricing to retain subscribers. Our research found these platforms average just 1.2% annual increases versus 19% for premium services.
-
-### How do I track upcoming increases?
-
-Set Google Alerts for "[service name] price increase" and check our quarterly [Streaming Price Tracker](https://www.refillwatch.org/subscription-savings). We also monitor FCC filings where services must disclose planned rate changes 90 days in advance.
-
-## Bottom Line
-
-The Disney+/Hulu/ESPN+ bundle still delivers the best hours-per-dollar value at $14.99/month (for now). For most households, we recommend:
-1. Rotating 2 core services quarterly (Netflix + Max, then switch to Apple TV+ + Paramount)
-2. Using free platforms like Tubi as buffers between paid subscriptions
-3. Buying discounted annual codes for must-have services (saves 15-22%)
-4. Canceling immediately after price hikes (resubscribe when new content drops)
-5. Utilizing library streaming options for 30% of viewing needs
-
-Set calendar reminders to audit subscriptions every 6 months — the average household can save $217/year with 30 minutes of active management. Remember: Services count on your inertia, but with these strategies, you can enjoy premium content without premium prices.
-
-<!-- padded-no-api-v2 -->
-
-
-## Frequently asked questions
-
-**Are 'price tracking' browser extensions actually accurate?**
-
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
-
-Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
-
-
-**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
-
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
-
-The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-<!-- boilerplate-stripped-v1 -->
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## FAQ
-
-**Q: How can I track my streaming subscriptions to avoid overpaying?**  
-A: Use budgeting apps or subscription trackers to monitor all your active subscriptions and their renewal dates.
-
-**Q: Are there eco-friendly alternatives to streaming services?**  
-A: Consider borrowing DVDs or Blu-rays from local libraries or sharing subscriptions with friends to reduce digital waste.
-
-**Q: What should I do if I notice a price hike on my streaming service?**  
-A: Check for promotional rates, downgrade to a cheaper plan, or cancel and switch to a more affordable service.
-
-**Q: Can I negotiate streaming subscription prices?**  
-A: Some services offer discounts for annual plans or loyalty programs—contact customer support to inquire about potential deals.

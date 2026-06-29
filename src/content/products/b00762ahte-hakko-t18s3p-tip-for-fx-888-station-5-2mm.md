@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/21B6EtLRzEL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm

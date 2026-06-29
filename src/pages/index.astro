@@ -10,11 +10,12 @@
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
-import ProductCard from '@/components/ProductCard.astro';
+import CuratedAmazonCard from '@/components/CuratedAmazonCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import HeroCompact from '@/components/HeroCompact.astro';
 import TrustStrip from '@/components/TrustStrip.astro';
 import home from '@/data/brand.config.json';
+import { HOMEPAGE_COMPARE_PICKS } from '@/lib/site-amazon-registry.mjs';
 
 const h = home.homepage;
 const b = home.brand;
@@ -44,9 +45,8 @@ const completeProducts = allProducts.filter((p) => {
   const hasRating = typeof d.rating === 'number' && d.rating > 0;
   return hasImage && hasPrice && hasRating;
 });
-const compareRow = completeProducts
-  .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
-  .slice(0, 3);
+const compareRow = HOMEPAGE_COMPARE_PICKS;
+const heroProducts = completeProducts.slice(0, 3);
 
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const pillarFour = allPillars
@@ -131,7 +131,7 @@ const trustItems = [
     ctaSecondaryLabel={h.ctaSecondaryLabel}
     bullets={['No retailer sponsorships', 'Weekly price checks', `${allArticles.length}+ articles tracked`]}
     stats={dataStats}
-    products={compareRow}
+    products={heroProducts}
     articleCount={allArticles.length}
     gradient="bg-[radial-gradient(50%_80%_at_100%_0%,rgba(220,38,38,.12),transparent_55%),radial-gradient(40%_50%_at_0%_100%,rgba(37,99,235,.18),transparent_60%)]"
     snapshot={{
@@ -144,9 +144,10 @@ const trustItems = [
       productPlaceholder: 'Item',
     }}
     heroImageUrl={h.heroImageUrl}
+    heroVideoUrl={(h as { heroVideoUrl?: string }).heroVideoUrl}
     heroBadge="Consumer price watchdog"
     heroCaption="We track household staples you buy on repeat — and flag hikes before they become habit."
-    heroAlt="Household staples and grocery pricing research"
+    heroAlt="Water filters, cleaning supplies, laundry, personal care, and pet products on a retail shelf"
     rightPanel="image"
   />
 
@@ -290,7 +291,7 @@ const trustItems = [
                   Premium
                 </span>
               )}
-              <ProductCard product={p} />
+              <CuratedAmazonCard pick={p} />
             </div>
           ))}
         </div>

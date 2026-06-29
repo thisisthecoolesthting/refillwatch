@@ -34,21 +34,12 @@ If you’re staring at your bathroom counter piled with plastic bottles, disposa
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Refillable bathroom products are designed to be used multiple times by replenishing the original container with the same product, typically via bulk purchases, pouches, [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20), or concentrated refills. Common examples include:
+Refillable bathroom products are designed to be used multiple times by replenishing the original container with the same product, typically via bulk purchases, pouches, cartridges, or concentrated refills. Common examples include:
 
 - Shampoo and conditioner in refill pouches or cartridges
 - Hand soap and body wash in reusable pump bottles
 - Toothpaste refills (tubes or tablets)
-- Lotion and face wash with [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) refill pods
+- Lotion and face wash with compatible refill pods
 
 These differ from single-use products, which come in packaging intended to be discarded immediately after one use, such as standard plastic shampoo bottles, pump soap bottles, and individually wrapped cotton rounds.
 
@@ -76,19 +67,10 @@ Buying refills in larger quantities reduces the number of trips and overall pack
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 - **Brand-Specific Cartridges Lock You In:** Using proprietary cartridges can limit refill options, reducing competition and increasing waste. Some proprietary cartridges are bulky, single-polymer plastics with complicated recycling paths.
 - **Refill Packaging Still Requires Disposal or Recycling:** Flexible pouches, while thinner, often cannot be recycled in standard municipal systems. Without industrial composting or advanced recycling, these may end up incinerated or in landfill.
 - **High Upfront Cost and Durability Variance:** Refillable containers with pumps or mechanical parts can break, leading to replacements and more waste.
-- **Ingredient Opacity in Concentrated Formulas:** Some concentrate formulations omit full ingredient disclosure, which is critical for household decision-making, especially for sensitive skin or [allergies](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20).
+- **Ingredient Opacity in Concentrated Formulas:** Some concentrate formulations omit full ingredient disclosure, which is critical for household decision-making, especially for sensitive skin or allergies.
 
 ## Cost Comparison: Refillable vs Single-Use Products
 
@@ -97,7 +79,7 @@ Cost considerations can be a major factor in bathroom swaps. Here’s a generic 
 | Feature                  | Single-Use Bottle (300ml) | Refillable Bottle + Concentrated Refill (300ml equiv.)  |
 |--------------------------|---------------------------|--------------------------------------------------------|
 | Initial bottle cost       | $5                        | $10 (one-time reusable container purchase)             |
-| Refill pack cost (per 300ml equiv.) | $5             | $3 (concentrated pouch [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20))                       |
+| Refill pack cost (per 300ml equiv.) | $5             | $3 (concentrated pouch cartridge)                       |
 | Cost per month (1 bottle/refill) | $5                   | $4 (spread Rs for reusable bottle over multiple months)|  
 | Packaging waste           | ~30g rigid plastic        | ~5g flexible pouch + reuse of main bottle              |
 | Recycling complexity     | Usually recyclable by curbside | Pouch often not recyclable curbside; reuse offsets waste |
@@ -110,15 +92,6 @@ While the initial investment in a refillable container is higher, savings accumu
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 One of the subtle challenges with refillable bathroom products is the transparency of ingredients. Concentrated refills often package bulk ingredients with less labeling, relying on the original container’s label for full disclosures. When switching brands or third-party refills, consumers can lose access to clear ingredient lists, which is crucial for allergy prevention, skin sensitivity, or ethical concerns.
 
@@ -134,7 +107,7 @@ One of the subtle challenges with refillable bathroom products is the transparen
 |-----------------------------|--------------------------------------------------------|--------------------------------------------------------|
 | "Refillable containers cut plastic by 80%" | Generally true if container reused >10x              | Reuse containers diligently; donate extras or recycle responsibly. |
 | "Refill pouches are recyclable"             | Usually false for curbside recycling                   | Check local capabilities or look for compostable alternatives.      |
-| "[Compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) cartridges reduce waste"        | Only if [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) is smaller or made with recycled materials | Research third-party cartridges for waste profile before switching.   |
+| "Compatible cartridges reduce waste"        | Only if cartridge is smaller or made with recycled materials | Research third-party cartridges for waste profile before switching.   |
 | "Concentrated formulas reduce transport footprint" | True, concentration cuts packaging weight drastically | Prioritize concentrated refills shipped in bulk or low-packaging formats.|
 
 ## Practical Steps to Switch to Zero-Waste Bathroom Products
@@ -145,7 +118,7 @@ One of the subtle challenges with refillable bathroom products is the transparen
 4. **Verify Ingredient Transparency:** Confirm clear and accessible ingredient information before switching.
 5. **Commit to Reuse and Recycling:** Establish routines for thorough cleaning and reuse of containers, and check recycling rules for refill pouches or cartridges.
 6. **Try One Product at a Time:** Swap out the biggest waste contributor first (often shampoo or body wash) to make the habit manageable.
-7. **Avoid Proprietary Locks:** Where possible, select refill systems [compatible](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) with multiple refill suppliers or generic concentrates.
+7. **Avoid Proprietary Locks:** Where possible, select refill systems compatible with multiple refill suppliers or generic concentrates.
 
 ## Conclusion
 
@@ -156,10 +129,10 @@ Refillable bathroom products can deliver significant waste reduction, but only w
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -167,8 +140,8 @@ Refillable bathroom products can deliver significant waste reduction, but only w
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -178,8 +151,8 @@ Refillable bathroom products can deliver significant waste reduction, but only w
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -189,8 +162,8 @@ Refillable bathroom products can deliver significant waste reduction, but only w
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -200,24 +173,12 @@ Refillable bathroom products can deliver significant waste reduction, but only w
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Does switching to refillable products always save money?**  
-**A:** Not always upfront, as reusable containers usually cost more initially. However, over multiple refills, costs tend to be lower if you commit to continuing the refill system.
-
-**Q: Are all flexible refill pouches recyclable?**  
-**A:** No. Many flexible pouches are made from multi-layer materials that are not accepted in curbside recycling programs. Look for labeled compostable options or check with local recycling facilities.
-
-**Q: How can I ensure refillable products meet my ingredient standards?**  
-**A:** Seek out brands and refill suppliers that provide full ingredient lists either on packaging or online. Retain original bottle labels when trying new refills to stay informed.

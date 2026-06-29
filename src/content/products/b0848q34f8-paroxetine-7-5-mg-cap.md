@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/11m-qiYhWsL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b0848q34f8-paroxetine-7-5-mg-cap

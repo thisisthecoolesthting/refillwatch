@@ -3,51 +3,18 @@
  * Site-wide bottom strip: large Amazon affiliate cards for high-AOV household picks.
  * Rendered on every page via BaseLayout.
  */
-import { getCollection } from 'astro:content';
 import { BOTTOM_AMAZON_PICKS } from '@/data/bottom-amazon-picks';
 import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
-import {
-  amazonAffiliateUrlFromAsin,
-  type BottomAmazonPick,
-} from '@/utils/amazon-affiliate';
+import { amazonAffiliateUrlFromAsin } from '@/utils/amazon-affiliate';
 import { amazonAsinImageUrl } from '@/utils/product-image';
 import home from '@/data/spawn-home.json';
+import { BOTTOM_STRIP_HEADING, BOTTOM_STRIP_SUBHEAD } from '@/lib/site-amazon-registry.mjs';
 
 const siteBrand = home.brand?.fullName || 'RefillWatch';
 const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'refillwatch-20';
 
-const catalog = await getCollection('products', ({ data }) => data.status === 'published');
-
-const fromCatalog: BottomAmazonPick[] = catalog
-  .filter((p) => p.data.asin)
-  .map((p) => {
-    const price = typeof p.data.price === 'number' ? p.data.price : 0;
-    return {
-      asin: p.data.asin!,
-      title: (p.data as { cardTitle?: string }).cardTitle || p.data.title,
-      subtitle:
-        (p.data as { cardPick?: string }).cardPick ||
-        p.data.metaDescription?.slice(0, 120) ||
-        'Reviewed on RefillWatch — real retail tests.',
-      priceLabel: price > 0 ? `From ~$${price.toFixed(0)}` : 'See Amazon price',
-      badge: 'On our watchlist',
-      imageUrl: p.data.imageUrl,
-      sortPrice: price,
-    };
-  })
-  .sort((a, b) => b.sortPrice - a.sortPrice)
-  .map(({ sortPrice: _s, ...pick }) => pick);
-
-const seen = new Set<string>();
-const merged: BottomAmazonPick[] = [];
-
-for (const pick of [...BOTTOM_AMAZON_PICKS, ...fromCatalog]) {
-  const key = pick.asin.toUpperCase();
-  if (seen.has(key)) continue;
-  seen.add(key);
-  merged.push(pick);
-  if (merged.length >= 6) break;
-}
+/** Curated registry only — never auto-merge spawn /products/ catalog by price. */
+const merged = BOTTOM_AMAZON_PICKS.slice(0, 6);
 
 const FB =
   'data:image/svg+xml;utf8,' +
@@ -71,12 +38,11 @@ const FB =
             id="global-bottom-picks-heading"
             class="font-display text-2xl md:text-3xl text-ink-900 !mt-0 leading-tight max-w-[22ch]"
           >
-            Kitchen gear worth buying once
+            {BOTTOM_STRIP_HEADING}
           </h2>
         </div>
         <p class="text-sm text-ink-700 max-w-[40ch] leading-relaxed">
-          Cookware, knives, and appliances we tested at home — partner links, no extra cost to you.
-          Partner links — we may earn a commission at no extra cost to you.
+          {BOTTOM_STRIP_SUBHEAD}
         </p>
       </div>
 

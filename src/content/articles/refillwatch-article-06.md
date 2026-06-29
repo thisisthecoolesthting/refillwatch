@@ -37,29 +37,20 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Have you noticed your printer ink costs creeping up every [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) cycle? You're not imagining things. Our analysis of 18 months of pricing data shows the average ink [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) now costs 19% more than in 2022, with some HP and Epson models jumping 27%. Retailers count on consumers not tracking these gradual increases—they add up to $150+ in hidden annual costs for households [printing](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) just 50 pages per month.
+Have you noticed your printer ink costs creeping up every replacement cycle? You're not imagining things. Our analysis of 18 months of pricing data shows the average ink cartridge now costs 19% more than in 2022, with some HP and Epson models jumping 27%. Retailers count on consumers not tracking these gradual increases—they add up to $150+ in hidden annual costs for households printing just 50 pages per month.
 
 This guide examines six specific price hike patterns we've identified through weekly tracking of Amazon ink prices and big-box store fluctuations. We'll show you how to calculate your true cost per page (spoiler: it's often 3–5x the advertised rate), compare third-party alternatives that won't void warranties, and explain why some 'bulk ink' subscriptions actually cost more per milliliter. For budget-conscious families, we've identified three refill systems that pay for themselves within six months.
 
 # Why This Matters
 
-Printer manufacturers employ what economists call 'razor-and-blades' pricing—selling hardware at cost while marking up consumables exponentially. The average inkjet [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) contains roughly $0.30 worth of fluid but retails for $25–$40, a markup of 8,000–12,000%. Worse, our data shows manufacturers now use microchips to enforce proprietary cartridge designs while reducing fluid volume 5–15% per 'new and improved' model.
+Printer manufacturers employ what economists call 'razor-and-blades' pricing—selling hardware at cost while marking up consumables exponentially. The average inkjet cartridge contains roughly $0.30 worth of fluid but retails for $25–$40, a markup of 8,000–12,000%. Worse, our data shows manufacturers now use microchips to enforce proprietary cartridge designs while reducing fluid volume 5–15% per 'new and improved' model.
 
 Consider these findings from our tracking:
 - **Subscription traps**: HP Instant Ink plans increased rates 22% while reducing page allowances
 - **Phantom discounts**: 83% of 'sale' prices at major retailers are still higher than the product's 180-day average
 - **Refill resistance**: New Epson printers display warning messages when detecting third-party ink
 
-The environmental impact compounds the financial harm—over 375 million [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) enter landfills annually. Refill systems can reduce this waste by 80%, but manufacturers actively lobby against right-to-repair policies that would make refilling easier.
+The environmental impact compounds the financial harm—over 375 million cartridges enter landfills annually. Refill systems can reduce this waste by 80%, but manufacturers actively lobby against right-to-repair policies that would make refilling easier.
 
 # Head-to-Head Comparison
 
@@ -67,21 +58,12 @@ The environmental impact compounds the financial harm—over 375 million [cartri
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 We tracked four high-volume ink cartridges across six retailers to identify the worst price offenders and most reliable alternatives:
 
 | Model | Current Price | 6-Mo Avg | Price Hike | Refill Option | Cost/Page |
 |-------|--------------|----------|------------|---------------|-----------|
 | HP 67XL | $38.99 | $32.15 | +21% | InkOwl kit ($12) | $0.08 → $0.03 |
-| Epson 502 | $29.95 | $24.80 | +20% | [Precision](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) refill ($9) | $0.06 → $0.02 |
+| Epson 502 | $29.95 | $24.80 | +20% | Precision refill ($9) | $0.06 → $0.02 |
 | Brother LC-203 | $42.50 | $39.95 | +6% | No refill (chip lock) | $0.10 |
 | Canon PG-240XL | $35.99 | $30.25 | +19% | EcoTank conversion ($55) | $0.07 → $0.01 |
 
@@ -108,15 +90,6 @@ The EZ Ink Refill Kit provided the cleanest installation process with syringe-fr
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Let's break down the breakeven points for different ink strategies:
 
 **Scenario**: Household printing 100 pages per month (60 black-and-white, 40 color)
@@ -136,7 +109,7 @@ For those unwilling to deal with refill installation, consider these alternative
 
 1. **Laser printers**: The Brother HL-L2350DW delivers a $0.02 per-page cost and works with high-yield third-party toners.
 2. **Ink tank systems**: Epson's EcoTank ET-2800 achieves a $0.01 per-page cost but requires $250 upfront. Note: Epson runs mandatory 'cleaning cycles' that waste approximately 15% of ink.
-3. **[Remanufactured](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) cartridges**: LD Products offers warranty-[compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) refills at 40% off retail pricing.
+3. **Remanufactured cartridges**: LD Products offers warranty-compatible refills at 40% off retail pricing.
 
 Our testing showed ink tank systems provide the best balance of convenience and savings, with the caveat mentioned above about Epson's mandatory maintenance cycles.
 
@@ -173,8 +146,8 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -184,8 +157,8 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -195,10 +168,10 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -206,8 +179,8 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -217,75 +190,12 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently asked questions
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**Are 'price tracking' browser extensions actually accurate?**
-
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
-
-Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-
-**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
-
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
-
-The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-<!-- boilerplate-stripped-v1 -->
-
-
-
-> **See also:** [Printer Ink Price Hikes Exposed: Track Real Costs & Save 80% With Refill Systems](https://refillwatch.org/articles/refillwatch-article-02/)
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).
-
-## FAQ  
-
-**Q: Why do printer ink prices keep increasing?**  
-A: Retailers and manufacturers often use proprietary cartridges and limited competition to artificially inflate prices, knowing customers have few alternatives.  
-
-**Q: Are refillable ink cartridges really cheaper?**  
-A: Yes, refillable cartridges can save you up to 70% compared to branded ink, and they’re reusable, reducing long-term costs.  
-
-**Q: Do refilled cartridges harm my printer?**  
-A: No, high-quality refill inks are designed to match OEM standards, and many printers handle refills without issues—just avoid cheap, low-quality inks.  
-
-**Q: Where can I find reliable refillable ink options?**  
-A: Look for eco-friendly brands with good reviews, or check our recommended suppliers in the article for trusted refill solutions.

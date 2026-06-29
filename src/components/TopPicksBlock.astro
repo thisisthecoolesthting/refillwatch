@@ -10,7 +10,7 @@ export interface Props {
 const { products, labels = ['Best Overall', 'Budget Pick', 'Top Splurge'] } = Astro.props;
 if (!products || products.length === 0) return;
 
-const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? '__ASSOCIATE_TAG__';
+const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'refillwatch-20';
 const picks = products.slice(0, 3);
 const FB = "data:image/svg+xml;utf8," + encodeURIComponent(
   `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><rect width='120' height='120' fill='#F5EFE6'/></svg>`

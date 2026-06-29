@@ -1,0 +1,65 @@
+---
+import { amazonAffiliateUrlFromAsin, DEFAULT_ASSOCIATE_TAG } from '@/utils/amazon-affiliate';
+import { amazonAsinImageUrl } from '@/utils/product-image';
+
+export interface CuratedPick {
+  asin: string;
+  title: string;
+  cardPick: string;
+  priceLabel: string;
+  rating?: number;
+}
+
+export interface Props {
+  pick: CuratedPick;
+}
+
+const { pick } = Astro.props;
+const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? DEFAULT_ASSOCIATE_TAG;
+const href = amazonAffiliateUrlFromAsin(pick.asin, associateTag);
+const img = amazonAsinImageUrl(pick.asin);
+const FB =
+  'data:image/svg+xml;utf8,' +
+  encodeURIComponent(
+    `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><rect width='120' height='120' fill='#EBE6DF'/></svg>`,
+  );
+---
+
+<a
+  href={href}
+  target="_blank"
+  rel="nofollow noopener sponsored"
+  class="group block h-full w-full min-w-0 rounded-3xl border border-cream-200/70 bg-white shadow-soft
+         hover:shadow-soft-lg hover:-translate-y-1
+         transition-all duration-300 ease-out no-underline overflow-hidden"
+>
+  <div class="aspect-square bg-cream-100 flex items-center justify-center overflow-hidden p-5">
+    <img
+      src={img}
+      alt={pick.title}
+      loading="lazy"
+      decoding="async"
+      onerror={`this.onerror=null;this.src='${FB}'`}
+      class="w-full h-full object-contain group-hover:scale-[1.04] transition-transform duration-500 ease-out"
+    />
+  </div>
+  <div class="p-5 space-y-1.5">
+    <h3 class="text-base font-semibold text-ink-900 leading-snug !mt-0 group-hover:text-terracotta-600 transition-colors duration-200">
+      {pick.title}
+    </h3>
+    {pick.cardPick && (
+      <p class="text-xs text-ink-500 leading-snug italic">{pick.cardPick}</p>
+    )}
+    <div class="flex items-center justify-between text-sm text-ink-700 pt-1">
+      <span class="font-semibold">{pick.priceLabel}</span>
+      {pick.rating && <span class="text-ink-500">&#9733; {pick.rating.toFixed(1)}</span>}
+    </div>
+  </div>
+  <div class="px-5 pb-5 pt-1">
+    <span class="block w-full text-center bg-terracotta-500 hover:bg-terracotta-600
+                 text-cream-50 font-mono text-[11px] tracking-[0.12em] uppercase
+                 px-4 py-2.5 rounded-full transition-colors">
+      View on Amazon ↗
+    </span>
+  </div>
+</a>

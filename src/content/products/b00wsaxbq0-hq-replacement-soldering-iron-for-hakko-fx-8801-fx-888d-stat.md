@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41A2IcaDuAL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat

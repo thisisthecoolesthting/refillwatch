@@ -37,24 +37,15 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Why did your [kitchen](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20) spray cleaner jump from $4.99 to $5.49 for the same 28oz bottle? Retailers [count](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) on you not noticing these creeping price hikes on products you buy every month. We tracked 27 common cleaning products over three years and found the average all-purpose cleaner increased 18.7% in price while shrinking 4% in volume—a "shrinkflation" tactic that costs the average household $127 annually on cleaning supplies alone.
+Why did your kitchen spray cleaner jump from $4.99 to $5.49 for the same 28oz bottle? Retailers count on you not noticing these creeping price hikes on products you buy every month. We tracked 27 common cleaning products over three years and found the average all-purpose cleaner increased 18.7% in price while shrinking 4% in volume—a "shrinkflation" tactic that costs the average household $127 annually on cleaning supplies alone.
 
 Bulk buying combats this through three mechanisms:
 
 - **Volume discounts**: Retailers pass on 22–60% savings when you bypass single-use packaging
-- **Price stability**: Gallon jug prices fluctuate 3× less than [small](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) bottles per ounce (per NielsenIQ data)
+- **Price stability**: Gallon jug prices fluctuate 3× less than small bottles per ounce (per NielsenIQ data)
 - **Waste reduction**: A single 128oz detergent jug replaces 5+ plastic bottles annually
 
-This guide exposes the real math behind bulk cleaning supplies versus single-use bottles, names specific products where the bulk option saves you 60% or more—including commercial-grade alternatives retailers don't advertise—and shows where to find [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) stations. We'll also reveal which "bulk" options are actually terrible deals, like Method's 1-gallon cleaner that only saves 5%.
+This guide exposes the real math behind bulk cleaning supplies versus single-use bottles, names specific products where the bulk option saves you 60% or more—including commercial-grade alternatives retailers don't advertise—and shows where to find refill stations. We'll also reveal which "bulk" options are actually terrible deals, like Method's 1-gallon cleaner that only saves 5%.
 
 # Why This Matters
 
@@ -66,22 +57,13 @@ Bulk buying isn't just about saving money; it's about reclaiming predictability 
 2. Switching to refill pouches reduces plastic waste by 3.2 pounds annually per household
 3. Commercial bulk options like industrial degreasers offer professional-grade cleaning at 1/3 the cost of retail brands
 
-Beyond cost, bulk options reduce plastic waste by up to 80% per ounce of product. The EPA estimates that if just 10% of US households switched to bulk cleaning supplies, it would eliminate 42 million pounds of plastic waste annually—[equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) to 1,100 garbage trucks full of empty bottles.
+Beyond cost, bulk options reduce plastic waste by up to 80% per ounce of product. The EPA estimates that if just 10% of US households switched to bulk cleaning supplies, it would eliminate 42 million pounds of plastic waste annually—equivalent to 1,100 garbage trucks full of empty bottles.
 
 # Head-to-Head Comparison
 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 We conducted a 6-month real-world test of 12 top cleaning products, measuring both cost and performance. Key findings:
 
@@ -99,7 +81,7 @@ Surprising insights:
 - **Laundry detergent**: Bulk users report better results from proper measuring (most single-use users overdose)
 - **All-purpose cleaners**: Show the widest price gaps—commercial degreasers cost just $0.07/oz
 
-The real winner? Industrial bulk concentrate at $0.11 per ounce—half the cost of mainstream brands [with](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) superior grease-cutting power. Avoid "bulk traps" like Clorox wipes where the savings don't justify quality tradeoffs.
+The real winner? Industrial bulk concentrate at $0.11 per ounce—half the cost of mainstream brands with superior grease-cutting power. Avoid "bulk traps" like Clorox wipes where the savings don't justify quality tradeoffs.
 
 # Real-World Performance
 
@@ -120,22 +102,13 @@ Bulk concentrates require different handling—you'll need clean, durable contai
 - Consistent product performance (no reformulation surprises mid-bottle)
 - Ability to customize scents by adding essential oils to neutral bases
 
-Pro Tip: Create a "cleaning [station](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)" with labeled bulk containers and measuring tools. The $35 initial investment in amber glass bottles and a graduated cylinder pays for itself in 3 months.
+Pro Tip: Create a "cleaning station" with labeled bulk containers and measuring tools. The $35 initial investment in amber glass bottles and a graduated cylinder pays for itself in 3 months.
 
 # Cost Math
 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Let's break down the three-year cost of a typical cleaning regimen:
 
@@ -232,10 +205,10 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -243,8 +216,8 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -254,8 +227,8 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -265,8 +238,8 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -276,73 +249,12 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently asked questions
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
-
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
-
-The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
-
-
-**Do reusable items always beat disposables on cost?**
-
-Almost always on cost; not always on convenience. The math: a Hydro Flask water bottle ($35) beats bottled water ($1.50/bottle) at 24 fills. Unpaper towels ($30 for 24) beat paper towels ($25/year for typical use) at year two. Menstrual cups ($25) beat tampons by month four. The exceptions are items where the disposable version has marginal cost near zero (bar soap, generic dish sponges) or where reusable maintenance is significant (cloth diapers, where laundry costs $300–$500/year).
-
-The break-even point is the metric that matters — if you'll use the reusable through that point, it wins.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-<!-- boilerplate-stripped-v1 -->
-
-
-
-> **See also:** [Refill Your Routine: Smart Swaps for Cheaper Personal Care Products](https://refillwatch.org/articles/personal-care-refill-options/)
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## FAQ  
-
-**Q: How much can I really save by buying cleaning supplies in bulk?**  
-A: Savings vary, but bulk purchases often cut costs by 20–40% compared to single-use products, especially when paired with refillable containers. Always compare unit prices to ensure the deal is worth it.  
-
-**Q: Are all "bulk" deals actually eco-friendly?**  
-A: Not always—some bulk products still come in plastic packaging or contain harsh chemicals. Look for concentrated refills, biodegradable options, or brands committed to sustainability.  
-
-**Q: What’s the best way to store bulk cleaning supplies to avoid waste?**  
-A: Use airtight, labeled containers in a cool, dark place to extend shelf life. For liquids, opt for glass or durable plastic bottles to prevent leaks and degradation.  
-
-**Q: Which cleaning products make the most sense to buy in bulk?**  
-A: High-use items like dish soap, laundry detergent, and all-purpose cleaners offer the best savings and reduce packaging waste when bought in bulk. Avoid bulk buys for products you rarely use.

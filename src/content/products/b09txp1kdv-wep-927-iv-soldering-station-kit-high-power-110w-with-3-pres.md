@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51-97nkYLSL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres

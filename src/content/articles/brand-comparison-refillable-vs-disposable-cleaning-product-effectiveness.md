@@ -34,18 +34,9 @@ If you're tired of throwing away single-use plastic bottles after every cleaning
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
+**Disposable Cleaning Products** are traditional single-use containers, typically plastic bottles, filled with ready-to-use solution. You buy a new bottle each time and discard the empty container afterward.
 
-**Disposable Cleaning Products** are traditional single-use containers, typically plastic bottles, filled with ready-to-use [solution](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20). You buy a new bottle each time and discard the empty container afterward.
-
-**Refillable Cleaning Products** generally involve purchasing a durable bottle that can be reused repeatedly, paired with [refill](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) packs or [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) containing concentrated cleaning solutions. These refills either come as pre-measured capsules, pouches, or cartridges that you mix with water before use. Some brands offer brand-specific cartridges, while others allow third-party refills.
+**Refillable Cleaning Products** generally involve purchasing a durable bottle that can be reused repeatedly, paired with refill packs or cartridges containing concentrated cleaning solutions. These refills either come as pre-measured capsules, pouches, or cartridges that you mix with water before use. Some brands offer brand-specific cartridges, while others allow third-party refills.
 
 
 
@@ -55,7 +46,7 @@ If you're tired of throwing away single-use plastic bottles after every cleaning
 
 | Feature                         | Disposable Cleaning Products                   | Refillable Cleaning Products                      |
 |--------------------------------|-----------------------------------------------|--------------------------------------------------|
-| **Packaging Type**              | Single-use plastic bottle                      | Reusable bottle + concentrate refill (pouch/[cartridge](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)) |
+| **Packaging Type**              | Single-use plastic bottle                      | Reusable bottle + concentrate refill (pouch/cartridge) |
 | **Cleaning Solution Type**     | Ready-to-use, pre-diluted                      | Concentrated formula requiring dilution          |
 | **Material Waste per Use**     | High – bottle discarded after use             | Low – bottle reused; only refill pouch discarded |
 | **Ingredient Transparency**    | Varies by brand; often full ingredient listing| Often more transparent; concentrate formulas emphasize active ingredients |
@@ -70,21 +61,12 @@ If you're tired of throwing away single-use plastic bottles after every cleaning
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 One of the biggest advantages refillable products offer is **higher concentration ratios**. Instead of shipping and disposing of large volumes of water-filled bottles, refill packs supply a small amount of concentrated cleaning agents to be mixed with water at home. Typical concentration can be 5 to 10 times stronger than ready-to-use liquids.
 
 This concentration can offer:
 
 - **Better storage efficiency**, reducing transport emissions and packaging use.
-- **Potentially stronger cleaning power**, [adjustable](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) by changing dilution ratios for tougher jobs.
+- **Potentially stronger cleaning power**, adjustable by changing dilution ratios for tougher jobs.
 - **Greater ingredient transparency**, as concentrates often highlight active compounds more clearly.
 
 However, cleaning effectiveness relies heavily on **dilution accuracy** and the quality of the concentrate. If dilutions are too weak, cleaning performance suffers. Too strong, and surface damage or residue could occur.
@@ -121,19 +103,10 @@ Always check labels for ingredient safety data and dilution recommendations.
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Not all refillable products are equally sustainable. Beware of:
 
 - **Refill packs that come in hard-to-recycle plastic**—e.g., multi-layer laminates.
-- **[Cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) systems that require disposing of rigid plastic pods**, which may not be recyclable in your area.
+- **Cartridge systems that require disposing of rigid plastic pods**, which may not be recyclable in your area.
 - **Refillable bottles that are used only a few times before disposal** (reduce reuse frequency to maximize benefits).
 
 The best refillable systems feature:
@@ -148,7 +121,7 @@ The best refillable systems feature:
 
 - You're ready to spend a few extra minutes diluting concentrates.
 - You want to lower long-term plastic waste significantly.
-- You prioritize clear ingredient lists and customizable cleaning [strength](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20).
+- You prioritize clear ingredient lists and customizable cleaning strength.
 - You have access to local recycling facilities that accept the refill packaging.
 
 **Choose disposable products if:**
@@ -180,10 +153,10 @@ The best refillable systems feature:
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -191,8 +164,8 @@ The best refillable systems feature:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -202,8 +175,8 @@ The best refillable systems feature:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -213,8 +186,8 @@ The best refillable systems feature:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -224,28 +197,12 @@ The best refillable systems feature:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Do refillable cleaning products clean as well as disposable ones?**  
-**A:** Yes, when the concentrate is properly diluted according to instructions, refillable products can match or even exceed the cleaning effectiveness of disposables.
-
-**Q: Are refill pouches or cartridges recyclable?**  
-**A:** It depends on the material and local recycling programs. Flexible plastic pouches are less commonly recyclable, while some cartridges are recyclable if your community accepts them. Always check packaging and local guidelines.
-
-**Q: Can I reuse a leftover disposable bottle with refill concentrate?**  
-**A:** Technically yes, but ensure the bottle is clean and compatible with the concentrate system’s spray or dispense mechanism. For best results and safety, use bottles designed for refilling.
-
----
-
-Switching from disposable to refillable cleaning products can significantly reduce household plastic waste and save money over time, without compromising cleaning power—so long as you follow instructions carefully and select truly sustainable refill systems.

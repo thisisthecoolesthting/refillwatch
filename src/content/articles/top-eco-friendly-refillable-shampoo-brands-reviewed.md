@@ -31,18 +31,9 @@ Eco-conscious consumers face a common dilemma: how to reduce single-use plastic 
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
+A refillable shampoo brand typically provides a container that can be reused multiple times, along with refills that come as smaller bottles, pouches, cartridges, or concentrate pods. The goal is to reduce packaging waste, especially single-use plastic, by encouraging consumers to keep and reuse the same primary bottle.
 
-A refillable shampoo brand typically provides a container that can be reused multiple times, along with refills that come as smaller bottles, pouches, [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20), or concentrate pods. The goal is to reduce packaging waste, especially single-use plastic, by encouraging consumers to keep and reuse the same primary bottle.
-
-However, the effectiveness of a refill system depends heavily on how much plastic and packaging is saved per refill, whether the refills are [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) with multiple bottle sizes, and if concentrate refills allow for less water and plastic shipping overhead.
+However, the effectiveness of a refill system depends heavily on how much plastic and packaging is saved per refill, whether the refills are compatible with multiple bottle sizes, and if concentrate refills allow for less water and plastic shipping overhead.
 
 
 
@@ -54,7 +45,7 @@ However, the effectiveness of a refill system depends heavily on how much plasti
 
 - **Concentrated Refills:** These are highly concentrated shampoo formulas sold in very small containers or pods that you dilute with water at home. This drastically cuts down on plastic and shipping emissions.
 
-- **[Cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) or Pod Systems:** A reusable bottle houses a removable shampoo [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) or pod that’s swapped out with refills. In some cases, third-party or [compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) cartridges are available, which can be cheaper and may avoid proprietary plastics.
+- **Cartridge or Pod Systems:** A reusable bottle houses a removable shampoo cartridge or pod that’s swapped out with refills. In some cases, third-party or compatible cartridges are available, which can be cheaper and may avoid proprietary plastics.
 
 - **In-Store and At-Home Bulk Refill:** Some brands offer bulk refill stations or pouches to pour back into bottles, minimizing packaging waste but requiring extra consumer effort.
 
@@ -80,20 +71,11 @@ To fairly evaluate refillable shampoo brands, consider:
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 | Rank | Brand Type | Packaging | Waste Reduction | Concentration | Cost Saving | Ingredient Transparency | Refill Availability | Notes |
 |-------|-------------|------------|-----------------|----------------|-------------|-------------------------|---------------------|-------|
 | 1 | Concentrated Pods | Reusable bottle + pods | ~80% less plastic | Very High | ~40% savings | High - full disclosure | Online + stores | Minimal plastic, advanced formula |
 | 2 | Bulk Pouch System | Single-use pouch | ~60-70% less plastic | Moderate | ~30% savings | Moderate | Online | May require storage space |
-| 3 | [Cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) Business | Durable bottle + cartridge | ~50-60% less plastic | Low-moderate | ~20% savings | High | Online + retail | Proprietary cartridges, limited third-party options |
+| 3 | Cartridge Business | Durable bottle + cartridge | ~50-60% less plastic | Low-moderate | ~20% savings | High | Online + retail | Proprietary cartridges, limited third-party options |
 | 4 | Standard Refill Bottle | Narrow-neck small bottles | ~40-50% less plastic | Low | ~10-15% savings | Variable | Online + retail | Simple but less packaging savings |
 | 5 | In-Store Bulk | Customer bottles refilled | Highest, near zero new packaging | N/A | Highest savings | Depends on product | Limited | Most eco-friendly but less convenient |
 
@@ -101,7 +83,7 @@ To fairly evaluate refillable shampoo brands, consider:
 
 - **Concentrated Pods:** These systems excel due to a very high concentrate-to-plastic ratio. Economy is gained by shipping reduced water volume, meaning lower costs and fewer emissions. The reusable bottles are designed to last a year or more, significantly slashing plastic waste.
 
-- **Bulk Pouch Systems:** Usually large lightweight pouches that weigh far less than a plastic bottle of [equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) shampoo volume. While not as eco-efficient as concentrates, these pouches reduce plastic waste substantially and suit users who prefer liquid shampoo without dilution.
+- **Bulk Pouch Systems:** Usually large lightweight pouches that weigh far less than a plastic bottle of equivalent shampoo volume. While not as eco-efficient as concentrates, these pouches reduce plastic waste substantially and suit users who prefer liquid shampoo without dilution.
 
 - **Cartridge Systems:** These offer convenience and moderate sustainability gains. The challenge is if cartridges are proprietary and cannot be refilled or sourced from third parties, leading to more plastic use. Durability of the reusable bottle is critical.
 
@@ -137,7 +119,7 @@ Many refillable shampoo brands emphasize sustainability but may not be fully tra
 
 - Use of plant-based surfactants and responsibly sourced botanicals
 
-- Dermatologist or third-party certification for [safety](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) and sensitivity
+- Dermatologist or third-party certification for safety and sensitivity
 
 Transparency builds trust and helps consumers avoid hidden irritants or environmentally harmful ingredients, aligning with the ethos of zero-waste lifestyles.
 
@@ -146,15 +128,6 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51Z6zkSyVKL.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">J.R.LIGGETT Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">One bar replaces multiple liquid bottles—travel-friendly and plastic-free.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 - **Refill Packaging Material:** Some so-called "refill pouches" use complex multi-layer plastics that are hard to recycle, lowering their eco benefit.
 
@@ -195,10 +168,10 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -206,10 +179,10 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B089QRFMZF.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -217,8 +190,8 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B082TRQ5Y1?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B082TRQ5Y1.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B001W2K51O?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41e6eGXac8L.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">J.R.LIGGETT Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">One bar replaces multiple liquid bottles—travel-friendly and plastic-free.</span>
@@ -228,10 +201,10 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B086RYBBRH?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Conditioner Bar" data-card-pick="Completes a solid hair routine—pairs directly with Ethique shampoo bars.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B086RYBBRH.jpg" alt="Ethique Conditioner Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DKPHHP5G?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Hydrating Conditioner Bar" data-card-pick="Completes a solid hair routine—pairs directly with Ethique shampoo bars.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41+MTQP7EEL.jpg" alt="Ethique Hydrating Conditioner Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Conditioner Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Hydrating Conditioner Bar</strong>
 <span class="amazon-inline-card__desc">Solid conditioner bar that pairs with shampoo bars for a full plastic-free routine.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -240,7 +213,7 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0CLBF6PLW.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41IfQ1+OUhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
 <span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
@@ -248,19 +221,3 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Do refillable shampoo bottles really reduce plastic waste?**  
-**A:** Yes, but only if the refills use significantly less plastic and the main bottle is reused for many months. Some refill pouches or pods reduce plastic waste by over 70% compared to single-use bottles.
-
-**Q: Are concentrate refills more cost-effective than standard liquid ones?**  
-**A:** Typically yes, concentrated refills reduce shipping and packaging costs, often offering 30-40% savings per wash compared to buying new bottles.
-
-**Q: Is it safe to reuse refillable shampoo bottles?**  
-**A:** Yes, if they are cleaned properly and made from durable, BPA-free materials designed for multiple uses. Avoid plastic bottles not rated for long-term reuse.
-
----
-
-By understanding the real trade-offs between refill formats and shampoo formulations, households can confidently choose the refillable shampoo brand that best aligns with their zero-waste goals and budgets, cutting plastic waste without compromise.

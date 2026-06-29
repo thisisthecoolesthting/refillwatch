@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/315R+yuAkjL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s

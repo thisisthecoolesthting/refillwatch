@@ -40,7 +40,8 @@
     "ctaSecondaryLabel": "How we research",
     "ctaSecondaryHref": "/methodology",
     "trustLine": "Independent watchdog · No retailer sponsorships · We name the hike, we name the alternative",
-    "heroImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=85"
+    "heroImageUrl": "/hero/refillwatch-hero.jpg",
+    "heroVideoUrl": "/hero/refillwatch-hero.mp4"
   },
   "palette": {
     "primary": "#1E3A8A",

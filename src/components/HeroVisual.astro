@@ -1,6 +1,7 @@
 ---
 export interface Props {
   imageUrl: string;
+  videoUrl?: string;
   caption?: string;
   badge?: string;
   alt?: string;
@@ -8,32 +9,94 @@ export interface Props {
 
 const {
   imageUrl,
+  videoUrl = '',
   caption = '',
   badge = '',
   alt = '',
 } = Astro.props;
+
+const hasVideo = Boolean(videoUrl && videoUrl.trim().length > 0);
+const videoId = `hero-video-${Math.random().toString(36).slice(2, 9)}`;
 ---
 
-<figure class="relative rounded-2xl overflow-hidden border border-cream-50/15 shadow-soft-lg min-h-[280px] md:min-h-[340px] lg:min-h-[380px]">
-  <img
-    src={imageUrl}
-    alt={alt}
-    loading="eager"
-    class="absolute inset-0 w-full h-full object-cover"
-  />
+<figure class="hero-visual relative rounded-2xl overflow-hidden border border-cream-50/15 shadow-soft-lg min-h-[280px] md:min-h-[340px] lg:min-h-[380px]">
+  {hasVideo ? (
+    <>
+      <video
+        id={videoId}
+        class="hero-visual__video absolute inset-0 w-full h-full object-cover"
+        autoplay
+        muted
+        loop
+        playsinline
+        preload="metadata"
+        poster={imageUrl}
+        aria-label={alt || 'Hero video'}
+      >
+        <source src={videoUrl} type="video/mp4" />
+      </video>
+      <img
+        src={imageUrl}
+        alt={alt}
+        loading="eager"
+        class="hero-visual__poster absolute inset-0 w-full h-full object-cover hidden"
+        aria-hidden="true"
+      />
+    </>
+  ) : (
+    <img
+      src={imageUrl}
+      alt={alt}
+      loading="eager"
+      class="absolute inset-0 w-full h-full object-cover"
+    />
+  )}
   <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-ink-900/85 via-ink-900/20 to-transparent"></div>
   {badge && (
-    <figcaption class="absolute top-4 left-4 right-4">
+    <figcaption class="absolute top-4 left-4 right-4 z-10">
       <span class="inline-block font-mono text-[10px] tracking-[0.16em] uppercase bg-ink-900/70 text-cream-50 px-3 py-1.5 rounded-lg backdrop-blur-sm">
         {badge}
       </span>
     </figcaption>
   )}
   {caption && (
-    <figcaption class="absolute bottom-0 left-0 right-0 px-4 py-4 md:px-5 md:py-5">
+    <figcaption class="absolute bottom-0 left-0 right-0 z-10 px-4 py-4 md:px-5 md:py-5">
       <p class="text-sm md:text-base text-cream-50/95 leading-snug max-w-[32ch] font-display">
         {caption}
       </p>
     </figcaption>
   )}
 </figure>
+
+{hasVideo && (
+  <script define:vars={{ videoId }}>
+    (() => {
+      const video = document.getElementById(videoId);
+      if (!video) return;
+      const figure = video.closest('.hero-visual');
+      const poster = figure?.querySelector('.hero-visual__poster');
+
+      const applyMotionPreference = () => {
+        const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (reduce) {
+          video.pause();
+          video.removeAttribute('autoplay');
+          video.classList.add('hidden');
+          poster?.classList.remove('hidden');
+          return;
+        }
+        video.classList.remove('hidden');
+        poster?.classList.add('hidden');
+        video.play().catch(() => {
+          video.classList.add('hidden');
+          poster?.classList.remove('hidden');
+        });
+      };
+
+      applyMotionPreference();
+      const mq = window.matchMedia('(prefers-reduced-motion: reduce)');
+      if (mq.addEventListener) mq.addEventListener('change', applyMotionPreference);
+      else mq.addListener(applyMotionPreference);
+    })();
+  </script>
+)}

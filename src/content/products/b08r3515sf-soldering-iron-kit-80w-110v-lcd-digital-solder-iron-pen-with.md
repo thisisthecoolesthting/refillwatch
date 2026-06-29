@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41-UwHjbdpL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with

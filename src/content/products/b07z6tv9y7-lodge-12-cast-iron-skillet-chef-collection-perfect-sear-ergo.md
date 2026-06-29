@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/31PH9cOPkVL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo

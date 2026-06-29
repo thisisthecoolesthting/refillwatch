@@ -31,15 +31,6 @@ Many households want to reduce single-use plastic waste but find it hard to iden
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Refillable dish soap comes as either concentrated formulas designed to be diluted at home, soap pods, or liquid soap sold in sustainable packaging such as glass, aluminum, or rigid plastic containers intended to be reused multiple times. Instead of buying a traditional plastic bottle each time the soap runs out, you refill the original container either via a “refill pouch” with less waste or a reusable bottle that can be topped up from bulk soap stations or third-party refills.
 
 The benefits are clear: significantly less single-use plastic waste, smaller shipping footprints due to concentrated formulas, and sometimes better ingredient transparency. However, not all refillable options are created equal in terms of waste savings or price.
@@ -80,23 +71,14 @@ Cutting plastic waste is more complex than simply choosing “refillable” bran
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Here we rank refillable dish soaps from best to least effective at reducing waste while balancing cost and ingredient quality. Brand names are generic to keep focus on features.
 
 | Rank | Brand Type                 | Packaging Material     | Concentration   | Price per Wash | Ingredient Transparency | Refill Options               | Notes                                               |
 |-------|----------------------------|-----------------------|-----------------|----------------|-------------------------|------------------------------|-----------------------------------------------------|
-| 1     | Glass Bottle Concentrate   | Glass + Aluminum Cap  | High (1:30)     | Low            | Full disclosure          | Bulk soap refill [station,](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20) [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) pouches         | Best long-term reuse; durable and fully recyclable   |
+| 1     | Glass Bottle Concentrate   | Glass + Aluminum Cap  | High (1:30)     | Low            | Full disclosure          | Bulk soap refill station, compatible pouches         | Best long-term reuse; durable and fully recyclable   |
 | 2     | Flexible Pouch Concentrate | Multi-layer plastic   | Very High (1:40)| Lowest         | Partial disclosure       | Direct-to-consumer pouches only                      | Waste footprint low but recycling limited            |
-| 3     | Brand [Cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) System     | Rigid Reusable Plastic| Medium (1:15)   | Medium         | Good transparency        | Proprietary refill [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) only                    | Convenient but locked ecosystem limits choices       |
-| 4     | Bulk Soap [Station](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) Brand    | Glass or Rigid Plastic| Variable        | Very low       | Good transparency        | Bulk refill stations in stores                         | Great in cities with bulk shops, less accessible elsewhere |
+| 3     | Brand Cartridge System     | Rigid Reusable Plastic| Medium (1:15)   | Medium         | Good transparency        | Proprietary refill cartridges only                    | Convenient but locked ecosystem limits choices       |
+| 4     | Bulk Soap Station Brand    | Glass or Rigid Plastic| Variable        | Very low       | Good transparency        | Bulk refill stations in stores                         | Great in cities with bulk shops, less accessible elsewhere |
 | 5     | Single-Use ‘Refillable’ Bottles | Mixed Plastic     | Low (ready-to-use) | Highest       | Limited disclosure       | No refill, just reusable bottle                      | Often just reusable bottles sold without refill options |
 
 ## How to Transition to a Zero-Waste Refillable Dish Soap System
@@ -117,7 +99,7 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
    Purchase or repurpose a pump bottle designed for liquid soap, ideally glass or thick plastic, to refill from concentrates.
 
 5. **Recycle or Reuse Packaging Properly**  
-   Ensure you rinse and recycle refill pouches if facilities accept them, or find [collection](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20) programs. Glass and aluminum are highly recyclable so prioritize those when possible.
+   Ensure you rinse and recycle refill pouches if facilities accept them, or find collection programs. Glass and aluminum are highly recyclable so prioritize those when possible.
 
 6. **Watch Ingredient Lists for Water Impact**  
    A very concentrated product with harmful chemicals won’t be a zero-waste win if it poisons waterways. Favor transparent brands with safer ingredients.
@@ -128,15 +110,6 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 - **Buying “Refillable” Bottles Without Access to Refills**  
   Many products tout “refillable” but don’t offer any refill pouches or bulk options, leaving you to repurchase full bottles anyway.
 
@@ -146,12 +119,12 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 - **Disregarding Ingredient Safety**  
   Some concentrated formulas use harsher chemicals to be effective in smaller amounts, which could be damaging environmentally or to sensitive skin.
 
-- **Overpaying for Locked-In [Cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) Systems**  
+- **Overpaying for Locked-In Cartridge Systems**  
   Proprietary containers that only accept brand-name refills may limit your cost and plastic waste savings.
 
 ## Comparison Table: Typical Refillable Dish Soap Packaging Trade-offs
 
-| Feature                   | Glass Bottle + Refill Pouches             | Flexible Pouches (No Bottle)         | Proprietary [Cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) Systems       | Bulk Soap Stations                  |
+| Feature                   | Glass Bottle + Refill Pouches             | Flexible Pouches (No Bottle)         | Proprietary Cartridge Systems       | Bulk Soap Stations                  |
 |---------------------------|-------------------------------------------|------------------------------------|------------------------------------|-----------------------------------|
 | Plastic Use               | Low (thin caps and pouch plastic)         | Lowest (thin plastic only)           | Medium (reusable plastic bottle)    | Varies (bring your own container) |
 | Recyclability             | High (glass + aluminum recyclable)         | Low (often no local recycling)       | Moderate (depends on plastics used) | High (reuse your own bottle)       |
@@ -163,10 +136,10 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -174,8 +147,8 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -185,8 +158,8 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -196,8 +169,8 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -207,28 +180,12 @@ Transitioning involves more than swapping bottles. Here are actionable steps to 
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: How much plastic waste can I realistically cut by switching to refillable dish soap?**  
-**A:** Switching from single-use plastic bottles to refill pouches or glass bottles can reduce plastic waste by 50-90%, depending on your refill system and local recycling options.
-
-**Q: Are refillable dish soaps more expensive over time?**  
-**A:** Concentrated refills typically cost less per wash than buying new ready-to-use bottles, especially when you factor in less plastic waste disposal costs and potential health benefits from cleaner ingredients.
-
-**Q: Can I use any refill pouch with my reusable soap bottle?**  
-**A:** Not always. Check if refill pouches are compatible with your bottle’s opening size and pump type. Some brands use proprietary sizes or cartridges that limit third-party refill options.
-
----
-
-Choosing the best refillable dish soap for your zero-waste kitchen involves balancing plastic reduction, cost, ingredient safety, and availability of genuine refill options. Armed with the criteria and comparisons above, you can make an informed choice that suits your lifestyle while making a meaningful dent in household plastic waste.

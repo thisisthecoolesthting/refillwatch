@@ -7,34 +7,40 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: "#FAFAF9",
-          100: "#F5F5F4",
-          200: "#E7E5E4",
+          50: "#F8FAFC",
+          100: "#F1F5F9",
+          200: "#E2E8F0",
+        },
+        navy: {
+          DEFAULT: "#1E3A8A",
+          600: "#1E40AF",
+          700: "#1D4ED8",
         },
         terracotta: {
           400: "#F87171",
-          500: "#1B4D6E",
+          500: "#DC2626",
           600: "#991B1B",
         },
-        primary: { DEFAULT: "#1B4D6E" },
-        accent: { DEFAULT: "#2563EB" },
+        primary: { DEFAULT: "#1E3A8A" },
+        accent: { DEFAULT: "#DC2626" },
         sage: { 400: "#8FA888", 500: "#6F8B6A", 600: "#566F52" },
-        rose: { deep: "#0F172A" },
+        rose: { deep: "#0B1120" },
         ink: {
-          900: "#0F172A",
-          700: "#4A4340",
-          500: "#6E6863",
+          900: "#0B1120",
+          700: "#334155",
+          500: "#64748B",
         },
       },
       maxWidth: {
         prose: "68ch",
+        site: "72rem",
       },
       typography: {
         DEFAULT: { css: { maxWidth: "68ch" } },
-        ink: { css: { color: "#4A4340" } },
+        ink: { css: { color: "#334155" } },
       },
       fontFamily: {
-        display: ["Playfair Display", "Georgia", "serif"],
+        display: ["Archivo", "Georgia", "serif"],
         sans: ["Inter", "system-ui", "sans-serif"],
         body: ["Inter", "sans-serif"],
         mono: ["JetBrains Mono", "monospace"],

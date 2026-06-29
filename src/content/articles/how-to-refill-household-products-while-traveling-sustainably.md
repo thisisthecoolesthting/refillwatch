@@ -31,15 +31,6 @@ Packing for a trip often means juggling the convenience of disposable products w
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Refilling rather than buying new bottled products greatly reduces plastic waste, especially when traveling. Tourists and business travelers often accumulate dozens of single-use bottles over time, contributing to landfill overflow and ocean pollution. Furthermore, many refilled products have higher concentrations, meaning less water in the mix and less plastic used over multiple refills. Being intentional about your product use on the road aligns your travel habits with sustainability goals at home.
 
 
@@ -73,15 +64,6 @@ Tip: Bring a small funnel or syringe to transfer liquids accurately when refilli
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Concentrated products and solids (like shampoo bars or laundry pods) are more space- and weight-efficient for travelers. Concentrates can be diluted with water after refilling and usually reduce plastic packaging waste dramatically.
 
 Examples:
@@ -97,7 +79,7 @@ Once at your destination, seek local refill stations or stores offering bulk opt
 
 If refill stations aren’t accessible:
 
-- Consider purchasing [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) third-party refill [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) or concentrate packets designed to fit your bottles.
+- Consider purchasing compatible third-party refill cartridges or concentrate packets designed to fit your bottles.
 - Bring small quantities of solid products purchased at home to minimize purchasing new plastic products abroad.
 
 In hotel or Airbnb settings with limited options, you might bring enough travel-sized refills from home or carry minimal concentrates and dilute as needed.
@@ -111,7 +93,7 @@ While sustainable refills often cost slightly more upfront than single-use bottl
 | Single-use bottled soap| $0.50               | 15g plastic          | Convenient but high waste           |
 | Concentrated refills   | $0.30               | 3-5g plastic         | Lower waste, requires planning      |
 | Solid bar shampoo     | $0.40               | Zero plastic          | Minimal waste, durable on trip      |
-| Third-party refill pods| $0.35               | 5-7g plastic         | Moderate waste, [compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) with bottles |
+| Third-party refill pods| $0.35               | 5-7g plastic         | Moderate waste, compatible with bottles |
 
 Note: Waste estimates include packaging and bottle weight per use.
 
@@ -121,20 +103,11 @@ Note: Waste estimates include packaging and bottle weight per use.
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 When packing your refills:
 
 - Use durable, leak-proof containers packed within sealed plastic bags as an extra precaution.
 - Label containers with contents and dilution ratios to avoid confusion.
-- Store solids in [breathable](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20) [fabric](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) pouches to keep them dry and easy to access.
+- Store solids in breathable fabric pouches to keep them dry and easy to access.
   
 During use:
 
@@ -147,8 +120,8 @@ During use:
 | Pitfall                           | How to Prevent                                      |
 |----------------------------------|----------------------------------------------------|
 | Leakage and spills damaging luggage | Use leak-proof bottles and double-seal in zip bags |
-| Mismatched bottle or [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) sizes | Measure bottle openings and bring adapters/funnel  |
-| [Running](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20) out of refill products mid-trip | Bring more solid products or concentrates as backup |
+| Mismatched bottle or cartridge sizes | Measure bottle openings and bring adapters/funnel  |
+| Running out of refill products mid-trip | Bring more solid products or concentrates as backup |
 | Ignoring airport liquid restrictions | Transfer to compliant sizes and check TSA rules      |
 | Buying plastic-heavy refills thinking they're eco-friendly | Verify ingredient concentration and packaging       |
 
@@ -166,16 +139,16 @@ During use:
 | Refillable bottles + local bulk refills | Very Low      | Requires advance planning | High (long-term savings)    | Long stays in refill-friendly locations |
 | Solid bars (shampoo, soap)          | None          | Travel-friendly, TSA-compliant | Moderate                 | Short to medium trips               |
 | Concentrated liquids + dilute later | Low           | Medium, requires mixing      | High                     | Trips with access to water           |
-| Third-party [compatible](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) cartridges   | Moderate      | High convenience              | Moderate                | Frequent travelers needing easy refills |
+| Third-party compatible cartridges   | Moderate      | High convenience              | Moderate                | Frequent travelers needing easy refills |
 | Single-use bottles                  | High          | Very convenient              | Low                      | Emergency/back-up use only           |
 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -183,8 +156,8 @@ During use:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -194,8 +167,8 @@ During use:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -205,8 +178,8 @@ During use:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -216,28 +189,12 @@ During use:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Can I safely bring solid shampoo bars in checked or carry-on luggage?**  
-**A:** Yes, shampoo bars are TSA-compliant as solids and travel well packed in fabric pouches within your luggage.
-
-**Q: How do I deal with airport liquid restrictions when bringing concentrates?**  
-**A:** Transfer concentrates into containers under 100 ml each in your carry-on, and declare if necessary. Alternatively, pack concentrates in checked luggage.
-
-**Q: Are third-party refill cartridges truly eco-friendly?**  
-**A:** They can reduce waste compared to buying new bottles but may still contain plastic. Check that they have higher concentration and minimal packaging to maximize impact.
-
----
-
-Traveling sustainably while maintaining your household product routine takes preparation but is entirely feasible. By planning containers, opting for concentrates or solids, sourcing refills responsibly, and packing mindfully, you can cut single-use waste and support environmental goals even on the road. Your commitment helps extend sustainability beyond home boundaries into every trip.

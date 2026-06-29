@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41WCQ-X4ztL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to

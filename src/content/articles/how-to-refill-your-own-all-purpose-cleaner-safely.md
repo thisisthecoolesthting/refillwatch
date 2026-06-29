@@ -29,16 +29,7 @@ excerpt: If you're trying to cut down on single-use plastic and household-produc
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-If you're trying to cut down on single-use plastic and household-product waste, refilling your all-purpose cleaner is an excellent place to start. However, safely mixing and refilling your own cleaning [solution](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20) involves more than just pouring concentrated liquid into an old bottle. You need to understand concentration ratios, the cost-benefit of refills versus new bottles, ingredient transparency, and which claims about refillable products actually help reduce waste. This article walks you through everything you need to refill your all-purpose cleaner safely, effectively, and sustainably.
+If you're trying to cut down on single-use plastic and household-product waste, refilling your all-purpose cleaner is an excellent place to start. However, safely mixing and refilling your own cleaning solution involves more than just pouring concentrated liquid into an old bottle. You need to understand concentration ratios, the cost-benefit of refills versus new bottles, ingredient transparency, and which claims about refillable products actually help reduce waste. This article walks you through everything you need to refill your all-purpose cleaner safely, effectively, and sustainably.
 
 ---
 
@@ -59,7 +50,7 @@ Before jumping into steps, it's important to know why refilling matters beyond j
 
 ## Step 1: Understand Concentration Ratios and Dilution
 
-The first step to safely refilling your cleaner is knowing the concentration ratio—the amount of concentrate to water. All-purpose cleaner concentrates often require dilution, typically between 1:5 and 1:20, depending on the formula [strength](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20).
+The first step to safely refilling your cleaner is knowing the concentration ratio—the amount of concentrate to water. All-purpose cleaner concentrates often require dilution, typically between 1:5 and 1:20, depending on the formula strength.
 
 ### Why this matters:
 
@@ -84,24 +75,15 @@ You can find the ideal dilution ratio on the concentrate packaging or material s
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Reusing the original bottle is common but only safe if:
 
 - The bottle is **thoroughly cleaned and rinsed** before reuse to avoid mixing residual chemicals.
 - The container is designed to withstand repeated use and cleaning.
-- The original spray nozzle or trigger is in good condition and [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) with the new solution.
+- The original spray nozzle or trigger is in good condition and compatible with the new solution.
 
 Alternatively, you could use:
 
-- **Brand-[compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) refill bottles** designed for reuse.
+- **Brand-compatible refill bottles** designed for reuse.
 - **Reusable trigger bottles** marked for suitable chemicals (usually polypropylene or HDPE plastics).
 
 Avoid using containers that previously held toxic substances, as they can contaminate your cleaner.
@@ -122,7 +104,7 @@ Avoid mixing DIY ingredients unless you have a verified recipe from a reliable s
 
 ## Step 4: Mixing Your Cleaner
 
-1. Start with clean, preferably filtered water at room [temperature](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20).
+1. Start with clean, preferably filtered water at room temperature.
 2. Measure the concentrate carefully using a measuring cup or syringe to match recommended dilution ratio.
 3. Pour water first into the bottle, then add the concentrate to avoid splashing concentrated solution.
 4. Cap the bottle and gently swirl to mix—avoid shaking vigorously to reduce foam formation.
@@ -136,15 +118,6 @@ Avoid mixing DIY ingredients unless you have a verified recipe from a reliable s
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 - Store your refilled cleaner in a cool, dark place away from direct sunlight to avoid degradation.
 - Use within recommended shelf life, usually 1 to 3 months for diluted products.
 - Avoid transferring liquid to incompatible spray heads or dispensers.
@@ -156,7 +129,7 @@ Avoid mixing DIY ingredients unless you have a verified recipe from a reliable s
 
 Choosing to refill can save money, but the exact savings depend on your purchase habits and product choices. Below is a generic cost comparison between brand-name single-use bottles, concentrate refills, and third-party concentrates.
 
-| Product Type            | Cost per 32 oz [Equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) | Waste Generated per Refill | Ingredient Transparency | Notes                           |
+| Product Type            | Cost per 32 oz Equivalent | Waste Generated per Refill | Ingredient Transparency | Notes                           |
 |------------------------|---------------------------|----------------------------|-------------------------|--------------------------------|
 | Brand-Name Single Use   | $5 - $8                   | High (full bottle plastic) | Varies                  | Convenient, often more expensive |
 | Brand-Name Concentrate  | $3 - $5                   | Low (refill pouch)         | Usually Transparent     | Requires precise dilution       |
@@ -183,7 +156,7 @@ Transparent ingredient lists enable you to evaluate potential health and environ
 Not all refillable or reusable bottle claims deliver real waste reduction:
 
 - **Reusable bottles with disposable liners:** These reduce bottle plastic but still produce liner waste.
-- **[Cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) or pod systems:** May reduce bottle waste, but pods often have multi-material packaging that’s hard to recycle.
+- **Cartridge or pod systems:** May reduce bottle waste, but pods often have multi-material packaging that’s hard to recycle.
 - **Bottle return/refill programs:** Truly impactful but require access to special stores or postal services.
 - **Refill pouches:** Often use much less plastic than full bottles, but need careful disposal.
 
@@ -193,7 +166,7 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 
 ## Summary Table: Choosing Your Refill Strategy
 
-| Factor                          | Concentrate Refills          | Reusable Bottles with Pods/[Cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) | DIY Mixes                       | Brand Single Use Bottles |
+| Factor                          | Concentrate Refills          | Reusable Bottles with Pods/Cartridges | DIY Mixes                       | Brand Single Use Bottles |
 |--------------------------------|-----------------------------|--------------------------------------|--------------------------------|-------------------------|
 | Plastic Waste                  | Low                          | Low to Moderate                       | Minimal                        | High                    |
 | Ingredient Transparency        | Usually Good                 | Varies                               | Full Control                   | Varies                  |
@@ -207,10 +180,10 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -218,8 +191,8 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -229,8 +202,8 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -240,8 +213,8 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -251,28 +224,12 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Can I refill my all-purpose cleaner with plain water from the tap?**  
-**A:** Yes, but filtered or distilled water is preferred to avoid minerals that can leave residues or reduce shelf life.
-
-**Q: How often should I replace the spray bottle?**  
-**A:** Ideally every 6 to 12 months, or sooner if the plastic cracks, the nozzle clogs, or the bottle shows wear.
-
-**Q: Are refill pouches always better for the environment?**  
-**A:** Not always. While they reduce plastic volume, they can be hard to recycle, so try to verify local recycling options and reuse bottles often.
-
----
-
-Refilling your all-purpose cleaner safely takes some planning but can greatly reduce your household plastic waste while saving money. Keep dilution ratios, container safety, and ingredient transparency top of mind to make the process both effective and responsible.

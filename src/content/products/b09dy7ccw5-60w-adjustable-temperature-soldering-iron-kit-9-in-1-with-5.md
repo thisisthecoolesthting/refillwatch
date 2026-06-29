@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41iaFnjhgjL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-

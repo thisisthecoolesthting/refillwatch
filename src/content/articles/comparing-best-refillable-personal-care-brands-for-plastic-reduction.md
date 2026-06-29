@@ -31,16 +31,7 @@ Many households want to reduce plastic waste from personal care products, but fi
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Refillable personal care brands design their products and packaging systems to allow consumers to reuse containers multiple times instead of discarding single-use plastic bottles after one use. Typically, this involves purchasing a durable, well-made bottle or dispenser once and then buying refills either as pouches, [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20), pods, or concentrate bottles to replenish the container.
+Refillable personal care brands design their products and packaging systems to allow consumers to reuse containers multiple times instead of discarding single-use plastic bottles after one use. Typically, this involves purchasing a durable, well-made bottle or dispenser once and then buying refills either as pouches, cartridges, pods, or concentrate bottles to replenish the container.
 
 The primary goal is to cut down on the total volume of plastic entering regular waste or recycling streams. Many brands focus on:
 - **Durable containers** engineered for multiple refills
@@ -56,8 +47,8 @@ The primary goal is to cut down on the total volume of plastic entering regular 
 
 Most refill systems fall into one of these categories:
 
-- **Pouch refills:** Flexible plastic pouches hold bulk product and use 70-90% less plastic than [equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) bottles. You pour them into the reusable bottle.
-- **[Cartridge](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) refills:** Pre-measured cartridges snap or slide into a dispenser. The dispenser pumps product out, and cartridges are replaced when empty. Not all cartridges are reusable or recyclable.
+- **Pouch refills:** Flexible plastic pouches hold bulk product and use 70-90% less plastic than equivalent bottles. You pour them into the reusable bottle.
+- **Cartridge refills:** Pre-measured cartridges snap or slide into a dispenser. The dispenser pumps product out, and cartridges are replaced when empty. Not all cartridges are reusable or recyclable.
 - **Concentrated refills:** Highly concentrated formulas that you dilute with water in the original container. Concentrates significantly reduce plastic and shipping emissions per use.
 - **Bulk bottle refills:** Large reusable bottles, often with thicker plastic or glass, refilled with similarly sized bottles or in-store filling stations.
 
@@ -69,18 +60,9 @@ When done right, each approach cuts single-use plastic and often offers ingredie
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Below is a comparison table that highlights typical features, typical plastic saving estimates, average cost per use, and ingredient transparency levels for generic refillable personal care brand models currently in the market. These categories help assess the real-world benefits across plastic waste, wallet impact, usability, and product quality.
 
-| Feature                     | Pouch Refill Model               | [Cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) Refill Model          | Concentrated Refill Model       | Bulk Bottle Refill Model        |
+| Feature                     | Pouch Refill Model               | Cartridge Refill Model          | Concentrated Refill Model       | Bulk Bottle Refill Model        |
 |-----------------------------|---------------------------------|--------------------------------|--------------------------------|--------------------------------|
 | **Plastic Use Reduction**   | ~70-90% less plastic vs bottles | 50-70% less plastic per use    | 80-95% less plastic             | Varies; depends on refill size |
 | **Container Durability**    | Medium (usually plastic bottles) | High (durable dispenser units) | High (durable container needed) | High (usually glass or thick plastic) |
@@ -100,7 +82,7 @@ Look past all claims and check how much plastic is saved per refill cycle. A bra
 
 ### 2. **Refill Fill Format**
 
-Refills in soft pouches or concentrated liquids use dramatically less plastic and have lower shipping weight, resulting in lower emissions and costs. [Cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) refills can be convenient but often contain more complex plastic assemblies that are not recyclable.
+Refills in soft pouches or concentrated liquids use dramatically less plastic and have lower shipping weight, resulting in lower emissions and costs. Cartridge refills can be convenient but often contain more complex plastic assemblies that are not recyclable.
 
 ### 3. **Cost Mathematics**
 
@@ -115,15 +97,6 @@ Brands committed to recycled plastic use frequently also pride themselves on ing
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Imagine you have a standard 16-ounce body wash bottle that costs $10 single-use. Brand A sells a 32-ounce refill pouch for $15. Initial bottle cost is $12.
 
@@ -145,10 +118,10 @@ Now the refillable option is cheaper by about 20% and saves significant plastic 
 ### Pitfall 1: "Refillable" but Poor Durability  
 Some containers aren't built to last beyond a couple of refills, leading consumers to buy replacements frequently, negating plastic savings.
 
-**[Solution](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20):** Choose brands with robust bottles designed for many refill cycles, with available [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) parts if needed.
+**Solution:** Choose brands with robust bottles designed for many refill cycles, with available replacement parts if needed.
 
 ### Pitfall 2: Proprietary and Hard-to-Recycle Cartridges  
-Many [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) systems lock you into specific refills that may have complex plastic materials and no recycling options.
+Many cartridge systems lock you into specific refills that may have complex plastic materials and no recycling options.
 
 **Solution:** Opt for refill formats with easily recyclable materials (simple pouches or bottles) and avoid cartridges without recycling programs.
 
@@ -168,10 +141,10 @@ Choosing the right refillable system means assessing your priorities around plas
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -179,10 +152,10 @@ Choosing the right refillable system means assessing your priorities around plas
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B089QRFMZF.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -190,11 +163,11 @@ Choosing the right refillable system means assessing your priorities around plas
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07HNQXHTP.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
+<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
+<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
@@ -202,7 +175,7 @@ Choosing the right refillable system means assessing your priorities around plas
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -212,24 +185,12 @@ Choosing the right refillable system means assessing your priorities around plas
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07NM4ZM3Z.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DX7JF5HR?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51bFoknduxL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<span class="amazon-inline-card__desc">Plant-based bristles, compostable bamboo handle—pack of 4.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Do all refillable personal care brands guarantee less plastic waste?**  
-**A:** No, only those with durable containers and refill formats that use significantly less plastic per use. Verify how many refills the bottle is designed for and the refill packaging type.
-
-**Q: Are cartridge refills recyclable?**  
-**A:** Often not easily. Many cartridges combine plastics and mechanisms that recycle facilities don’t accept. Look for brands with clear recycling instructions or simpler refill types.
-
-**Q: Is concentrated formula always cheaper?**  
-**A:** Concentrated formulas usually save money long term due to shipping and packaging efficiencies but require proper dilution. Initial costs may be higher, so follow usage directions closely to avoid waste.

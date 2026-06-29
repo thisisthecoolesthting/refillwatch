@@ -33,22 +33,13 @@ excerpt: (24 words, specific and engaging while avoiding generic phrasing.)
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-Refillable makeup removers are cleansing products designed to be used repeatedly with a refill system that minimizes waste. Instead of buying a new plastic bottle each time, you buy concentrate refills, pouches, or [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) that are either smaller, lighter, or use less plastic than the original packaging. The main container is retained and reused, significantly cutting down the single-use plastic footprint.
+Refillable makeup removers are cleansing products designed to be used repeatedly with a refill system that minimizes waste. Instead of buying a new plastic bottle each time, you buy concentrate refills, pouches, or cartridges that are either smaller, lighter, or use less plastic than the original packaging. The main container is retained and reused, significantly cutting down the single-use plastic footprint.
 
 Common refill forms include:
 
 - Concentrated liquids that are diluted at home.
 - Pouches made from less plastic, designed to pour into a reusable bottle.
-- [Compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) cartridges or pods that snap into a reusable pump-style bottle.
+- Compatible cartridges or pods that snap into a reusable pump-style bottle.
 - Larger bulk bottles meant for transferring.
 
 All these systems aim to reduce the environmental cost of packaging without sacrificing the convenience of liquid makeup remover.
@@ -79,20 +70,11 @@ Some pouches or refills use mono-material or biodegradable packaging, which are 
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/519-Mz2WSeL.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 | Packaging Type             | Single-Use Plastic Volume | Recyclability             | Ingredient Transparency | Cost per Use (Estimate) | Waste Generated per 100 Uses | When It Makes Most Sense              |
 |---------------------------|---------------------------|---------------------------|-------------------------|------------------------|-----------------------------|-------------------------------------|
-| Traditional Bottles        | High (full bottle weight) | Often recyclable but contaminated | Often moderate            | Higher                  | High                        | Occasional use or infrequent [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)  |
+| Traditional Bottles        | High (full bottle weight) | Often recyclable but contaminated | Often moderate            | Higher                  | High                        | Occasional use or infrequent replacement  |
 | Concentrated Refills (Pouches) | Low (minimal pouch plastic) | Usually mono-material recyclable | High (concentrates typically have simpler formulas) | Lower                   | Very low                    | Daily users wanting lower waste     |
-| [Compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) Cartridges      | Medium (plastic [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)) | Varies; can be more complex | Medium                  | Medium                  | Medium                      | Moderate users who want convenience  |
+| Compatible Cartridges      | Medium (plastic cartridge) | Varies; can be more complex | Medium                  | Medium                  | Medium                      | Moderate users who want convenience  |
 | Bulk Bottles for Refill    | Medium-High (less often discarded) | Depends on bottle and label | High                    | Lowest                   | Medium                     | Families or heavy users                 |
 
 ## Ingredient Transparency and Concentration: What to Watch For
@@ -103,22 +85,13 @@ Refillable makeup removers with concentrated formulas often have fewer fillers a
 - Potentially longer shelf life if the product is stored properly.
 - Possible need to learn dilution ratios; improper dilution may affect product performance or shelf life.
 
-Opting for refill systems that clearly publish concentration ratios and safe storage tips helps maintain efficacy and [safety](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20).
+Opting for refill systems that clearly publish concentration ratios and safe storage tips helps maintain efficacy and safety.
 
 ## Refillable Claims: Which Actually Save Waste?
 
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Not all “refillable” claims mean you’re cutting down on plastic or waste meaningfully. Here are some common pitfalls and how to avoid them:
 
@@ -152,17 +125,17 @@ If you can refill the same bottle 12 times from a 10g pouch and retain the bottl
 
 ## Summary: Why Refillable Makeup Removers Matter for Plastic Waste
 
-Making the switch to refillable makeup removers is one of the most straightforward ways for consumers to reduce single-use plastic waste from personal care routines. By choosing concentrated refills or [compatible](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) systems that emphasize ingredient transparency and real recyclability, you also gain cost savings over time and reduce your carbon footprint.
+Making the switch to refillable makeup removers is one of the most straightforward ways for consumers to reduce single-use plastic waste from personal care routines. By choosing concentrated refills or compatible cartridge systems that emphasize ingredient transparency and real recyclability, you also gain cost savings over time and reduce your carbon footprint.
 
 Look beyond marketing claims to ensure the refill system offers a genuine reduction in plastic use and waste, suits your usage patterns, and complies with local recycling capabilities.
 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -170,10 +143,10 @@ Look beyond marketing claims to ensure the refill system offers a genuine reduct
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B089QRFMZF?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Solid Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B089QRFMZF.jpg" alt="HiBAR Solid Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Solid Shampoo + Conditioner Set</strong>
+<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
 <span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -181,11 +154,11 @@ Look beyond marketing claims to ensure the refill system offers a genuine reduct
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07HNQXHTP?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Natural Toothpaste" data-card-pick="Glass-jar paste you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07HNQXHTP.jpg" alt="Georganics Natural Toothpaste" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Natural Toothpaste</strong>
-<span class="amazon-inline-card__desc">Fluoride-free paste in glass jar—refillable-friendly oral care swap.</span>
+<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
+<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
@@ -193,7 +166,7 @@ Look beyond marketing claims to ensure the refill system offers a genuine reduct
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -203,24 +176,12 @@ Look beyond marketing claims to ensure the refill system offers a genuine reduct
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07NM4ZM3Z?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07NM4ZM3Z.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DX7JF5HR?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51bFoknduxL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">BPA-free charcoal-infused bristles, 100% biodegradable bamboo handle—pack of 4.</span>
+<span class="amazon-inline-card__desc">Plant-based bristles, compostable bamboo handle—pack of 4.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## Frequently Asked Questions
-
-**Q: Are refillable makeup removers more expensive upfront?**  
-**A:** They can be, as reusable bottles or pumps may cost more initially, but you save money over time since refills usually cost less per use than buying new full bottles.
-
-**Q: Does diluting concentrated makeup remover affect its effectiveness?**  
-**A:** If you follow the recommended dilution ratios, concentrated removers work just as well. Improper dilution can reduce efficacy or shelf life.
-
-**Q: Can I recycle all refill pouches and cartridges?**  
-**A:** Not always. Recycling depends on your local facilities and the packaging materials. Choose refill options with mono-material or compostable packaging to maximize recyclability.

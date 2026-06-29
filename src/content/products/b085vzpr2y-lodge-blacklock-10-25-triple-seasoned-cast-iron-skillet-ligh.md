@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/31km2kO9ERL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh

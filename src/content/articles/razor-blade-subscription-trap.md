@@ -37,16 +37,7 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
-"Why does shaving cost me $200 a year when my grandpa paid pennies?" That's the question gnawing at anyone who's checked their credit card statement and seen recurring charges from Harry's, Dollar Shave Club, or Gillette's subscription service. The razor blade industry perfected the subscription model—convince you that paying $20 every two months is better than the "overpriced" drugstore [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20), then slowly increase prices while you're not looking.
+"Why does shaving cost me $200 a year when my grandpa paid pennies?" That's the question gnawing at anyone who's checked their credit card statement and seen recurring charges from Harry's, Dollar Shave Club, or Gillette's subscription service. The razor blade industry perfected the subscription model—convince you that paying $20 every two months is better than the "overpriced" drugstore cartridges, then slowly increase prices while you're not looking.
 
 We tracked 18 months of subscription price changes across major brands and found:
 
@@ -79,15 +70,6 @@ Razor subscriptions don't just cost you money; they alter your perception of val
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 We conducted a 6-month controlled study comparing four subscription services against three refillable alternatives, tracking 15 performance metrics. Here's the cost breakdown with real-world testing results:
 
 | Product | Subscription Cost | Blades per Shipment | Advertised Cost per Blade | Actual Cost per Blade | Claimed Shaves per Blade | Actual Shaves per Blade | Cost per Shave | Handle Longevity |
@@ -102,7 +84,7 @@ We conducted a 6-month controlled study comparing four subscription services aga
 
 **Key findings:**
 - Subscription services average $0.45–$1.25 per shave, with the Gillette Heated Razor being the worst offender at $1.25 per shave
-- Safety razors using Astra [Platinum](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20) blades cost 95% less per shave at $0.02
+- Safety razors using Astra Platinum blades cost 95% less per shave at $0.02
 - The "blades per shave" claims from subscription services were exaggerated by 18–25% in our tests
 - Handle durability shows the starkest difference—plastic subscription handles averaged 9.2 months before failure versus decades for metal safety razors
 - The Feather AS-D2 provided the closest shave at the lowest long-term cost ($0.018 per shave)
@@ -123,7 +105,7 @@ Beyond cost, our team of 12 testers tracked shave quality, blade degradation, an
 - Hinge mechanisms cracked after 8 months of normal use (average)
 - 40% of testers reported handle slippage when wet
 - Lack of weight (average 1.2 oz) forces users to apply pressure, increasing irritation
-- Compare to the Rockwell 6C, a $50 stainless steel safety razor that maintains [precision](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) alignment after 5+ years of daily use
+- Compare to the Rockwell 6C, a $50 stainless steel safety razor that maintains precision alignment after 5+ years of daily use
 
 **Skin impact:** Our testing showed:
 - Fewer ingrown hairs with single-blade alternatives versus multi-blade subscriptions
@@ -132,7 +114,7 @@ Beyond cost, our team of 12 testers tracked shave quality, blade degradation, an
 - The Edwin Jagger DE89 was rated best for sensitive skin in our tests
 
 **Hidden costs:** Subscription users incurred:
-- $12 average annual shipping fees for "expedited [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)" blades
+- $12 average annual shipping fees for "expedited replacement" blades
 - 38 minutes monthly dealing with account and cancellation issues
 - Reports of recurring charges continuing after cancellation attempts
 
@@ -141,15 +123,6 @@ Beyond cost, our team of 12 testers tracked shave quality, blade degradation, an
 
 
 
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41MhA9lNKAL.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
 
 Let's expose the true lifetime costs. Assumptions: 5 shaves per week, 260 shaves per year, 10-year timeframe:
 
@@ -165,14 +138,14 @@ Let's expose the true lifetime costs. Assumptions: 5 shaves per week, 260 shaves
 - Year 5: $743
 - Year 10: $1,692
 - Uses 43 blades per year (6 shaves per blade)
-- Hidden cost: Their "free" handle requires $9.95 [replacement](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) every 14 months
+- Hidden cost: Their "free" handle requires $9.95 replacement every 14 months
 - Total plastic waste: 430 cartridges + 8 handles
 
 **Gillette Heated Razor:**
 - Year 1: $300 ($25 × 12 months)
 - Year 5: $1,593
 - Year 10: $3,625
-- Battery [replacement](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) required at 18 months ($29.99)
+- Battery replacement required at 18 months ($29.99)
 - Proprietary charger fails at 22 months (average)
 
 **Safety Razor with Derby Extra blades:**
@@ -201,7 +174,7 @@ Let's expose the true lifetime costs. Assumptions: 5 shaves per week, 260 shaves
 - Best for: Those willing to invest 3 weeks learning proper technique (30° angle, no pressure)
 - Startup cost: $35–$200 for a quality razor (Parker 99R at $39 is ideal for beginners)
 - Ongoing: $0.02–$0.10 per blade (we recommend sampler packs to find your preference)
-- Pro: The Rex Ambassador offers [adjustable](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20) aggression for $250
+- Pro: The Rex Ambassador offers adjustable aggression for $250
 - Con: Not ideal for quick travel (TSA issues)—consider the OneBlade Core for carry-on
 
 **Option 2: Refillable Systems**
@@ -215,7 +188,7 @@ Let's expose the true lifetime costs. Assumptions: 5 shaves per week, 260 shaves
 If you insist on subscriptions:
 1. Set shipment frequency to every 4 months, not 2 (requires calling customer service)
 2. Cancel after signup deals expire (6–8 months average)
-3. Buy [replacement](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) blades at retailers (often 20% cheaper)
+3. Buy replacement blades at retailers (often 20% cheaper)
 4. Use prepaid gift cards to prevent auto-renewal surprises
 
 **Option 4: Straight Razor Revival**
@@ -226,8 +199,8 @@ If you insist on subscriptions:
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -237,8 +210,8 @@ If you insist on subscriptions:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -248,10 +221,10 @@ If you insist on subscriptions:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07LDB5GLB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Eco-Friendly Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B07LDB5GLB.jpg" alt="Ethique Eco-Friendly Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Eco-Friendly Shampoo Bar</strong>
+<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -260,7 +233,7 @@ If you insist on subscriptions:
 
 <div class="amazon-inline-card not-prose">
 <a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B0973GJNCC.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
@@ -270,106 +243,12 @@ If you insist on subscriptions:
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 </a>
 </div>
-
-
-## FAQ
-
-**Q: Aren't safety razors dangerous?**
-
-A: They require more attention than cartridge razors, but cuts are typically minor. The key is using no pressure—let the weight of the razor do the work. Most users adapt within 2–3 weeks. Our testers reported:
-- Fewer cuts after the learning period
-- Reduction in razor burn
-- The Edwin Jagger DE89 is particularly forgiving for beginners
-
-**Q: What about women's razors?**
-
-The same math applies but with greater savings potential. Women's subscription services like Billie cost $9 per month for 4 blades—that's $0.45 per shave. A Parker Safety Razor cuts this to $0.03. Key differences:
-- Longer handles better for leg shaving (Merkur 23C)
-- Soap and lather matter more for larger surface areas
-- Leaf Twig designed specifically for women's contours
-
-**Q: Don't multi-blade cartridges give a closer shave?**
-
-A: Multi-blade razors increase irritation risk by cutting hairs below skin level. Single blades provide comparable closeness without the irritation. Our testing showed:
-- 5-blade systems caused deeper hair retraction
-- Safety razors cut cleanly at skin surface
-- The RazoRock Lupo matched cartridge closeness in blind tests
-
-**Q: How do I dispose of safety razor blades safely?**
-
-A: Three responsible methods:
-1. Use a $5 blade bank (holds 100+ blades)
-2. DIY: Cut a slot in an empty broth can
-3. Local sharps recycling (check Terracycle programs)
-
-**Q: What's the best starter safety razor kit?**
-
-A: Our top recommendations:
-- **Budget:** Vikings Blade Chieftain ($35) with Astra sampler
-- **Mid-range:** Merkur 34C ($45) with Taylor of Old Bond Street cream
-- **Premium:** Rockwell 6S ($100) with Feather blade variety pack
-
-## Bottom Line
-
-Razor subscriptions are a financial trap disguised as convenience, locking users into systems that cost 5–10 times more than traditional wet shaving over a decade. Our recommendation:
-
-1. Invest in a Merkur 34C safety razor ($45) or Rockwell 6C ($50)
-2. Buy 100 Astra Platinum blades ($9) or a blade sampler pack ($15)
-3. Learn proper technique via online tutorials
-4. Add a badger brush ($25) and quality shave soap
-
-This setup will save the average shaver $1,200+ over 10 years while reducing plastic waste by 400+ cartridges. If you must use cartridges, buy them retail—our audit shows subscriptions consistently cost 20–40% more over time.
-
-<!-- padded-no-api-v2 -->
-
-
-## Frequently asked questions
-
-**Are 'price tracking' browser extensions actually accurate?**
-
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
-
-Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
-
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-
-**Are subscription services like Walmart+ or Amazon Prime worth keeping?**
-
-Math them quarterly. Prime is $139/year and breaks even on shipping alone at roughly 35 deliveries — most subscribers hit that easily. The actual question is whether the bundled streaming, photo storage, and grocery discount you'd otherwise replace at higher cost. Walmart+ at $98/year includes Paramount+ (about $50/year value) and fuel discounts that pencil out for households driving more than 8,000 miles a year.
-
-The trap is paying for both — Prime + Walmart+ + Costco + a streaming-only service is often $400+/year of overlapping value.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-<!-- boilerplate-stripped-v1 -->
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.

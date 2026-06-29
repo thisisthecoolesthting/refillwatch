@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51HC3MZTCrL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano

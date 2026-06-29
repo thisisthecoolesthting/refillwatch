@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41nbDb8lo4L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-

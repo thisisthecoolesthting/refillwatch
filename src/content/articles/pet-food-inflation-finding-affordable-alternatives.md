@@ -41,18 +41,9 @@ updatedAt: 2026-05-12
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81bs7NnNN-L.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Have you stood in the pet food aisle recently, staring at the same 30lb bag that now costs $15 more than last year? You're not alone. Our analysis of 14 major pet food brands shows average price increases of 18% since 2023, with some premium brands like Royal Canin jumping 27%. But here's what retailers don't want you to know: the shrinkflation. That "new look" 24lb bag replacing the 26lb one at the same price is a 7.7% hidden hike.
 
-We spent three months tracking daily price fluctuations across [Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20), Chewy, and Walmart, uncovering patterns in when brands hike prices (typically January and July). This guide goes beyond surface-level comparisons to show exactly which premium features actually matter for your pet's health versus which are marketing fluff. For budget-conscious pet owners, we'll reveal how to maintain quality while cutting costs by:
+We spent three months tracking daily price fluctuations across Amazon, Chewy, and Walmart, uncovering patterns in when brands hike prices (typically January and July). This guide goes beyond surface-level comparisons to show exactly which premium features actually matter for your pet's health versus which are marketing fluff. For budget-conscious pet owners, we'll reveal how to maintain quality while cutting costs by:
 
 - Identifying the best store-brand alternatives to premium kibbles
 - Calculating the true cost per meal across different bag sizes
@@ -85,15 +76,6 @@ We tracked the manufacturing origins of 32 popular formulas and discovered that 
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 We compared four price-bracket competitors across nutritional metrics and real-world cost:
 
 | Brand | Price (30lb) | Cost/Day* | Protein % | Key Features | Best For |
@@ -101,7 +83,7 @@ We compared four price-bracket competitors across nutritional metrics and real-w
 | Blue Buffalo Life Protection | $62.99 | $1.05 | 26% | No poultry by-product | Dogs with sensitivities |
 | Purina Pro Plan | $54.98 | $0.92 | 30% | Probiotics included | Active dogs |
 | Kirkland Signature | $34.99 | $0.58 | 24% | Costco exclusive | Budget households |
-| Iams ProActive Health | $41.24 | $0.69 | 27% | [Omega](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20) fatty acids | Shiny coat focus |
+| Iams ProActive Health | $41.24 | $0.69 | 27% | Omega fatty acids | Shiny coat focus |
 
 *Based on 2 cups/day for 30lb dog
 
@@ -115,7 +97,7 @@ Our lab analysis revealed that while Purina Pro Plan contains slightly higher pr
 For cats, we found even less differentiation between price tiers. Fancy Feast's classic pâté line scored equally to premium brands in protein content (10% vs 11%) and palatability tests with 30 feline testers. The main difference? Premium brands use more photogenic chunks and gravy, while budget options focus on nutritionally complete formulas without the aesthetics markup.
 
 
-For more on finding cheaper alternatives for [canon](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) pg-245 ink [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20), see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).
+For more on finding cheaper alternatives for canon pg-245 ink cartridges, see [our coverage at inkledger.org](https://inkledger.org/articles/canon-pg-245-cheaper-alternatives/).
 ## Real-World Performance
 
 Beyond lab analyses, we conducted 60-day feeding trials with three dog groups:
@@ -141,15 +123,6 @@ For cats with urinary tract issues, the only significant difference came from mo
 
 
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-
 Let's break down the true cost differences with real 2026 pricing:
 
 **Scenario**: 50lb dog eating 3 cups daily
@@ -165,9 +138,9 @@ Bulk buying strategies:
 - Warehouse clubs like Costco sell Kirkland at $0.38/meal versus $0.72 for comparable quality
 - Auto-ship discounts often negated by subsequent price increases (documented in our subscription tracker)
 
-We analyzed the price histories of 18 popular formulas and identified clear seasonal patterns. Premium brands like Royal Canin increase prices an average of 6.2% in January (post-holiday demand drop) and 4.8% in July (summer travel season). Budget brands show more erratic pricing but tend to offer genuine discounts in [April](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20) and October - the industry's traditional slow periods.
+We analyzed the price histories of 18 popular formulas and identified clear seasonal patterns. Premium brands like Royal Canin increase prices an average of 6.2% in January (post-holiday demand drop) and 4.8% in July (summer travel season). Budget brands show more erratic pricing but tend to offer genuine discounts in April and October - the industry's traditional slow periods.
 
-For multi-pet households, mixing sizes creates additional savings. Buying one 40lb bag of Diamond Naturals for [large](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20) dogs and splitting it with a 15lb bag of Nutro [Small](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20) Breed creates a blended cost of $0.41/meal versus $0.58 if bought separately. The key is using airtight containers to maintain freshness when breaking down bulk purchases.
+For multi-pet households, mixing sizes creates additional savings. Buying one 40lb bag of Diamond Naturals for large dogs and splitting it with a 15lb bag of Nutro Small Breed creates a blended cost of $0.41/meal versus $0.58 if bought separately. The key is using airtight containers to maintain freshness when breaking down bulk purchases.
 
 ## Alternatives and Refills
 
@@ -189,13 +162,13 @@ Veterinary technician Mark Reynolds advises: "Transition slowly over 7-10 days w
 
 We tested six rotational feeding combinations and found the 70/30 budget-to-premium ratio provided optimal cost savings without sacrificing palatability. For example, mixing 3 parts Kirkland Signature with 1 part Blue Buffalo resulted in a $0.49/meal cost versus $0.72 for pure premium, with identical stool quality and energy levels in test dogs.
 
-For raw feeders, we identified regional suppliers offering bulk discounts that commercial brands can't match. A Midwest co-op sells frozen beef patties at $0.89/lb in 40lb cases - nutritionally [equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) to $2.50/lb commercial raw diets. The catch? You'll need 5+ cubic feet of freezer space and willingness to portion meals yourself.
+For raw feeders, we identified regional suppliers offering bulk discounts that commercial brands can't match. A Midwest co-op sells frozen beef patties at $0.89/lb in 40lb cases - nutritionally equivalent to $2.50/lb commercial raw diets. The catch? You'll need 5+ cubic feet of freezer space and willingness to portion meals yourself.
 
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
@@ -205,8 +178,8 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
@@ -216,10 +189,10 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
+<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -227,10 +200,10 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
+<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
@@ -238,8 +211,8 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
@@ -247,97 +220,3 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 </a>
 </div>
-
-
-## FAQ
-
-### Is grain-free worth the extra cost?
-
-New research shows grain-free diets may contribute to heart disease in some breeds. Unless your pet has a diagnosed grain allergy, the extra $18/month provides no proven benefit.
-
-### How do I know if a cheaper food is nutritionally complete?
-
-Look for the AAFCO statement on packaging confirming "complete and balanced" status for your pet's life stage. All compared brands meet this standard.
-
-### Are subscription services really cheaper?
-
-Our data shows 62% of pet food subscriptions increase prices within 6 months, often exceeding retail. Set calendar reminders to check each delivery's per-unit cost.
-
-### What's the best way to store bulk kibble?
-
-Transfer food to airtight containers (not the original bag) and keep in cool, dark places. Properly stored, kibble stays fresh for 6 weeks post-opening.
-
-### Can I mix wet and dry food to save money?
-
-Combining 25% canned with 75% dry food can cut costs by 18% while maintaining moisture intake. Look for pâté styles that mix evenly.
-
-## Bottom Line
-
-After testing 14 brands and analyzing 18 months of price data, we recommend Purina ONE SmartBlend as the best balance of quality and value at $0.42/meal. For bulk buyers, Kirkland Signature Nature's Domain offers identical ingredients to premium brands at 40% less.
-
-Key savings strategies:
-1. Buy the largest bag your storage allows
-2. Compare price-per-ounce, not package price
-3. Rotate premium and budget foods
-4. Avoid auto-ship unless monitoring each delivery
-
-By implementing these tactics, the average pet owner can save $127-$460 annually without compromising their companion's health - money better spent on toys, vet visits, or that extra bag of treats.
-
-<!-- padded-no-api-v2 -->
-
-
-## Frequently asked questions
-
-**Why do bulk pantry stores not always save money?**
-
-Bulk-section pricing is heterogeneous. The same store might price oats at 40% below packaged but spices at 200% above grocery-aisle alternatives. The 'bulk savings' assumption was built when most bulk goods were commodity dry foods at 30–60% below packaged. Now bulk sections often emphasize 'specialty' goods (organic flours, exotic legumes, niche teas) where the per-pound cost can exceed packaged.
-
-Compare unit prices section by section before assuming bulk = cheaper. The sweet spot remains commodity grains, beans, oats, sugar, salt, and dried legumes — anywhere the bulk source is the same as the packaged supplier without the marketing markup.
-
-
-**Are 'price tracking' browser extensions actually accurate?**
-
-Camelizer (for Amazon), Honey, and Capital One Shopping all track real price history, but with caveats. Honey's price-drop alerts are reliable for Amazon and major retailers, but its 'best coupon code' check has been documented to miss ~30% of better-available codes from competitor sources. Camelizer is the most accurate for raw Amazon price history but doesn't account for third-party seller swings.
-
-Capital One Shopping is best for finding lower prices at competitor retailers. Stack them rather than rely on one — and remember that price-tracking tools are also data-collection tools; check what they collect before installing.
-
-
-**What is shrinkflation and how do I spot it?**
-
-Shrinkflation is when a manufacturer reduces package size (chips, cereal, ice cream, toilet paper sheets per roll) without lowering the shelf price — so the unit cost rises invisibly. The U.S. Bureau of Labor Statistics estimated shrinkflation accounted for roughly 3% of effective grocery inflation in 2023.
-
-Spot it by checking unit pricing on the shelf tag (price per ounce, per square foot, per fluid ounce) — most stores in the U.S. and EU are required to post it. Snap a photo of unit price on items you buy regularly and compare in three months.
-
-
-**How much do household pricing creeps actually cost over a year?**
-
-Consumer Reports' 2024 tracking of 47 household-staple categories found the median household experienced 11–14% effective price growth — meaning a family spending $9,000 a year on groceries, cleaning supplies, personal care, pet food, and OTC medications was paying $1,000–$1,260 more than 24 months earlier for the same goods.
-
-Most of that growth came from shrinkflation (smaller package sizes at the same shelf price) and 'premium tier' migration, where the only stocked product moves to a higher-priced version while the older lower-priced SKU quietly disappears.
-
-
-**Are refillable products really cheaper, or is that just marketing?**
-
-It depends on whether you actually refill them. The break-even on most refillable systems happens at 3–5 refills. Hand soap concentrates run about 60% cheaper per use than buying new bottled soap on the third refill onward; laundry detergent strips break even around the second box. The systems that fail are the ones that require driving to a refill store, paying premium prices for the refills themselves (Grove Collaborative, for example, sometimes has refills priced higher per fluid ounce than buying new), or use proprietary capsules.
-
-Stick to brands where the refill is actual concentrate or dry product, not a re-bottled version.
-
-<!-- boilerplate-stripped-v1 -->
-
-## How we tracked this
-
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
-
-## FAQ  
-
-**Q: How has pet food inflation affected pet owners?**  
-A: Pet food prices have risen significantly due to supply chain issues and increased production costs, forcing many pet owners to seek cheaper alternatives without compromising their pets' health.  
-
-**Q: What are some affordable yet nutritious alternatives to commercial pet food?**  
-A: Homemade meals with vet-approved ingredients like lean meats, rice, and vegetables can be cost-effective. Buying in bulk or opting for store-brand pet food with similar nutritional value can also help.  
-
-**Q: Are there eco-friendly pet food options that also save money?**  
-A: Yes, consider buying pet food in bulk using reusable containers or choosing brands with minimal packaging. Some companies offer refillable pet food programs to reduce waste and cost.  
-
-**Q: How can I ensure my pet’s diet remains balanced when switching to cheaper alternatives?**  
-A: Consult your vet before making changes to ensure the new diet meets your pet’s nutritional needs. Look for affordable options with high-quality protein and essential vitamins to maintain their health.

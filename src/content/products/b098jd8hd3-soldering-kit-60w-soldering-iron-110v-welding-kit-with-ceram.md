@@ -12,7 +12,7 @@ score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41UiRTgbcwS.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20"
 isPrime: false
-status: published
+status: draft
 firstSeen: "2026-06-02"
 lastSeen: "2026-06-02"
 slug: b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram
