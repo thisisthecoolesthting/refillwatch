@@ -37,3 +37,10 @@ Swings between $9.99 and $13.49. Subscribe & Save keeps it around $10.79. Best m
 The 48oz can is not resealable. Transfer to an airtight container after opening for best flavor beyond 2 weeks.
 
 <AffiliateCTA asin="B00HHQX0BQ" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Refillable vs Compostable Packaging: Which Is More Eco-Friendly?](/articles/refillable-vs-compostable-packaging-which-is-more-eco-friendly/)
+- [Best Refillable Shampoo Bars Compared to Liquid Refills](/articles/best-refillable-shampoo-bars-compared-to-liquid-refills/)
+- [Personal Care Refills: Which Brands Offer the Best Value?](/articles/personal-care-refills-which-brands-offer-the-best-value/)
+- [Best Refillable Dishwashing Liquid Options for Eco-Friendly Kitchens](/articles/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens/)

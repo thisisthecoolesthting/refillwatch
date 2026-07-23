@@ -9,7 +9,7 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
+imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B08PDHVZ4N.01._SCLZZZZZZZ_.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20"
 isPrime: false
 status: published
@@ -62,3 +62,10 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for gene
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
+
+## In our catalog
+
+- [Refillable vs Compostable Packaging: Which Is More Eco-Friendly?](/articles/refillable-vs-compostable-packaging-which-is-more-eco-friendly/)
+- [Best Refillable Shampoo Bars Compared to Liquid Refills](/articles/best-refillable-shampoo-bars-compared-to-liquid-refills/)
+- [Personal Care Refills: Which Brands Offer the Best Value?](/articles/personal-care-refills-which-brands-offer-the-best-value/)
+- [Best Refillable Dishwashing Liquid Options for Eco-Friendly Kitchens](/articles/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens/)

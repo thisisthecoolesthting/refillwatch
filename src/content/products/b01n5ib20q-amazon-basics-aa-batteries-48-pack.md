@@ -48,3 +48,10 @@ Remote-heavy households, anyone powering smoke detectors, kids' toys, or wireles
 This item spikes above $17 at least twice a year. Set a price alert at $14.99 — it dips there 4–6 times annually.
 
 <AffiliateCTA asin="B01N5IB20Q" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Refillable vs Compostable Packaging: Which Is More Eco-Friendly?](/articles/refillable-vs-compostable-packaging-which-is-more-eco-friendly/)
+- [Best Refillable Shampoo Bars Compared to Liquid Refills](/articles/best-refillable-shampoo-bars-compared-to-liquid-refills/)
+- [Personal Care Refills: Which Brands Offer the Best Value?](/articles/personal-care-refills-which-brands-offer-the-best-value/)
+- [Best Refillable Dishwashing Liquid Options for Eco-Friendly Kitchens](/articles/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens/)

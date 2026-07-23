@@ -44,3 +44,10 @@ Scott wins on cost but is 1-ply. For most households the tradeoff is worth it.
 Set at $24.99. It hits this ~5 times/year and that's the time to stock up for 3+ months.
 
 <AffiliateCTA asin="B00C2O7C7O" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Refillable vs Compostable Packaging: Which Is More Eco-Friendly?](/articles/refillable-vs-compostable-packaging-which-is-more-eco-friendly/)
+- [Best Refillable Shampoo Bars Compared to Liquid Refills](/articles/best-refillable-shampoo-bars-compared-to-liquid-refills/)
+- [Personal Care Refills: Which Brands Offer the Best Value?](/articles/personal-care-refills-which-brands-offer-the-best-value/)
+- [Best Refillable Dishwashing Liquid Options for Eco-Friendly Kitchens](/articles/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens/)

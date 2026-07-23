@@ -62,3 +62,10 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for tone
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
+
+## In our catalog
+
+- [Refillable vs Compostable Packaging: Which Is More Eco-Friendly?](/articles/refillable-vs-compostable-packaging-which-is-more-eco-friendly/)
+- [Best Refillable Shampoo Bars Compared to Liquid Refills](/articles/best-refillable-shampoo-bars-compared-to-liquid-refills/)
+- [Personal Care Refills: Which Brands Offer the Best Value?](/articles/personal-care-refills-which-brands-offer-the-best-value/)
+- [Best Refillable Dishwashing Liquid Options for Eco-Friendly Kitchens](/articles/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens/)
