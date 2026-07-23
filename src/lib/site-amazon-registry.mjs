@@ -16,7 +16,7 @@ export const ASSOCIATE_TAG =
 export const BOTTOM_STRIP_HEADING = "Refills worth buying in bulk";
 export const BOTTOM_STRIP_SUBHEAD = "Household staples and low-waste swaps we track on RefillWatch — partner links, no extra cost to you.";
 
-/** @typedef {{ asin: string, title: string, cardPick: string, priceLabel: string, rating?: number }} HomepageComparePick */
+/** @typedef {{ asin: string, title: string, cardPick: string, priceLabel: string, rating?: number, productSlug?: string }} HomepageComparePick */
 /** @type {HomepageComparePick[]} */
 export const HOMEPAGE_COMPARE_PICKS = [
   {
@@ -24,21 +24,24 @@ export const HOMEPAGE_COMPARE_PICKS = [
     "title": "Amazon Basics AA Batteries 48-Pack",
     "cardPick": "Bulk alkalines for remotes and flashlights — beat convenience-store singles on unit cost.",
     "priceLabel": "$15.99",
-    "rating": 4.7
+    "rating": 4.7,
+    "productSlug": "b01n5ib20q-amazon-basics-aa-batteries-48-pack"
   },
   {
     "asin": "B000WKWMWS",
     "title": "Dawn Ultra Dish Soap 75 oz (2-Pack)",
     "cardPick": "Concentrated formula — one bottle lasts months when you dilute for daily dishes.",
     "priceLabel": "$12.99",
-    "rating": 4.8
+    "rating": 4.8,
+    "productSlug": "b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack"
   },
   {
     "asin": "B00HHQX0BQ",
     "title": "Folgers Classic Roast Coffee 48 oz",
     "cardPick": "Grocery-staple coffee tub — track the price before auto-ship creeps up.",
     "priceLabel": "$11.99",
-    "rating": 4.7
+    "rating": 4.7,
+    "productSlug": "b00hhqx0bq-folgers-classic-roast-coffee-48oz"
   }
 ];
 
