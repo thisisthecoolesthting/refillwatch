@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import LongformPageShell from '@/components/LongformPageShell.astro';
+import StickyProductBar from '@/components/StickyProductBar.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import RelatedArticles from '@/components/RelatedArticles.astro';
@@ -33,6 +34,7 @@ const defSlug =
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 const relatedProducts = await getRelatedProductsFromBody(entry.body);
+const topProduct = relatedProducts[0];
 const publishedISO = new Date(entry.data.publishedAt ?? entry.data.updatedAt ?? Date.now()).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const bodyLower = (entry.body || '').toLowerCase();
@@ -122,4 +124,6 @@ const articleSchema = {
     <EmailCapture title={nl.title} subtitle={nl.subtitle} />
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />
   </div>
+
+  {topProduct && <StickyProductBar product={topProduct} />}
 </BaseLayout>

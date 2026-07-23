@@ -11,7 +11,7 @@ export interface Props {
 }
 
 const { product } = Astro.props;
-const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'secondspring-20';
+const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'refillwatch-20';
 const href = amazonAffiliateUrl(product, associateTag);
 ---
 
@@ -33,7 +33,7 @@ const href = amazonAffiliateUrl(product, associateTag);
       />
     )}
     <div class="flex-1 min-w-0">
-      <p class="text-[10px] uppercase tracking-[0.15em] text-terracotta-600 font-semibold leading-tight">
+      <p class="text-[10px] uppercase tracking-[0.15em] text-accent-600 font-semibold leading-tight">
         Top pick
       </p>
       <p class="text-xs font-medium text-ink-900 leading-tight truncate">{product.data.title}</p>
@@ -42,11 +42,11 @@ const href = amazonAffiliateUrl(product, associateTag);
       href={href}
       rel="nofollow sponsored noopener"
       target="_blank"
-      class="inline-flex items-center justify-center rounded-full bg-terracotta-500 hover:bg-terracotta-600
+      class="inline-flex items-center justify-center rounded-full bg-accent-500 hover:bg-accent-600
              text-white text-xs font-semibold px-3.5 py-2 shadow-soft whitespace-nowrap shrink-0
              transition-all duration-200 no-underline"
     >
-      Shop ->
+      Shop →
     </a>
     <button
       type="button"
