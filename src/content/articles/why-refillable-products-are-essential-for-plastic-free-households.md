@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:03:44Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B0CGW48C3G
+- B08PDHVZ4N
+- B07F97MPYT
+- B09VXQ221K
+- B07R3N9X3F
+- B07YPR2DGH
+- B083BFPGD8
+- B08GX3K9YS
+- B099NZC4PB
 status: published
 heroImage: /images/hero/why-refillable-products-are-essential-for-plastic-free-households.jpg
 subtopic: personal-care
@@ -181,3 +183,21 @@ Plastic-free living depends on embracing truly refillable products that address 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi](/products/b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep Mode, LED Magnifier, 5 Extra Iron Tips, Tip Cleaner, 2 Helping Hands, Tip Storage Slots, Lead-free Solder Wire, Tweezers](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/)

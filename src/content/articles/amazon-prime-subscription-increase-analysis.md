@@ -7,14 +7,16 @@ pillarSlug: subscription-creep-busters
 cardTitle: Amazon Prime at $139/Year
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B001EQ4G0O"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B083BFPGD8"
+- B00WSAXBQ0
+- B09DY7CCW5
+- B004QM8SLG
+- B002R5AF1I
+- B07P5Y5QHG
+- B07F97MPYT
+- B07Z6TV9Y7
+- B0014D3N0Q
+- B00PB6F2V4
+- B001EQ4G0O
 status: published
 tags:
 - Amazon Prime
@@ -263,3 +265,21 @@ Pay for shipping only when you need it; skip memberships entirely.
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handle](/products/b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo/) · [Buy on Amazon](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Distribution, Stove Compatible, Heavy-Duty, 15-Inch, Black](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/)

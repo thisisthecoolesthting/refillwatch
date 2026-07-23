@@ -7,26 +7,16 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: 'Stop Overpaying: Cheaper Laundry Detergent Alternatives That Work'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B004QM8SLG"
-- "B00762AHTE"
-- "B00CBBJ5KY"
-- "B073Q8P6CQ"
-- "B073WG52T4"
-- "B074ND5RDT"
-- "B07F97MPYT"
-- "B07Z6TV9Y7"
-- "B083BFPGD8"
-- "B085VZPR2Y"
-- "B08R3515SF"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F54TYKF9"
+- B001QY8QXM
+- B002BWQ6XK
+- B07D5DN269
+- B099NZC4PB
+- B0B7MKRR58
+- B083BFPGD8
+- B07F97MPYT
+- B0BX2N258S
+- B08K3J4WX6
+- B001E10B9I
 status: published
 tags:
 - laundry detergent
@@ -208,3 +198,21 @@ The tradeoff? Convenience. Bulk powders require measuring; concentrates need dil
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/)

@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:11:16Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B07RVMZNYR
+- B073Q8P6CQ
+- B07G82D89G
+- B08PZBPXLZ
+- B085VZPR2Y
+- B001ET76H8
+- B07F97MPYT
+- B00063RWT8
+- B00SAYAKPK
+- B09TXP1KDV
 status: published
 heroImage: /images/hero/best-refillable-body-lotions-without-plastic-pump-bottles.jpg
 subtopic: personal-care
@@ -183,3 +185,21 @@ If you buy “refillable” lotions but the refill is a tiny plastic bottle itse
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)

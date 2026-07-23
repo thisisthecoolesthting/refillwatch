@@ -8,14 +8,16 @@ cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:21:35Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B001ET73J2
+- B0D92PVDQH
+- B07F97MPYT
+- B074ND5RDT
+- B001E10B9I
+- B07YPR2DGH
+- B00CAZAU62
+- B099NZC4PB
+- B002R5AF1I
+- B08PDT1Y3H
 status: published
 heroImage: /images/hero/why-refilling-your-own-products-supports-local-zero-waste-shops.jpg
 subtopic: packaging
@@ -188,3 +190,21 @@ Refilling your own products at local zero-waste shops is a highly effective, eco
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)

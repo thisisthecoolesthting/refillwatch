@@ -7,14 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Pet Food Price Hikes
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B0CGW48C3G"
+- B09W9MF63Y
+- B0BVYBVHK5
+- B07C11YW88
+- B0848Q34F8
+- B09DV14ZZL
+- B0D41ZMDPD
+- B07R3N9X3F
+- B000NL0T1K
+- B000H0XFCS
+- B09WDBHXB3
 status: published
 tags:
 - pet food price hike
@@ -232,3 +234,21 @@ Stay vigilant. Prices will keep rising—but you don't have to pay full markup.
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+
+## Products in this guide
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)

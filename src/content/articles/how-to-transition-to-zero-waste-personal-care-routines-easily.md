@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:45:57Z'
 
 relatedProducts:
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B001EQ4G0O
+- B085VZPR2Y
+- B0C7ZTV376
+- B0BVYBVHK5
+- B001E10B9I
+- B0CGW48C3G
+- B00CAZAU62
+- B09TXP1KDV
+- B000N3BBW0
+- B000H0XFCS
 status: published
 heroImage: /images/hero/how-to-transition-to-zero-waste-personal-care-routines-easily.jpg
 subtopic: personal-care
@@ -178,3 +180,21 @@ Don’t aim for a perfect zero-waste routine overnight. Many households find a h
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [VEOZAH 45 MG TAB](/products/b0c7ztv376-veozah-45-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi](/products/b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

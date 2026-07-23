@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:56:25Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B09W9MF63Y"
-- "B0D92PVDQH"
+- B001QY8QXM
+- B004QM8SLG
+- B0BX2N258S
+- B0846GFNCQ
+- B00SAYAKPK
+- B07J2P2V7T
+- B07YPR2DGH
+- B0CGW48C3G
+- B000H0XFCS
+- B09W9MF63Y
 status: published
 heroImage: /images/hero/refillable-vs-disposable-sponges-which-is-more-sustainable.jpg
 subtopic: personal-care
@@ -218,3 +220,21 @@ Ultimately, the most sustainable choice aligns with reducing single-use plastic 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · [Buy on Amazon](https://www.amazon.com/dp/B00SAYAKPK?tag=refillwatch-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi](/products/b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

@@ -8,14 +8,16 @@ cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacri
 updatedAt: '2026-05-12T10:18:53Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0D92PVDQH"
+- B00SAYAKPK
+- B09TXP1KDV
+- B0014D3N0Q
+- B085VZPR2Y
+- B07P5Y5QHG
+- B09WDBHXB3
+- B000NL0T1K
+- B08R3R5KXJ
+- B0BX2N258S
+- B07RVMZNYR
 status: published
 heroImage: /images/hero/best-refillable-conditioner-options-for-curly-hair-types.jpg
 subtopic: personal-care
@@ -209,3 +211,21 @@ Refillable conditioners for curly hair are not only an eco-conscious choice but 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · [Buy on Amazon](https://www.amazon.com/dp/B00SAYAKPK?tag=refillwatch-20)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)

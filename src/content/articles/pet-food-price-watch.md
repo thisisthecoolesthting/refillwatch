@@ -7,14 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Pet Food Price Watch
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B0B2RM68G2"
-- "B0DPHQRLJC"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B093TCYF9T
+- B073Q8P6CQ
+- B07G82D89G
+- B0CGW48C3G
+- B000VKGRF0
+- B099NZC4PB
+- B01N4IWH2O
+- B09W9MF63Y
+- B000N3BBW0
+- B098JD8HD3
 status: published
 tags:
 - pet-supplies
@@ -113,3 +115,21 @@ We'll keep monitoring these products and alert you when we spot significant pric
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Cuisinel Cast Iron Skillet with Lid - 12\"-inch Pre-Seasoned Covered Frying Pan ](/products/b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov/) · [Buy on Amazon](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi](/products/b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)

@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:04:55Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
+- B07F97MPYT
+- B08PZBPXLZ
+- B01N4IWH2O
+- B08PDT1Y3H
+- B098JD8HD3
+- B085VZPR2Y
+- B08R3515SF
+- B09WDBHXB3
+- B0BVYBVHK5
+- B08KDQZJQ5
 status: published
 heroImage: /images/hero/best-refillable-household-cleaners-for-sensitive-skin-types.jpg
 subtopic: cleaning
@@ -175,3 +177,21 @@ Concentrated or refillable formats may seem more expensive upfront but usually l
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft² by 56W High Torque Motor, AHAM VERIFIDE, 3-in-1 Filter with HEPA Sleep Mode, Remove Dust Smoke Odor, Core300-P, White](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per Serving | Fish Oil Omega 3 Supplements for Heart Brain & Immune Support - 180 Softgels (90 Servings)](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)

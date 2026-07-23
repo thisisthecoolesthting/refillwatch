@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:42:49Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0014D3N0Q
+- B00NQ1CLTI
+- B0CB75LML9
+- B07RVMZNYR
+- B08PDHVZ4N
+- B0BX2N258S
+- B07P5BNQJG
+- B07VVK39F7
+- B000VKGRF0
+- B001QY8QXM
 status: published
 heroImage: /images/hero/zero-waste-bathroom-essential-refillable-personal-care-products.jpg
 subtopic: cleaning
@@ -182,3 +184,21 @@ Refill systems aren’t equal in ingredient transparency. Look for refill concen
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [Stargazer 10.5-Inch Cast Iron Skillet - Made in USA, Seasoned, Premium Frying Pa](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/) · [Buy on Amazon](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

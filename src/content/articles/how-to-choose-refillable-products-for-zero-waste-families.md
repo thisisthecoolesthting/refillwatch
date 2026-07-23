@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:12:59Z'
 
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B004QM8SLG
+- B000VKGRF0
+- B0014D3N0Q
+- B000H0XFCS
+- B08PDT1Y3H
+- B07C11YW88
+- B07R3N9X3F
+- B001QY8QXM
+- B001EQ4G0O
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-choose-refillable-products-for-zero-waste-families.jpg
 subtopic: personal-care
@@ -184,3 +186,21 @@ Most refillable products aim to reduce plastic waste by either eliminating pre-f
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)

@@ -8,14 +8,16 @@ cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacri
 updatedAt: '2026-05-12T05:54:53Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07Z6TV9Y7"
-- "B09TXP1KDV"
-- "B09W9MF63Y"
+- B07D5DN269
+- B074ND5RDT
+- B07P5BNQJG
+- B08KDQZJQ5
+- B0014D3N0Q
+- B08R3515SF
+- B09VXQ221K
+- B01N7V39UO
+- B00063RWT8
+- B002R5AF1I
 status: published
 heroImage: /images/hero/refillable-shampoo-brands-that-actually-reduce-plastic-use.jpg
 subtopic: personal-care
@@ -182,3 +184,21 @@ Choosing refillable shampoo brands wisely removes significant single-use plastic
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

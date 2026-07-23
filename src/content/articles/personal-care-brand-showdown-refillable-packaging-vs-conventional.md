@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:47:42Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B07D5DN269
+- B00NQ1CLTI
+- B0CGW2TFSV
+- B074ND5RDT
+- B07Z6TV9Y7
+- B00NQ1CLTI
+- B09VXQ221K
+- B07ZPSFVX5
+- B07F97MPYT
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/personal-care-brand-showdown-refillable-packaging-vs-conventional.jpg
 subtopic: personal-care
@@ -196,3 +198,21 @@ With thoughtful choices, refillable packaging can be a practical tool in your ho
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-S](/products/b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handle](/products/b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo/) · [Buy on Amazon](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)

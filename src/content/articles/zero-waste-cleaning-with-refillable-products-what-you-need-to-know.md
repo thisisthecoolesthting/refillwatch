@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:50:39Z'
 
 relatedProducts:
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B00063RWT8
+- B073Q8P6CQ
+- B00CAZAU62
+- B09DV14ZZL
+- B00B5JOC5C
+- B07ZPSFVX5
+- B0BX2N258S
+- B0C7ZTV376
+- B004QM8SLG
+- B07C11YW88
 status: published
 heroImage: /images/hero/zero-waste-cleaning-with-refillable-products-what-you-need-to-know.jpg
 subtopic: cleaning
@@ -188,3 +190,21 @@ Refillables aren’t always cheaper. Calculate cost per use and factor in bottle
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [VEOZAH 45 MG TAB](/products/b0c7ztv376-veozah-45-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)

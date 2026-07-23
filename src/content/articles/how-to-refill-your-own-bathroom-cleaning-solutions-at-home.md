@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:03:12Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B08KDQZJQ5
+- B099NZC4PB
+- B004QM8SLG
+- B09VXQ221K
+- B07Z6TV9Y7
+- B07Q5J5YXV
+- B098JD8HD3
+- B001EQ4G0O
+- B074ND5RDT
+- B07G82D89G
 status: published
 heroImage: /images/hero/how-to-refill-your-own-bathroom-cleaning-solutions-at-home.jpg
 subtopic: cleaning
@@ -217,3 +219,21 @@ Single-use cartridges and heavily packaged refills can sometimes undermine the e
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handle](/products/b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo/) · [Buy on Amazon](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)

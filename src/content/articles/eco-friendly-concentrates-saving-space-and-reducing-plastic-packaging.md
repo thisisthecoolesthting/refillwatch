@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T05:55:26Z'
 
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
+- B07P5BNQJG
+- B08PDHVZ4N
+- B0014D3N0Q
+- B0846GFNCQ
+- B01N4QAK9O
+- B000NL0T1K
+- B07VVK39F7
+- B00WSAXBQ0
+- B001QY8QXM
+- B07G82D89G
 status: published
 heroImage: /images/hero/eco-friendly-concentrates-saving-space-and-reducing-plastic-packaging.jpg
 subtopic: cleaning
@@ -179,3 +181,21 @@ Large families or users of multiple cleaning products may especially benefit fro
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T05:53:37Z'
 
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B074ND5RDT
+- B082Y7X9H5
+- B099NZC4PB
+- B01N4NLZJN
+- B002BWQ6XK
+- B0014D3N0Q
+- B0D92PVDQH
+- B08KDQZJQ5
+- B07Q5J5YXV
+- B08B3K9H7L
 status: published
 heroImage: /images/hero/comparing-best-refillable-personal-care-brands-for-plastic-reduction.jpg
 subtopic: personal-care
@@ -194,3 +196,21 @@ Choosing the right refillable system means assessing your priorities around plas
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep Mode, LED Magnifier, 5 Extra Iron Tips, Tip Cleaner, 2 Helping Hands, Tip Storage Slots, Lead-free Solder Wire, Tweezers](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)

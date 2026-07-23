@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:57:55Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
+- B08PZBPXLZ
+- B01N4NLZJN
+- B07P5BNQJG
+- B07F97MPYT
+- B082Y7X9H5
+- B083BFPGD8
+- B002BWQ6XK
+- B07R3N9X3F
+- B001ET73J2
+- B00PB6F2V4
 status: published
 heroImage: /images/hero/how-to-refill-your-own-all-purpose-cleaner-safely.jpg
 subtopic: cleaning
@@ -233,3 +235,21 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:07:23Z'
 
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0C7ZTV376
+- B0848Q34F8
+- B07VVK39F7
+- B0D41ZMDPD
+- B07Z6TV9Y7
+- B000NL0T1K
+- B08PZBPXLZ
+- B00063RWT8
+- B07D5DN269
+- B09WDBHXB3
 status: published
 heroImage: /images/hero/how-to-transition-to-refillable-personal-care-products-gradually.jpg
 subtopic: personal-care
@@ -206,3 +208,21 @@ Being mindful of these helps avoid setbacks.
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [VEOZAH 45 MG TAB](/products/b0c7ztv376-veozah-45-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handle](/products/b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo/) · [Buy on Amazon](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:45:31Z'
 
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0BVYBVHK5"
+- B000VKGRF0
+- B08PDHVZ4N
+- B002R5AF1I
+- B09VXQ221K
+- B01N4QAK9O
+- B07J2P2V7T
+- B000N3BBW0
+- B08R3515SF
+- B00CAZAU62
+- B08B3K9H7L
 status: published
 heroImage: /images/hero/refillwatch-s-best-picks-for-sustainable-household-cleaning-products.jpg
 subtopic: cleaning
@@ -196,3 +198,21 @@ Prefer alcohol- or vinegar-based formulas over ammonia for less indoor air irrit
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=refillwatch-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

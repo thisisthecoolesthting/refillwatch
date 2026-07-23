@@ -7,23 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Laundry Detergent: Tracking the Hidden Price Increases'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B073WG52T4"
-- "B07C11YW88"
-- "B085VZPR2Y"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B002R5AF1I
+- B073Q8P6CQ
+- B082Y7X9H5
+- B00762AHTE
+- B07YPR2DGH
+- B000NL0T1K
+- B07P5Y5QHG
+- B07J2P2V7T
+- B0846GFNCQ
+- B000H0XFCS
 status: published
 tags:
 - laundry detergent price increase
@@ -241,3 +234,21 @@ Switching from Tide to Costco's detergent saves $40.56/year for a couple, while 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=refillwatch-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portable Solder Irons with 5pcs Extra Tips, Stand, Solder Tube, Sponge, for Electronic Repair](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep Mode, LED Magnifier, 5 Extra Iron Tips, Tip Cleaner, 2 Helping Hands, Tip Storage Slots, Lead-free Solder Wire, Tweezers](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/)

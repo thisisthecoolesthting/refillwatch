@@ -7,16 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Laundry Detergent Prices Up 8–15%
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B00CAZAU62"
-- "B07F97MPYT"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0CGW48C3G"
-- "B0DPHQRLJC"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B08R3515SF
+- B07D5DN269
+- B09VXQ221K
+- B0D92PVDQH
+- B0B7MKRR58
+- B00B5JOC5C
+- B07G82D89G
+- B00762AHTE
+- B0B2RM68G2
+- B0C7ZTV376
 status: published
 tags:
 - laundry
@@ -142,3 +142,21 @@ We track laundry detergent prices across major retailers weekly. If you spot a p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)

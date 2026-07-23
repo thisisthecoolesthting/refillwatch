@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:14:43Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07VVK39F7"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B08PDHVZ4N
+- B09DV14ZZL
+- B00CAZAU62
+- B08R3R5KXJ
+- B00NQ1CLTI
+- B0BVYBVHK5
+- B0CGW2TFSV
+- B001QY8QXM
+- B0C7ZTV376
+- B0B2RM68G2
 status: published
 heroImage: /images/hero/how-to-refill-personal-care-products-without-cross-contamination.jpg
 subtopic: personal-care
@@ -184,3 +186,21 @@ Refilling personal care products can significantly reduce plastic waste and save
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-S](/products/b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+
+## Products in this guide
+
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft² by 56W High Torque Motor, AHAM VERIFIDE, 3-in-1 Filter with HEPA Sleep Mode, Remove Dust Smoke Odor, Core300-P, White](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

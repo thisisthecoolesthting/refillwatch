@@ -8,14 +8,16 @@ cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:18:42Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00063RWT8
+- B00WSAXBQ0
+- B074ND5RDT
+- B0D92PVDQH
+- B0014D3N0Q
+- B004QM8SLG
+- B00SAYAKPK
+- B08PZBPXLZ
+- B074ND5RDT
+- B0C7ZTV376
 status: published
 heroImage: /images/hero/how-to-refill-soap-dispensers-without-creating-additional-waste.jpg
 subtopic: packaging
@@ -207,3 +209,21 @@ By making intentional choices around dispenser type, refill format, and soap con
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · [Buy on Amazon](https://www.amazon.com/dp/B00SAYAKPK?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

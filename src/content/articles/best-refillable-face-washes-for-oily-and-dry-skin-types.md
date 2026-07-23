@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:09:30Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
+- B01N4IWH2O
+- B07RVMZNYR
+- B09DY7CCW5
+- B07P5BNQJG
+- B07F97MPYT
+- B0848Q34F8
+- B000H0XFCS
+- B07J2P2V7T
+- B00063RWT8
+- B00WSAXBQ0
 status: published
 heroImage: /images/hero/best-refillable-face-washes-for-oily-and-dry-skin-types.jpg
 subtopic: personal-care
@@ -172,3 +174,21 @@ But “refillable” doesn’t always mean better. Some refills come in bulky pl
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)

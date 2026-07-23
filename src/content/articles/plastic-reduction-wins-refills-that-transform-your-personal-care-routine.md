@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:50:18Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B000H0XFCS
+- B002BWQ6XK
+- B01N4IWH2O
+- B000H0XFCS
+- B000N3BBW0
+- B00CAZAU62
+- B00063RWT8
+- B09DY7CCW5
+- B0CYJV9X52
+- B073Q8P6CQ
 status: published
 heroImage: /images/hero/plastic-reduction-wins-refills-that-transform-your-personal-care-routine.jpg
 subtopic: personal-care
@@ -167,3 +169,21 @@ When evaluating refill options, don’t just glance at bottle vs refill price. D
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)

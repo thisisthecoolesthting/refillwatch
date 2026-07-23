@@ -7,27 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Pet Food Prices: Don''t Let Retailers Gouge Your Furry Friends'
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B00CAZAU62"
-- "B00JA3YPN4"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
-- "B0GCMVP12Q"
+- B08K3J4WX6
+- B07P5Y5QHG
+- B07R3N9X3F
+- B000N3BBW0
+- B08KDQZJQ5
+- B00PB6F2V4
+- B000H0XFCS
+- B004QM8SLG
+- B09DV14ZZL
+- B074ND5RDT
 status: published
 tags:
 - pet food inflation
@@ -199,3 +188,21 @@ The Petco WholeHearted refill program saves 15% but limits variety. For cats, Sm
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · [Buy on Amazon](https://www.amazon.com/dp/B08K3J4WX6?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=refillwatch-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)

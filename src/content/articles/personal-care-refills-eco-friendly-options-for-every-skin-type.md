@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:45:05Z'
 
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0B7MKRR58
+- B0D41ZMDPD
+- B099NZC4PB
+- B00CAZAU62
+- B085VZPR2Y
+- B01N7V39QJ
+- B09TXP1KDV
+- B001ET76H8
+- B09DY7CCW5
+- B002BWQ6XK
 status: published
 heroImage: /images/hero/personal-care-refills-eco-friendly-options-for-every-skin-type.jpg
 subtopic: personal-care
@@ -193,3 +195,21 @@ To ensure your refill choice truly reduces waste:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+
+## Products in this guide
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)

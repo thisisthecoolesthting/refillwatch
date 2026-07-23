@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:54:10Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07VVK39F7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B08B3K9H7L
+- B00WSAXBQ0
+- B0B2RM68G2
+- B00FFJ0R1Q
+- B000H0XFCS
+- B01N4NLZJN
+- B001QY8QXM
+- B00CAZAU62
+- B0CGW48C3G
+- B004QM8SLG
 status: published
 heroImage: /images/hero/zero-waste-bathroom-swaps-refillable-vs-single-use-products.jpg
 subtopic: cleaning
@@ -182,3 +184,21 @@ Refillable bathroom products can deliver significant waste reduction, but only w
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

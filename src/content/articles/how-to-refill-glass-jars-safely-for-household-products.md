@@ -8,14 +8,16 @@ cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:11:44Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B0BVYBVHK5
+- B0014D3N0Q
+- B00762AHTE
+- B08PDT1Y3H
+- B08FY8XQ3W
+- B08PDHVZ4N
+- B000H0XFCS
+- B000NL0T1K
+- B07D5DN269
+- B07Q5J5XJL
 status: published
 heroImage: /images/hero/how-to-refill-glass-jars-safely-for-household-products.jpg
 subtopic: packaging
@@ -171,3 +173,21 @@ Note: Environmental impact varies with packaging materials of refill sources and
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 Soldering Tips, Tweezers, Solder Sucker, Tip Cleaner, Temperature Control, Sleep Mode, C-F Conversion](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)

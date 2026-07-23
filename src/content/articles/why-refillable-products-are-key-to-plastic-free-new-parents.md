@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:19:23Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
+- B001E10B9I
+- B07D5DN269
+- B093TCYF9T
+- B0014D3N0Q
+- B0846GFNCQ
+- B07R3N9X3F
+- B00FFJ0R1Q
+- B07P5BNQJG
+- B00NQ1CLTI
+- B001EQ4G0O
 status: published
 heroImage: /images/hero/why-refillable-products-are-key-to-plastic-free-new-parents.jpg
 subtopic: personal-care
@@ -190,3 +192,21 @@ Not all refillable claims lead to real plastic waste reduction. Here’s a compa
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [Cuisinel Cast Iron Skillet with Lid - 12\"-inch Pre-Seasoned Covered Frying Pan ](/products/b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov/) · [Buy on Amazon](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)

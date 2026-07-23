@@ -7,22 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Laundry Detergent: Tracking the Price Creep on Your Clean Clothes'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B000H0XFCS"
-- "B0014D3N0Q"
-- "B001QY8QXM"
-- "B00762AHTE"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B073WG52T4"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B000NL0T1K
+- B09VXQ221K
+- B09DV14ZZL
+- B0B2RM68G2
+- B07J2P2V7T
+- B07D5DN269
+- B0CYJV9X52
+- B001EQ4G0O
+- B07C11YW88
+- B093TCYF9T
 status: published
 tags:
 - laundry detergent
@@ -205,3 +199,21 @@ Pro tip: When evaluating refill systems, calculate your household's actual usage
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=refillwatch-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Distribution, Stove Compatible, Heavy-Duty, 15-Inch, Black](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

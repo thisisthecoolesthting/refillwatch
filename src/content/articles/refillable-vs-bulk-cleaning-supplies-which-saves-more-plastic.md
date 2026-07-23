@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:06:22Z'
 
 relatedProducts:
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09TXP1KDV"
-- "B0BVYBVHK5"
+- B098JD8HD3
+- B0014D3N0Q
+- B001EQ4G0O
+- B08PZBPXLZ
+- B07VVK39F7
+- B073Q8P6CQ
+- B07R3N9X3F
+- B00WSAXBQ0
+- B00SAYAKPK
+- B0D41ZMDPD
 status: published
 heroImage: /images/hero/refillable-vs-bulk-cleaning-supplies-which-saves-more-plastic.jpg
 subtopic: cleaning
@@ -186,3 +188,21 @@ These systems vary widely: some use brand-name pre-measured cartridges, others s
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

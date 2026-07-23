@@ -7,15 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: '''Printer Ink Economics'
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B001QY8QXM
+- B07Q5J5YXV
+- B08KDQZJQ5
+- B07YPR2DGH
+- B08PZBPXLZ
+- B07R3N9X3F
+- B07J2P2V7T
+- B00B5JOC5C
+- B09WDBHXB3
+- B08R3515SF
 status: published
 tags:
 - printer ink comparison
@@ -178,3 +179,21 @@ Continuous systems delivered strong results for small businesses printing 300+ p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

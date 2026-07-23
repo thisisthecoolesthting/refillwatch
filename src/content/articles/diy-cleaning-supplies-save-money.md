@@ -7,23 +7,16 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B000H0XFCS"
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B08R3515SF"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B09DY7CCW5
+- B07ZPSFVX5
+- B00NQ1CLTI
+- B01N4NLZJN
+- B000VKGRF0
+- B001EQ4G0O
+- B07D5DN269
+- B08B3K9H7L
+- B083BFPGD8
+- B074ND5RDT
 status: published
 tags:
 - DIY cleaning
@@ -152,3 +145,21 @@ Third-party options exist, but verify compatibility. For example:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)

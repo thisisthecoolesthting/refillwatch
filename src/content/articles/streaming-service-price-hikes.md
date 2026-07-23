@@ -7,22 +7,16 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Wars
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B001E10B9I
+- B07ZPSFVX5
+- B07R3N9X3F
+- B001EQ4G0O
+- B07G82D89G
+- B0D41ZMDPD
+- B09DY7CCW5
+- B07Q5J5YXV
+- B000N3BBW0
+- B00FFJ0R1Q
 status: published
 tags:
 - streaming price hikes
@@ -184,3 +178,21 @@ Pro Tip: Create a shared calendar with friends to coordinate service rotations鈥
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) 路 [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) 路 [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) 路 [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) 路 [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) 路 [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) 路 [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) 路 [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) 路 [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)

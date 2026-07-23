@@ -7,19 +7,16 @@ pillarSlug: subscription-management
 cardTitle: Tracking Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07YPR2DGH"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B08PZBPXLZ"
-- "B09DV14ZZL"
-- "B09WDBHXB3"
-- "B0B7MKRR58"
+- B01N4NLZJN
+- B07VVK39F7
+- B074ND5RDT
+- B07G82D89G
+- B07Q5J5XJL
+- B00063RWT8
+- B0CYJV9X52
+- B01N4IWH2O
+- B002R5AF1I
+- B0CB75LML9
 status: published
 tags:
 - streaming price hike
@@ -192,3 +189,21 @@ The Nvidia Shield TV Pro transforms local media into a Netflix-like experience w
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5XJL?tag=refillwatch-20)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

@@ -7,22 +7,16 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: Ditch Disposables
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B0C7ZTV376"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B073Q8P6CQ
+- B07G82D89G
+- B001ET76H8
+- B07D5DN269
+- B098JD8HD3
+- B00063RWT8
+- B00NQ1CLTI
+- B00PB6F2V4
+- B09TXP1KDV
+- B000N3BBW0
 status: published
 tags:
 - reusable water bottles
@@ -196,3 +190,21 @@ For apartment dwellers, the Brita Premium Filtering Water Bottle combines portab
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)

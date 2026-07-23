@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-1
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B000H0XFCS"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
+- B01N5Q9Q6J
+- B07Q5J5YXV
+- B00762AHTE
+- B07P5BNQJG
+- B07P5Y5QHG
+- B00WSAXBQ0
+- B09W9MF63Y
+- B00B5JOC5C
+- B00CAZAU62
+- B00SAYAKPK
 status: published
 tags:
 - printer ink
@@ -215,3 +214,21 @@ Additional savings:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=refillwatch-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+
+## Products in this guide
+
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y)](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)

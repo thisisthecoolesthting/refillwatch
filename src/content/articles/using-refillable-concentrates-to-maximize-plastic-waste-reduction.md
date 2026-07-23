@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:48:12Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B07YPR2DGH
+- B07D5DN269
+- B074ND5RDT
+- B0BX2N258S
+- B0D41ZMDPD
+- B01N7V39QJ
+- B01N4QAK9O
+- B074ND5RDT
+- B08KDQZJQ5
+- B000H0XFCS
 status: published
 heroImage: /images/hero/using-refillable-concentrates-to-maximize-plastic-waste-reduction.jpg
 subtopic: cleaning
@@ -202,3 +204,21 @@ Even small concentrate containers should be recycled properly when empty. Check 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+
+## Products in this guide
+
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping, Travel Essentials & Self Care Gifts for Women, Korean Skin Care | 1.19oz(34g) x 4ea](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartridges High Page Yield Work for PIXMA TR8620 TR8620A TR7520 TS8220 TS6120, 6 Pack PGBK/PB/Black/Cyan/Magenta/Yellow](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)

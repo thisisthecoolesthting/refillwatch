@@ -7,21 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Walmart Water Price Increase 2024
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B001QY8QXM"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B083BFPGD8"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B0B2RM68G2
+- B00CAZAU62
+- B07R3N9X3F
+- B01N5Q9Q6J
+- B00B5JOC5C
+- B07P5BNQJG
+- B001ET76H8
+- B07Q5J5XJL
+- B073Q8P6CQ
+- B07RVMZNYR
 status: published
 tags:
 - bottled water
@@ -240,3 +235,21 @@ For hurricane season, the [Aqua-Tainer 7-gallon] provides 3 days' water for $15 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=refillwatch-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5XJL?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3 (440mL, 6-Pack) for VS-300, VS-420, VS-540, VS-640, XC-540](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)

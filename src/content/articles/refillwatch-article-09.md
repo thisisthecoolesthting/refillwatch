@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B000H0XFCS"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B001EQ4G0O
+- B00NQ1CLTI
+- B08R3R5KXJ
+- B0014D3N0Q
+- B00762AHTE
+- B001ET73J2
+- B00762AHTE
+- B00NQ1CLTI
+- B09WDBHXB3
+- B08PDHVZ4N
 status: published
 tags:
 - printer ink
@@ -223,3 +222,21 @@ Starts at $0.99/month but:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=refillwatch-20)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

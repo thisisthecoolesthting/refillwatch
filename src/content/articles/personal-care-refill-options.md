@@ -7,34 +7,16 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: Refill Your Routine
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 relatedProducts:
-- "B000NL0T1K"
-- "B001ET76H8"
-- "B002R5AF1I"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B01N7V39UO"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08FY8XQ3W"
-- "B08GX3K9YS"
-- "B08K3J4WX6"
-- "B08KDQZJQ5"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B08R3R5KXJ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
-- "B0CYJV9X52"
-- "B0D41ZMDPD"
-- "B0D92PVDQH"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
-- "B0G63H5J2M"
-- "B0GCMVP12Q"
+- B083BFPGD8
+- B09TXP1KDV
+- B0B7MKRR58
+- B01N7V39UO
+- B01N7V39QJ
+- B07ZPSFVX5
+- B00NQ1CLTI
+- B07Q5J5XJL
+- B07Q5J5YXV
+- B085VZPR2Y
 status: published
 tags:
 - refillable personal care
@@ -239,3 +221,21 @@ Tradeoffs to consider:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5XJL?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:17:16Z'
 
 relatedProducts:
-- "B000H0XFCS"
-- "B0014D3N0Q"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B07VVK39F7"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B001ET73J2
+- B073Q8P6CQ
+- B08PZBPXLZ
+- B0014D3N0Q
+- B07RVMZNYR
+- B000VKGRF0
+- B00WSAXBQ0
+- B07C11YW88
+- B0BX2N258S
+- B07R3N9X3F
 status: published
 heroImage: /images/hero/how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients.jpg
 subtopic: cleaning
@@ -199,3 +201,21 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=refillwatch-20)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=refillwatch-20)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft² by 56W High Torque Motor, AHAM VERIFIDE, 3-in-1 Filter with HEPA Sleep Mode, Remove Dust Smoke Odor, Core300-P, White](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)

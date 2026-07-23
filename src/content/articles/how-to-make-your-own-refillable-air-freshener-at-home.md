@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:08:25Z'
 
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07VVK39F7"
-- "B09W9MF63Y"
+- B0014D3N0Q
+- B00WSAXBQ0
+- B0014D3N0Q
+- B07F97MPYT
+- B00B5JOC5C
+- B001EQ4G0O
+- B002BWQ6XK
+- B001QY8QXM
+- B01N4IWH2O
+- B001E10B9I
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-air-freshener-at-home.jpg
 subtopic: personal-care
@@ -188,3 +190,21 @@ DIY air fresheners give you control but also responsibility:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)

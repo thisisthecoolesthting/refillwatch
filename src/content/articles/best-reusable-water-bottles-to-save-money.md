@@ -7,23 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: The Best Reusable Water Bottles to Save Money and the Planet
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B001QY8QXM"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0GF25F12C"
+- B08FY8XQ3W
+- B085VZPR2Y
+- B00FFJ0R1Q
+- B01N7V39QJ
+- B0BVYBVHK5
+- B000NL0T1K
+- B07G82D89G
+- B098JD8HD3
+- B000H0XFCS
+- B0CYJV9X52
 status: published
 tags:
 - water bottle price hike
@@ -235,3 +228,21 @@ Before investing in filtration, check your local:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

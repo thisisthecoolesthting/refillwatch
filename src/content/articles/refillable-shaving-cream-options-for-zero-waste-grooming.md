@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:02:04Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
-- "B0CYJV9X52"
+- B07F97MPYT
+- B00PB6F2V4
+- B09WDBHXB3
+- B082Y7X9H5
+- B00SAYAKPK
+- B07RVMZNYR
+- B08FY8XQ3W
+- B01N7V39UO
+- B083BFPGD8
+- B07Q5J5XJL
 status: published
 heroImage: /images/hero/refillable-shaving-cream-options-for-zero-waste-grooming.jpg
 subtopic: personal-care
@@ -201,3 +203,21 @@ Using third-party refills or cartridges can sometimes lead to dispensing problem
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=refillwatch-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · [Buy on Amazon](https://www.amazon.com/dp/B00SAYAKPK?tag=refillwatch-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=refillwatch-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

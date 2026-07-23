@@ -7,19 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DPHQRLJC"
-- "B0DQQ77WYT"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B0D41ZMDPD
+- B00762AHTE
+- B09W9MF63Y
+- B001ET76H8
+- B09DV14ZZL
+- B07P5BNQJG
+- B00WSAXBQ0
+- B08GX3K9YS
+- B01N7V39UO
+- B07Q5J5XJL
 status: published
 tags:
 - printer-ink
@@ -146,3 +143,21 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · [Buy on Amazon](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y)](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)

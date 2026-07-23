@@ -7,29 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B01N5Q9Q6J"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07P5Y5QHG"
-- "B07R3N9X3F"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08B3K9H7L"
-- "B08GX3K9YS"
-- "B08PDHVZ4N"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B07ZPSFVX5
+- B08FY8XQ3W
+- B0CYJV9X52
+- B07F97MPYT
+- B0846GFNCQ
+- B001E10B9I
+- B074ND5RDT
+- B07J2P2V7T
+- B0CB75LML9
+- B00063RWT8
 status: published
 tags:
 - printer ink
@@ -257,3 +244,21 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)

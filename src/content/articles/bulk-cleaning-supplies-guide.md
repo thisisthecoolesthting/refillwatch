@@ -7,17 +7,16 @@ pillarSlug: refill-reuse-save
 cardTitle: '''Bulk Cleaning Supplies'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B004QM8SLG"
-- "B00B5JOC5C"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07RVMZNYR"
-- "B098JD8HD3"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B00WSAXBQ0
+- B07D5DN269
+- B00063RWT8
+- B08B3K9H7L
+- B001EQ4G0O
+- B0846GFNCQ
+- B09DV14ZZL
+- B08PDHVZ4N
+- B00762AHTE
+- B00FFJ0R1Q
 status: published
 tags:
 - bulk cleaning supplies
@@ -258,3 +257,21 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

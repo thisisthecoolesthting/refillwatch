@@ -7,14 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Coffee Bean Price Watch 2024
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B08R3515SF"
-- "B093TCYF9T"
-- "B09W9MF63Y"
+- B07G82D89G
+- B000H0XFCS
+- B07C11YW88
+- B0CYJV9X52
+- B00NQ1CLTI
+- B00063RWT8
+- B07Q5J5YXV
+- B000N3BBW0
+- B000VKGRF0
+- B08PDT1Y3H
 status: published
 tags:
 - coffee price increase
@@ -232,3 +234,21 @@ Don't absorb retailer margin expansion. Buy bulk, store properly, or roast at ho
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=refillwatch-20)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Distribution, Stove Compatible, Heavy-Duty, 15-Inch, Black](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)

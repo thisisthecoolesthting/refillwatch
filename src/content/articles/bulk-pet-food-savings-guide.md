@@ -7,22 +7,16 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: Bulk Buying Pet Food
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B000H0XFCS"
-- "B001VROVN0"
-- "B004QM8SLG"
-- "B00JA3YPN4"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B09W9MF63Y"
-- "B0C7ZTV376"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F4X2YBP1"
+- B000H0XFCS
+- B073Q8P6CQ
+- B0848Q34F8
+- B0D92PVDQH
+- B08K3J4WX6
+- B07ZPSFVX5
+- B004QM8SLG
+- B00NQ1CLTI
+- B000NL0T1K
+- B0CYJV9X52
 status: published
 tags:
 - pet food savings
@@ -229,3 +223,21 @@ Beyond traditional bulk buying, our research identified several innovative cost-
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · [Buy on Amazon](https://www.amazon.com/dp/B08K3J4WX6?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hotel Quality, Gusseted Pillow for Back, Stomach or Side Sleepers](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-in-1 Fast Heating with Solder Wire, Stand, Desoldering Pump, for Electronics Repair Hobby DIY 120V US Plug from Plusivo](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)

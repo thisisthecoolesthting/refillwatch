@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:58:29Z'
 
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0CGW48C3G
+- B074ND5RDT
+- B001EQ4G0O
+- B01N7V39QJ
+- B002BWQ6XK
+- B001ET76H8
+- B001QY8QXM
+- B01N5Q9Q6J
+- B01N4QAK9O
+- B073Q8P6CQ
 status: published
 heroImage: /images/hero/zero-waste-living-refillable-personal-care-products-beginners-guide.jpg
 subtopic: personal-care
@@ -184,3 +186,21 @@ Switching to refillable personal care products is not always perfectly zero-wast
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi](/products/b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW48C3G?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

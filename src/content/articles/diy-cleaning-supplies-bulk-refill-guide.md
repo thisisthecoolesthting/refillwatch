@@ -7,22 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0D41ZMDPD"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B074ND5RDT
+- B08R3R5KXJ
+- B0BVYBVHK5
+- B004QM8SLG
+- B08R3515SF
+- B0CB75LML9
+- B000N3BBW0
+- B07VVK39F7
+- B0014D3N0Q
+- B07Z6TV9Y7
 status: published
 tags:
 - cleaning supplies
@@ -245,3 +239,21 @@ Janitorial suppliers offer tremendous value:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+- [Stargazer 10.5-Inch Cast Iron Skillet - Made in USA, Seasoned, Premium Frying Pa](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/) · [Buy on Amazon](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+
+## Products in this guide
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

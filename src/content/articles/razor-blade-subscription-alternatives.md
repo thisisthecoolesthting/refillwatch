@@ -7,22 +7,16 @@ pillarSlug: subscription-savings
 cardTitle: 'Beyond the Blade: Cheaper Alternatives to Razor Subscriptions'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B000NH7BPW"
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B01N4QAK9O"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B01N5Q9Q6J
+- B08B3K9H7L
+- B0CB75LML9
+- B099NZC4PB
+- B00FFJ0R1Q
+- B0B7MKRR58
+- B000VKGRF0
+- B004QM8SLG
+- B001ET76H8
+- B08R3515SF
 status: published
 tags:
 - razor blade subscription
@@ -201,3 +195,21 @@ Regional price variations matter too. In Canada, subscription markups are 28% hi
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=refillwatch-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+- [Stargazer 10.5-Inch Cast Iron Skillet - Made in USA, Seasoned, Premium Frying Pa](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/) · [Buy on Amazon](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

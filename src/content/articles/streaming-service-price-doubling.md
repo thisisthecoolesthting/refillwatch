@@ -7,14 +7,16 @@ pillarSlug: subscription-creep-busters
 cardTitle: Your Streaming Service Just Doubled in Price—Here's How to Stop…
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B08PZBPXLZ"
-- "B09W9MF63Y"
+- B000H0XFCS
+- B07J2P2V7T
+- B0B7MKRR58
+- B083BFPGD8
+- B0BX2N258S
+- B07C11YW88
+- B085VZPR2Y
+- B00063RWT8
+- B07D5DN269
+- B0CGW48C3G
 status: published
 tags:
 - streaming price hike
@@ -220,3 +222,21 @@ For maximum savings, implement our "5:1 Rule": For every 5 physical titles you a
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+- [Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy C](/products/b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh/) · [Buy on Amazon](https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)

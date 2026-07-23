@@ -7,24 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Bulk Laundry Detergent
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B004QM8SLG"
-- "B00762AHTE"
-- "B00CBBJ5KY"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07Q5J5YXV"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B00PB6F2V4
+- B01N7V39UO
+- B01N7V39QJ
+- B07J2P2V7T
+- B07C11YW88
+- B00063RWT8
+- B0BVYBVHK5
+- B01N4QAK9O
+- B00762AHTE
+- B07G82D89G
 status: published
 tags:
 - laundry detergent
@@ -228,3 +220,21 @@ Warning: Some 'refillable' pod systems use proprietary cartridges that cost $0.3
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

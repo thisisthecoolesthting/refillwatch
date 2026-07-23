@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:53:44Z'
 
 relatedProducts:
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B09TXP1KDV"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
+- B074ND5RDT
+- B00WSAXBQ0
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B00063RWT8
+- B08K3J4WX6
+- B099NZC4PB
+- B07ZPSFVX5
+- B0CYJV9X52
+- B07YPR2DGH
 status: published
 heroImage: /images/hero/how-to-set-up-a-refillable-cleaning-station-in-your-home.jpg
 subtopic: cleaning
@@ -186,3 +188,21 @@ A critical look at common refillable product claims:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-amazon-basics-pre-seasoned-cast-iron-skillet-oven-safe-even-/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · [Buy on Amazon](https://www.amazon.com/dp/B08K3J4WX6?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)

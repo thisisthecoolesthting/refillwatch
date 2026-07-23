@@ -7,20 +7,16 @@ pillarSlug: subscription-management
 cardTitle: Has Your Amazon Prime Subscription Doubled? Here's Why.
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F4X2YBP1"
-- "B0GF25F12C"
+- B07YPR2DGH
+- B00762AHTE
+- B00FFJ0R1Q
+- B07D5DN269
+- B07C11YW88
+- B0B2RM68G2
+- B000H0XFCS
+- B01N4NLZJN
+- B083BFPGD8
+- B00B5JOC5C
 status: published
 tags:
 - amazon prime
@@ -263,3 +259,21 @@ Consider tracking your actual usage with apps like Rocket Money before renewing.
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=refillwatch-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

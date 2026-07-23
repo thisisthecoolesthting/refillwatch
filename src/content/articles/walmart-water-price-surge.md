@@ -7,23 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Walmart Water: Is Your Hydration Bill Creeping Up'
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B000H0XFCS"
-- "B001QY8QXM"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B098JD8HD3"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B09WDBHXB3
+- B00B5JOC5C
+- B07F97MPYT
+- B0BVYBVHK5
+- B0846GFNCQ
+- B073Q8P6CQ
+- B00NQ1CLTI
+- B07J2P2V7T
+- B000VKGRF0
+- B07VVK39F7
 status: published
 tags:
 - bottled water
@@ -275,3 +268,21 @@ Remember: the average American spends $1,300/lifetime on bottled water when tap 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)

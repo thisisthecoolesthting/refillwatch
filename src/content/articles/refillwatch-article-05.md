@@ -7,21 +7,16 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: The Ultimate Printer Ink Showdown
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B00WSAXBQ0
+- B07Q5J5XJL
+- B08PDT1Y3H
+- B001EQ4G0O
+- B09TXP1KDV
+- B09W9MF63Y
+- B0D92PVDQH
+- B0848Q34F8
+- B07RVMZNYR
+- B001EQ4G0O
 status: published
 tags:
 - printer ink
@@ -189,3 +184,21 @@ For graphic designers, the Canon PGI-280XL system costs $0.28/page for photo pri
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5XJL?tag=refillwatch-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

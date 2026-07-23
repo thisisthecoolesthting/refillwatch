@@ -7,22 +7,16 @@ pillarSlug: subscription-savings
 cardTitle: Subscription Service Audit
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07G82D89G"
-- "B082Y7X9H5"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B0848Q34F8
+- B074ND5RDT
+- B00WSAXBQ0
+- B099NZC4PB
+- B00FFJ0R1Q
+- B0BVYBVHK5
+- B004QM8SLG
+- B0CB75LML9
+- B08PDHVZ4N
+- B0CGW2TFSV
 status: published
 tags:
 - subscription creep
@@ -192,3 +186,21 @@ Pro Tip: Set calendar reminders to review subscription prices every 6 months. Ou
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+- [Stargazer 10.5-Inch Cast Iron Skillet - Made in USA, Seasoned, Premium Frying Pa](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/) · [Buy on Amazon](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per Serving | Fish Oil Omega 3 Supplements for Heart Brain & Immune Support - 180 Softgels (90 Servings)](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

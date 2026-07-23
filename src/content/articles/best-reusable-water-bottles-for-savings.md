@@ -7,17 +7,16 @@ pillarSlug: refill-reuse-save
 cardTitle: Best Reusable Water Bottles
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B00002N68B"
-- "B001QY8QXM"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07G82D89G"
-- "B09DY7CCW5"
-- "B09W9MF63Y"
-- "B0C7ZTV376"
-- "B0CGW2TFSV"
+- B08FY8XQ3W
+- B00FFJ0R1Q
+- B074ND5RDT
+- B00CAZAU62
+- B07F97MPYT
+- B082Y7X9H5
+- B09W9MF63Y
+- B0C7ZTV376
+- B08PDT1Y3H
+- B004QM8SLG
 status: published
 tags:
 - reusable water bottles
@@ -252,3 +251,21 @@ If you're already watching for shrinkflation in your grocery cart, this one is a
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [VEOZAH 45 MG TAB](/products/b0c7ztv376-veozah-45-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)

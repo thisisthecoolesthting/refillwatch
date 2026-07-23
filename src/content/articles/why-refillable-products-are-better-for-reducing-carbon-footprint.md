@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:10:33Z'
 
 relatedProducts:
-- "B0014D3N0Q"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B073Q8P6CQ
+- B074ND5RDT
+- B0B7MKRR58
+- B07D5DN269
+- B09DY7CCW5
+- B0014D3N0Q
+- B08K3J4WX6
+- B07VVK39F7
+- B0848Q34F8
+- B00WSAXBQ0
 status: published
 heroImage: /images/hero/why-refillable-products-are-better-for-reducing-carbon-footprint.jpg
 subtopic: personal-care
@@ -196,3 +198,21 @@ Refillables make less sense for occasional or highly specialized products where 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=refillwatch-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · [Buy on Amazon](https://www.amazon.com/dp/B08K3J4WX6?tag=refillwatch-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20)
+
+## Products in this guide
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)

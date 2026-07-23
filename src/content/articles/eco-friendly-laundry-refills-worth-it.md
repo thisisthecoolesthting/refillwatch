@@ -7,27 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Eco-Friendly Laundry Refills Worth the Switch?
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00762AHTE"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B07Z6TV9Y7"
-- "B07ZPSFVX5"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B098JD8HD3"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B01N4QAK9O
+- B093TCYF9T
+- B001EQ4G0O
+- B0014D3N0Q
+- B0BX2N258S
+- B0B7MKRR58
+- B09W9MF63Y
+- B004QM8SLG
+- B001QY8QXM
+- B08K3J4WX6
 status: published
 tags:
 - laundry detergent
@@ -242,3 +231,21 @@ For the truly hands-on:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=refillwatch-20)
+- [Cuisinel Cast Iron Skillet with Lid - 12\"-inch Pre-Seasoned Covered Frying Pan ](/products/b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov/) · [Buy on Amazon](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle](/products/b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)

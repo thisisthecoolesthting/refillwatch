@@ -7,21 +7,16 @@ pillarSlug: price-hikes-exposed
 cardTitle: Pet Food Inflation
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B00762AHTE
+- B002BWQ6XK
+- B07YPR2DGH
+- B01N7V39QJ
+- B08R3515SF
+- B07Q5J5YXV
+- B07Q5J5XJL
+- B00WSAXBQ0
+- B08B3K9H7L
+- B00FFJ0R1Q
 status: published
 tags:
 - pet food inflation
@@ -220,3 +215,21 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=refillwatch-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=refillwatch-20)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5XJL?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)

@@ -7,17 +7,16 @@ pillarSlug: subscription-creep-busters
 cardTitle: '''The Razor Blade Subscription Trap'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B000NH7BPW"
-- "B001QY8QXM"
-- "B002R5AF1I"
-- "B002T4D0WU"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B0BVYBVHK5"
+- B00NQ1CLTI
+- B08PDT1Y3H
+- B0CGW2TFSV
+- B00WSAXBQ0
+- B0D41ZMDPD
+- B001EQ4G0O
+- B01N4QAK9O
+- B09DY7CCW5
+- B08GX3K9YS
+- B0014D3N0Q
 status: published
 tags:
 - razor blade subscription
@@ -252,3 +251,21 @@ If you insist on subscriptions:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20)
+- [Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-S](/products/b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=refillwatch-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)

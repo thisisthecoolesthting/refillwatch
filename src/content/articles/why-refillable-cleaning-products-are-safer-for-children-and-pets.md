@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:08:57Z'
 
 relatedProducts:
-- "B00063RWT8"
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B001E10B9I
+- B00CAZAU62
+- B001QY8QXM
+- B01N5Q9Q6J
+- B0BVYBVHK5
+- B07Q5J5XJL
+- B00FFJ0R1Q
+- B07ZPSFVX5
+- B085VZPR2Y
+- B0B2RM68G2
 status: published
 heroImage: /images/hero/why-refillable-cleaning-products-are-safer-for-children-and-pets.jpg
 subtopic: cleaning
@@ -171,3 +173,21 @@ Though less directly linked to immediate child and pet safety, reducing plastic 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=refillwatch-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5XJL?tag=refillwatch-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=refillwatch-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)

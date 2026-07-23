@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:59:01Z'
 
 relatedProducts:
-- "B0014D3N0Q"
-- "B001QY8QXM"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0CYJV9X52
+- B01N4IWH2O
+- B001ET73J2
+- B01N4NLZJN
+- B09WDBHXB3
+- B098JD8HD3
+- B001ET76H8
+- B00CAZAU62
+- B002R5AF1I
+- B0C7ZTV376
 status: published
 heroImage: /images/hero/best-refillable-fabric-softener-options-without-plastic-bottles.jpg
 subtopic: personal-care
@@ -205,3 +207,21 @@ Look for documented plastic weight savings or packaging audits from brands or th
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=refillwatch-20)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=refillwatch-20)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=refillwatch-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=refillwatch-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=refillwatch-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for EcoTank Photo ET-8500, ET-8550 Printer (1 Photo Black, 1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 1 Grey, 6-Pack)](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)

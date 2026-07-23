@@ -7,15 +7,16 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07J2P2V7T"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B0B2RM68G2"
-- "B0CGW48C3G"
+- B093TCYF9T
+- B001QY8QXM
+- B09VXQ221K
+- B00CAZAU62
+- B07P5Y5QHG
+- B0C7ZTV376
+- B09W9MF63Y
+- B0D41ZMDPD
+- B00PB6F2V4
+- B00NQ1CLTI
 status: published
 tags:
 - subscription creep
@@ -143,3 +144,21 @@ Streaming services rely on subscriber inertia—the fact that you won't notice a
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Cuisinel Cast Iron Skillet with Lid - 12\"-inch Pre-Seasoned Covered Frying Pan ](/products/b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov/) · [Buy on Amazon](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [VEOZAH 45 MG TAB](/products/b0c7ztv376-veozah-45-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0C7ZTV376?tag=refillwatch-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-Seasoned, Made in USA](/products/b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o/)

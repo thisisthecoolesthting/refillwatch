@@ -8,14 +8,16 @@ cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacri
 updatedAt: '2026-05-12T10:15:46Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B09VXQ221K
+- B08PDT1Y3H
+- B0CGW2TFSV
+- B00WSAXBQ0
+- B0CB75LML9
+- B093TCYF9T
+- B001QY8QXM
+- B074ND5RDT
+- B0C7ZTV376
+- B07P5BNQJG
 status: published
 heroImage: /images/hero/best-refillable-shampoo-bars-compared-to-liquid-refills.jpg
 subtopic: personal-care
@@ -194,3 +196,21 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=refillwatch-20)
+- [Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-S](/products/b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [Stargazer 10.5-Inch Cast Iron Skillet - Made in USA, Seasoned, Premium Frying Pa](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/) · [Buy on Amazon](https://www.amazon.com/dp/B0CB75LML9?tag=refillwatch-20)
+- [Cuisinel Cast Iron Skillet with Lid - 12\"-inch Pre-Seasoned Covered Frying Pan ](/products/b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov/) · [Buy on Amazon](https://www.amazon.com/dp/B093TCYF9T?tag=refillwatch-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)

@@ -7,11 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Eco-Friendly Laundry Refills
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B082Y7X9H5"
-- "B083BFPGD8"
+- B0CGW2TFSV
+- B0B7MKRR58
+- B00NQ1CLTI
+- B00NQ1CLTI
+- B0BX2N258S
+- B00WSAXBQ0
+- B00063RWT8
+- B08GX3K9YS
+- B08B3K9H7L
+- B07D5DN269
 status: published
 tags:
 - laundry
@@ -149,3 +154,21 @@ Refillable detergent saves money *and* cuts plastic waste. But watch for price h
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Field Company Mini Cast Iron Skillet – Extra-Small 6.75 Inch, One-Egg Pan, Pre-S](/products/b0cgw2tfsv-field-company-mini-cast-iron-skillet-extra-small-6-75-inch-o/) · [Buy on Amazon](https://www.amazon.com/dp/B0CGW2TFSV?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · [Buy on Amazon](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)

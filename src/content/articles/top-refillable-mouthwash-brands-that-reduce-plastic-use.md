@@ -8,14 +8,16 @@ cardPick: Low-waste oral care swaps—paste, brushes, and refills worth the shel
 updatedAt: '2026-05-12T10:02:33Z'
 
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B002BWQ6XK
+- B0B2RM68G2
+- B08B3K9H7L
+- B074ND5RDT
+- B07P5Y5QHG
+- B0D92PVDQH
+- B00B5JOC5C
+- B07F97MPYT
+- B07YPR2DGH
+- B001ET76H8
 status: published
 heroImage: /images/hero/top-refillable-mouthwash-brands-that-reduce-plastic-use.jpg
 subtopic: personal-care
@@ -216,3 +218,21 @@ When choosing a refillable mouthwash brand for eco-friendly purposes, consider t
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=refillwatch-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=refillwatch-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)

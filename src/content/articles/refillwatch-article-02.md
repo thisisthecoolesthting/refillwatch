@@ -7,16 +7,16 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B00PB6F2V4
+- B08PDHVZ4N
+- B08B3K9H7L
+- B0B7MKRR58
+- B00CAZAU62
+- B001EQ4G0O
+- B0848Q34F8
+- B01N5Q9Q6J
+- B07YPR2DGH
+- B0BX2N258S
 status: published
 tags:
 - printer ink
@@ -240,3 +240,21 @@ The $0.99/month plan seems cheap but:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=refillwatch-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=refillwatch-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=refillwatch-20)
+
+## Products in this guide
+
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y)](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

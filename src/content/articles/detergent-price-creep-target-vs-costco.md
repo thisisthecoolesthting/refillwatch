@@ -7,31 +7,16 @@ pillarSlug: price-hikes-exposed
 cardTitle: Detergent Price Creep
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B00762AHTE"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07Q5J5YXV"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B098JD8HD3"
-- "B09DY7CCW5"
-- "B09TXP1KDV"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
-- "B0GCMVP12Q"
+- B001ET73J2
+- B07D5DN269
+- B09DV14ZZL
+- B07J2P2V7T
+- B001EQ4G0O
+- B01N7V39UO
+- B000NL0T1K
+- B099NZC4PB
+- B074ND5RDT
+- B0B7MKRR58
 status: published
 tags:
 - laundry detergent
@@ -195,3 +180,21 @@ Environmental benefits add up too—refill systems generate 83% less plastic was
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=refillwatch-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=refillwatch-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=refillwatch-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [ESTRADIOL 2XWEEKLY (AB3) 0.025 MG PATCH](/products/b099nzc4pb-estradiol-2xweekly-ab3-0-025-mg-patch/) · [Buy on Amazon](https://www.amazon.com/dp/B099NZC4PB?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stove, Grill, or Campfire - Naturally Non-Stick & Oven Safe](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxury Bedding for Women, Men, Kids & Teens - Easy & Secure Fit - Soft, Wrinkle Free and Comfy - Extra Deep Pockets - Grey](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)

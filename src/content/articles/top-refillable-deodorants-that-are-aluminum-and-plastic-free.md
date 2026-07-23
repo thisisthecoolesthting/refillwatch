@@ -8,14 +8,16 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:06:57Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B0BVYBVHK5
+- B08GX3K9YS
+- B08B3K9H7L
+- B00NQ1CLTI
+- B0846GFNCQ
+- B07YPR2DGH
+- B000N3BBW0
+- B00WSAXBQ0
+- B083BFPGD8
+- B0014D3N0Q
 status: published
 heroImage: /images/hero/top-refillable-deodorants-that-are-aluminum-and-plastic-free.jpg
 subtopic: personal-care
@@ -199,3 +201,21 @@ Here’s a ranked list based on factors like ingredient transparency, refill ava
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20)
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · [Buy on Amazon](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=refillwatch-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=refillwatch-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=refillwatch-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)

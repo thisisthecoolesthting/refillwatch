@@ -7,23 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Pet Food Price Hikes
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00JA3YPN4"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07B4BHRN2"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B001EQ4G0O
+- B08K3J4WX6
+- B09VXQ221K
+- B0846GFNCQ
+- B07Z6TV9Y7
+- B08KDQZJQ5
+- B00PB6F2V4
+- B082Y7X9H5
+- B07ZPSFVX5
+- B01N7V39UO
 status: published
 tags:
 - pet food price increase
@@ -208,3 +201,21 @@ Another cost-saving strategy is to take advantage of retailer loyalty programs a
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · [Buy on Amazon](https://www.amazon.com/dp/B08K3J4WX6?tag=refillwatch-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [ESTROGEN - METHYLTESTOSTERONE 0.625 MG - 1.25 MG TAB](/products/b0846gfncq-estrogen-methyltestosterone-0-625-mg-1-25-mg-tab/) · [Buy on Amazon](https://www.amazon.com/dp/B0846GFNCQ?tag=refillwatch-20)
+- [Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handle](/products/b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo/) · [Buy on Amazon](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20)
+
+## Products in this guide
+
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)

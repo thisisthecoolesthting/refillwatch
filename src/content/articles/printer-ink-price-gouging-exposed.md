@@ -7,22 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Gouging
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B09VXQ221K
+- B08KDQZJQ5
+- B00063RWT8
+- B09WDBHXB3
+- B000NL0T1K
+- B00B5JOC5C
+- B00PB6F2V4
+- B00CAZAU62
+- B002BWQ6XK
+- B07Q5J5XJL
 status: published
 tags:
 - printer ink
@@ -329,3 +323,21 @@ Epson EcoTank 2850
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=refillwatch-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=refillwatch-20)
+- [Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us](/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/) · [Buy on Amazon](https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=refillwatch-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=refillwatch-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=refillwatch-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=refillwatch-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yield CRG-054 for Canon Color ImageClass LBP622Cdw MF644Cdw MF642Cdw MF640C Printer - 4Pack(1B 1C 1M 1Y)](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson Printer Workforce WF-7110 WF-7720 WF-7710 WF-3620 WF-3640 (1 Large Black, 1 Cyan, 1 Magenta, 1 Yellow) 4 Pack](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R03479 Replacement for Xerox Phaser 6510, WorkCentre 6515 High Yield (1 Black, 1 Cyan, 1 Magenta, 1 Yellow, 4-Pack)](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)

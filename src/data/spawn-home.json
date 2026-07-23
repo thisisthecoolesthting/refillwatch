@@ -34,14 +34,60 @@
   "homepage": {
     "eyebrow": "Consumer price watchdog",
     "h1": "Catch shrinkflation before it drains your wallet",
-    "subhead": "We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.",
+    "subhead": "We track the household staples you buy on repeat \u2014 water, detergent, pet food, ink \u2014 and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.",
     "ctaPrimaryLabel": "See latest hikes",
     "ctaPrimaryHref": "/articles",
     "ctaSecondaryLabel": "How we research",
     "ctaSecondaryHref": "/methodology",
-    "trustLine": "Independent watchdog · No retailer sponsorships · We name the hike, we name the alternative",
+    "trustLine": "Independent watchdog \u00b7 No retailer sponsorships \u00b7 We name the hike, we name the alternative",
     "heroImageUrl": "/hero/refillwatch-hero.jpg",
-    "heroVideoUrl": "/hero/refillwatch-hero.mp4"
+    "heroVideoUrl": "/hero/refillwatch-hero.mp4",
+    "comparePicks": [
+      {
+        "title": "Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Use with an Oven, Stov",
+        "slug": "b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to",
+        "priceLabel": "$12.95",
+        "href": "/products/b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to/",
+        "imageUrl": "https://m.media-amazon.com/images/I/41WCQ-X4ztL.jpg",
+        "asin": "B00063RWT8",
+        "rating": 4.7,
+        "price": 12.95,
+        "affiliateUrl": "https://www.amazon.com/dp/B00063RWT8?tag=refillwatch-20"
+      },
+      {
+        "title": "Eva-Dry Wireless Mini Dehumidifier, White (E-333)",
+        "slug": "b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333",
+        "priceLabel": "$14.97",
+        "href": "/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/",
+        "imageUrl": "https://m.media-amazon.com/images/I/31Mbr9Br-uL.jpg",
+        "asin": "B000H0XFCS",
+        "rating": 4.2,
+        "price": 14.97,
+        "affiliateUrl": "https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20"
+      },
+      {
+        "title": "Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count",
+        "slug": "b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count",
+        "priceLabel": "$13.67",
+        "href": "/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/",
+        "imageUrl": "https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg",
+        "asin": "B0014D3N0Q",
+        "rating": 4.8,
+        "price": 13.67,
+        "affiliateUrl": "https://www.amazon.com/dp/B0014D3N0Q?tag=refillwatch-20"
+      },
+      {
+        "title": "Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)",
+        "slug": "b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20",
+        "priceLabel": "$9.99",
+        "href": "/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/",
+        "imageUrl": "https://m.media-amazon.com/images/I/41KPdOFKPeL.jpg",
+        "asin": "B001QY8QXM",
+        "rating": 4.6,
+        "price": 9.99,
+        "affiliateUrl": "https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20"
+      }
+    ]
   },
   "palette": {
     "primary": "#1E3A8A",
@@ -52,7 +98,7 @@
   },
   "newsletter": {
     "title": "Stay ahead of the next price hike",
-    "subtitle": "Join RefillWatch — we email when everyday staples jump and point you to cheaper refills and reusables."
+    "subtitle": "Join RefillWatch \u2014 we email when everyday staples jump and point you to cheaper refills and reusables."
   },
   "analytics": {
     "ga_measurement_id": "G-W2WHE10F4S",

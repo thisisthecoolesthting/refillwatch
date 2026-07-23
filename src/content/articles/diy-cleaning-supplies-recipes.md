@@ -7,41 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B000H0XFCS"
-- "B000N3BBW0"
-- "B000VKGRF0"
-- "B0014D3N0Q"
-- "B001E10B9I"
-- "B001EQ4G0O"
-- "B001ET73J2"
-- "B002BWQ6XK"
-- "B004QM8SLG"
-- "B00762AHTE"
-- "B00B5JOC5C"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00FFJ0R1Q"
-- "B00PB6F2V4"
-- "B00SAYAKPK"
-- "B01N4IWH2O"
-- "B01N4NLZJN"
-- "B01N7V39QJ"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07P5BNQJG"
-- "B07Q5J5XJL"
-- "B07RVMZNYR"
-- "B08PDT1Y3H"
-- "B093TCYF9T"
-- "B098JD8HD3"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B074ND5RDT
+- B002R5AF1I
+- B0848Q34F8
+- B001EQ4G0O
+- B08R3515SF
+- B001E10B9I
+- B01N4IWH2O
+- B000H0XFCS
+- B0D41ZMDPD
+- B0CGW2TFSV
 status: published
 tags:
 - homemade cleaners
@@ -239,3 +214,21 @@ Refill stations at stores like Earth Fare charge $0.15-$0.30/oz for plant-based 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet](/products/b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=refillwatch-20)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=refillwatch-20)
+- [PAROXETINE 7.5 MG CAP](/products/b0848q34f8-paroxetine-7-5-mg-cap/) · [Buy on Amazon](https://www.amazon.com/dp/B0848Q34F8?tag=refillwatch-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=refillwatch-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=refillwatch-20)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=refillwatch-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=refillwatch-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pan for Grilling, Searing, Baking & More – Durable Cast Iron with Smooth Cooking Surface](/products/b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
