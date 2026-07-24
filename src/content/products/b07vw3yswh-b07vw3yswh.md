@@ -9,7 +9,7 @@ rating: 0
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B07VW3YSWH.01._SCLZZZZZZZ_.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/31OgqiP6EZL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07VW3YSWH?tag=refillwatch-20"
 isPrime: false
 status: published
