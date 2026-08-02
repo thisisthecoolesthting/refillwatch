@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250" role="img" aria-label="Galaxy Case Co — Built for Galaxy. Ready for impact.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#1A2332"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="250" fill="url(#bg)"/>
+  <rect x="0" y="0" width="300" height="6" fill="#0A84FF"/>
+  <g transform="translate(206 28)" opacity="0.95">
+    <rect x="0" y="0" width="78" height="160" rx="14" fill="#0B0F14" stroke="#0A84FF" stroke-width="2"/>
+    <rect x="6" y="6" width="66" height="148" rx="9" fill="#0A84FF" opacity="0.14"/>
+    <rect x="32" y="14" width="14" height="3" rx="1.5" fill="#1A2332"/>
+  </g>
+  <text x="20" y="64" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#FFFFFF" letter-spacing="-0.02em">GALAXY</text>
+  <text x="20" y="88" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#FFFFFF" letter-spacing="-0.02em">CASE CO.</text>
+  <line x1="20" y1="100" x2="64" y2="100" stroke="#00D2FF" stroke-width="3"/>
+  <text x="20" y="130" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#FFFFFF" opacity="0.78">Built for Galaxy.</text>
+  <text x="20" y="146" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#FFFFFF" opacity="0.78">Ready for impact.</text>
+  <rect x="20" y="186" width="148" height="40" rx="20" fill="#0A84FF"/>
+  <text x="94" y="212" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP GALAXY →</text>
+</svg>

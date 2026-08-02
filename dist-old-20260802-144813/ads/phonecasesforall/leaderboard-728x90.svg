@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 728 90" width="728" height="90" role="img" aria-label="Phone Cases For All — Cases that match your energy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFF7F2"/>
+      <stop offset="1" stop-color="#FFE4D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="728" height="90" fill="url(#bg)"/>
+  <rect x="0" y="0" width="6" height="90" fill="#FF4F5E"/>
+  <g transform="translate(28 14)" opacity="0.95">
+    <rect x="0" y="0" width="38" height="62" rx="8" fill="none" stroke="#FF4F5E" stroke-width="2"/>
+    <rect x="3" y="3" width="32" height="56" rx="5" fill="#00CFC1" opacity="0.18"/>
+    <circle cx="19" cy="7" r="2" fill="#FF4F5E"/>
+  </g>
+  <text x="92" y="42" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#1F2933" letter-spacing="-0.02em">PHONE CASES FOR ALL</text>
+  <text x="92" y="66" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="13" fill="#1F2933" opacity="0.7">Cases that match your energy · ships free</text>
+  <rect x="568" y="28" width="138" height="36" rx="18" fill="#FF4F5E"/>
+  <text x="637" y="51" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP THE LOOKS →</text>
+</svg>

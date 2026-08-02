@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 600" width="160" height="600" role="img" aria-label="Titan Case — Engineered restraint for iPhone.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBFAF7"/>
+      <stop offset="1" stop-color="#EAE6DD"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="160" height="6" fill="#1F2429"/>
+  <text x="80" y="56" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#1F2429" letter-spacing="-0.03em" text-anchor="middle">TITAN</text>
+  <text x="80" y="84" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#1F2429" letter-spacing="-0.03em" text-anchor="middle">CASE.</text>
+  <line x1="50" y1="100" x2="110" y2="100" stroke="#4B5563" stroke-width="3"/>
+  <g transform="translate(40 180)">
+    <rect x="0" y="0" width="80" height="160" rx="14" fill="#1F2429" stroke="#4B5563" stroke-width="1"/>
+    <rect x="6" y="6" width="68" height="148" rx="9" fill="#2A2F35"/>
+    <rect x="22" y="22" width="36" height="6" rx="3" fill="#4B5563"/>
+    <circle cx="30" cy="100" r="9" fill="#3A3F45"/>
+    <circle cx="50" cy="100" r="9" fill="#3A3F45"/>
+  </g>
+  <text x="80" y="386" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2429" opacity="0.78" text-anchor="middle">Engineered</text>
+  <text x="80" y="406" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2429" opacity="0.78" text-anchor="middle">restraint</text>
+  <text x="80" y="426" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2429" opacity="0.78" text-anchor="middle">for iPhone.</text>
+  <rect x="20" y="510" width="120" height="44" rx="22" fill="#1F2429"/>
+  <text x="80" y="538" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP →</text>
+</svg>

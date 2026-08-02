@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 600" width="160" height="600" role="img" aria-label="Phone Case Gift — Fun finds for every vibe.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF9EE"/>
+      <stop offset="1" stop-color="#FFF1D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="160" height="6" fill="#A78BFA"/>
+  <text x="80" y="56" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#2D2240" letter-spacing="-0.02em" text-anchor="middle">PHONE</text>
+  <text x="80" y="80" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#2D2240" letter-spacing="-0.02em" text-anchor="middle">CASE</text>
+  <text x="80" y="104" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="18" fill="#2D2240" letter-spacing="-0.02em" text-anchor="middle">GIFT.</text>
+  <line x1="50" y1="120" x2="110" y2="120" stroke="#FF7AB6" stroke-width="3"/>
+  <g transform="translate(40 180)">
+    <rect x="0" y="0" width="80" height="160" rx="14" fill="#FFFFFF" stroke="#A78BFA" stroke-width="2"/>
+    <path d="M0 40 Q40 12 80 40 L80 60 Q40 32 0 60 Z" fill="#FF7AB6" opacity="0.6"/>
+    <circle cx="22" cy="92" r="7" fill="#A78BFA" opacity="0.6"/>
+    <circle cx="58" cy="120" r="7" fill="#FF7AB6" opacity="0.6"/>
+  </g>
+  <text x="80" y="386" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#2D2240" opacity="0.78" text-anchor="middle">Fun finds for</text>
+  <text x="80" y="406" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#2D2240" opacity="0.78" text-anchor="middle">every vibe.</text>
+  <text x="80" y="426" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#2D2240" opacity="0.78" text-anchor="middle">Custom message.</text>
+  <rect x="20" y="510" width="120" height="44" rx="22" fill="#FF7AB6"/>
+  <text x="80" y="538" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">GIFT →</text>
+</svg>

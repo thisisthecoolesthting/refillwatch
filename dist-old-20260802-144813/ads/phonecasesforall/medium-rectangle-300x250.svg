@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250" role="img" aria-label="Phone Cases For All — Cases that match your energy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF7F2"/>
+      <stop offset="1" stop-color="#FFE4D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="250" fill="url(#bg)"/>
+  <rect x="0" y="0" width="300" height="6" fill="#FF4F5E"/>
+  <g transform="translate(206 28)" opacity="0.95">
+    <rect x="0" y="0" width="78" height="160" rx="14" fill="none" stroke="#FF4F5E" stroke-width="2"/>
+    <rect x="6" y="6" width="66" height="148" rx="9" fill="#00CFC1" opacity="0.18"/>
+    <circle cx="39" cy="14" r="3" fill="#FF4F5E"/>
+  </g>
+  <text x="20" y="64" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#1F2933" letter-spacing="-0.02em">PHONE CASES</text>
+  <text x="20" y="88" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#1F2933" letter-spacing="-0.02em">FOR ALL</text>
+  <line x1="20" y1="100" x2="64" y2="100" stroke="#FF4F5E" stroke-width="3"/>
+  <text x="20" y="130" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2933" opacity="0.75">Cases that match</text>
+  <text x="20" y="146" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="500" font-size="12" fill="#1F2933" opacity="0.75">your energy.</text>
+  <rect x="20" y="186" width="148" height="40" rx="20" fill="#FF4F5E"/>
+  <text x="94" y="212" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.02em">SHOP THE LOOKS →</text>
+</svg>
