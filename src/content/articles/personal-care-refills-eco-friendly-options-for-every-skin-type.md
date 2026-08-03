@@ -8,16 +8,12 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:45:05Z'
 
 relatedProducts:
-- B0B7MKRR58
 - B0D41ZMDPD
 - B099NZC4PB
 - B00CAZAU62
 - B085VZPR2Y
-- B01N7V39QJ
 - B09TXP1KDV
-- B001ET76H8
 - B09DY7CCW5
-- B002BWQ6XK
 status: published
 heroImage: /images/hero/personal-care-refills-eco-friendly-options-for-every-skin-type.jpg
 subtopic: personal-care

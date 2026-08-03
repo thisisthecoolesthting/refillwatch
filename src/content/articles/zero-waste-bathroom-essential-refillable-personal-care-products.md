@@ -12,11 +12,8 @@ relatedProducts:
 - B00NQ1CLTI
 - B0CB75LML9
 - B07RVMZNYR
-- B08PDHVZ4N
 - B0BX2N258S
-- B07P5BNQJG
 - B07VVK39F7
-- B000VKGRF0
 - B001QY8QXM
 status: published
 heroImage: /images/hero/zero-waste-bathroom-essential-refillable-personal-care-products.jpg

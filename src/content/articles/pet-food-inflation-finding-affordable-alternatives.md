@@ -8,15 +8,8 @@ cardTitle: Pet Food Inflation
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
 - B00762AHTE
-- B002BWQ6XK
-- B07YPR2DGH
-- B01N7V39QJ
 - B08R3515SF
-- B07Q5J5YXV
-- B07Q5J5XJL
 - B00WSAXBQ0
-- B08B3K9H7L
-- B00FFJ0R1Q
 status: published
 tags:
 - pet food inflation

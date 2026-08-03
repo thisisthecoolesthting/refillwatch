@@ -8,14 +8,9 @@ cardTitle: Shampoo Bars vs. Liquid
 cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 relatedProducts:
 - B09VXQ221K
-- B07P5Y5QHG
 - B085VZPR2Y
-- B001ET73J2
-- B002R5AF1I
-- B08K3J4WX6
 - B083BFPGD8
 - B001QY8QXM
-- B00SAYAKPK
 - B073Q8P6CQ
 status: published
 tags:

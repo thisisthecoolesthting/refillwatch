@@ -8,13 +8,9 @@ cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
 - B07C11YW88
-- B08FY8XQ3W
 - B00NQ1CLTI
-- B08R3R5KXJ
 - B0BX2N258S
 - B082Y7X9H5
-- B001ET73J2
-- B07YPR2DGH
 - B001EQ4G0O
 - B08GX3K9YS
 status: published

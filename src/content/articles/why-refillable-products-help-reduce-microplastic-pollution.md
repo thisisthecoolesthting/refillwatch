@@ -9,14 +9,10 @@ updatedAt: '2026-05-12T10:23:19Z'
 
 relatedProducts:
 - B074ND5RDT
-- B07Q5J5XJL
 - B073Q8P6CQ
 - B0BVYBVHK5
-- B00B5JOC5C
 - B08R3515SF
 - B0846GFNCQ
-- B01N4QAK9O
-- B07P5BNQJG
 - B098JD8HD3
 status: published
 heroImage: /images/hero/why-refillable-products-help-reduce-microplastic-pollution.jpg

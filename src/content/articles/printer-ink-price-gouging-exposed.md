@@ -8,15 +8,8 @@ cardTitle: Printer Ink Price Gouging
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
 - B09VXQ221K
-- B08KDQZJQ5
 - B00063RWT8
-- B09WDBHXB3
-- B000NL0T1K
-- B00B5JOC5C
-- B00PB6F2V4
 - B00CAZAU62
-- B002BWQ6XK
-- B07Q5J5XJL
 status: published
 tags:
 - printer ink

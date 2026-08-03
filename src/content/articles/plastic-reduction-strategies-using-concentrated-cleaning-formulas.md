@@ -10,13 +10,9 @@ updatedAt: '2026-05-12T09:44:33Z'
 relatedProducts:
 - B08GX3K9YS
 - B07Z6TV9Y7
-- B001ET73J2
 - B00NQ1CLTI
 - B082Y7X9H5
-- B002BWQ6XK
-- B01N7V39QJ
 - B0B2RM68G2
-- B09WDBHXB3
 - B00762AHTE
 status: published
 heroImage: /images/hero/plastic-reduction-strategies-using-concentrated-cleaning-formulas.jpg

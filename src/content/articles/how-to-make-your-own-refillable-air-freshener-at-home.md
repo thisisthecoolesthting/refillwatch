@@ -12,12 +12,8 @@ relatedProducts:
 - B00WSAXBQ0
 - B0014D3N0Q
 - B07F97MPYT
-- B00B5JOC5C
 - B001EQ4G0O
-- B002BWQ6XK
 - B001QY8QXM
-- B01N4IWH2O
-- B001E10B9I
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-air-freshener-at-home.jpg
 subtopic: personal-care

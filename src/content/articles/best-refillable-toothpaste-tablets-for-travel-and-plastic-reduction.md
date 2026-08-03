@@ -15,7 +15,6 @@ relatedProducts:
 - B00063RWT8
 - B09W9MF63Y
 - B00063RWT8
-- B01N4NLZJN
 - B073Q8P6CQ
 - B001EQ4G0O
 status: published

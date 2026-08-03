@@ -8,16 +8,12 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:51:47Z'
 
 relatedProducts:
-- B01N5Q9Q6J
-- B08B3K9H7L
 - B08GX3K9YS
 - B0848Q34F8
 - B00NQ1CLTI
-- B0B7MKRR58
 - B001EQ4G0O
 - B000H0XFCS
 - B093TCYF9T
-- B01N4QAK9O
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-laundry-detergent-at-home.jpg
 subtopic: cleaning

@@ -8,16 +8,10 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:59:32Z'
 
 relatedProducts:
-- B07Q5J5YXV
-- B07R3N9X3F
-- B08PDT1Y3H
-- B01N4IWH2O
 - B09TXP1KDV
-- B08R3R5KXJ
 - B07J2P2V7T
 - B0CGW2TFSV
 - B000H0XFCS
-- B08FY8XQ3W
 status: published
 heroImage: /images/hero/how-to-refill-household-cleaners-without-sacrificing-effectiveness.jpg
 subtopic: cleaning

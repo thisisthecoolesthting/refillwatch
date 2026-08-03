@@ -10,13 +10,9 @@ updatedAt: '2026-05-12T10:23:51Z'
 relatedProducts:
 - B001QY8QXM
 - B0CGW48C3G
-- B01N4IWH2O
-- B01N4NLZJN
-- B07Q5J5YXV
 - B0BVYBVHK5
 - B00WSAXBQ0
 - B073Q8P6CQ
-- B01N7V39UO
 - B001EQ4G0O
 status: published
 heroImage: /images/hero/best-refillable-cleaning-products-for-pet-owners.jpg

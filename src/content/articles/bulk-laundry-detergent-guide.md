@@ -7,14 +7,10 @@ pillarSlug: refill-and-reuse
 cardTitle: Bulk Laundry Detergent
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- B00PB6F2V4
-- B01N7V39UO
-- B01N7V39QJ
 - B07J2P2V7T
 - B07C11YW88
 - B00063RWT8
 - B0BVYBVHK5
-- B01N4QAK9O
 - B00762AHTE
 - B07G82D89G
 status: published

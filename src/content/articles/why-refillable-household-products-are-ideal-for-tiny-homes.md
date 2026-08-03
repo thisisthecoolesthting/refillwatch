@@ -12,12 +12,8 @@ relatedProducts:
 - B00WSAXBQ0
 - B07F97MPYT
 - B07C11YW88
-- B0B7MKRR58
 - B0BVYBVHK5
-- B00FFJ0R1Q
-- B01N7V39UO
 - B07F97MPYT
-- B08B3K9H7L
 status: published
 heroImage: /images/hero/why-refillable-household-products-are-ideal-for-tiny-homes.jpg
 subtopic: personal-care

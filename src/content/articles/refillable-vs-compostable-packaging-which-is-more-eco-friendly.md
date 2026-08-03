@@ -8,7 +8,6 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:10:04Z'
 
 relatedProducts:
-- B000VKGRF0
 - B00063RWT8
 - B001EQ4G0O
 - B0D41ZMDPD
@@ -16,7 +15,6 @@ relatedProducts:
 - B0CB75LML9
 - B004QM8SLG
 - B00762AHTE
-- B09DV14ZZL
 - B00NQ1CLTI
 status: published
 heroImage: /images/hero/refillable-vs-compostable-packaging-which-is-more-eco-friendly.jpg

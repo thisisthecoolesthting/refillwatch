@@ -8,12 +8,10 @@ cardTitle: '''The Razor Blade Subscription Trap'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
 - B00NQ1CLTI
-- B08PDT1Y3H
 - B0CGW2TFSV
 - B00WSAXBQ0
 - B0D41ZMDPD
 - B001EQ4G0O
-- B01N4QAK9O
 - B09DY7CCW5
 - B08GX3K9YS
 - B0014D3N0Q

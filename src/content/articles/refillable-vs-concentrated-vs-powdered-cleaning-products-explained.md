@@ -8,16 +8,12 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:13:30Z'
 
 relatedProducts:
-- B00FFJ0R1Q
 - B0014D3N0Q
 - B07D5DN269
 - B085VZPR2Y
 - B001EQ4G0O
 - B08PZBPXLZ
-- B08KDQZJQ5
 - B004QM8SLG
-- B09DV14ZZL
-- B01N4IWH2O
 status: published
 heroImage: /images/hero/refillable-vs-concentrated-vs-powdered-cleaning-products-explained.jpg
 subtopic: cleaning

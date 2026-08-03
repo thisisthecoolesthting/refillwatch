@@ -11,12 +11,8 @@ relatedProducts:
 - B0BVYBVHK5
 - B07C11YW88
 - B0848Q34F8
-- B09DV14ZZL
 - B0D41ZMDPD
-- B07R3N9X3F
-- B000NL0T1K
 - B000H0XFCS
-- B09WDBHXB3
 status: published
 tags:
 - pet food price hike

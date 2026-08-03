@@ -9,15 +9,12 @@ updatedAt: '2026-05-12T10:24:43Z'
 
 relatedProducts:
 - B0BVYBVHK5
-- B07ZPSFVX5
 - B000H0XFCS
 - B001EQ4G0O
-- B01N4IWH2O
 - B00NQ1CLTI
 - B09DY7CCW5
 - B073Q8P6CQ
 - B004QM8SLG
-- B07YPR2DGH
 status: published
 heroImage: /images/hero/refillable-vs-traditional-cleaning-products-cost-and-environmental-impact.jpg
 subtopic: cleaning

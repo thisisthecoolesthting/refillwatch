@@ -7,16 +7,12 @@ pillarSlug: subscription-management
 cardTitle: Has Your Amazon Prime Subscription Doubled? Here's Why.
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- B07YPR2DGH
 - B00762AHTE
-- B00FFJ0R1Q
 - B07D5DN269
 - B07C11YW88
 - B0B2RM68G2
 - B000H0XFCS
-- B01N4NLZJN
 - B083BFPGD8
-- B00B5JOC5C
 status: published
 tags:
 - amazon prime

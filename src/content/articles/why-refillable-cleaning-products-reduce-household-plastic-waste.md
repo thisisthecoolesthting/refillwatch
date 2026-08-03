@@ -10,14 +10,9 @@ updatedAt: '2026-05-12T09:52:36Z'
 relatedProducts:
 - B00063RWT8
 - B0CYJV9X52
-- B01N4QAK9O
 - B001EQ4G0O
 - B001EQ4G0O
-- B00PB6F2V4
-- B01N4NLZJN
-- B07Q5J5XJL
 - B000H0XFCS
-- B01N7V39UO
 status: published
 heroImage: /images/hero/why-refillable-cleaning-products-reduce-household-plastic-waste.jpg
 subtopic: cleaning

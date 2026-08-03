@@ -7,15 +7,9 @@ pillarSlug: subscription-savings
 cardTitle: 'Beyond the Blade: Affordable Razor Subscription Services Compared'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- B01N5Q9Q6J
-- B08B3K9H7L
 - B0CB75LML9
 - B099NZC4PB
-- B00FFJ0R1Q
-- B0B7MKRR58
-- B000VKGRF0
 - B004QM8SLG
-- B001ET76H8
 - B08R3515SF
 status: published
 tags:

@@ -16,8 +16,6 @@ relatedProducts:
 - B00063RWT8
 - B00WSAXBQ0
 - B0CGW48C3G
-- B001E10B9I
-- B01N4IWH2O
 status: published
 heroImage: /images/hero/best-refillable-toothbrushes-for-plastic-reduction-goals.jpg
 subtopic: personal-care

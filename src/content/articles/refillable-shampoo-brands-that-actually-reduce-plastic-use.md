@@ -10,14 +10,10 @@ updatedAt: '2026-05-12T05:54:53Z'
 relatedProducts:
 - B07D5DN269
 - B074ND5RDT
-- B07P5BNQJG
-- B08KDQZJQ5
 - B0014D3N0Q
 - B08R3515SF
 - B09VXQ221K
-- B01N7V39UO
 - B00063RWT8
-- B002R5AF1I
 status: published
 heroImage: /images/hero/refillable-shampoo-brands-that-actually-reduce-plastic-use.jpg
 subtopic: personal-care

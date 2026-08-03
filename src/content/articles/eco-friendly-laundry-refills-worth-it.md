@@ -7,16 +7,13 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Eco-Friendly Laundry Refills Worth the Switch?
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- B01N4QAK9O
 - B093TCYF9T
 - B001EQ4G0O
 - B0014D3N0Q
 - B0BX2N258S
-- B0B7MKRR58
 - B09W9MF63Y
 - B004QM8SLG
 - B001QY8QXM
-- B08K3J4WX6
 status: published
 tags:
 - laundry detergent

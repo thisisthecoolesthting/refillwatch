@@ -7,9 +7,7 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Laundry Detergent: Tracking the Price Creep on Your Clean Clothes'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- B000NL0T1K
 - B09VXQ221K
-- B09DV14ZZL
 - B0B2RM68G2
 - B07J2P2V7T
 - B07D5DN269

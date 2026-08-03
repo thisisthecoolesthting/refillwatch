@@ -8,12 +8,10 @@ cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
 - B074ND5RDT
-- B08R3R5KXJ
 - B0BVYBVHK5
 - B004QM8SLG
 - B08R3515SF
 - B0CB75LML9
-- B000N3BBW0
 - B07VVK39F7
 - B0014D3N0Q
 - B07Z6TV9Y7

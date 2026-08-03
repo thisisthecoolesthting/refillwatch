@@ -8,16 +8,11 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:01:38Z'
 
 relatedProducts:
-- B002R5AF1I
 - B07C11YW88
 - B000H0XFCS
-- B08R3R5KXJ
-- B00SAYAKPK
 - B0014D3N0Q
 - B07VVK39F7
 - B09VXQ221K
-- B01N7V39UO
-- B08PDHVZ4N
 status: published
 heroImage: /images/hero/how-to-store-refillable-products-to-maximize-shelf-life.jpg
 subtopic: personal-care

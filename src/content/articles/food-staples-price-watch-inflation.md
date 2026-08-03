@@ -7,13 +7,7 @@ pillarSlug: price-hike-alerts
 cardTitle: Food Staples Price Watch
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- B00B5JOC5C
-- B002R5AF1I
-- B001ET76H8
 - B0B2RM68G2
-- B00SAYAKPK
-- B08B3K9H7L
-- B07ZPSFVX5
 - B09W9MF63Y
 - B001QY8QXM
 - B0848Q34F8

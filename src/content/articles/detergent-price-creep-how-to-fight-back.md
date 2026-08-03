@@ -8,15 +8,9 @@ cardTitle: Detergent Price Creep
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
 - B0D41ZMDPD
-- B07R3N9X3F
-- B08FY8XQ3W
-- B08PDHVZ4N
-- B00FFJ0R1Q
-- B001ET76H8
 - B001QY8QXM
 - B07C11YW88
 - B00CAZAU62
-- B07P5BNQJG
 status: published
 tags:
 - laundry detergent

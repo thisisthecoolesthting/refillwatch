@@ -7,15 +7,12 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Walmart Water: Is Your Hydration Bill Creeping Up'
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- B09WDBHXB3
-- B00B5JOC5C
 - B07F97MPYT
 - B0BVYBVHK5
 - B0846GFNCQ
 - B073Q8P6CQ
 - B00NQ1CLTI
 - B07J2P2V7T
-- B000VKGRF0
 - B07VVK39F7
 status: published
 tags:

@@ -8,15 +8,12 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:21:59Z'
 
 relatedProducts:
-- B000N3BBW0
 - B07D5DN269
 - B001EQ4G0O
-- B01N7V39QJ
 - B000H0XFCS
 - B00NQ1CLTI
 - B07RVMZNYR
 - B083BFPGD8
-- B0B7MKRR58
 - B08R3515SF
 status: published
 heroImage: /images/hero/refillable-vs-disposable-cotton-rounds-which-is-more-sustainable.jpg

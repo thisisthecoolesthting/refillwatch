@@ -7,16 +7,10 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Wars
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- B001E10B9I
-- B07ZPSFVX5
-- B07R3N9X3F
 - B001EQ4G0O
 - B07G82D89G
 - B0D41ZMDPD
 - B09DY7CCW5
-- B07Q5J5YXV
-- B000N3BBW0
-- B00FFJ0R1Q
 status: published
 tags:
 - streaming price hikes

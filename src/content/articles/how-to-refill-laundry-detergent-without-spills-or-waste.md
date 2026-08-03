@@ -9,15 +9,10 @@ updatedAt: '2026-05-12T10:05:43Z'
 
 relatedProducts:
 - B09DY7CCW5
-- B00PB6F2V4
-- B000N3BBW0
 - B07C11YW88
 - B07D5DN269
 - B08PZBPXLZ
-- B0B7MKRR58
-- B01N7V39UO
 - B00NQ1CLTI
-- B07YPR2DGH
 status: published
 heroImage: /images/hero/how-to-refill-laundry-detergent-without-spills-or-waste.jpg
 subtopic: cleaning

@@ -10,14 +10,10 @@ updatedAt: '2026-05-12T10:04:55Z'
 relatedProducts:
 - B07F97MPYT
 - B08PZBPXLZ
-- B01N4IWH2O
-- B08PDT1Y3H
 - B098JD8HD3
 - B085VZPR2Y
 - B08R3515SF
-- B09WDBHXB3
 - B0BVYBVHK5
-- B08KDQZJQ5
 status: published
 heroImage: /images/hero/best-refillable-household-cleaners-for-sensitive-skin-types.jpg
 subtopic: cleaning

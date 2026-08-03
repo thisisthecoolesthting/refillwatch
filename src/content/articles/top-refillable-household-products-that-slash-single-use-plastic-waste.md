@@ -8,16 +8,11 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T09:42:08Z'
 
 relatedProducts:
-- B07Q5J5YXV
 - B07J2P2V7T
 - B07VVK39F7
-- B002BWQ6XK
-- B07P5Y5QHG
 - B001EQ4G0O
 - B00762AHTE
-- B08R3R5KXJ
 - B09TXP1KDV
-- B09DV14ZZL
 status: published
 heroImage: /images/hero/top-refillable-household-products-that-slash-single-use-plastic-waste.jpg
 subtopic: personal-care

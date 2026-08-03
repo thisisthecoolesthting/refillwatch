@@ -8,16 +8,11 @@ cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:21:35Z'
 
 relatedProducts:
-- B001ET73J2
 - B0D92PVDQH
 - B07F97MPYT
 - B074ND5RDT
-- B001E10B9I
-- B07YPR2DGH
 - B00CAZAU62
 - B099NZC4PB
-- B002R5AF1I
-- B08PDT1Y3H
 status: published
 heroImage: /images/hero/why-refilling-your-own-products-supports-local-zero-waste-shops.jpg
 subtopic: packaging

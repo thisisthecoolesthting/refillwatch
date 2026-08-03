@@ -10,13 +10,9 @@ updatedAt: '2026-05-12T09:43:32Z'
 relatedProducts:
 - B000H0XFCS
 - B0014D3N0Q
-- B07Q5J5XJL
 - B074ND5RDT
 - B07D5DN269
-- B01N7V39UO
 - B00063RWT8
-- B001ET76H8
-- B07P5BNQJG
 - B00063RWT8
 status: published
 heroImage: /images/hero/brand-comparison-refillable-vs-disposable-cleaning-product-effectiveness.jpg

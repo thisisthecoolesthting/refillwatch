@@ -15,7 +15,6 @@ relatedProducts:
 - B07Z6TV9Y7
 - B00NQ1CLTI
 - B09VXQ221K
-- B07ZPSFVX5
 - B07F97MPYT
 - B0BVYBVHK5
 status: published

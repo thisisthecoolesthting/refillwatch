@@ -9,14 +9,10 @@ updatedAt: '2026-05-12T10:20:49Z'
 
 relatedProducts:
 - B00762AHTE
-- B07P5BNQJG
 - B0C7ZTV376
 - B0CGW2TFSV
-- B07Q5J5XJL
 - B00CAZAU62
 - B000H0XFCS
-- B00FFJ0R1Q
-- B000N3BBW0
 - B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-store-and-use-refillable-products-in-small-apartments.jpg

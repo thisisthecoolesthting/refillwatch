@@ -9,15 +9,8 @@ updatedAt: '2026-05-12T09:54:42Z'
 
 relatedProducts:
 - B07C11YW88
-- B00PB6F2V4
 - B00NQ1CLTI
 - B000H0XFCS
-- B001E10B9I
-- B00FFJ0R1Q
-- B00SAYAKPK
-- B08K3J4WX6
-- B01N5Q9Q6J
-- B0B7MKRR58
 status: published
 heroImage: /images/hero/best-refillable-glass-spray-bottles-for-homemade-cleaners.jpg
 subtopic: cleaning

@@ -8,15 +8,11 @@ cardTitle: 'Stop Overpaying: Cheaper Laundry Detergent Alternatives That Work'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
 - B001QY8QXM
-- B002BWQ6XK
 - B07D5DN269
 - B099NZC4PB
-- B0B7MKRR58
 - B083BFPGD8
 - B07F97MPYT
 - B0BX2N258S
-- B08K3J4WX6
-- B001E10B9I
 status: published
 tags:
 - laundry detergent

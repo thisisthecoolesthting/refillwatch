@@ -9,12 +9,6 @@ cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples comp
 relatedProducts:
 - B0B2RM68G2
 - B00CAZAU62
-- B07R3N9X3F
-- B01N5Q9Q6J
-- B00B5JOC5C
-- B07P5BNQJG
-- B001ET76H8
-- B07Q5J5XJL
 - B073Q8P6CQ
 - B07RVMZNYR
 status: published

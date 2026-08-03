@@ -8,15 +8,10 @@ cardPick: Refillable personal care picks vetted for plastic reduction and daily 
 updatedAt: '2026-05-12T10:00:12Z'
 
 relatedProducts:
-- B09DV14ZZL
 - B00NQ1CLTI
-- B01N7V39UO
 - B001QY8QXM
-- B00B5JOC5C
 - B00762AHTE
 - B09W9MF63Y
-- B08PDHVZ4N
-- B07P5BNQJG
 - B093TCYF9T
 status: published
 heroImage: /images/hero/why-switching-to-refillable-makeup-removers-matters-for-plastic-waste.jpg

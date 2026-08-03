@@ -7,12 +7,8 @@ pillarSlug: price-hike-alerts
 cardTitle: Walmart's 2024 Water Price Hike
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- B000NL0T1K
 - B07F97MPYT
-- B001E10B9I
-- B08B3K9H7L
 - B07Z6TV9Y7
-- B01N5Q9Q6J
 - B001QY8QXM
 - B0BX2N258S
 - B0D41ZMDPD

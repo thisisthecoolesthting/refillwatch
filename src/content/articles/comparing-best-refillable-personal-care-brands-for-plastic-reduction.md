@@ -11,13 +11,8 @@ relatedProducts:
 - B074ND5RDT
 - B082Y7X9H5
 - B099NZC4PB
-- B01N4NLZJN
-- B002BWQ6XK
 - B0014D3N0Q
 - B0D92PVDQH
-- B08KDQZJQ5
-- B07Q5J5YXV
-- B08B3K9H7L
 status: published
 heroImage: /images/hero/comparing-best-refillable-personal-care-brands-for-plastic-reduction.jpg
 subtopic: personal-care

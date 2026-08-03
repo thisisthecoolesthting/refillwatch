@@ -7,16 +7,10 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: The Best Reusable Water Bottles to Save Money and the Planet
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- B07P5Y5QHG
-- B07ZPSFVX5
 - B0B2RM68G2
-- B01N4NLZJN
-- B07R3N9X3F
 - B083BFPGD8
 - B085VZPR2Y
 - B0CGW2TFSV
-- B07YPR2DGH
-- B08K3J4WX6
 status: published
 tags:
 - reusable water bottles

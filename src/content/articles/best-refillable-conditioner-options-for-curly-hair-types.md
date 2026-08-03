@@ -8,14 +8,9 @@ cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacri
 updatedAt: '2026-05-12T10:18:53Z'
 
 relatedProducts:
-- B00SAYAKPK
 - B09TXP1KDV
 - B0014D3N0Q
 - B085VZPR2Y
-- B07P5Y5QHG
-- B09WDBHXB3
-- B000NL0T1K
-- B08R3R5KXJ
 - B0BX2N258S
 - B07RVMZNYR
 status: published

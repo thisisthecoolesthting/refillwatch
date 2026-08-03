@@ -8,14 +8,8 @@ cardTitle: '''Printer Ink Economics'
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
 - B001QY8QXM
-- B07Q5J5YXV
-- B08KDQZJQ5
-- B07YPR2DGH
 - B08PZBPXLZ
-- B07R3N9X3F
 - B07J2P2V7T
-- B00B5JOC5C
-- B09WDBHXB3
 - B08R3515SF
 status: published
 tags:

@@ -12,11 +12,9 @@ relatedProducts:
 - B085VZPR2Y
 - B0C7ZTV376
 - B0BVYBVHK5
-- B001E10B9I
 - B0CGW48C3G
 - B00CAZAU62
 - B09TXP1KDV
-- B000N3BBW0
 - B000H0XFCS
 status: published
 heroImage: /images/hero/how-to-transition-to-zero-waste-personal-care-routines-easily.jpg

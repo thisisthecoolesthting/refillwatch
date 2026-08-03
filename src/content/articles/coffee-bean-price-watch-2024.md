@@ -13,10 +13,6 @@ relatedProducts:
 - B0CYJV9X52
 - B00NQ1CLTI
 - B00063RWT8
-- B07Q5J5YXV
-- B000N3BBW0
-- B000VKGRF0
-- B08PDT1Y3H
 status: published
 tags:
 - coffee price increase

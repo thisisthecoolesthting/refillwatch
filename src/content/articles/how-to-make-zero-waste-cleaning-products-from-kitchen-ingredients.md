@@ -8,16 +8,13 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:17:16Z'
 
 relatedProducts:
-- B001ET73J2
 - B073Q8P6CQ
 - B08PZBPXLZ
 - B0014D3N0Q
 - B07RVMZNYR
-- B000VKGRF0
 - B00WSAXBQ0
 - B07C11YW88
 - B0BX2N258S
-- B07R3N9X3F
 status: published
 heroImage: /images/hero/how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients.jpg
 subtopic: cleaning

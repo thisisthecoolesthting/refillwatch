@@ -11,12 +11,8 @@ relatedProducts:
 - B098JD8HD3
 - B09VXQ221K
 - B001EQ4G0O
-- B00B5JOC5C
-- B01N4IWH2O
 - B07Z6TV9Y7
-- B00SAYAKPK
 - B07RVMZNYR
-- B07ZPSFVX5
 - B000H0XFCS
 status: published
 heroImage: /images/hero/best-refillable-dishwashing-liquid-options-for-eco-friendly-kitchens.jpg

@@ -11,12 +11,7 @@ relatedProducts:
 - B0CGW48C3G
 - B074ND5RDT
 - B001EQ4G0O
-- B01N7V39QJ
-- B002BWQ6XK
-- B001ET76H8
 - B001QY8QXM
-- B01N5Q9Q6J
-- B01N4QAK9O
 - B073Q8P6CQ
 status: published
 heroImage: /images/hero/zero-waste-living-refillable-personal-care-products-beginners-guide.jpg

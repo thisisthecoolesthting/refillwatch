@@ -13,11 +13,9 @@ relatedProducts:
 - B07VVK39F7
 - B0D41ZMDPD
 - B07Z6TV9Y7
-- B000NL0T1K
 - B08PZBPXLZ
 - B00063RWT8
 - B07D5DN269
-- B09WDBHXB3
 status: published
 heroImage: /images/hero/how-to-transition-to-refillable-personal-care-products-gradually.jpg
 subtopic: personal-care

@@ -13,10 +13,8 @@ relatedProducts:
 - B07G82D89G
 - B08PZBPXLZ
 - B085VZPR2Y
-- B001ET76H8
 - B07F97MPYT
 - B00063RWT8
-- B00SAYAKPK
 - B09TXP1KDV
 status: published
 heroImage: /images/hero/best-refillable-body-lotions-without-plastic-pump-bottles.jpg

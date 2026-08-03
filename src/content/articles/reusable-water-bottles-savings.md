@@ -9,14 +9,11 @@ cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples comp
 relatedProducts:
 - B073Q8P6CQ
 - B07G82D89G
-- B001ET76H8
 - B07D5DN269
 - B098JD8HD3
 - B00063RWT8
 - B00NQ1CLTI
-- B00PB6F2V4
 - B09TXP1KDV
-- B000N3BBW0
 status: published
 tags:
 - reusable water bottles

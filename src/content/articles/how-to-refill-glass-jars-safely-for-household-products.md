@@ -11,13 +11,8 @@ relatedProducts:
 - B0BVYBVHK5
 - B0014D3N0Q
 - B00762AHTE
-- B08PDT1Y3H
-- B08FY8XQ3W
-- B08PDHVZ4N
 - B000H0XFCS
-- B000NL0T1K
 - B07D5DN269
-- B07Q5J5XJL
 status: published
 heroImage: /images/hero/how-to-refill-glass-jars-safely-for-household-products.jpg
 subtopic: packaging

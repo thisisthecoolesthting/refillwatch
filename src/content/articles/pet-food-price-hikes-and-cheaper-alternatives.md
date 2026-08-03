@@ -8,15 +8,10 @@ cardTitle: Pet Food Price Hikes
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
 - B001EQ4G0O
-- B08K3J4WX6
 - B09VXQ221K
 - B0846GFNCQ
 - B07Z6TV9Y7
-- B08KDQZJQ5
-- B00PB6F2V4
 - B082Y7X9H5
-- B07ZPSFVX5
-- B01N7V39UO
 status: published
 tags:
 - pet food price increase

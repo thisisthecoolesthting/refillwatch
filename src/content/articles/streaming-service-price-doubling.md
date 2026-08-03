@@ -9,7 +9,6 @@ cardPick: Cancel creep and swap to staples that actually lower your monthly burn
 relatedProducts:
 - B000H0XFCS
 - B07J2P2V7T
-- B0B7MKRR58
 - B083BFPGD8
 - B0BX2N258S
 - B07C11YW88

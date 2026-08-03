@@ -13,11 +13,8 @@ relatedProducts:
 - B00NQ1CLTI
 - B073Q8P6CQ
 - B00063RWT8
-- B08K3J4WX6
 - B099NZC4PB
-- B07ZPSFVX5
 - B0CYJV9X52
-- B07YPR2DGH
 status: published
 heroImage: /images/hero/how-to-set-up-a-refillable-cleaning-station-in-your-home.jpg
 subtopic: cleaning

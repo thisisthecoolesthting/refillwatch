@@ -9,7 +9,6 @@ updatedAt: '2026-05-12T10:15:46Z'
 
 relatedProducts:
 - B09VXQ221K
-- B08PDT1Y3H
 - B0CGW2TFSV
 - B00WSAXBQ0
 - B0CB75LML9
@@ -17,7 +16,6 @@ relatedProducts:
 - B001QY8QXM
 - B074ND5RDT
 - B0C7ZTV376
-- B07P5BNQJG
 status: published
 heroImage: /images/hero/best-refillable-shampoo-bars-compared-to-liquid-refills.jpg
 subtopic: personal-care

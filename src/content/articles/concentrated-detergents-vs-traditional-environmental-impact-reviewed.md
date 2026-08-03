@@ -14,9 +14,7 @@ relatedProducts:
 - B082Y7X9H5
 - B000H0XFCS
 - B07F97MPYT
-- B001ET73J2
 - B0D41ZMDPD
-- B01N7V39UO
 - B07D5DN269
 status: published
 heroImage: /images/hero/concentrated-detergents-vs-traditional-environmental-impact-reviewed.jpg

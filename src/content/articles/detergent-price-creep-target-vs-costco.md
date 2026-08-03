@@ -7,16 +7,11 @@ pillarSlug: price-hikes-exposed
 cardTitle: Detergent Price Creep
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- B001ET73J2
 - B07D5DN269
-- B09DV14ZZL
 - B07J2P2V7T
 - B001EQ4G0O
-- B01N7V39UO
-- B000NL0T1K
 - B099NZC4PB
 - B074ND5RDT
-- B0B7MKRR58
 status: published
 tags:
 - laundry detergent

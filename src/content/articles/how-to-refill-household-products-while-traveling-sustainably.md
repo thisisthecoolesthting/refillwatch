@@ -8,16 +8,9 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T10:10:08Z'
 
 relatedProducts:
-- B01N7V39QJ
-- B000NL0T1K
-- B07ZPSFVX5
-- B07Q5J5XJL
 - B093TCYF9T
-- B000N3BBW0
 - B0014D3N0Q
-- B07R3N9X3F
 - B083BFPGD8
-- B001ET76H8
 status: published
 heroImage: /images/hero/how-to-refill-household-products-while-traveling-sustainably.jpg
 subtopic: cleaning

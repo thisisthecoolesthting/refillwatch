@@ -7,13 +7,9 @@ pillarSlug: subscription-savings
 cardTitle: Stop the Bleed
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- B00FFJ0R1Q
-- B002BWQ6XK
 - B0BVYBVHK5
-- B01N5Q9Q6J
 - B099NZC4PB
 - B093TCYF9T
-- B000N3BBW0
 - B0CB75LML9
 - B001QY8QXM
 - B004QM8SLG

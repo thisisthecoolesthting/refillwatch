@@ -9,14 +9,8 @@ updatedAt: '2026-05-12T09:59:01Z'
 
 relatedProducts:
 - B0CYJV9X52
-- B01N4IWH2O
-- B001ET73J2
-- B01N4NLZJN
-- B09WDBHXB3
 - B098JD8HD3
-- B001ET76H8
 - B00CAZAU62
-- B002R5AF1I
 - B0C7ZTV376
 status: published
 heroImage: /images/hero/best-refillable-fabric-softener-options-without-plastic-bottles.jpg

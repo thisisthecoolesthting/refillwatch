@@ -8,15 +8,11 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:48:12Z'
 
 relatedProducts:
-- B07YPR2DGH
 - B07D5DN269
 - B074ND5RDT
 - B0BX2N258S
 - B0D41ZMDPD
-- B01N7V39QJ
-- B01N4QAK9O
 - B074ND5RDT
-- B08KDQZJQ5
 - B000H0XFCS
 status: published
 heroImage: /images/hero/using-refillable-concentrates-to-maximize-plastic-waste-reduction.jpg

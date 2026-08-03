@@ -14,9 +14,7 @@ relatedProducts:
 - B08PZBPXLZ
 - B07VVK39F7
 - B073Q8P6CQ
-- B07R3N9X3F
 - B00WSAXBQ0
-- B00SAYAKPK
 - B0D41ZMDPD
 status: published
 heroImage: /images/hero/refillable-vs-bulk-cleaning-supplies-which-saves-more-plastic.jpg

@@ -13,10 +13,8 @@ relatedProducts:
 - B07RVMZNYR
 - B07F97MPYT
 - B07G82D89G
-- B000VKGRF0
 - B0014D3N0Q
 - B0BX2N258S
-- B002BWQ6XK
 status: published
 tags:
 - water bottle savings

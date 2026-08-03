@@ -7,15 +7,11 @@ pillarSlug: subscription-management
 cardTitle: Tracking Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- B01N4NLZJN
 - B07VVK39F7
 - B074ND5RDT
 - B07G82D89G
-- B07Q5J5XJL
 - B00063RWT8
 - B0CYJV9X52
-- B01N4IWH2O
-- B002R5AF1I
 - B0CB75LML9
 status: published
 tags:

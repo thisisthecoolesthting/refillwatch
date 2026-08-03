@@ -8,14 +8,12 @@ cardTitle: Eco-Friendly Laundry Refills
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
 - B0CGW2TFSV
-- B0B7MKRR58
 - B00NQ1CLTI
 - B00NQ1CLTI
 - B0BX2N258S
 - B00WSAXBQ0
 - B00063RWT8
 - B08GX3K9YS
-- B08B3K9H7L
 - B07D5DN269
 status: published
 tags:

@@ -7,14 +7,9 @@ pillarSlug: price-hikes-exposed
 cardTitle: The Ink Cartridge Scam
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- B08R3R5KXJ
-- B00PB6F2V4
-- B07Q5J5YXV
 - B0B2RM68G2
 - B00NQ1CLTI
 - B0846GFNCQ
-- B002R5AF1I
-- B000NL0T1K
 - B082Y7X9H5
 - B08R3515SF
 status: published

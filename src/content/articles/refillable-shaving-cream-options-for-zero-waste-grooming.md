@@ -9,15 +9,9 @@ updatedAt: '2026-05-12T10:02:04Z'
 
 relatedProducts:
 - B07F97MPYT
-- B00PB6F2V4
-- B09WDBHXB3
 - B082Y7X9H5
-- B00SAYAKPK
 - B07RVMZNYR
-- B08FY8XQ3W
-- B01N7V39UO
 - B083BFPGD8
-- B07Q5J5XJL
 status: published
 heroImage: /images/hero/refillable-shaving-cream-options-for-zero-waste-grooming.jpg
 subtopic: personal-care

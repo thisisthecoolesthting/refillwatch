@@ -10,14 +10,10 @@ updatedAt: '2026-05-12T10:14:07Z'
 relatedProducts:
 - B0846GFNCQ
 - B00762AHTE
-- B00FFJ0R1Q
 - B07J2P2V7T
 - B00NQ1CLTI
-- B001ET76H8
-- B08PDT1Y3H
 - B08GX3K9YS
 - B09TXP1KDV
-- B08PDHVZ4N
 status: published
 heroImage: /images/hero/best-refillable-cleaning-tools-for-plastic-reduction-at-home.jpg
 subtopic: cleaning

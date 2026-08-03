@@ -8,8 +8,6 @@ cardTitle: The Ultimate Printer Ink Showdown
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
 - B00WSAXBQ0
-- B07Q5J5XJL
-- B08PDT1Y3H
 - B001EQ4G0O
 - B09TXP1KDV
 - B09W9MF63Y

@@ -7,14 +7,9 @@ updatedAt: '2026-05-12T10:26:00Z'
 
 relatedProducts:
 - B000H0XFCS
-- B08PDT1Y3H
-- B001ET76H8
-- B09DV14ZZL
 - B07J2P2V7T
 - B08PZBPXLZ
-- B000VKGRF0
 - B00CAZAU62
-- B07ZPSFVX5
 - B001QY8QXM
 status: published
 heroImage: /images/hero/best-refillable-deodorant-brands-for-sensitive-skin-reviewed.jpg

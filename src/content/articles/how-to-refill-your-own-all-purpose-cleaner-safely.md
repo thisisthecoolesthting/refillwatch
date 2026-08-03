@@ -9,15 +9,9 @@ updatedAt: '2026-05-12T09:57:55Z'
 
 relatedProducts:
 - B08PZBPXLZ
-- B01N4NLZJN
-- B07P5BNQJG
 - B07F97MPYT
 - B082Y7X9H5
 - B083BFPGD8
-- B002BWQ6XK
-- B07R3N9X3F
-- B001ET73J2
-- B00PB6F2V4
 status: published
 heroImage: /images/hero/how-to-refill-your-own-all-purpose-cleaner-safely.jpg
 subtopic: cleaning

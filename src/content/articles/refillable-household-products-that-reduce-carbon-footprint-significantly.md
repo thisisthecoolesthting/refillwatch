@@ -9,14 +9,10 @@ updatedAt: '2026-05-12T09:47:12Z'
 
 relatedProducts:
 - B004QM8SLG
-- B001E10B9I
 - B085VZPR2Y
 - B07D5DN269
 - B00WSAXBQ0
 - B0CB75LML9
-- B07R3N9X3F
-- B000VKGRF0
-- B01N4IWH2O
 - B0BX2N258S
 status: published
 heroImage: /images/hero/refillable-household-products-that-reduce-carbon-footprint-significantly.jpg

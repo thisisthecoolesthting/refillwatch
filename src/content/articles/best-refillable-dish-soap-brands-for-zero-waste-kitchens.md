@@ -8,15 +8,9 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:51:15Z'
 
 relatedProducts:
-- B00SAYAKPK
 - B07J2P2V7T
 - B001QY8QXM
-- B00PB6F2V4
 - B07J2P2V7T
-- B000VKGRF0
-- B08PDT1Y3H
-- B001ET73J2
-- B01N5Q9Q6J
 - B07F97MPYT
 status: published
 heroImage: /images/hero/best-refillable-dish-soap-brands-for-zero-waste-kitchens.jpg

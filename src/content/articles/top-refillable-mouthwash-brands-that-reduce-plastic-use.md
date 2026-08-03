@@ -8,16 +8,10 @@ cardPick: Low-waste oral care swaps—paste, brushes, and refills worth the shel
 updatedAt: '2026-05-12T10:02:33Z'
 
 relatedProducts:
-- B002BWQ6XK
 - B0B2RM68G2
-- B08B3K9H7L
 - B074ND5RDT
-- B07P5Y5QHG
 - B0D92PVDQH
-- B00B5JOC5C
 - B07F97MPYT
-- B07YPR2DGH
-- B001ET76H8
 status: published
 heroImage: /images/hero/top-refillable-mouthwash-brands-that-reduce-plastic-use.jpg
 subtopic: personal-care

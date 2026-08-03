@@ -7,15 +7,8 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Pet Food Prices: Don''t Let Retailers Gouge Your Furry Friends'
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- B08K3J4WX6
-- B07P5Y5QHG
-- B07R3N9X3F
-- B000N3BBW0
-- B08KDQZJQ5
-- B00PB6F2V4
 - B000H0XFCS
 - B004QM8SLG
-- B09DV14ZZL
 - B074ND5RDT
 status: published
 tags:

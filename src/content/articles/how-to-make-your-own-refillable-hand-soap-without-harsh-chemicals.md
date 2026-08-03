@@ -6,16 +6,11 @@ tier: mvp
 updatedAt: '2026-05-12T10:25:23Z'
 
 relatedProducts:
-- B002BWQ6XK
 - B07VVK39F7
 - B07D5DN269
-- B07Q5J5XJL
-- B08PDHVZ4N
 - B00WSAXBQ0
-- B001E10B9I
 - B0BVYBVHK5
 - B0C7ZTV376
-- B002R5AF1I
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-hand-soap-without-harsh-chemicals.jpg
 subtopic: personal-care
