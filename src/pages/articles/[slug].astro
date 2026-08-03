@@ -75,6 +75,19 @@ const articleSchema = {
   image: entry.data.heroImage ? [entry.data.heroImage] : undefined,
   mainEntityOfPage: { '@type': 'WebPage', '@id': `${o}/articles/${entry.slug}/` },
 };
+const faqs = entry.data.faqs ?? [];
+const faqSchema =
+  faqs.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqs.map((f) => ({
+          '@type': 'Question',
+          name: f.question,
+          acceptedAnswer: { '@type': 'Answer', text: f.answer },
+        })),
+      }
+    : null;
 ---
 
 <BaseLayout
@@ -90,6 +103,7 @@ const articleSchema = {
   sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 
   <LongformPageShell
     title={entry.data.title}

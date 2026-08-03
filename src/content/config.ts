@@ -97,6 +97,7 @@ const articles = defineCollection({
     reviewedAt: z.coerce.date().optional(),
     cardTitle: z.string().optional().default(''),
     cardPick: z.string().optional().default(''),
+    faqs: z.array(z.object({ question: z.string(), answer: z.string() })).optional().default([]),
   }),
 });
 
