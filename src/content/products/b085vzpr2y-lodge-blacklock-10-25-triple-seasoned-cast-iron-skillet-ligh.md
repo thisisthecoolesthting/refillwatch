@@ -10,7 +10,7 @@ bsr: 149
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/31km2kO9ERL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B085VZPR2Y?tag=refillwatch-20"
+affiliateUrl: ""
 isPrime: false
 status: draft
 firstSeen: "2026-06-02"

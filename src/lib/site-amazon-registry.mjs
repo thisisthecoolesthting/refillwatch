@@ -103,7 +103,7 @@ export function allCuratedAsins() {
 export function amazonRegistryHref(asin, tag = ASSOCIATE_TAG) {
   const id = String(asin || '').trim().toUpperCase();
   if (!id) return '#';
-  return `https://www.amazon.com/dp/${id}?tag=${tag}&linkCode=ll1&language=en_US`;
+  return `https://www.amazon.com/dp/${id}?tag=${tag}&language=en_US`;
 }
 
 export function bottomStripPickImage(asin) {

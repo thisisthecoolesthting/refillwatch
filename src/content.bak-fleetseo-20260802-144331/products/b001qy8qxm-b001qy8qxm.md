@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B001QY8QXM.01._SCLZZZZZZZ_.jpg"
-affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=refillwatch-20
+affiliateUrl: https://www.amazon.com/dp/B001QY8QXM
 isPrime: false
 status: published
 firstSeen: '2026-06-01'

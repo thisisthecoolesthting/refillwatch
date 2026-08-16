@@ -43,27 +43,9 @@ const productSchema: Record<string, any> = {
   description: seoDesc,
   sku: data.asin,
   mpn: data.asin,
-  brand: {
-    '@type': 'Brand',
-    name: 'Amazon',
-  },
   url: `https://refillwatch.org/products/${product.slug}`,
 };
 if (data.imageUrl) productSchema.image = [data.imageUrl];
-if (data.price) {
-  productSchema.offers = {
-    '@type': 'Offer',
-    price: data.price.toFixed(2),
-    priceCurrency: 'USD',
-    availability: 'https://schema.org/InStock',
-    url: data.affiliateUrl,
-    priceValidUntil: new Date(Date.now() + 30 * 86400000).toISOString().substring(0, 10),
-    seller: {
-      '@type': 'Organization',
-      name: 'Amazon',
-    },
-  };
-}
 
 productSchema.review = {
   '@type': 'Review',
@@ -147,13 +129,13 @@ if (data.rating && data.reviewCount) {
       </div>
 
       <div class="mt-8 not-prose">
-        <AffiliateCTA asin={data.asin} url={data.affiliateUrl} label="See it on Amazon" />
+        <AffiliateCTA asin={data.asin} url={data.affiliateUrl} label="Learn more" />
       </div>
 
       <p class="text-xs text-ink-500 mt-10">
         Reviewed by <a href={`/authors/${authorSlug}/`} class="text-terracotta-600 hover:underline">{author?.data.name ?? 'the RefillWatch team'}</a>.
         Last checked: {data.lastSeen ? new Date(data.lastSeen).toLocaleDateString() : '&mdash;'}.
-        Prices and availability change. We earn a commission on qualifying purchases.
+        Prices and availability change. This site does not run Amazon affiliate links.
         <a href="/methodology/" class="text-terracotta-600 hover:underline"> How we research &rarr;</a>
       </p>
     </div>

@@ -8,7 +8,8 @@ export function amazonAffiliateUrlFromAsin(
 ): string {
   const id = asin.trim().toUpperCase();
   if (!id) return '#';
-  return `https://www.amazon.com/dp/${id}?tag=${associateTag}&linkCode=ll1&language=en_US`;
+  // Amazon Associates retired 2026-08 -- never return a live Amazon URL.
+  return '#';
 }
 
 export type BottomAmazonPick = {
