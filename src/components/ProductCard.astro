@@ -37,6 +37,7 @@ const shortTitle = (data.cardTitle && data.cardTitle.trim())
 // One-line "Why we picked it" — optional, hand-curated per product.
 const pickLine = (data.cardPick && data.cardPick.trim()) ? data.cardPick.trim() : '';
 const asin = String(data.asin || product.slug.split('-')[0] || '').toUpperCase();
+// AMZ-CARD-GUARDED
 ---
 <a
   href={affiliateHref}
@@ -83,7 +84,7 @@ const asin = String(data.asin || product.slug.split('-')[0] || '').toUpperCase()
     <span class="block w-full text-center bg-terracotta-500 hover:bg-terracotta-600
                  text-cream-50 font-mono text-[11px] tracking-[0.12em] uppercase
                  px-4 py-2.5 rounded-full transition-colors">
-      View on Amazon ↗
+      View product
     </span>
   </div>
 </a>

@@ -7,3 +7,4 @@ dist/
 npm-debug.log*
 .vscode/
 _archive_duped/
+.amz_strip_backup/
