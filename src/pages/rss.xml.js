@@ -28,8 +28,8 @@ export async function GET(context) {
   ].sort((a, b) => +new Date(b.pubDate) - +new Date(a.pubDate));
 
   return rss({
-    title: 'Second Spring Club',
-    description: 'Honest reviews for women in perimenopause and beyond.',
+    title: 'RefillWatch',
+    description: 'Price-hike alerts, shrinkflation tracking and honest refill reviews for household staples.',
     site: context.site,
     items,
   });

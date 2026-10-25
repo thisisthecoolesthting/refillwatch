@@ -1,11 +1,6 @@
 ---
-// Reusable newsletter signup.
-//
-// Detects Beehiiv iframe URL (free tier only gives iframes) and renders
-// the iframe + resize script. For any other URL (ConvertKit, MailerLite)
-// falls back to native form submission.
-//
-// Set PUBLIC_NEWSLETTER_EMBED_URL in .env to activate.
+// Reusable newsletter signup — posts to Ricky's shared subscribe endpoint via
+// rcc-events.js (form[data-rcc-subscribe]). No embed/iframe dependency.
 export interface Props {
   variant?: 'hero' | 'inline' | 'footer';
   title?: string;
@@ -15,23 +10,12 @@ export interface Props {
 
 const {
   variant = 'hero',
-  title = 'Join the Club',
-  subtitle = "One curated pick, one practical tip, one honest read on midlife -- once a week. No spam, ever.",
-  cta = 'Subscribe',
+  title = 'Get shrinkflation alerts',
+  subtitle = 'Price hikes, hidden shrink and cheaper refills — weekly. No spam.',
+  cta = 'Alert me',
 } = Astro.props;
 
-const embedUrl = import.meta.env.PUBLIC_NEWSLETTER_EMBED_URL || '';
-const isBeehiiv = embedUrl.includes('subscribe-forms.beehiiv.com');
-const isNativeForm = embedUrl.startsWith('http') && !isBeehiiv;
-const hasEndpoint = Boolean(embedUrl);
-
-// Iframe sizing per variant (Beehiiv embed.js auto-resizes but needs starting values).
-const iframeHeights: Record<string, string> = {
-  hero:   '520',
-  inline: '420',
-  footer: '340',
-};
-const iframeHeight = iframeHeights[variant] ?? '420';
+const site = 'refillwatch.org';
 ---
 
 {variant === 'hero' && (
@@ -40,29 +24,18 @@ const iframeHeight = iframeHeights[variant] ?? '420';
       The RefillWatch weekly
     </p>
     <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-4">{title}</h2>
-    <p class="text-ink-700 mb-8 max-w-prose mx-auto leading-relaxed">{subtitle}</p>
 
-    {isBeehiiv && (
-      <div class="max-w-xl mx-auto">
-        <iframe
-          src={embedUrl}
-          class="beehiiv-embed w-full"
-          data-test-id="beehiiv-embed"
-          frameborder="0"
-          scrolling="no"
-          style={`height: ${iframeHeight}px; margin: 0; border-radius: 28px; background-color: transparent; box-shadow: 0 2px 4px rgba(42,36,34,0.05), 0 12px 32px rgba(42,36,34,0.08);`}
-        ></iframe>
-      </div>
-    )}
-    {isNativeForm && (
-      <form action={embedUrl} method="post" class="flex flex-col sm:flex-row max-w-md mx-auto gap-3">
-        <input type="email" name="email" required placeholder="you@example.com" class="input-soft flex-1" />
-        <button type="submit" class="btn-primary">{cta}</button>
-      </form>
-    )}
-    {!hasEndpoint && (
-      <p class="text-sm text-ink-500 italic">Newsletter signup coming soon.</p>
-    )}
+    <form
+      data-rcc-subscribe
+      data-rcc-site={site}
+      class="flex flex-col sm:flex-row max-w-md mx-auto gap-3"
+    >
+      <label class="sr-only" for="rcc-email-hero">Email address</label>
+      <input id="rcc-email-hero" type="email" name="email" required autocomplete="email" placeholder="you@email.com" class="input-soft flex-1" />
+      <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true" />
+      <button type="submit" class="btn-primary">{cta}</button>
+    </form>
+    <p class="text-sm text-ink-500 mt-3">{subtitle}</p>
   </div>
 )}
 
@@ -73,55 +46,37 @@ const iframeHeight = iframeHeights[variant] ?? '420';
       Stay in the loop
     </p>
     <h3 class="font-display text-xl text-ink-900 !mt-0 mb-2">{title}</h3>
-    <p class="text-ink-700 text-sm mb-4 leading-relaxed">{subtitle}</p>
 
-    {isBeehiiv && (
-      <iframe
-        src={embedUrl}
-        class="beehiiv-embed w-full"
-        data-test-id="beehiiv-embed"
-        frameborder="0"
-        scrolling="no"
-        style={`height: ${iframeHeight}px; margin: 0; border-radius: 20px; background-color: transparent;`}
-      ></iframe>
-    )}
-    {isNativeForm && (
-      <form action={embedUrl} method="post" class="flex flex-col sm:flex-row gap-3">
-        <input type="email" name="email" required placeholder="you@example.com" class="input-soft flex-1 text-sm py-2.5" />
-        <button type="submit" class="btn-primary text-sm px-6 py-2.5">{cta}</button>
-      </form>
-    )}
-    {!hasEndpoint && (
-      <p class="text-sm text-ink-500 italic">Newsletter signup coming soon.</p>
-    )}
+    <form
+      data-rcc-subscribe
+      data-rcc-site={site}
+      class="flex flex-col sm:flex-row gap-3"
+    >
+      <label class="sr-only" for="rcc-email-inline">Email address</label>
+      <input id="rcc-email-inline" type="email" name="email" required autocomplete="email" placeholder="you@email.com" class="input-soft flex-1 text-sm py-2.5" />
+      <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true" />
+      <button type="submit" class="btn-primary text-sm px-6 py-2.5">{cta}</button>
+    </form>
+    <p class="text-ink-700 text-sm mt-4 leading-relaxed">{subtitle}</p>
   </aside>
 )}
 
 {variant === 'footer' && (
   <div>
     <h3 class="font-display text-base text-ink-900 !mt-0 mb-2">{title}</h3>
-    <p class="text-xs text-ink-700 mb-3">{subtitle}</p>
 
-    {isBeehiiv && (
-      <iframe
-        src={embedUrl}
-        class="beehiiv-embed w-full"
-        data-test-id="beehiiv-embed"
-        frameborder="0"
-        scrolling="no"
-        style={`height: ${iframeHeight}px; margin: 0; border-radius: 16px; background-color: transparent;`}
-      ></iframe>
-    )}
-    {isNativeForm && (
-      <form action={embedUrl} method="post" class="flex gap-2">
-        <input type="email" name="email" required placeholder="you@example.com"
-               class="flex-1 min-w-0 px-3 py-2 rounded-full border border-cream-200 bg-white text-xs
-                      focus:outline-none focus:ring-2 focus:ring-terracotta-400 focus:border-transparent" />
-        <button type="submit" class="btn-primary text-xs px-4 py-2">{cta}</button>
-      </form>
-    )}
-    {!hasEndpoint && (
-      <p class="text-xs text-ink-500 italic">Newsletter signup coming soon.</p>
-    )}
+    <form
+      data-rcc-subscribe
+      data-rcc-site={site}
+      class="flex gap-2"
+    >
+      <label class="sr-only" for="rcc-email-footer">Email address</label>
+      <input id="rcc-email-footer" type="email" name="email" required autocomplete="email" placeholder="you@email.com"
+             class="flex-1 min-w-0 px-3 py-2 rounded-full border border-cream-200 bg-white text-xs
+                    focus:outline-none focus:ring-2 focus:ring-terracotta-400 focus:border-transparent" />
+      <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true" />
+      <button type="submit" class="btn-primary text-xs px-4 py-2">{cta}</button>
+    </form>
+    <p class="text-xs text-ink-700 mt-3">{subtitle}</p>
   </div>
 )}

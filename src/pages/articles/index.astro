@@ -6,7 +6,7 @@ const articles = await getCollection('articles', ({ data }) => data.status === '
 const sorted = articles.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
 ---
 
-<CompliantLayout title="Articles" description="Practical, research-backed answers for midlife questions.">
+<CompliantLayout title="Articles" description="Practical, research-backed answers on shrinkflation, refills and household price hikes.">
   <section class="max-w-5xl mx-auto px-5 py-12">
     <h1 class="font-display text-4xl text-ink-900 mb-3">Articles</h1>
     <p class="text-ink-700 mb-10 max-w-prose">
@@ -14,7 +14,7 @@ const sorted = articles.sort((a, b) => +new Date(b.data.publishedAt) - +new Date
       fuller guide on the topic.
     </p>
 
-    {sorted.length === 0 && <p class="text-ink-700">First articles coming soon.</p>}
+    {sorted.length === 0 && <p class="text-ink-700">New price-hike write-ups are on the way — get alerts above.</p>}
 
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       {sorted.map((a) => (
