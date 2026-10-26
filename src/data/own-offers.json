@@ -1,0 +1,21 @@
+{
+  "site": "refillwatch.org",
+  "offers": {
+    "primary": {
+      "id": "oneaipass",
+      "eyebrow": "From the team behind RefillWatch",
+      "headline": "Tired of another monthly subscription?",
+      "body": "OneAIPass lets you chat with leading AI models in one place. You top up prepaid credit and pay per message, so there is no monthly plan. New accounts get free starter credit.",
+      "cta": "Try OneAIPass chat",
+      "url": "https://oneaipass.com/chat.html"
+    },
+    "secondary": {
+      "id": "titancase",
+      "eyebrow": "From our shop",
+      "headline": "iPhone cases, $24.99",
+      "body": "Titan Case sells iPhone cases for $24.99, with free US shipping and free 30-day returns.",
+      "cta": "See Titan Case",
+      "url": "https://titancase.shop/"
+    }
+  }
+}

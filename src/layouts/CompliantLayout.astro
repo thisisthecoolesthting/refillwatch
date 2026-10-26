@@ -24,23 +24,10 @@ const {
     <p class="max-w-3xl mx-auto px-6 pb-8 text-xs text-ink-500">
       {priceFootnoteText}
       {' '}
-      <a href="/disclosure" class="text-terracotta-600 hover:underline">Affiliate disclosure</a>
+      <a href="/disclosure" class="text-terracotta-600 hover:underline">Disclosure</a>
       {' '} - {' '}
       <a href="/editorial-standards/" class="text-terracotta-600 hover:underline">Editorial standards</a>
     </p>
   )}
 
-  <script is:inline>
-    (() => {
-      const firstCard = document.querySelector('[data-content-card]');
-      if (!firstCard || firstCard.querySelector('[data-amazon-associates-note]')) return;
-      const target = firstCard.querySelector('[data-card-content]') || firstCard;
-      const note = document.createElement('p');
-      note.setAttribute('data-amazon-associates-note', 'true');
-      note.setAttribute('role', 'note');
-      note.className = 'text-xs text-ink-500 leading-snug mb-2';
-      note.textContent = 'As an Amazon Associate, we earn from qualifying purchases.';
-      target.insertBefore(note, target.firstChild);
-    })();
-  </script>
 </BaseLayout>

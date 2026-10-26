@@ -1,5 +1,10 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import fs from 'node:fs';
+import rehypeStripAmazon from './src/lib/rehype-strip-amazon.mjs';
+
+// Site flag: when true, Amazon injectors are no-ops and an Amazon stripper runs on all markdown.
+const DISABLE_AMAZON = JSON.parse(fs.readFileSync(new URL('./src/data/site-flags.json', import.meta.url), 'utf8')).disableAmazon === true;
 
 // Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
 // our current route set. Re-enable once upstream ships a fix or we
@@ -61,7 +66,7 @@ function rehypeAugmentProductLinks() {
     node.children = out;
   }
 
-  return (tree) => walk(tree);
+  return (tree) => { if (DISABLE_AMAZON) return; walk(tree); };
 }
 
 export default defineConfig({
@@ -75,7 +80,7 @@ export default defineConfig({
     format: 'directory',
   },
   markdown: {
-    rehypePlugins: [rehypeAugmentProductLinks],
+    rehypePlugins: [rehypeAugmentProductLinks, ...(DISABLE_AMAZON ? [rehypeStripAmazon] : [])],
     shikiConfig: {
       theme: 'github-light',
     },

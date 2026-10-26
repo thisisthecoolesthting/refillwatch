@@ -1,0 +1,68 @@
+---
+// Honest own-property cross-promo. Content comes from src/data/own-offers.json.
+// Labels make clear the link goes to a shop run by the same team. Max one per slot.
+import cfg from '@/data/own-offers.json';
+
+export interface Props {
+  slot?: 'primary' | 'secondary';
+  placement: string;
+}
+const { slot = 'primary', placement } = Astro.props;
+const o = (cfg.offers as Record<string, any>)[slot];
+let href = '';
+if (o) {
+  const u = new URL(o.url);
+  u.searchParams.set('utm_source', cfg.site);
+  u.searchParams.set('utm_medium', 'crosspromo');
+  u.searchParams.set('utm_campaign', 'cro2');
+  u.searchParams.set('utm_content', placement);
+  href = u.toString();
+}
+---
+
+{o && (
+  <aside class={`own-offer own-offer--${slot} not-prose`} aria-label={o.eyebrow} data-own-offer={o.id}>
+    <p class="own-offer__eyebrow">{o.eyebrow}</p>
+    <p class="own-offer__headline">{o.headline}</p>
+    <p class="own-offer__body">{o.body}</p>
+    <a
+      class="own-offer__cta"
+      href={href}
+      rel="noopener"
+      data-cta={`own-${o.id}-${placement}`}
+    >{o.cta} &rarr;</a>
+  </aside>
+)}
+
+<style>
+  .own-offer {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 1rem;
+    padding: 1.25rem 1.5rem;
+    background: rgba(255, 255, 255, 0.85);
+    text-align: left;
+  }
+  .own-offer--secondary { padding: 0.9rem 1rem; }
+  .own-offer__eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.7;
+    margin: 0 0 0.35rem;
+  }
+  .own-offer__headline {
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0 0 0.4rem;
+  }
+  .own-offer--secondary .own-offer__headline { font-size: 1rem; }
+  .own-offer__body { font-size: 0.9rem; line-height: 1.55; margin: 0 0 0.8rem; }
+  .own-offer__cta {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+</style>

@@ -15,6 +15,8 @@ export async function getRelatedProductsFromBody(
   body: string,
 ): Promise<CollectionEntry<'products'>[]> {
   if (!body) return [];
+  // Amazon-free site: no product pages exist, so never surface related products.
+  return [];
 
   const seen = new Set<string>();
   const orderedSlugs: string[] = [];

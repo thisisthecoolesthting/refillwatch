@@ -8,7 +8,6 @@ import { getCollection } from 'astro:content';
 const SITE = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || 'https://example.com';
 
 export const GET: APIRoute = async () => {
-  const products = await getCollection('products', ({ data }) => data.status === 'published');
   const pillars  = await getCollection('pillars',  ({ data }) => data.status === 'published');
   const articles = await getCollection('articles', ({ data }) => data.status === 'published');
 
@@ -23,19 +22,9 @@ export const GET: APIRoute = async () => {
     urls.push({ loc: `${SITE}/terms`,    changefreq: 'yearly',  priority: '0.2' });
   urls.push({ loc: `${SITE}/disclosure`,changefreq: 'yearly',  priority: '0.3' });
   urls.push({ loc: `${SITE}/methodology`, changefreq: 'yearly', priority: '0.4' });
-  urls.push({ loc: `${SITE}/products`,  changefreq: 'daily',   priority: '0.9' });
   urls.push({ loc: `${SITE}/pillars`,   changefreq: 'weekly',  priority: '0.8' });
   urls.push({ loc: `${SITE}/articles`,  changefreq: 'weekly',  priority: '0.7' });
 
-  for (const p of products) {
-    const last = p.data.lastSeen ? new Date(p.data.lastSeen).toISOString().split('T')[0] : undefined;
-    urls.push({
-      loc: `${SITE}/products/${p.slug}`,
-      lastmod: last,
-      changefreq: 'weekly',
-      priority: '0.8',
-    });
-  }
   for (const p of pillars) {
     const last = (p.data.updatedAt || p.data.publishedAt)
       ? new Date(p.data.updatedAt || p.data.publishedAt).toISOString().split('T')[0]
